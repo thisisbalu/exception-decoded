@@ -1,7 +1,7 @@
 ---
 title: Understanding and Troubleshooting the BeanDefinitionValidationException in Spring
 date: 2023-09-09 14:10:00 +0800
-categories: [Frameworks, Spring]
+categories: [Spring, org.springframework.beans.factory.support]
 tags: [RuntimeException]
 ---
 

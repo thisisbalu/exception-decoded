@@ -2,7 +2,7 @@
 title: Understanding IllegalMonitorStateException in Java
 
 date: 2023-09-10 14:10:00 +0800
-categories: [Languages, Java]
+categories: [Java, java.lang]
 tags: [RuntimeException]
 ---
 
