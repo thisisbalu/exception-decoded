@@ -1,11 +1,6 @@
-#  The contact options.
-
-#- type: github
-#  icon: "fab fa-github"
-
 - type: twitter
   icon: "fab fa-twitter"
-  url: 'https://twitter.com/XeptionDecoded'
+  url: 'https://twitter.com/XceptionDecoded'
 
 - type: facebook
   icon: 'fab fa-facebook'
@@ -18,14 +13,3 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-
-
-#- type: mastodon
-#  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#  url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-
-#
-#- type: stack-overflow
-#  icon: 'fab fa-stack-overflow'
-#  url:  ''                  # Fill with your stackoverflow homepage
