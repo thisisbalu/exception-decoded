@@ -3,7 +3,7 @@ title: Understanding IllegalMonitorStateException in Java
 
 date: 2023-09-10 14:10:00 +0800
 categories: [Java, java.lang]
-tags: [RuntimeException]
+tags: [java, java-unchecked, java.base]
 ---
 
 In Java, multithreading is a fundamental concept that allows programs to perform multiple tasks concurrently, optimizing efficiency and responsiveness. To achieve this, Java provides a robust mechanism called monitors and locks. However, when working with monitors, it's essential to be aware of potential issues that may arise, such as the `IllegalMonitorStateException`.

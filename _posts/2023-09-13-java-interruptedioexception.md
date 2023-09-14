@@ -3,7 +3,7 @@ title: "Mastering Java: Unveiling the Details of InterruptedIOException"
 description: "Dive deep into the hidden gems of the Java programming language, with focus on the InterruptedIOException."
 date: 2023-09-13 13:10:00 +0800
 categories: ['Java', 'java.io']
-tags: [java, checked-exception]
+tags: [java, java-checked, java.base]
 mermaid: true
 toc: true
 ---

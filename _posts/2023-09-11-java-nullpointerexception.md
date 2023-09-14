@@ -3,7 +3,7 @@ title: Decoding NullPointerException in Java
 
 date: 2023-09-11 00:10:00 +0800
 categories: [Java, java.lang]
-tags: [RuntimeException]
+tags: [java, java-unchecked, java.base]
 mermaid: true
 toc: true
 ---

@@ -2,7 +2,7 @@
 title: Have You Met CharConversionException in Java? Here's How to Handle it!
 date: 2023-09-12 00:10:00 +0800
 categories: [Java, java.io]
-tags: [java, unicode, utf-8]
+tags: [java, java-checked, java.base]
 mermaid: true
 toc: true
 ---
