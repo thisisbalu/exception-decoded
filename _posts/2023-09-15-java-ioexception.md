@@ -7,18 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 Handling exceptions is a crucial aspect of programming, especially in Java. One particular exception that often arises is the `IOException`. In this article, we will take an in-depth look at `IOException`, its causes, common scenarios, and best practices for handling it effectively.
-
-## Table of Contents
-
-- [What is an IOException?](#what-is-an-ioexception)
-- [Common Causes of IOException](#common-causes-of-ioexception)
-- [Handling an IOException](#handling-an-ioexception)
-- [Best Practices for IOException Handling](#best-practices-for-ioexception-handling)
-- [Conclusion](#conclusion)
 
 ## What is an IOException?
 
@@ -152,6 +143,3 @@ In this article, we explored the nuances of the `IOException` in Java. Understan
 For more information, refer to the official Java documentation on [IOException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/IOException.html).
 
 Hope you found this article insightful! Happy coding!
-
----
-*Estimated reading time: 7 minutes*
