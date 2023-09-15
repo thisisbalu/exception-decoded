@@ -20,7 +20,6 @@ An `IOException` is an exception that occurs during Input/Output (I/O) operation
 Understanding the common causes of `IOException` can help us prevent and handle them effectively. Some common scenarios that can lead to an `IOException` include:
 
 1. **File Not Found**: When attempting to access a file that does not exist or is inaccessible. 
-
 ```java
 try {
     File file = new File("path/to/non_existent_file.txt");
@@ -87,7 +86,6 @@ By using a `try-catch` block, we can catch the `IOException` and take necessary 
 To handle `IOException` effectively, follow these best practices:
 
 1. **Use Specific Exception Types**: Instead of catching a generic `IOException`, catch specific subtypes like `FileNotFoundException`, `SocketException`, or `EOFException`. This allows for more precise handling and easier debugging.
-
 ```java
 try {
     // Open a file
@@ -99,7 +97,6 @@ try {
 ```
 
 2. **Always Close Streams and Resources**: Closing open streams and resources using `close()` is essential to prevent memory leaks and resource exhaustion. To ensure proper resource handling, consider using the try-with-resources statement introduced in Java 7.
-
 ```java
 try (FileOutputStream fos = new FileOutputStream("path/to/file.txt")) {
     // Perform operations with fos
@@ -109,7 +106,6 @@ try (FileOutputStream fos = new FileOutputStream("path/to/file.txt")) {
 ```
 
 3. **Avoid Ignoring Exceptions**: It is considered bad practice to silently ignore exceptions. Always include appropriate logging or error messages to indicate and understand the cause of the exception.
-
 ```java
 try {
     // Perform operations
@@ -119,7 +115,6 @@ try {
 ```
 
 4. **Graceful Error Handling**: When an `IOException` occurs, consider providing alternative solutions, fallback options, or showing appropriate user instructions to recover from the error gracefully.
-
 ```java
 try (FileOutputStream fos = new FileOutputStream("path/to/file.txt")) {
     // Perform operations with fos
