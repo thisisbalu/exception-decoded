@@ -30,7 +30,6 @@ try {
 }
 ```
 2. **Permission Issues**: When the user executing the program does not have the necessary permissions to read or write to a file or directory.
-
 ```java
 try {
     FileWriter writer = new FileWriter("path/to/file.txt"); // Throws IOException
@@ -41,7 +40,6 @@ try {
 }
 ```
 3. **Closed Streams**: When attempting to read or write from a closed stream.
-
 ```java
 try {
     FileInputStream fis = new FileInputStream("path/to/file.txt");
@@ -55,7 +53,6 @@ try {
 }
 ```
 4. **Network Issues**: When working with network connections, `IOException` can occur due to issues like a dropped connection, timeouts, or server failures.
-
 ```java
 try {
     Socket socket = new Socket("example.com", 8080);
