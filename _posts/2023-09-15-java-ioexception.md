@@ -29,7 +29,6 @@ try {
     // Handle the exception
 }
 ```
-
 2. **Permission Issues**: When the user executing the program does not have the necessary permissions to read or write to a file or directory.
 
 ```java
@@ -41,7 +40,6 @@ try {
     // Handle the exception
 }
 ```
-
 3. **Closed Streams**: When attempting to read or write from a closed stream.
 
 ```java
@@ -56,7 +54,6 @@ try {
     // Handle the exception
 }
 ```
-
 4. **Network Issues**: When working with network connections, `IOException` can occur due to issues like a dropped connection, timeouts, or server failures.
 
 ```java
