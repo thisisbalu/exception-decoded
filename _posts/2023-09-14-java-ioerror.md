@@ -1,7 +1,7 @@
 ---
 title: 'Understanding IOError in Java: A Comprehensive Guide'
 date: 2023-09-15 00:20:33 -400
-categories: [java, java.io]
+categories: [Java, java.io]
 tags: [java, java-error, java.base]
 mermaid: true
 toc: true
