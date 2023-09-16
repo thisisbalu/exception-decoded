@@ -114,7 +114,7 @@ To overcome the `NotSerializableException`, you can implement the following solu
 
 ## Conclusion
 
-In this article, we explored the `NotSerializableException` in Java, its causes, and provided code examples to illustrate why and when this exception occurs. By implementing the solutions suggested here, you can effectively handle this exception in your Java applications.
+In this article, we explored the `NotSerializableException` in Java, and its causes, and provided code examples to illustrate why and when this exception occurs. By implementing the solutions suggested here, you can effectively handle this exception in your Java applications.
 
 Remember to implement the `Serializable` interface, mark non-serializable fields as `transient`, and handle specific objects separately to avoid encountering `NotSerializableException`. Happy coding!
 
@@ -125,5 +125,3 @@ Remember to implement the `Serializable` interface, mark non-serializable fields
 - [Java Serializable Interface Documentation](https://docs.oracle.com/javase/10/docs/api/java/io/Serializable.html)
 - [Understanding Java Serialization](https://www.baeldung.com/java-serialization)
 - [Java Object Serialization Specification](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
-
-*Note: This article is a summation of the topic, providing you with a broad understanding of `NotSerializableException`. For further details, please refer to the official Java documentation on serialization.*
