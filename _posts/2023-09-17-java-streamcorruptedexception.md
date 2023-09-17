@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-_Imagine you are happily coding away when suddenly an exception appears, disrupting your flow. One such exception in Java is the `StreamCorruptedException`. In this article, we will delve into this exception, understand its causes, learn how to handle it effectively, and explore some real-life scenarios._
+_Imagine you are happily coding away when suddenly an exception appears, disrupting your flow. One such exception in Java is the `StreamCorruptedException`. In this article, we will delve into this exception, understand its causes, learn how to handle it effectively and explore some real-life scenarios._
 
 ## Introduction
 
@@ -82,7 +82,7 @@ To handle this scenario, you need to ensure that all components are running comp
 
 In a client-server architecture, if an attacker intercepts and modifies the serialized data being transmitted between the client and server, the stream can become corrupt. This can trigger the `StreamCorruptedException` during deserialization.
 
-To mitigate this risk, consider using secure communication protocols such as HTTPS or perform checksum validation, as discussed earlier. This helps ensure data integrity during transmission and allows you to detect tampering attempts.
+To mitigate this risk, consider using secure communication protocols such as HTTPS or performing checksum validation, as discussed earlier. This helps ensure data integrity during transmission and allows you to detect tampering attempts.
 
 ## Conclusion
 
@@ -90,8 +90,11 @@ In this article, we explored the `StreamCorruptedException` in detail - understa
 
 By applying these practices and considering real-life scenarios, you can enhance the resilience and reliability of your Java applications, ensuring they gracefully handle stream corruption exceptions.
 
-For more information on exception handling, refer to the official [Java documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/StreamCorruptedException.html), which provides comprehensive details on `StreamCorruptedException` and its related concepts.
+**References:**
+- [Java Object Serialization Specification](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
+- [Java ObjectOutput Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectOutput.html)
+- [Java ObjectInput Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectInput.html)
+- [Externalizable Interface Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/Externalizable.html)
+- [Java StreamCorruptedException documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/StreamCorruptedException.html)
 
 Keep coding and stay exception-free!
-
-_This article is for informational purposes only and does not constitute professional advice. Usage of code snippets provided is at the reader's discretion. Always refer to official documentation and consult with experienced professionals for guidance in your specific context._
