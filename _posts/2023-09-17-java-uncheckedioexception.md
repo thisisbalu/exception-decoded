@@ -21,9 +21,7 @@ The `UncheckedIOException` class is a subclass of the `RuntimeException` class i
 Unchecked exceptions are ideal for situations where it is difficult or unnecessary to recover from an error programmatically. In the case of I/O operations, these exceptions typically occur when reading from or writing to files, sockets, or other input/output streams.
 
 ## Common Scenarios for Using UncheckedIOException
-
 1. Reading from a file: When reading data from a file, it's essential to handle potential I/O exceptions gracefully. By catching and wrapping an `IOException` with `UncheckedIOException`, you can propagate the exception up the call stack without adding unnecessary `throws` declarations to your method.
-
 ```java
 try {
     BufferedReader reader = new BufferedReader(new FileReader("file.txt"));
@@ -33,9 +31,7 @@ try {
     throw new UncheckedIOException("Error reading file", e);
 }
 ```
-
 2. Writing to a file: Similar to reading, writing to a file can also result in exceptions. By encapsulating the `IOException` within `UncheckedIOException`, you can avoid cluttering your code with excessive exception handling.
-
 ```java
 try {
     BufferedWriter writer = new BufferedWriter(new FileWriter("file.txt"));
@@ -45,9 +41,7 @@ try {
     throw new UncheckedIOException("Error writing to file", e);
 }
 ```
-
 3. Socket operations: Networking operations often involve reading or writing data through sockets. Encapsulating `IOException` with `UncheckedIOException` allows you to handle socket-related exceptions more efficiently.
-
 ```java
 try {
     Socket socket = new Socket("hostname", port);
