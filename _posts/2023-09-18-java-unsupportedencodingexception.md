@@ -1,5 +1,5 @@
 ---
-title: 'Title: Demystifying the UnsupportedEncodingException in Java: Unveiling the Secrets Behind Character Encoding'
+title: 'UnsupportedEncodingException in Java: Unveiling the Secrets Behind Character Encoding'
 date: 2023-09-18 09:10:56 -0000
 categories: [Java, java.io]
 tags: [java, java-checked, java.base]
