@@ -99,8 +99,6 @@ Handling exceptions is an integral part of developing robust and reliable softwa
 
 Hope you found this article informative! Happy coding!
 
-*Estimated reading time: 7 minutes*
-
 **References:**
 - [Official Java Documentation: UTFDataFormatException](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/io/UTFDataFormatException.html)
 - [Official Java Tutorials: Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
