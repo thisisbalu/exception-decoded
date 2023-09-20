@@ -1,5 +1,5 @@
 ---
-title: 'Mastering ArithmeticException: Unraveling Javas Math-Related Pitfalls'
+title: 'Mastering ArithmeticException: Unraveling Java\\'s Math-Related Pitfalls'
 date: 2023-09-20 03:13:13 -0000
 categories: [Java, java.lang]
 tags: [java, java-unchecked, java.base, java-se]
