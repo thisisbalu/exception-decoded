@@ -1,8 +1,8 @@
 ---
-title: 'WriteAbortedException in Java: Understand and Handle Java Serialization Errors'
-date: 2023-09-19 16:56:49 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+title: 'Mastering ArithmeticException: Unraveling Java Math-Related Pitfalls'
+date: 2023-09-20 03:13:13 -0000
+categories: [Java, java.lang]
+tags: [java, java-unchecked, java.base, java-se]
 mermaid: true
 toc: true
 ---
