@@ -1,8 +1,8 @@
 ---
-title: 'Unraveling AssertionError in Java and Handling it Efficiently'
+title: 'Mastering AssertionError in Java with Hands-on Examples'
 date: 2023-09-20 21:01:14 -0000
 categories: [Java, java.lang]
-tags: [java, java-unchecked, java.base, java-se]
+tags: [java, java-error, java.base, java-se]
 mermaid: true
 toc: true
 ---
@@ -84,6 +84,14 @@ public class CustomAssertionError extends AssertionError {
 ```
 
 Here, `CustomAssertionError` is an extension of `AssertionError` that provides more details when an assertion fails.
+
+## Best Practices with Assertions
+
+1. Assertions should not replace unit tests. Instead, they should go hand in hand.
+2. Assertions should not alter program state.
+3. Assertions should not be used for argument checking in public methods.
+4. Avoid catch blocks for `AssertionError`.
+5. Always provide informative assertion failure messages.
 
 ## Conclusion
 
