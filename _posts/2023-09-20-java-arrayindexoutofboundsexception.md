@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
----
-
-
 Ever stumbled upon an `ArrayIndexOutOfBoundsException` while coding in Java? This article aims to shed light on this exception, its causes, and tips on how to handle it effectively. We'll delve deeper into practical code samples to illustrate all you need to understand and stay clear of this common Java pitfall.
 
 ## UNDERSTANDING `ARRAYINDEXOUTOFBOUNDSEXCEPTION`
@@ -87,7 +84,5 @@ Remember, survivors of `ArrayIndexOutOfBoundsException` are not the fittest, the
 
 - Oracle Java Documentation: [ArrayIndexOutOfBoundsException](https://docs.oracle.com/javase/7/docs/api/java/lang/ArrayIndexOutOfBoundsException.html)
 - Baeldung: [ArrayIndexOutOfBoundsException Guide](https://www.baeldung.com/java-arrayindexoutofboundsexception)
-
----
 
 **Keep Coding Safely! Happy Teaming!**
