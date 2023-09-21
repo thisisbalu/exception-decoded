@@ -10,13 +10,13 @@ toc: true
 
 The security of user accounts has always been a critical aspect of software applications. In Java, one of the common exceptions we encounter in authentication mechanisms is `AccountLockedException`. This exception occurs when a user's account is locked due to incorrect login attempts or other security reasons. In this article, we will explore the `AccountLockedException` in detail, understand its causes, and learn how to handle it effectively in our Java applications.
 
-## 1. Understanding the `AccountLockedException`
+## 1. Understanding the AccountLockedException
 
 In Java, the `AccountLockedException` is a subclass of the `AuthenticationException` that indicates a user account has been temporarily or permanently locked. This exception is usually thrown when an authentication mechanism identifies a suspicious activity pattern or when the maximum number of failed login attempts has been reached.
 
 The `AccountLockedException` class provides valuable information about the reason behind the lock, such as the duration of the lock or additional details related to the lock, aiding developers in effective troubleshooting.
 
-## 2. Common Causes of `AccountLockedException`
+## 2. Common Causes of AccountLockedException
 
 Before diving into handling this exception, let's explore some common causes of `AccountLockedException`:
 
@@ -29,7 +29,7 @@ Another cause of account lockouts is the detection of suspicious activities asso
 ### c. Manual Lock by Administrator
 In some cases, administrators may manually lock user accounts for security purposes or as a disciplinary action. Manual locks can be temporary or permanent, depending on the circumstances.
 
-## 3. Handling `AccountLockedException`
+## 3. Handling AccountLockedException
 
 To provide a seamless user experience and efficient troubleshooting, it is crucial to handle the `AccountLockedException` effectively within our Java applications. Let's explore a few approaches to handle this exception:
 
@@ -66,7 +66,7 @@ public void sendAccountLockNotification(String email) {
 
 To improve user experience and maintain transparency, it is essential to notify users about their locked accounts. The above code snippet illustrates a method that sends a notification to the email address associated with the locked account. This notification can include details about the duration of the lock or instructions on how to regain access.
 
-## 4. Preventing `AccountLockedException`
+## 4. Preventing AccountLockedException
 
 While handling `AccountLockedException` is important, implementing preventive measures is equally crucial to ensure the security and smooth functioning of user accounts. Consider the following practices:
 
