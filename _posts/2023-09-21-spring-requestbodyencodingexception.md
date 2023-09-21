@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-## Introduction**
+## Introduction
 
 Are you a developer who has encountered the RequestBodyEncodingException in your Spring application? Or maybe you're just curious to learn more about this mysterious exception? Well, you've come to the right place! In this article, we'll explore what this exception is, why it occurs, and how to handle it effectively. So grab your coding hat, and let's dive in!
 
