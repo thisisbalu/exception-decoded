@@ -14,7 +14,9 @@ One such exception that we will investigate in this blog is `UnsatisfiedServletR
 
 ## Understanding UnsatisfiedServletRequestParameterException
 
-`UnsatisfiedServletRequestParameterException` is a subclass of `ServletRequestBindingException` that is thrown when the prerequisites of a specific request mapping are not met. This is typically due to the absence of expected query parameters in a request or incompatible `parameter conditions`.
+The `Spring UnsatisfiedServletRequestParameterException` is an HTTP 400 error thrown when the prerequisites defined in the `@RequestMapping` params don't match. It originates from the Spring Web MVC module and it usually means there's something wrong with the parameters in the incoming request.
+
+In simple language, this exception is an indication that the request parameters expected by your controller method aren't present in the incoming request, or don't align with the ones your controller method is expecting.
 
 To illustrate this exception, let's take an example of a Spring-based application where we will intentionally trigger this exception.
 
