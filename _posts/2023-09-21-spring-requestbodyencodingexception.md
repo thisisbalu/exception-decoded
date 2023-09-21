@@ -8,19 +8,10 @@ toc: true
 ---
 
 
-**Introduction**
+## Introduction**
 
 Are you a developer who has encountered the RequestBodyEncodingException in your Spring application? Or maybe you're just curious to learn more about this mysterious exception? Well, you've come to the right place! In this article, we'll explore what this exception is, why it occurs, and how to handle it effectively. So grab your coding hat, and let's dive in!
 
-## Table of Contents
-
-1. [Understanding RequestBodyEncodingException](#understanding-requestbodyencodingexception)
-2. [Why does RequestBodyEncodingException Occur?](#why-does-RequestBoyEncodingException-occur)
-3. [Common Scenarios Leading to RequestBodyEncodingException](#common-scenarios-leading-to-requestbodyencodingexception)
-4. [Handling RequestBodyEncodingException](#handling-requestbodyencodingexception)
-5. [Code Example: Handling RequestBodyEncodingException](#code-example-handling-requestbodyencodingexception)
-6. [Conclusion](#conclusion)
-7. [References](#references)
 
 ## Understanding RequestBodyEncodingException
 
@@ -110,4 +101,3 @@ So why wait? Dive into your Spring application, tackle those RequestBodyEncoding
 
 1. [Spring Framework Documentation - Exception Handling](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-controller-exceptionhandler)
 2. [Baeldung - Global Exception Handling with @ControllerAdvice](https://www.baeldung.com/exception-handling-for-rest-with-spring)
-3. [Stack Overflow - How to Handle Exceptions Globally in Spring MVC?](https://stackoverflow.com/questions/29990955/how-to-handle-exceptions-globally-in-spring-mvc)
