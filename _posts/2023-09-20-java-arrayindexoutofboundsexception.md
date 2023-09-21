@@ -1,5 +1,5 @@
 ---
-title: 'Conquering Arrayindexoutofboundsexception In Java: Tips, Tricks And Pitfalls To Avoid'
+title: 'Conquering ArrayIndexOutOfBoundsException In Java: Tips, Tricks And Pitfalls To Avoid'
 date: 2023-09-20 04:47:16 -0000
 categories: [Java, java.lang]
 tags: [java, java-unchecked, java.base, java-se]
@@ -9,7 +9,7 @@ toc: true
 
 Ever stumbled upon an `ArrayIndexOutOfBoundsException` while coding in Java? This article aims to shed light on this exception, its causes, and tips on how to handle it effectively. We'll delve deeper into practical code samples to illustrate all you need to understand and stay clear of this common Java pitfall.
 
-## UNDERSTANDING `ARRAYINDEXOUTOFBOUNDSEXCEPTION`
+## Understanding ArrayIndexOutOfBoundsException
 
 The `ArrayIndexOutOfBoundsException` in Java is a `RuntimeException` thown by the JVM (Java Virtual Machine) when your program attempts to access an array element at an index that is beyond its size or a negative number. Essentially, this exception arises when your code is trying to reach where it cannot, in the world of arrays. 
 
@@ -21,7 +21,7 @@ System.out.println(nums[5]); // Throws an exception
 ```
 In this example, we tried to access the sixth element of an array `nums` which has only five elements and hence, the exception.
 
-## CAUSES OF `ARRAYINDEXOUTOFBOUNDSEXCEPTION`
+## Causes of ArrayIndexOutOfBoundsException
 
 This exception is usually caused by:
 
@@ -31,7 +31,7 @@ This exception is usually caused by:
 
 3. Off by One Errors: A common coding mistake where loops or ranges are off by one, often resulting in an attempt to access the out-of-bound index.
 
-## HOW TO HANDLE AND AVOID `ARRAYINDEXOUTOFBOUNDSEXCEPTION` 
+## How to Handle and Avoid ArrayIndexOutOfBoundsException 
 
 Prevention, they say, is better than cure and `ArrayIndexOutOfBoundsException` is no exemption. Here are a few strategies to avoid or handle this exception:
 
@@ -72,7 +72,7 @@ try {
 
 Always remember, the best way to deal with exceptions isn't by handling them but by avoiding them.
 
-## CONCLUSION 
+## Conclusion 
 
 Java's `ArrayIndexOutOfBoundsException` is a common exception often encountered by both newbie and seasoned programmers. As we have seen from our discussion, a solid understanding of arrays can truly mitigate our chances of receiving this exception. 
 
