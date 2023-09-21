@@ -10,17 +10,6 @@ toc: true
 
 The security of user accounts has always been a critical aspect of software applications. In Java, one of the common exceptions we encounter in authentication mechanisms is `AccountLockedException`. This exception occurs when a user's account is locked due to incorrect login attempts or other security reasons. In this article, we will explore the `AccountLockedException` in detail, understand its causes, and learn how to handle it effectively in our Java applications.
 
-## Table of Contents
-1. Understanding the `AccountLockedException`
-2. Common Causes of `AccountLockedException`
-3. Handling `AccountLockedException`
-   * Example 1: Logging the Exception
-   * Example 2: Unlocking the Account Programmatically
-   * Example 3: Sending Notifications to the User
-4. Preventing `AccountLockedException`
-5. Conclusion
-6. References
-
 ## 1. Understanding the `AccountLockedException`
 
 In Java, the `AccountLockedException` is a subclass of the `AuthenticationException` that indicates a user account has been temporarily or permanently locked. This exception is usually thrown when an authentication mechanism identifies a suspicious activity pattern or when the maximum number of failed login attempts has been reached.
