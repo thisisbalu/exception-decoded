@@ -11,14 +11,6 @@ toc: true
 ## Introduction
 Are you encountering the `UnsupportedCassandraOperationException` when working with Spring and Apache Cassandra? This error can be frustrating and time-consuming to troubleshoot, especially if you are new to these technologies. In this article, we will delve into the causes behind this exception and explore various ways to handle it effectively.
 
-## Table of Contents
-- [What is UnsupportedCassandraOperationException?](#what-is-unsupportedcassandraoperationexception)
-- [Common Causes](#common-causes)
-- [Handling UnsupportedCassandraOperationException](#handling-unsupportedcassandraoperationexception)
-- [Code Examples](#code-examples)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is UnsupportedCassandraOperationException?
 `UnsupportedCassandraOperationException` is an exception thrown by Spring Data Cassandra when an unsupported operation is attempted on Apache Cassandra. This exception extends the generic `CassandraOpeationException` and signals that the operation is not supported or implemented by the Cassandra driver or library being used.
 
