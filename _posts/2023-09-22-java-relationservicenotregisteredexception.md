@@ -1,5 +1,5 @@
 ---
-title: "Unraveling Java: Tackling the RelationServiceNotRegisteredException Exception in Java"
+title: "Tackling the RelationServiceNotRegisteredException Exception in Java"
 date: 2023-09-22 18:34:22 -0000
 categories: [Java, javax.management.relation]
 tags: [java, java-unchecked, java.management, java-se]
@@ -89,5 +89,4 @@ Remember, "An exception is always better caught than thrown", and catching this 
 ## References 
 
 [^1^]: https://docs.oracle.com/javase/7/docs/api/javax/management/relation/RelationServiceNotRegisteredException.html 
-
 [^2^]: https://docs.oracle.com/javase/tutorial/jmx/overview/javabean.html-7eb61e5f8b8
