@@ -106,6 +106,10 @@ By understanding and effectively handling the `InvalidMidiDataException`, you ca
 
 If you want to delve deeper into MIDI programming in Java, refer to the official Oracle documentation on [Java Sound API](https://docs.oracle.com/en/java/javase/17/sound/index.html).
 
-Happy coding!
+## References
 
-*(Word count: 596)*
+- [Java Sound API](https://docs.oracle.com/javase/8/docs/technotes/guides/sound/programmer_guide/chapter2.html)
+- [javax.sound.midi package](https://docs.oracle.com/javase/8/docs/api/javax/sound/midi/package-summary.html)
+
+
+Happy coding!
