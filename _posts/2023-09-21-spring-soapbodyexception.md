@@ -10,13 +10,13 @@ toc: true
 
 Are you a developer working with SOAP APIs in your Spring-based applications? If so, you might have come across a common type of exception known as `SoapBodyException`. This exception is thrown when there are errors in the SOAP message body. In this comprehensive guide, we will deep dive into the `SoapBodyException` in Spring, understand its causes, and explore effective strategies to handle and resolve it.
 
-## What is a `SoapBodyException`?
+## What is a SoapBodyException?
 
 `SoapBodyException` is an exception class in Spring Framework that specifically handles SOAP message body errors. When a SOAP request is received, its body contains the actual payload or data. If there are any errors within this body content, a `SoapBodyException` is thrown.
 
 This exception typically occurs due to issues with XML formatting, missing or incorrect elements, invalid attribute values, or any other problems related to the SOAP message structure itself.
 
-## Common Causes of `SoapBodyException`
+## Common Causes of SoapBodyException
 
 Let's take a closer look at some of the common causes that can trigger a `SoapBodyException`:
 
@@ -56,11 +56,11 @@ Consider the following sample request:
 
 In this example, the `GetUserRequest` element expects a `UserID` element, which is missing. Consequently, a `SoapBodyException` will be thrown with a suitable error message.
 
-## Handling `SoapBodyException`
+## Handling SoapBodyException
 
 Now that we have a better understanding of `SoapBodyException` and its common causes, let's explore how we can handle and resolve this exception effectively. Here are a few strategies to consider:
 
-### 1. Customizing `SoapFaultDefinitionExceptionResolver`
+### 1. Customizing SoapFaultDefinitionExceptionResolver
 
 `SoapFaultDefinitionExceptionResolver` is a Spring component that maps exceptions to SOAP faults. By extending this class, we can define custom behavior for various SOAP-related exceptions, including `SoapBodyException`.
 
@@ -128,8 +128,7 @@ Remember, in SOAP-based integrations, ensuring valid and well-formed XML is pivo
 
 Keep coding and SOAP on!
 
-**Further Reading:**
+## References
 
 - [Spring Web Services Documentation](https://docs.spring.io/spring-ws/docs/current/reference/)
 - [Spring Framework Reference Documentation](https://docs.spring.io/spring-framework/docs/current/reference/)
-- [XML Schema (XSD) Validation in Spring Web Services](https://www.baeldung.com/spring-soap-xml-schema-validation)
