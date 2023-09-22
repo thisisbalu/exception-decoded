@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 Hello savvy coders! Today, we venture down the beautiful yet complex road that is Spring Framework. Specifically, we're here to decode a common hiccough often faced by Spring developers: **FieldErrors**. Our voyage through this information-packed resource will help you debunk, dissect and deftly handle FieldErrors in your Spring applications, ensuring smooth sailing for your Spring projects.
 
 ## Understanding FieldError: What's in a Name?
@@ -89,5 +88,4 @@ FieldError in Spring Framework might seem daunting, but with a little dedication
 
 - [Spring Framework Documents](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Error Handling in Spring](https://spring.io/guides/tutorials/rest/)
-- [Understanding Spring FieldError](https://www.baeldung.com/spring-error-messages)
 - [Java 8 Stream API](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
