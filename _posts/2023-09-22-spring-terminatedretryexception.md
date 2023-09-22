@@ -107,6 +107,17 @@ retryTemplate.execute(new RetryCallback<Void, RuntimeException>() {
 });
 ```
 
+## Best Practices for Handling TerminatedRetryException
+To ensure effective handling of `TerminatedRetryException`, here are some best practices worth considering:
+
+1. **Define a suitable maximum retry count:** Configuring an appropriate maximum retry count ensures that the retry operation terminates if it exceeds a tolerable threshold, avoiding endless retries that may lead to performance issues.
+
+2. **Implement backoff policies:** Implementing backoff policies with incremental delays between retries can be useful to prevent overwhelming the system. This allows for a more controlled and efficient retry mechanism.
+
+3. **Monitor and analyze retry attempts:** Use proper monitoring and logging tools to capture retry information and analyze the trends. This helps identify the root causes of failures and make informed decisions to improve the overall system.
+
+4. **Consider circuit breakers:** Incorporating circuit breakers, such as [Spring Cloud Circuit Breaker](https://docs.spring.io/spring-cloud-circuitbreaker/docs/current/reference/html/), can provide additional resilience. Circuit breakers can help prevent continuous retries when a specific operation consistently fails, ensuring the stability of the system.
+
 By using this custom `RetryListener`, you can implement specific actions whenever a `TerminatedRetryException` occurs.
 
 ## Conclusion
