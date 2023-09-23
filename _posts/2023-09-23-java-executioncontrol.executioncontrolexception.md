@@ -1,13 +1,11 @@
 ---
-title: "Understanding and Managing ExecutionControl.ExecutionControlException in Java"
+title: "Exploring Java's ExecutionControl.ExecutionControlException"
 date: 2023-09-23 17:58:28 -0000
 categories: [Java, jdk.jshell]
 tags: [java, java-unchecked, jdk.jshell.spi, jdk]
 mermaid: true
 toc: true
 ---
-
-###### Keywords: Java, ExecutionControl.ExecutionControlException, Exception handling in Java
 
 Java is a versatile and widely-used programming language that has its comprehensive set of rules and structures. One such aspect of Java that we are diving into today is the `ExecutionControl.ExecutionControlException`. This article aims to help both novice and expert programmers understand the ins and outs of this exception and how to handle it more effectively in the Java environment.
 
@@ -71,6 +69,6 @@ In conclusion, `ExecutionControl.ExecutionControlException` is part of the excep
 Happy coding!
 
 ### References
-1. [Java Exception Handling](https://www.javatpoint.com/exception-handling-in-java)
-2. [Java's ExecutionControl class](https://docs.oracle.com/en/java/javase/11/docs/api/jdk.jshell/jdk/jshell/ExecutionControl.html)
-3. [Java's ExecutionControlException](https://docs.oracle.com/en/java/javase/11/docs/api/jdk.jshell/jdk/jshell/ExecutionControl.ExecutionControlException.html)
+1. [Java's ExecutionControl class](https://docs.oracle.com/en/java/javase/11/docs/api/jdk.jshell/jdk/jshell/ExecutionControl.html)
+2. [Java's ExecutionControlException](https://docs.oracle.com/en/java/javase/11/docs/api/jdk.jshell/jdk/jshell/ExecutionControl.ExecutionControlException.html)
+3. [Introduction to JShell](https://openjdk.java.net/jeps/222)
