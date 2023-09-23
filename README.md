@@ -1,45 +1,37 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to Exception Decoded, an all-in-one resource that covers the A-Z of programming exceptions across various languages! Our main goal is to demystify the often complex and troubling world of exceptions and provide simple, straightforward solutions for developers.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+Anyone familiar with programming knows that exceptions are commonplace. They pop up often, sometimes unexpectedly, causing you to frantically dig through lines of code searching for the culprit. We understand the headaches that come with debugging, that's why we've built Exception Decoded.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+As programmers ourselves, we realized the lack of a dedicated portal that deals specifically with exceptions - their causes, implications, and remedies - across a wide array of languages. Thus, Exception Decoded was born, with a mission to make exception handling easier and less time-consuming for developers worldwide.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+## What We Do
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+On Exception Decoded, we dissect and explain exceptions from various programming languages - Java, Python, C++, and even Swift or Kotlin, you name it! Not only do we help you understand why exceptions arise, but we also provide practical solutions and comprehensive guides on fixing them.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+As a part of our commitment to serving the needs of the developer community, we also collate industry's best practices in exception handling from seasoned professionals. We offer a plethora of tips and strategies to navigate and handle the intricacies of programming exceptions effectively. Our scope extends beyond mere problem-solution mechanistics, and includes providing developers a deeper understanding of the logic behind these exceptions.
 
-## Prerequisites
+## Our Daily Commitment
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+We understand your plight and have hence committed to publishing daily articles that exhaustively cover various exceptions. These aren't just dictionary definitions, but in-depth explanations that tackle the cause, implications, and most importantly, ways to navigate the exceptions.
 
-## Installation
+## Exception Explained with Clear Examples
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+The most effective way of learning, especially in programming, happens through hands-on practice. That’s why each of our articles is supplemented with clear, illustrative code examples. These demonstrations bring the crux of the exception and how to correct it to light, providing a practical understanding unmatched by theory.
 
-Then clone it to your local machine and run:
+## Why the Chameleon?
 
-```
-$ bundle
-```
+You might've noticed our unique chameleon logo and wondered the reason behind our choice. The chameleon, a remarkable creature known for its ability to easily adapt and blend in with its surroundings symbolizes our blog's core philosophy. In programming languages, much like in natural ecosystems, exceptions are part of the environment. In order to effectively code, developers must adapt and learn to handle exceptions, much like a chameleon adapts to its environment.
 
-## Usage
+Moreover, the chameleon's quick response to change is akin to a programmer's necessity to react swiftly and effectively when faced with an exception. Our blog aids in this quick-response mechanism, by providing comprehensive guides and solutions for various programming languages.
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+In summary, the chameleon aptly embodies the philosophy of our blog - adapt, understand, and thrive in the world of programming exceptions.
 
-## License
+## Join Us
 
-This work is published under [MIT][mit] License.
+We invite you to join this developer-centric community and explore the resources we have made available. No matter whether you are a beginner just starting out, or an experienced developer seeking to brush up your skills, you are sure to find Exception Decoded a useful ally in your programming journey.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Don't just deal with exceptions, decode them!
+
+Feel free to reach out to us for any queries, suggestions, or discussions regarding exceptions. Your feedback helps us to continually improve and provide you with the most effective and practical solutions.
+
+Welcome to Exception Decoded, where we make dealing with exceptions less exceptional.
