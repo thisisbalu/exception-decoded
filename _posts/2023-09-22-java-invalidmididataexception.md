@@ -1,5 +1,5 @@
 ---
-title: "**InvalidMidiDataException in Java: A Comprehensive Guide**"
+title: "InvalidMidiDataException in Java: A Comprehensive Guide"
 date: 2023-09-22 14:38:32 -0000
 categories: [Java, javax.sound.midi]
 tags: [java, java-checked, java.desktop, java-se]
