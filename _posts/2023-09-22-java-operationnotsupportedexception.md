@@ -1,5 +1,5 @@
 ---
-title: "Demystifying Java's OperationNotSupportedException: A Deep Dive with Examples"
+title: "Java's OperationNotSupportedException: A Deep Dive with Examples"
 date: 2023-09-22 21:17:08 -0000
 categories: [Java, javax.naming]
 tags: [java, java-unchecked, java.naming, java-se]
@@ -77,5 +77,3 @@ While exceptions in Java can seem daunting at first, understanding the specific 
 
 1. Oracle Official Documentation: [Java javax.naming.OperationNotSupportedException](https://docs.oracle.com/javase/7/docs/api/javax/naming/OperationNotSupportedException.html)
 2. Java Documentation: [Class OperationNotSupportedException](https://docs.oracle.com/cd/E19830-01/819-4713/abxba/index.html)
-
-Remember, exceptions are your friends. They're there to indicate when something's gone wrong so you can fix it. So next time you encounter an `OperationNotSupportedException`, you'll know exactly what to do.
