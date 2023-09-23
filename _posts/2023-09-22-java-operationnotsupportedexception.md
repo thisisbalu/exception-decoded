@@ -1,8 +1,8 @@
 ---
 title: "Java's OperationNotSupportedException: A Deep Dive with Examples"
 date: 2023-09-22 21:17:08 -0000
-categories: [Java, javax.naming]
-tags: [java, java-unchecked, java.naming, java-se]
+categories: [Java, java.naming]
+tags: [java, java-unchecked, javax.naming, java-se]
 mermaid: true
 toc: true
 ---

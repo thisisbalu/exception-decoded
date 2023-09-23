@@ -1,8 +1,8 @@
 ---
 title: "Untangling FieldError in Spring: Understanding, Handling, and Mastering the Exception"
 date: 2023-09-22 18:35:52 -0000
-categories: [Spring, org.springframework.validation]
-tags: [spring, spring-error, spring-framework]
+categories: [Spring, spring-framework]
+tags: [spring, spring-error, org.springframework.validation]
 mermaid: true
 toc: true
 ---

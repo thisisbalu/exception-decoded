@@ -1,8 +1,8 @@
 ---
 title: 'StreamCorruptedException in Java: Understanding and Handling the Corruption of Streams'
 date: 2023-09-17 05:04:14 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

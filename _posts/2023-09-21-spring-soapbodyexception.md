@@ -1,8 +1,8 @@
 ---
 title: "The Ultimate Guide to Handling SoapBodyExceptions in Spring"
 date: 2023-09-21 21:27:49 -0000
-categories: [Spring, org.springframework.ws.soap]
-tags: [spring, spring-unchecked, spring-ws]
+categories: [Spring, spring-ws]
+tags: [spring, spring-unchecked, org.springframework.ws.soap]
 mermaid: true
 toc: true
 ---

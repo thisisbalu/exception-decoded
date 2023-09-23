@@ -1,8 +1,8 @@
 ---
 title: "Java Deep-Dive: Navigating the Sea of InvalidClassException"
 date: 2023-09-14 02:26:00 -0400
-categories: ['Java', 'java.io']
-tags: [java, java-checked, java.base]
+categories: ['Java', 'java.base']
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

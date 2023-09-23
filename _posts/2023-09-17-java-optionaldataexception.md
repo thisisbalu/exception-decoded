@@ -1,8 +1,8 @@
 ---
 title: 'OptionalDataException in Java: Why It Occurs and How to Handle It'
 date: 2023-09-17 05:00:48 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: Unraveling Java's EOFException - Causes, Solutions, and Best Practices
 date: 2023-09-12 13:10:00 +0800
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

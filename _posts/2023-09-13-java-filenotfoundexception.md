@@ -2,8 +2,8 @@
 title: "Tackling FileNotFoundException in Java: A Comprehensive Guide"
 description: "Uncover the excruciating mystery of FileNotFoundException in Java with the elaborated explanation & real-time code examples."
 date: 2023-09-13 13:10:00 +0800
-categories: ['Java', 'java.io']
-tags: [java, java-checked, java.base]
+categories: ['Java', 'java.base']
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

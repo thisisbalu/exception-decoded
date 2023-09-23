@@ -1,8 +1,8 @@
 ---
 title: Understanding and Troubleshooting the BeanDefinitionValidationException in Spring
 date: 2023-09-09 14:10:00 +0800
-categories: [Spring, org.springframework.beans.factory.support]
-tags: [spring, spring-checked]
+categories: [Spring, spring-framework]
+tags: [spring, spring-checked, org.springframework.beans.factory.support]
 ---
 
 When working with Spring, you’ll often be dealing with beans or objects that belong to the application context. However, such applications may throw a **BeanDefinitionValidationException** at times. This is quite common, especially when there’s invalid bean definition metadata involved. In this blog post, we are going to deep dive into the BeanDefinitionValidationException and look at ways to solve it. Remember, understanding these exceptions better can help you troubleshoot issues in Spring applications more efficiently.

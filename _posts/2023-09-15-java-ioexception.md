@@ -1,8 +1,8 @@
 ---
 title: 'Understanding IOException in Java: Handle Exceptions like a Pro'
 date: 2023-09-15 02:16:25 -0400
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: "UnsupportedCassandraOperationException in Spring: A Comprehensive Guide"
 date: 2023-09-21 00:36:30 -0000
-categories: [Spring, org.springframework.data.cassandra.core.mapping]
-tags: [spring, spring-unchecked, spring-data]
+categories: [Spring, spring-data]
+tags: [spring, spring-unchecked, org.springframework.data.cassandra.core.mapping]
 mermaid: true
 toc: true
 ---

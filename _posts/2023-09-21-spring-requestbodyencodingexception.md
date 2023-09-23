@@ -1,8 +1,8 @@
 ---
 title: "The Mystery of RequestBodyEncodingException in Spring: A Deep Dive"
 date: 2023-09-21 13:59:23 -0000
-categories: [Spring, org.springframework.data.elasticsearch.client.erhlc]
-tags: [spring, spring-unchecked, spring-data]
+categories: [Spring, spring-data]
+tags: [spring, spring-unchecked, org.springframework.data.elasticsearch.client.erhlc]
 mermaid: true
 toc: true
 ---

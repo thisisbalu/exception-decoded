@@ -1,8 +1,8 @@
 ---
 title: 'Mastering ArithmeticException: Unraveling Javas Math-Related Pitfalls'
 date: 2023-09-20 03:13:13 -0000
-categories: [Java, java.lang]
-tags: [java, java-unchecked, java.base, java-se]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.lang, java-se]
 mermaid: true
 toc: true
 ---

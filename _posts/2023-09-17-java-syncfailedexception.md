@@ -1,8 +1,8 @@
 ---
 title: 'Mastering SyncFailedException in Java: Effective Strategies and Solutions'
 date: 2023-09-17 13:22:58 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

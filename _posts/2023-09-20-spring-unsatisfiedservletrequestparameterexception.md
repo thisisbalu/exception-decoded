@@ -1,8 +1,8 @@
 ---
 title: "Tackling the UnsatisfiedServletRequestParameterException in Spring Framework: A Complete Guide"
 date: 2023-09-20 23:53:19 -0000
-categories: [Spring, org.springframework.web.bind]
-tags: [spring, spring-unchecked, spring-framework]
+categories: [Spring, spring-framework]
+tags: [spring, spring-unchecked, org.springframework.web.bind]
 mermaid: true
 toc: true
 ---

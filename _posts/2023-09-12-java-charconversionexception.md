@@ -1,8 +1,8 @@
 ---
 title: Have You Met CharConversionException in Java? Here's How to Handle it!
 date: 2023-09-12 00:10:00 +0800
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

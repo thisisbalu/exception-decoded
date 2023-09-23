@@ -1,8 +1,8 @@
 ---
 title: 'NotSerializableException in Java: Explained with Code Examples and Solutions'
 date: 2023-09-16 02:16:07 -0400
-categories: [Java, java.io]
-tags: [java, java-unchecked, java.base]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.io]
 mermaid: true
 toc: true
 ---

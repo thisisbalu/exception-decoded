@@ -1,8 +1,8 @@
 ---
 title: 'ObjectStreamException in Java: A Comprehensive Guide for Developers'
 date: 2023-09-17 04:53:30 -0000
-categories: [Java, java.io]
-tags: [java, java-unchecked, java.base]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.io]
 mermaid: true
 toc: true
 ---

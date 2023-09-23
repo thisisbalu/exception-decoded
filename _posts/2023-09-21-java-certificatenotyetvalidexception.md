@@ -1,8 +1,8 @@
 ---
 title: "Java CertificateNotYetValidException: Understanding, Troubleshooting, and Best Practices for Secure Communications"
 date: 2023-09-21 21:09:17 -0000
-categories: [Java, java.security.cert]
-tags: [java, java-checked, java.base, java-se]
+categories: [Java, java.base]
+tags: [java, java-checked, java.security.cert, java-se]
 mermaid: true
 toc: true
 ---

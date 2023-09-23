@@ -1,8 +1,8 @@
 ---
 title: "Tackling the RelationServiceNotRegisteredException Exception in Java"
 date: 2023-09-22 18:34:22 -0000
-categories: [Java, javax.management.relation]
-tags: [java, java-unchecked, java.management, java-se]
+categories: [Java, java.management]
+tags: [java, java-unchecked, javax.management.relation, java-se]
 mermaid: true
 toc: true
 ---

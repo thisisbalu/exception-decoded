@@ -1,8 +1,8 @@
 ---
 title: "SaajSoapMessageCreationException in Spring: A Comprehensive Guide"
 date: 2023-09-21 00:41:11 -0000
-categories: [Spring, org.springframework.ws.soap.saaj]
-tags: [spring, spring-unchecked, spring-ws]
+categories: [Spring, spring-ws]
+tags: [spring, spring-unchecked, org.springframework.ws.soap.saaj]
 mermaid: true
 toc: true
 ---

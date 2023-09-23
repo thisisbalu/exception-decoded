@@ -1,8 +1,8 @@
 ---
 title: 'Mastering AssertionError in Java with Hands-on Examples'
 date: 2023-09-20 21:01:14 -0000
-categories: [Java, java.lang]
-tags: [java, java-error, java.base, java-se]
+categories: [Java, java.base]
+tags: [java, java-error, java.lang, java-se]
 mermaid: true
 toc: true
 ---

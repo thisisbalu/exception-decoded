@@ -1,8 +1,8 @@
 ---
 title: 'UnsupportedEncodingException in Java: Unveiling the Secrets Behind Character Encoding'
 date: 2023-09-18 09:10:56 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

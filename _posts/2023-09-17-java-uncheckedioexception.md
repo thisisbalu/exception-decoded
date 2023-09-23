@@ -1,8 +1,8 @@
 ---
 title: 'UncheckedIOException in Java: Handling I/O Exceptions with Ease'
 date: 2023-09-17 21:00:24 -0000
-categories: [Java, java.io]
-tags: [java, java-unchecked, java.base]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.io]
 mermaid: true
 toc: true
 ---

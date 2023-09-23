@@ -1,8 +1,8 @@
 ---
 title: 'Understanding NotActiveException in Java'
 date: 2023-09-16 02:11:43 -0400
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

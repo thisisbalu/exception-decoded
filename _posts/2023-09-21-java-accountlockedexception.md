@@ -1,8 +1,8 @@
 ---
 title: "AccountLockedException in Java: How to Handle Locked User Accounts"
 date: 2023-09-21 00:32:11 -0000
-categories: [Java, javax.security.auth.login]
-tags: [java, java-unchecked, java.base, java-se]
+categories: [Java, java.base]
+tags: [java, java-unchecked, javax.security.auth.login, java-se]
 mermaid: true
 toc: true
 ---

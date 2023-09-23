@@ -1,8 +1,8 @@
 ---
 title: "CommunicationException in Java: Handle Communication Errors Like a Pro "
 date: 2023-09-21 00:40:19 -0000
-categories: [Java, javax.naming]
-tags: [java, java-unchecked, java.naming, java-se]
+categories: [Java, java.naming]
+tags: [java, java-unchecked, javax.naming, java-se]
 mermaid: true
 toc: true
 ---

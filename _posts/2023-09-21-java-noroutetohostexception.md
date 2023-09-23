@@ -1,8 +1,8 @@
 ---
 title: "NoRouteToHostException in Java - Troubleshooting and Handling Network Connection Errors"
 date: 2023-09-21 13:57:45 -0000
-categories: [Java, java.net]
-tags: [java, java-unchecked, java.base, java-se]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.net, java-se]
 mermaid: true
 toc: true
 ---

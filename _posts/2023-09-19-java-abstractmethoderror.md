@@ -1,8 +1,8 @@
 ---
 title: 'AbstractMethodError in Java: Under the Hood and How to Solve It'
 date: 2023-09-19 21:00:50 -0000
-categories: [Java, java.lang]
-tags: [java, java-error, java.base]
+categories: [Java, java.base]
+tags: [java, java-error, java.lang]
 mermaid: true
 toc: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'Error Handling in Java: Handling the UTFDataFormatException'
 date: 2023-09-18 21:16:53 -0000
-categories: [Java, java.io]
-tags: [java, java-unchecked, java.base]
+categories: [Java, java.base]
+tags: [java, java-unchecked, java.io]
 mermaid: true
 toc: true
 ---

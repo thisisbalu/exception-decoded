@@ -1,8 +1,8 @@
 ---
 title: "Tackling the CassandraKeyspaceExistsException in Spring Framework"
 date: 2023-09-22 22:45:50 -0000
-categories: [Spring, org.springframework.data.cassandra]
-tags: [spring, spring-unchecked, spring-data]
+categories: [Spring, spring-data]
+tags: [spring, spring-unchecked, org.springframework.data.cassandra]
 mermaid: true
 toc: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Untangling the Confusion: Dealing with Java's InvalidObjectException"
 date: 2023-09-14 02:10:00 -0400
-categories: ['Java', 'java.io']
-tags: [java, java-checked, java.base]
+categories: ['Java', 'java.base']
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---

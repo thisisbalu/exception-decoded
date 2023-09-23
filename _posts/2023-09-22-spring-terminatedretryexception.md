@@ -1,8 +1,8 @@
 ---
 title: "TerminatedRetryException in Spring: How to Handle Retry Failures in Your Application"
 date: 2023-09-22 14:40:03 -0000
-categories: [Spring, org.springframework.retry]
-tags: [spring, spring-unchecked, spring-retry]
+categories: [Spring, spring-retry]
+tags: [spring, spring-unchecked, org.springframework.retry]
 mermaid: true
 toc: true
 ---

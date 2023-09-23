@@ -1,8 +1,8 @@
 ---
 title: 'WriteAbortedException in Java: Understand and Handle Java Serialization Errors'
 date: 2023-09-19 16:56:49 -0000
-categories: [Java, java.io]
-tags: [java, java-checked, java.base]
+categories: [Java, java.base]
+tags: [java, java-checked, java.io]
 mermaid: true
 toc: true
 ---
