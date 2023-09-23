@@ -73,9 +73,8 @@ Remember, growing in your technical journey as a developer involves encountering
 
 References:
 
-Check out the below references to dive deeper into the Spring Framework and Apache Cassandra.
-
-- [Spring Data Cassandra Documentation](https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/#reference)
-- [Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
+1. [Spring Data Cassandra Documentation](https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/#reference)
+2. [Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
+3. [CassandraKeyspaceExistsException JavaDoc](https://docs.datastax.com/en/drivers/java/3.10/com/datastax/driver/core/exceptions/CassandraKeyspaceExistsException.html) 
 
 Happy learning and happy coding!
