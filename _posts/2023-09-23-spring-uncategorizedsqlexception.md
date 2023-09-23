@@ -1,5 +1,5 @@
 ---
-title: "Decoding the Mystery of UncategorisedSQLException in Spring Framework "
+title: "Troubleshooting the Elusive UncategorizedSQLException in Spring Framework "
 date: 2023-09-23 18:00:38 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jdbc]
@@ -57,6 +57,21 @@ Sometimes, the SQLException might be due to issues in the connection with the da
 
 Sometimes, your database and your Java data models might not align correctly. If the column names and types in the database and your Java model don't match, this could be another cause of issues. So, it is crucial to ensure that the SQL table structure and your java models are consistent. 
 
+## Debugging UncategorizedSQLException
+
+If you don't get sufficient information from the error message and stack trace, further debugging is warranted. You might want to turn on the SQL logging to print the executed SQL statements in the console which will help you identify the problematic query. Enable SQL logging by adding the following property in your application.properties:
+
+```properties
+spring.jpa.show-sql=true
+```
+
+After logging is enabled, the following SQL statement would be shown (using the example provided earlier):
+
+```sql
+SELECT * FOR FRM users WHERE id=1
+```
+Reviewing this in the logs, it becomes more apparent that there's a typo in the SQL statement.
+
 ## How To Solve
 
 ###  Correcting SQL Syntax
@@ -81,6 +96,14 @@ Ensure that your database is connected and accessible if you're facing SQL conne
 
 Keeping your database and data models in sync is key to avoiding data inconsistency issues. Make sure that the column names and types match between the database and your Java models. 
 
+## Preventing UncategorizedSQLException
+
+Thoroughly testing your database operations can prevent most `UncategorizedSQLExceptions`. Another tip is to use a tool that validates SQL queries during development, like an integrated database client in IDEs or standalone tools like DBeaver or SQLYog. These tools can check your SQL syntax before it's injected in your Java code.
+
+Moreover, using ORM technologies like Hibernate, which generates SQL queries based on entity relationships, can also help to avoid SQL syntax-related exceptions.
+
+In conclusion, `UncategorizedSQLException` serves as a generic wrapper for many underlying SQL exceptions in your Spring application. By using proper exception handling, enabling SQL logs, and validating SQL queries during development, you can demystify and prevent such issues from destabilizing your Spring application.
+
 ## Conclusion 
 
 In conclusion, `UncategorizedSQLException` is a common exception that springs up when working with databases using Spring Framework. It generally signifies that there has been a miscategorized or an unanticipated problem with the database as it doesn't map to the standard subclasses. 
@@ -90,5 +113,4 @@ While it may seem intimidating, understanding the root causes of `UncategorizedS
 ## References 
 
 1. [Spring Documentation on Data Access Exceptions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/UncategorizedDataAccessException.html)
-2. [Understanding JDBC with Spring Boot](https://www.baeldung.com/spring-boot-jdbc)
-3. [SQLException Documentation](https://docs.oracle.com/javase/7/docs/api/java/sql/SQLException.html)
+2. [SQLException Documentation](https://docs.oracle.com/javase/7/docs/api/java/sql/SQLException.html)
