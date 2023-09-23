@@ -1,5 +1,5 @@
 ---
-title: "Tackling the CassandraKeyspaceExistsException in Spring Framework: A Comprehensive Guide"
+title: "Tackling the CassandraKeyspaceExistsException in Spring Framework"
 date: 2023-09-22 22:45:50 -0000
 categories: [Spring, org.springframework.data.cassandra]
 tags: [spring, spring-unchecked, spring-data]
@@ -12,8 +12,6 @@ If you've been developing applications using the Spring Framework and Apache Cas
 
 This blog post will walk you through a detailed understanding of `CassandraKeyspaceExistsException` in the Spring Framework, providing practical code examples to elucidate this common issue amongst developers.
 
-___
-
 
 ## Introduction to CassandraKeyspaceExistsException
 
@@ -25,7 +23,6 @@ org.springframework.data.cassandra.CassandraKeyspaceExistsException: Keyspace [m
 ```
 This throws a spanner in the works of your application's operation and needs to be handled effectively.
 
-___
 
 ## When Does CassandraKeyspaceExistsException Occur
 
@@ -42,7 +39,6 @@ Here, the `CassandraKeyspaceExistsException` will be thrown if the 'mykeyspace' 
 
 This is a common phenomenon when you run your Spring application multiple times or in the situation where the application restarts.
 
-___
 
 ## How to Handle CassandraKeyspaceExistsException 
 
@@ -62,7 +58,6 @@ try {
 ```
 In the above code, if the keyspace already exists, the exception is caught, and a log statement is printed, which means that your application won't crash when this exception is thrown. It gives your application resilience and a better user experience.
 
-___
 
 ## Clean Code Practices When Dealing With CassandraKeyspaceExistsException
 
@@ -72,21 +67,15 @@ Moreover, working with a codebase where exceptions are not handled properly can 
 
 Remember, Exceptions are just like any other types of objects in Java. They have their use cases and we should respect and use them in order to create better and cleaner code.
 
-___
-
 In conclusion, `CassandraKeyspaceExistsException` in the Spring Framework is a common, manageable exception that can be handled with the right approaches. It's crucial to practice clean code habits when dealing with these exceptions, remembering to log and provide user-friendly messaging as necessary. 
 
 Remember, growing in your technical journey as a developer involves encountering, understanding, and efficiently tackling exceptions like `CassandraKeyspaceExistsException`. 
 
+References:
+
 Check out the below references to dive deeper into the Spring Framework and Apache Cassandra.
 
 - [Spring Data Cassandra Documentation](https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/#reference)
-
 - [Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
-___
-References:
-
-1. Hughes, C. (2019). *Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools*. Apress, CA.
-2. The Apache Cassandra Project (2022). *Apache Cassandra Documentation*. Online at: https://cassandra.apache.org/doc/latest/
 
 Happy learning and happy coding!
