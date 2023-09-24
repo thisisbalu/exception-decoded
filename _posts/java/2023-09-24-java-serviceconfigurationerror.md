@@ -95,6 +95,6 @@ By comprehending its essence and understanding it deeply, you gain a better gras
 
 That's all for now, folks. Keep coding and keep exploring. Don't forget to subscribe or bookmark for more Java learnings!
 
-> **References:**
+## References
 Java ServiceLoader API - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ServiceLoader.html)
 Provider Configuration File Specification - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Provider_Configuration_File)
