@@ -90,7 +90,7 @@ In this article, we explored the `StreamCorruptedException` in detail - understa
 
 By applying these practices and considering real-life scenarios, you can enhance the resilience and reliability of your Java applications, ensuring they gracefully handle stream corruption exceptions.
 
-**References:**
+## References
 - [Java Object Serialization Specification](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
 - [Java ObjectOutput Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectOutput.html)
 - [Java ObjectInput Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectInput.html)
