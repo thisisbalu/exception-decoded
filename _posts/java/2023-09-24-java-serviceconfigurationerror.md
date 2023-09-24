@@ -1,5 +1,5 @@
 ---
-title: "Solving the ServiceConfigurationError Mystery in Java"
+title: "Solving the ServiceConfigurationError in Java"
 date: 2023-09-24 13:29:05 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.util, java-se]
@@ -12,7 +12,7 @@ Hello and welcome to the world of Java! If you're in this world for quite some t
 
 ## An Introduction to ServiceConfigurationError
 
-Before we can tackle the ServiceConfigurationError problems, let's have brief overview of what it is. By definition, this error is thrown when a service provider's configuration information violates the [Provider Configuration File](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Provider_Configuration_File) specification.
+Before we can tackle the ServiceConfigurationError problems, let's have a brief overview of what it is. By definition, this error is thrown when a service provider's configuration information violates the [Provider Configuration File](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Provider_Configuration_File) specification.
 
 This can occur when using Java's ServiceLoader API which uses service provider configuration files, placed in the META-INF/service directory of a JAR file, for service registration. If the service loader fails to parse any one of these files correctly, ServiceConfigurationError is thrown.
 
@@ -96,5 +96,5 @@ By comprehending its essence and understanding it deeply, you gain a better gras
 That's all for now, folks. Keep coding and keep exploring. Don't forget to subscribe or bookmark for more Java learnings!
 
 ## References
-Java ServiceLoader API - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ServiceLoader.html)
-Provider Configuration File Specification - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Provider_Configuration_File)
+1. Java ServiceLoader API - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ServiceLoader.html)
+2. Provider Configuration File Specification - [Oracle Official Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Provider_Configuration_File)
