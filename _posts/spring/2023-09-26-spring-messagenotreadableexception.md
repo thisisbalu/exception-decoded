@@ -1,5 +1,5 @@
 ---
-title: "Demystifying the MessageNotReadableException in Spring Framework "
+title: "An In-Depth Understanding of SQLNonTransientConnectionException in Java"
 date: 2023-09-26 02:16:20 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jms]
