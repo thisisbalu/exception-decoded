@@ -89,7 +89,7 @@ You can read more about `Selector` and `ClosedSelectorException` in the official
 
 Happy coding!
 
-###### References:
+## References:
 1. [Oracle Docs - Selector](https://docs.oracle.com/javase/8/docs/api/java/nio/channels/Selector.html)
 2. [Oracle Docs - ClosedSelectorException](https://docs.oracle.com/javase/7/docs/api/java/nio/channels/ClosedSelectorException.html)
 3. [Java Code Geeks - Exception Handling in Java](https://www.javacodegeeks.com/2020/07/java-exception-handling-tutorial.html)
