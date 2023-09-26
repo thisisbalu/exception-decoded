@@ -73,4 +73,3 @@ And join us next time when we unravel more such mysteries of the Spring universe
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans)
 2. [Spring Exception Handling Guide](https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc)
 3. [HttpMessageNotReadableException API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/converter/HttpMessageNotReadableException.html)
-4. [Spring's Controller Advice](https://www.baeldung.com/exception-handling-for-rest-with-spring#controlleradvice)
