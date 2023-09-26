@@ -16,7 +16,7 @@ Java certainly managed to revolutionize the software industry upon its introduct
 
 Let’s take a dive into code to get a better sense of this exception:
 
-```Java
+```java
 public void someMethod() {
     int i = 10;
     System.out.println(i);
@@ -37,7 +37,7 @@ A bug or poor design could easily lead to `UnknownTypeException`. Here are metho
 
 Ensure that `StackFrame` and `LocalVariable` are not null before accessing them:
 
-```Java
+```java
 LocalVariable localVariable = stackFrame.visibleVariableByName(variableName);
 if (localVariable != null) {
     Value value = stackFrame.getValue(localVariable);
@@ -51,7 +51,7 @@ if (localVariable != null) {
 
 Another great way is to use exception handling to deal with `UnknownTypeException`:
 
-```Java
+```java
 try {
     LocalVariable localVariable = stackFrame.visibleVariableByName(variableName);
     Value value = stackFrame.getValue(localVariable);
