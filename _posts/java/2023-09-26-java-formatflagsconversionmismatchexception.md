@@ -1,5 +1,5 @@
 ---
-title: "Unraveling the Java Exception: FormatFlagsConversionMismatchException "
+title: "Understanding Java’s FormatFlagsConversionMismatchException: An In-depth Analysis"
 date: 2023-09-26 14:50:30 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.util, java-se]
@@ -7,14 +7,13 @@ mermaid: true
 toc: true
 ---
 
-
 When operating within the vast universe of the Java programming language, encountering various exceptions is inevitable. However, understanding these exceptions is crucial for writing robust and error-free code. One such exception that often leaves developers scratching their heads is the `FormatFlagsConversionMismatchException`. In this article, delve into the mysterious world of this unique and special exception. This piece of writing will shed light on what it is, when it occurs, how to handle and avoid it. Packed with illustrative code examples, we will journey from the roots of the issue to its resolutions.
 
 ## An Introduction to FormatFlagsConversionMismatchException in Java
 
 `FormatFlagsConversionMismatchException` is a part of `java.util` package. It's a subclass of `IllegalFormatException`. The Java Virtual Machine (JVM) throws this exception when there is a mismatch between the conversion specification and format flag. Typically, it happens when you are trying to print out a value, and the format of the value is not appropriate for the given flag.
 
-Let's consider a simple example that Demonstrates this:
+Let's consider a simple example that demonstrates this:
 
 ```java
 import java.util.Formatter;  
@@ -103,8 +102,8 @@ The `FormatFlagsConversionMismatchException` may seem daunting at first glance, 
 Remember, "Error-free coding leads to stress-free coding!" 
 
 ## References
+- [FormatFlagsConversionMismatchException](https://docs.oracle.com/javase/7/docs/api/java/util/FormatFlagsConversionMismatchException.html)
 - [Java.Util.Formatter Class Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Formatter.html)
-- [Java Exceptions Hierarchy](https://docs.oracle.com/javase/tutorial/essential/exceptions/catch.html)
 - [Java Language Specification](https://docs.oracle.com/javase/specs/jls/se7/html/index.html)
 
 **Happy coding!**
