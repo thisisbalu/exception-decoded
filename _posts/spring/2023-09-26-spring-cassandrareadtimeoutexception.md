@@ -1,12 +1,11 @@
 ---
-title: "Unraveling the CassandraReadTimeoutException in Spring Framework"
+title: "CassandraReadTimeoutException in Spring: Understanding, Diagnosing and Fixing Cassandra timeout settings"
 date: 2023-09-26 14:52:41 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.cassandra]
 mermaid: true
 toc: true
 ---
-
 
 When working with large-scale distributed systems, many developers choose the Apache Cassandra database. Popular for its capability to handle vast amounts of data across numerous commodity servers, it ensures exceptional performance. However, like any other technology, it also has certain issues that developers face. 
 
@@ -22,7 +21,7 @@ It’s significantly crucial to understand that this exception does not necessar
 
 Let’s take a look at an example:
 
-```xml
+```
 com.datastax.driver.core.exceptions.ReadTimeoutException: Cassandra timeout during read query at consistency ONE (1 responses were required but only 0 replica responded)
 ```
 
@@ -30,9 +29,11 @@ com.datastax.driver.core.exceptions.ReadTimeoutException: Cassandra timeout duri
 
 There are typically three main causes for `CassandraReadTimeoutException` to occur:
 
-1. **Slow Network**: If the network speed is slow, data retrieval might exceed the maximum read timeout, leading to this exception.
-2. **Heavy Load on Server**: When the server is under heavy load, it might not respond to the read requests in time, hence throwing this exception.
-3. **Inappropriate Read Consistency Level**: If the specified read consistency level is higher than necessary, it may take longer to reach the consistency level, leading to this exception.
+1. **Network Issues:** Slow network or connectivity issues can prevent the client node from getting a timely response from a replica.
+2. **Slow Disk I/O:** If the queried data isn't in cache and the disk I/O operations are slow, the read operation might time out.
+3. **High CPU Utilization:** If the CPU utilization on the queried nodes is high, the read request might time out before completion.
+4. **Insufficiently High Timeout Settings:** If the read or query timeout settings in the `cassandra.yaml` configuration file are set too low, this could lead to read timeouts.
+
 
 ## How to Handle CassandraReadTimeoutException
 
