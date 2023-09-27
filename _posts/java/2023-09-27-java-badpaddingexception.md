@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Handling & Avoiding BadPaddingException in Java: A Niche Yet Prominent Exception"
 date: 2023-09-27 14:08:13 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.crypto, java-se]
@@ -7,11 +7,9 @@ mermaid: true
 toc: true
 ---
 
-## Understanding BadPaddingException in Java: A Comprehensive Guide
-
 An important aspect of software development, particularly in web and network applications, is ensuring that sensitive information is secure and free from potential threat. In Java, encryption and decryption methods are often used to protect data. However, these methods are prone to certain exceptions, one of which is `BadPaddingException`. In this article, we will dive deep into what `BadPaddingException` is, why it occurs, and how we can properly handle it.
 
-### What is `BadPaddingException` in Java?
+## What is `BadPaddingException` in Java?
 
 `BadPaddingException` is a type of `GeneralSecurityException` in Java. It typically surfaces when the padding of a data block is incorrect or incompatible during decryption. Essentially, the exception implies that the supplied decrypted data does not correspond correctly with the padding scheme that your application uses. 
 
@@ -25,7 +23,7 @@ try {
 
 Handling `BadPaddingException` is vital since it can lead to errors when manipulating encrypted data. However, to grasp how to handle this exception completely, we need to understand padding and why it plays a significant role in data encryption and decryption.
 
-### The Concept of Padding in Cryptography
+## The Concept of Padding in Cryptography
 
 In cryptography, padding indicates adding extra bits to a data block to reach a certain byte size. Padding is critical when dealing with block cipher encryption, where data is encrypted in distinct blocks of a specific size.
 
@@ -39,7 +37,7 @@ String data = "Lorem Ipsum";
 data = data + "   ";
 ```
  
-### Why Does `BadPaddingException` Occur?
+## Why Does `BadPaddingException` Occur?
 
 Now, since you understand what padding is, let's explore the causes of `BadPaddingException`.  
 
@@ -57,7 +55,7 @@ The `BadPaddingException` may occur if you're using cipher block-sized data inap
 
 The overall rule of thumb is that encryption and decryption need to mirror one another. The same key, the same padding, and the same data block size need to be applied. Any disparity would result in `BadPaddingException`.
 
-### Handling `BadPaddingException` in Java
+## Handling `BadPaddingException` in Java
 
 Let's say you're using AES `Cipher` with PKCS5Padding for encryption and decryption and you are facing `BadPaddingException`. You can prevent it by observing the following things in your code:
 
@@ -88,14 +86,12 @@ decryptCipher.init(Cipher.DECRYPT_MODE, secretKeySpec, ivParameterSpec);
 
 Including these measures will significantly reduce the chances of facing `BadPaddingException`. However, always try to incorporate handling this exception in your code. Doing so would improve your application's overall correctness and integrity.
 
-### Conclusion
+## Conclusion
 
 By understanding padding in cryptography and the causes of `BadPaddingException`, we can write secure, error-free code for encryption and decryption in Java. Implementing standard procedures for handling `BadPaddingException` and similar exceptions is integral to the robustness of applications dealing with sensitive data. Remember, the key to avoiding `BadPaddingException` is ensuring consistency in your encryption and decryption process.
 
-### References
+## References
 
 1. [BadPaddingException - JDK 8](https://docs.oracle.com/javase/8/docs/api/javax/crypto/BadPaddingException.html)
-
 2. [Cipher (Java Platform SE 8)](https://docs.oracle.com/javase/8/docs/api/javax/crypto/Cipher.html)
-
 3. [Understanding Cryptography Padding](https://crypto.stackexchange.com/questions/4867/why-is-padding-used-in-cryptography-java)
