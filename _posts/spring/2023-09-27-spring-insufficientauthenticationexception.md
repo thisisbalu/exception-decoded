@@ -43,7 +43,7 @@ public class MyExceptionHandler extends ResponseEntityExceptionHandler {
 
 ## Tips to Avoid and Fix InsufficientAuthenticationException
 
-* **Adding Authentication Filters:** Include authentication filters in your security configurations. They help validate requests before they reach secured endpoints.
+1. **Adding Authentication Filters:** Include authentication filters in your security configurations. They help validate requests before they reach secured endpoints.
 
 ```java
 @Override
@@ -54,7 +54,7 @@ protected void configure(HttpSecurity http) throws Exception{
 }
 ```
 
-* **Assigning Correct Roles:** Make sure the authenticated user has enough authority to access the resource.
+2. **Assigning Correct Roles:** Make sure the authenticated user has enough authority to access the resource.
 
 ```java
 @Override
@@ -65,14 +65,14 @@ public void configure(HttpSecurity httpSecurity) throws Exception {
 }
 ```
 
-* **Maintaining Session Management:** Manage sessions appropriately to avoid any session fixation attacks.
+3. **Maintaining Session Management:** Manage sessions appropriately to avoid any session fixation attacks.
 
 ```java
 .sessionManagement()
 .sessionFixation().none()
 ```
 
-* **Using Correct Authentication Providers:** Use the correct authentication provider that matches the type of authentication used (Token-based, Basic Authentication, etc.).
+4. **Using Correct Authentication Providers:** Use the correct authentication provider that matches the type of authentication used (Token-based, Basic Authentication, etc.).
 
 ```java
 @Override
@@ -87,8 +87,5 @@ Throughout this exploration, we followed the official Spring Security documentat
 
 - [Spring Security 5 Reference](https://docs.spring.io/spring-security/site/docs/current/reference/html5/)
 - [Spring Security Authentication](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/authentication/package-summary.html)
-- [InsufficientAuthenticationException - Stack Overflow](https://stackoverflow.com/questions/tagged/insufficientauthenticationexception)
 
 Happy Coding!
-
-Note: Examples presented in this article are simplified and may not include the necessary checks that a production system should perform. Always consult the official Spring documentation and other reliable resources when building your system.
