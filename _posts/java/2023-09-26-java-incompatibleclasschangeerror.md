@@ -1,5 +1,5 @@
 ---
-title: "Unveiling Java's IncompatibleClassChangeError: Decoding and Strategies for Resolution"
+title: "Java's IncompatibleClassChangeError: Decoding and Strategies for Resolution"
 date: 2023-09-26 23:10:48 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
