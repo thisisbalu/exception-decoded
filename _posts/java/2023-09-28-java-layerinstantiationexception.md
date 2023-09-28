@@ -43,6 +43,24 @@ try {
 
 In the code snippet, if `ClassLoader.getPlatformClassLoader();` returns invalid or undefined class loader, then this would result in an `LayerInstantiationException` when `defineModulesWithOneLoader` is invoked.
 
+## Causes of LayerInstantiationException
+
+`LayerInstantiationException` can manifest because of several reasons. Some of the most frequent rationales for this exception include:
+
+* One or more of the modules in the configuration don't have a corresponding module defined in the parent layer or layers. 
+
+* An attempt to create a configuration specifies a module that cannot be located. 
+
+Here is an example:
+
+```java
+ModuleLayer parent = ModuleLayer.boot();
+Configuration cf = new Configuration(Optional.of(parent.configuration()), ModuleFinder.of(), Set.of("nonexistent.module"));
+
+ModuleLayer layer = parent.defineModulesWithOneLoader(cf, ClassLoader.getSystemClassLoader());
+```
+Here, since `nonexistent.module` can't be located, it leads to a `LayerInstantiationException`.
+
 ## Dodge it: Tips to Avoid LayerInstantiationException
 
 The best solution to avoid `LayerInstantiationException` is to ensure the class loader referred to while defining the module layer is correctly defined. Here, the integrity of the class loader is vital.
@@ -79,4 +97,4 @@ Remember, coding is all about learning and evolving. Let your code break, make m
 
 1. [Oracle Docs: LayerInstantiationException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/module/LayerInstantiationException.html)
 2. [Oracle Docs: ModuleLayer](https://docs.oracle.com/javase/9/docs/api/java/lang/ModuleLayer.html)
-3. [Baeldung: A Guide to the Java 9 Module System](https://www.baeldung.com/java-9-modularity)
+3. [Java 9 Modularity Explained in 5 minutes](https://dzone.com/articles/java-9-module-system)
