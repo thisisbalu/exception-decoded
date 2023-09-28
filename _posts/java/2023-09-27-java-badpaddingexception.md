@@ -37,7 +37,7 @@ String data = "Lorem Ipsum";
 data = data + "   ";
 ```
  
-## Why Does `BadPaddingException` Occur?
+## Why Does BadPaddingException Occur?
 
 Now, since you understand what padding is, let's explore the causes of `BadPaddingException`.  
 
