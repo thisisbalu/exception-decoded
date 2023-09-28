@@ -1,5 +1,5 @@
 ---
-title: "Demystifying the NoSuchJobInstanceException in Spring Batch: An In-depth Examination "
+title: "NoSuchJobInstanceException in Spring Batch: An In-depth Examination"
 date: 2023-09-28 09:34:10 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.launch]
@@ -89,8 +89,10 @@ Understanding the exceptions' nature, like `NoSuchJobInstanceException` in Sprin
 
 Remember, prevention is better than cure. You can avoid `NoSuchJobInstanceException` by designing your application to avoid searching for non-existent instances or having checks in place to ensure that the job instance exists before trying to access it. 
 
-For more helpful insights about debugging in Spring, visit the official [Spring Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html#batch).
-
 Enjoy coding, and stay exception-free!
 
-*Disclaimer: Above code snippets are for understanding the `NoSuchJobInstanceException` only and might not work in a production environment.*
+
+## Reference:
+
+1. [Official Spring Batch Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html). The best place to grab Cypress by its root.
+2. [Spring Batch API](https://docs.spring.io/spring-batch/docs/current/api/index.html?overview-summary.html). Take a deep dive into Spring Batch features.
