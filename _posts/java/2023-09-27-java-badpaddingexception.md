@@ -42,15 +42,10 @@ data = data + "   ";
 Now, since you understand what padding is, let's explore the causes of `BadPaddingException`.  
 
 1. **Incorrect Key During Decryption:**
-
 If you try to decrypt data using a wrong or different key than what was used for encryption, you might encounter a `BadPaddingException`. 
-
 2. **Wrong Padding Method:**
-
 Your encryption/decryption methods could be correct, your keys could be correct, but if the padding method doesn't match, the `BadPaddingException` will be thrown. 
-
 3. **Inappropriate Block Size:**
-
 The `BadPaddingException` may occur if you're using cipher block-sized data inappropriate for the padding scheme.
 
 The overall rule of thumb is that encryption and decryption need to mirror one another. The same key, the same padding, and the same data block size need to be applied. Any disparity would result in `BadPaddingException`.
