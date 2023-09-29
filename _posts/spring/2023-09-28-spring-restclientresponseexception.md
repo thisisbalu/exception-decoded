@@ -89,6 +89,16 @@ catch (RestClientResponseException ex) {
 }
 ```
 
+### 3. Utilizing HttpMessageConverters:
+Spring offers `HttpMessageConverter`s to convert response into any adequate object. Examples of these converters include `MappingJackson2HttpMessageConverter`, `StringHttpMessageConverter`, etc. We can use them to decode RESTful responses into suitable models.
+
+### 4. Utilizing ResponseEntityExceptionHandler:
+`ResponseEntityExceptionHandler` provides a centralized spot to handle all exceptions from a Controller. This can be extended to refine handling of `RestClientResponseException`.
+
+### 5. Leveraging WebClient:
+`WebClient` component, a non-blocking, reactive alternative to RestTemplate, introduced in Spring WebFlux, is worth considering. WebClient wraps the exceptions into `WebClientResponseException`, making error handling more unambiguous.
+
+
 ## Conclusion
 
 By the end of this deep-dive into the RestClientResponseException, you should have a comprehensive understanding of this specific exception in Spring, how it is structured, why and when it occurs, and how to handle it properly in a more organized way. Let's make our code clearer and our exception hierarchy more specific. This will not only result in cleaner code but it will also help us tackle issues in a faster and more efficient way.
