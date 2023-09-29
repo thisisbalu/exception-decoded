@@ -109,5 +109,3 @@ Although dealing with exceptions can be challenging, when errors are approached 
 2. [Spring's FlushFailedException JavaDocs](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/FlushFailedException.html)
 3. [Dealing with JPA/Hibernate Concurrency issues](https://www.baeldung.com/jpa-hibernate-concurrency)
 4. [Spring Transactions and Concurrency Control](https://docs.spring.io/spring-framework/docs/current/reference/html/transaction.html)
-
-> **Disclaimer:** Code snippets in this article are simplified and might need additional configuration to perform seamlessly in a production environment.
