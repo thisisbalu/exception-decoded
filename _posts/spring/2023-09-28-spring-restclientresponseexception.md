@@ -1,17 +1,10 @@
 ---
-title: ""
+title: "Deep Dive into RestClientResponseException in Spring - A Comprehensive Guide"
 date: 2023-09-28 21:04:19 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.client]
 mermaid: true
 toc: true
----
-
----
-layout: post
-title: "Deep Dive into RestClientResponseException in Spring - A Comprehensive Guide"
-description: "Detailed explanation on Spring's RestClientResponseException with code sample"
-tags: [Java, Spring, RestTemplate, Exception Handling]
 ---
 
 ## Introduction
@@ -107,8 +100,3 @@ By the end of this deep-dive into the RestClientResponseException, you should ha
 - [Java Doc on Exceptions](https://etutorials.org/Programming/Java+tutorial/Part+I+Java+Fundamentals/Lesson+8+Exceptions+and+Error+Handling/What+Is+an+Exception/)
 
 Happy Coding!
-
----
-
-**Author:** [Assistant's name]
-**Date:** DD/MM/YYYY
