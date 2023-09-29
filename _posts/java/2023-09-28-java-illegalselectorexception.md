@@ -81,12 +81,4 @@ So, all you need to remember is to ensure your `Channels` and `Selectors` come f
 
 Whether you're a beginner or experienced Java programmer, encountering such Exceptions is integral to the learning curve. Armed with the understanding of the `IllegalSelectorException`, we hope you can tackle all future exceptions with ease!
 
-[Anything Java related](https://www.oracle.com/java/technologies/javase/documentation/)
-
-[A deep dive into Java Exceptions](https://www.baeldung.com/java-exceptions)
-
-[More about Java NIO](https://www.ibm.com/docs/en/zos/2.3.0?topic=developers-java-new-io)
-
-[Oracle's Official Documentation](https://docs.oracle.com/javase/7/docs/api/java/nio/channels/IllegalSelectorException.html)
-
-[Handling IllegalSelectorException in Java](https://stackoverflow.com/questions/59067986/handling-illegalselectorexception-in-java)
+Should you want to deepen your understanding regarding `IllegalSelectorException`, do not hesitate to visit the official Java documentation [here](https://docs.oracle.com/javase/7/docs/api/java/nio/channels/IllegalSelectorException.html).
