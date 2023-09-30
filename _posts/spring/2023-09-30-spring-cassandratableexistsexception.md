@@ -50,7 +50,6 @@ Table 'user' already exists in keyspace 'test'
 ## Maneuvering `CassandraTableExistsException` – Read Ahead to Unearth How!
 
 Here are a few ways to deal with this exception effectively:
-
 1. **Change schema-action property**: The most straightforward way to handle this exception is to change schema-action property value to none.
 
 ```yaml
@@ -59,13 +58,11 @@ spring:
     cassandra:
       schema-action: none
 ```
-
 2. **Conditionally create table**: If you need more fine-grained control over table creation, you can execute CQL statements conditionally. Apache Cassandra provides `IF NOT EXISTS` clause for this specific purpose.
 
 ```CQL
 CREATE TABLE IF NOT EXISTS user (...);
 ```
-
 3. **Handle the exception**: Another way is to catch the exception where you're creating the table. You can simply ignore it if the table exists already.
 
 ```java
@@ -88,10 +85,9 @@ These practices can bypass common pitfalls associated with database operations a
 
 Happy coding, everyone!
 
-[Apache Cassandra's AlreadyExistsException](https://docs.datastax.com/en/drivers/java/2.2/com/datastax/driver/core/exceptions/AlreadyExistsException.html)
+## Referneces
 
-[Spring Data Cassandra's CassandraTableExistsException](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/cassandra/CassandraTableExistsException.html)
-
-[Spring Boot Documentation](https://spring.io/projects/spring-boot) 
-
-[Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
+1. [Apache Cassandra's AlreadyExistsException](https://docs.datastax.com/en/drivers/java/2.2/com/datastax/driver/core/exceptions/AlreadyExistsException.html)
+2. [Spring Data Cassandra's CassandraTableExistsException](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/cassandra/CassandraTableExistsException.html)
+3. [Spring Boot Documentation](https://spring.io/projects/spring-boot) 
+4. [Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
