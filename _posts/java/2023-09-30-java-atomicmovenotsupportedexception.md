@@ -83,5 +83,4 @@ With this, you’re better equipped to deal with the `AtomicMoveNotSupportedExce
 ### References:
 
 1. [Java 7 Files Class Documentation](https://docs.oracle.com/javase/7/docs/api/java/nio/file/Files.html)
-2. [Understanding AtomicMoveNotSupportedException](https://stackoverflow.com/questions/18338770/java-nio-file-how-to-correctly-handle-atomicmovenotsupportedexception)
-3. [Java class AtomicMoveNotSupportedException](https://www.programcreek.com/java-api-examples/?api=java.nio.file.AtomicMoveNotSupportedException)
+2. [Java class AtomicMoveNotSupportedException](https://www.programcreek.com/java-api-examples/?api=java.nio.file.AtomicMoveNotSupportedException)
