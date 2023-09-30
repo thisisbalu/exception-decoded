@@ -1,5 +1,5 @@
 ---
-title: "Resolving the CassandraTableExistsException in Spring - Uncover the Secrets of Effective Database Management!"
+title: "Dealing with CassandraTableExistsException in Spring Boot: A Detailed Guide"
 date: 2023-09-30 09:03:05 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.cassandra]
