@@ -87,7 +87,7 @@ The `AccessControlException` features prominently within Java's security landsca
 
 Mastering Java's exception handling mechanism forms a crucial part of becoming a competent Java developer, and we hope this guide has enhanced your abilities in that area.
 
-**References:**
+## References
 1. [Oracle: AccessControlException](https://docs.oracle.com/javase/8/docs/api/java/security/AccessControlException.html)
 2. [Oracle: Handling Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html)
 3. [Java SecurityManager](https://docs.oracle.com/javase/7/docs/api/java/lang/SecurityManager.html)
