@@ -1,5 +1,5 @@
 ---
-title: "Understanding Java's ObjectCollectedException in Depth"
+title: "ObjectCollectedException in Java: Understanding this Intricate Exception and Handling it Effortlessly"
 date: 2023-09-30 21:30:35 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
