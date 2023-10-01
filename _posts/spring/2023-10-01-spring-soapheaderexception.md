@@ -96,12 +96,9 @@ Here's an example of correctly utilizing `SoapHeaderException`:
 
 This guide hopefully gave you a clearer heads-up on `SoapHeaderException` and its significance in Spring framework. It is key for developers to understand these minor yet tricky roadblocks, as proficient use and understanding of exceptions can immensely bolster your Spring development prowess.
 
-**References:** 
+## References
 
 1. Official Spring Framework Documentation on SoapHeaderException: [Link](https://docs.spring.io/spring-ws/sites/2.0/apidocs/org/springframework/ws/soap/client/SoapHeaderException.html)
-
 2. SOAP messages structure and headers: [Link](https://www.tutorialspoint.com/soap/soap_message_structure.htm)
-
-3. Understanding Java exceptions hierarchy: [Link](https://www.baeldung.com/java-exceptions) 
 
 Remember, no obstacle is too tough for an enlightened coder. Until the next article, Happy Coding!
