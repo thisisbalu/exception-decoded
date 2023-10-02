@@ -95,8 +95,3 @@ Additionally, building robustness into your Spring applications can involve conf
 ## References
 
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html)
-2. [Spring @Autowired Annotation](https://www.baeldung.com/spring-autowire)
-3. [5 Ways to Construct and Initialize Objects in Spring](https://dzone.com/articles/5-ways-to-construct-and-initialize-objects-in-spri) 
-
----
-_Remember! Read, Learn and Implement! Happy Coding!_
