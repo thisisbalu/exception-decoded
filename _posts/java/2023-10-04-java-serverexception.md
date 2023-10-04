@@ -10,13 +10,13 @@ toc: true
 
 In the bustling universe of Java development, exceptions are not that uncommon. They are more familiar than we want them to be. Among the vast array of Java’s exceptions, `ServerException` holds relevance in server-side applications. Understanding this exception can empower you to write more efficient and more robust server-side code in Java. Here in this guide, we delve deep into the crux of `ServerException` in Java.
 
-## 1. Setting the Stage: What is a ServerException?
+## Setting the Stage: What is a ServerException?
 
 `ServerException` is a type of `RemoteException` in Java, which is thrown to indicate that a remote object invocation has failed or gone awry. In simple words, when there is an issue with a remote method invocation on the server-side application, a `ServerException` gets thrown.
 
 The exception falls under the checked exceptions category, meaning you’re required to provide a handling routine or throw it out of your method.
 
-## 2. Laying the Blueprint: Structure of ServerException
+## Laying the Blueprint: Structure of ServerException
 
 The specification for `ServerException` can be illustrated as follows:
 
@@ -27,7 +27,7 @@ extends java.rmi.RemoteException
 
 As per the documentation [Java API doc](https://docs.oracle.com/javase/7/docs/api/java/rmi/ServerException.html), `ServerException` extends `RemoteException`, adding no unique methods or variables to its structure.
 
-## 3. The ServerException Syntax and Sample Codes
+## The ServerException Syntax and Sample Codes
 
 Here is an example of a typical `ServerException` syntax:
 
@@ -50,7 +50,7 @@ In this snippet, any issues with the remote invocation within the try block get 
 
 In certain cases, if you don't adequately manage a `ServerException`, it may lead to critical breakdowns in server-side operations.
 
-## 4. Handling a ServerException
+## Handling a ServerException
 
 The most common way to deal with a `ServerException` is to use a combination of try-catch blocks like:
 
@@ -82,15 +82,13 @@ try {
 
 In the above snippet, we've embellished our exception handler to cater to specifics of `ServerRuntimeException` and `ServerNonTxnReadException`, in addition to a general `ServerException`.
 
-## 5. Conclusion
+## Conclusion
 
 `ServerException` forms an essential part of Java, primarily for server-side applications. Knowing its structure, usage, and ideal ways to handle it can be real game-changer in boosting your Java expertise. 
 
 We have only scratched the surface in this article, but understanding these fundamental principles is the key to diving deeper into this fascinating aspect of Java. 
 
-**References:**
+## References
 
 1. Java API Doc: [ServerException](https://docs.oracle.com/javase/7/docs/api/java/rmi/ServerException.html)
 2. [Java Remote Method Invocation (RMI) - ServerException Class](https://www.tutorialssprint.com/java/java-rmi-serverexception-class/)
-
-> Note: The code snippets provided in this guide are illustrative in nature and may require modification to work in your specific project setup.
