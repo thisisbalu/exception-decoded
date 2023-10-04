@@ -10,7 +10,7 @@ toc: true
 
 In the expansive world of Java programming, it's common to encounter a variety of exceptions when executing your code. Among the broad spectrum of exceptions, one particularly significant error is the `PortUnreachableException.` Although its name may seem intimidating, this exception is a vital aspect of network programming in Java that programmers need to understand. In this post, we'll dissect `PortUnreachableException`, exploring its causes, implications, and, most importantly, how to handle it effectively. This comprehensive guide will come with relatable code examples to give you a better insight. Let's dive in!
 
-## **What is PortUnreachableException in Java?**
+## What is PortUnreachableException in Java?
 
 In Java, a `java.net.PortUnreachableException` usually occurs when an application sends a Datagram packet to another network and an ICMP Port Unreachable message is sent back, or if an application receives a Datagram packet that an ICMP Port Unreachable message encapsulates.
 
@@ -26,7 +26,7 @@ catch(java.net.PortUnreachableException ex) {
 }
 ```
 
-## **Understanding The Causes of PortUnreachableException**
+## Understanding The Causes of PortUnreachableException
 
 Exception `java.net.PortUnreachableException’ can often be triggered by the following situations:
 
@@ -34,9 +34,9 @@ Exception `java.net.PortUnreachableException’ can often be triggered by the fo
    
 2. **Firewall restrictions**: If a firewall restricts ICMP messages, then it could potentially lead to a `PortUnreachableException`.
    
-## **Dealing With PortUnreachableException**
+## Dealing With PortUnreachableException
 
-### **Exception Handling:**
+### Exception Handling:
 
 In Java, we have the well-known `try-catch` block which we can utilize to handle the `PortUnreachableException`. Here's an example:
 
@@ -68,7 +68,7 @@ try {
 
 In this block of code, we're attempting to receive a datagram packet on a specific port. If that port is unreachable, it will throw a `PortUnreachableException`, which we handle and give relevant feedback to the user.
 
-### **Preventive Measures:**
+### Preventive Measures:
 
 1. **Checking port status before sending data**: We can eliminate most cases of `PortUnreachableException` by validating the recipient's port status before trying to send data.
 
@@ -81,7 +81,7 @@ The understanding of such exceptions and how to handle them empowers you to writ
 
 Remember, exceptional handling is one of the key skill sets of a competent Java coder. Make sure that you invest sufficient time to understand and practice these concepts. 
 
-## **References**
+## References
 
 1. [Oracle Java Documentation](https://docs.oracle.com/javase/7/docs/api/java/net/PortUnreachableException.html)
 2. [Java Network Programming - Elliotte Rusty Harold](http://www.freetechbooks.com/java-network-programming-t975.html)
