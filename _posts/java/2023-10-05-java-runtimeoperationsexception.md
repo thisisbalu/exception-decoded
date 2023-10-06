@@ -87,7 +87,6 @@ This post walked you through the use and handling of `RuntimeOperationsException
 
 ## References
 
-1. [Oracle Java Documentation - RuntimeOperationsException](https://docs.oracle.com/javase/7/docs/api/javax/management/RuntimeOperationsException.html)
-2. [Java Exception Handling Guide](https://www.baeldung.com/java-exceptions)
+[Oracle Java Documentation - RuntimeOperationsException](https://docs.oracle.com/javase/7/docs/api/javax/management/RuntimeOperationsException.html)
 
 This post aims to offer a sneak peek into `RuntimeOperationsException` to seasoned developers and neophytes in Java. Stay tuned for more intricate Java exception-handling articles!
