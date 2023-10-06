@@ -1,6 +1,5 @@
 ---
-title: "Mastering Spring's Environment Exception: Understanding It, Solving It, and Turning Bugs into Features 
-Reference links"
+title: "Mastering Spring's Environment Exception: Understanding It, Solving It, and Turning Bugs into Features"
 date: 2023-10-05 20:32:07 -0000
 categories: [Spring, spring-cloud]
 tags: [spring, spring-unchecked, org.springframework.cloud.config.server.environment]
@@ -79,6 +78,4 @@ We hope this segment assisted you in understanding `EnvironmentException` better
 
 1. [Oracle - Naming and Directory Interface](https://docs.oracle.com/en/java/javase/14/docs/api/java.naming/javax/naming/NamingException.html)
 2. [Spring - Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
-3. [Stackoverflow - Solving EnvironmentException](https://stackoverflow.com/questions/22816335/java-lang-classcastexception-com-sun-enterprise-naming-impl-serialcontext-canno)
 
-[Back to top](#mastering-springs-environment-exception-understanding-it-solving-it-and-turning-bugs-into-features)
