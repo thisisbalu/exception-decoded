@@ -86,5 +86,3 @@ For more insights on the discussed concepts, here are some helpful references:
 
 - [Official Spring Retry Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html)
 - [Spring @Retryable and @Recover](https://www.baeldung.com/spring-retry)
-
-Make sure you join us next time, when we'll discussing robust error handling strategies using Spring. Until then, keep learning and happy coding!
