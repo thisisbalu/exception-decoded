@@ -76,5 +76,4 @@ From definitions, detection, handling, to prevention, be sure to reference this 
 
 _References:_
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/)
-2. [Spring Exception Handling - Baeldung](https://www.baeldung.com/spring-exception-handling)
-3. [Java Exception Handling](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
+2. [Java Exception Handling](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
