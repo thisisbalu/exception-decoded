@@ -1,6 +1,5 @@
 ---
-title: "Understanding and Handling AbsentInformationException in Java
-References"
+title: "Understanding and Handling AbsentInformationException in Java"
 date: 2023-10-07 01:39:28 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
