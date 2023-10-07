@@ -1,7 +1,5 @@
 ---
-title: "How to Successfully Navigate RepeatException in Spring: Unraveling the Mystery with Code Examples
-Handling RepeatException
-Conclusion"
+title: "How to Successfully Navigate RepeatException in Spring: Unraveling the Mystery with Code Examples"
 date: 2023-10-07 16:07:43 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.repeat]
@@ -15,7 +13,7 @@ If you're building applications with the Spring framework, chances are you've en
 Before diving into the main topic, we need to understand what exactly is `RepeatException.` It's a runtime exception in Spring Batch used to report errors during the execution of repetitive operations.
 
 Here's an example of how the `RepeatException` is typically used in code:
-```
+```java
 RepeatStatus execute(StepContribution contribution, ChunkContext chunkContext) throws Exception{
    try {
       // code that might throw an exception
@@ -119,7 +117,5 @@ This exploration of `RepeatException` should help you understand its occurrence,
 ## References:
 
 - [Spring Batch Exception Handling](https://docs.spring.io/spring-batch/docs/current/reference/html/step.html#exception-handling)
-
 - [Spring Batch Retry Beyond Config](https://docs.spring.io/spring-batch/docs/current/reference/html/retry.html)
-
 - [Spring Skip Exception Handling](https://www.baeldung.com/spring-batch-skip-exception)
