@@ -73,7 +73,7 @@ In this example, if the MBean with the same name already exists in the `MBeanSer
 
 We hope this article helps to clarify the `KeyAlreadyExistsException` in Java. Remember, always consider the appropriate data structures suitable for your needs and keep an eye on exception handling to keep your application robust, even in unexpected situations.
 
-### References
+## References
 
 1. [Java Doc - KeyAlreadyExistsException](https://docs.oracle.com/cd/E19879-01/819-4712/6n6s5mm64/index.html)
 2. [Java Management Extensions(JMX) - Oracle Docs](https://docs.oracle.com/javase/tutorial/jmx/index.html)
