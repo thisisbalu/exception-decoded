@@ -106,11 +106,11 @@ Ensure the JVM has sufficient memory to load the attachment content without bein
 java -Xmx512m -jar mySpringApp.jar
 ```
 
-**Conclusion**
+## Conclusion
 
 Handling `SaajAttachmentException` in Spring doesn't have to be a daunting task. With a meticulous approach, an apt understanding of the error, and well-designed exception handling, you can combat this exception effectively, ensuring a smooth and seamless operation on your Spring app.
 
-*References:*
+## References
 
 1. [SOAP with Attachments API for Java (SAAJ) - Oracle Help Center](https://docs.oracle.com/javase/tutorial/jaxws/saaj.html)
 2. [Exception Hierarchy - Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#exception-heirarchy)
