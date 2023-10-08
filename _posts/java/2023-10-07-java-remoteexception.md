@@ -95,7 +95,7 @@ Java RemoteException is an indispensable topic when you're dealing with Remote M
 
 Hopefully, this article provided you with concrete insight into the definition, cause, handling, and best practices for avoiding RemoteExceptions. Happy coding!
 
-***REFERENCES:***
+## REFERENCES
 
 - The Java™ Tutorials by Oracle:  
   - [RMI Overview](https://docs.oracle.com/en/java/javase/14/docs/specs/rmi/overview.html)
