@@ -10,7 +10,7 @@ toc: true
 
 As an experienced Java programmer, dealing with various exceptions is part of our day-to-day coding activities. Among these, the `KeyAlreadyExistsException` is one of those exceptions which could be a little confusing if not fully understood. This article aims to shed light on this exception, discussing when and how it can occur and, more importantly, how to handle it. 
 
-## 1. What is KeyAlreadyExistsException? 
+## What is KeyAlreadyExistsException? 
 
 `KeyAlreadyExistsException` is part of the Java Management Extensions (JMX) API and signifies a situation where you’re trying to add an object to a list that already contains an object with the same key. In essence, it signals duplicated keys in a key-value pair (map structure).
 
@@ -22,7 +22,7 @@ throw new KeyAlreadyExistsException("Key already exists!");
 
 This hint of code will cause a `KeyAlreadyExistsException`. By convention, you’d expect a Map to discharge an error or an exception if you give it a key it already has in play. However, that's not the case in Java. 
 
-## 2. Why does KeyAlreadyExistsException Not Occur With Java Maps? 
+## Why does KeyAlreadyExistsException Not Occur With Java Maps? 
 
 Java Maps allow overwriting values for existing keys, without throwing a `KeyAlreadyExistsException`. Consider the following Map example:
 
@@ -34,7 +34,7 @@ map.put("key","value2");
 
 An ordinary Map in Java would accept this, overwriting `value1` with `value2` for `key`. However, there may be times when a unique-key guarantee on a map is required. This is when the `KeyAlreadyExistsException` from JMX would typically come into play.
 
-## 3. When Might You Encounter KeyAlreadyExistsException?
+## When Might You Encounter KeyAlreadyExistsException?
 
 As seen above, you won't encounter `KeyAlreadyExistsException` while working with a standard Java Map. However, the JMX API, which provides tools for building distributed, scalable, and modular services, uses it. 
 
@@ -55,7 +55,7 @@ try {
 }
 ```
 
-## 4. How to Handle KeyAlreadyExistsException?
+## How to Handle KeyAlreadyExistsException?
 
 Whether it's this or any other exception, the ideal way of dealing with exceptions in Java is by using `try-catch` blocks. Here's a typical illustrative example of how you could handle a `KeyAlreadyExistsException`.
 
