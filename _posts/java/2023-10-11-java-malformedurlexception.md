@@ -119,6 +119,4 @@ In conclusion, despite being a subdued exception in the Java family, `MalformedU
 2. [Java URL Handling Guide - Oracle](https://www.oracle.com/java/technologies/javase-documentation.html)
 3. [Java Exception List - GeeksforGeeks](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/)
 
-Happy coding, Java ninjas!
-
-**Disclaimer**: The examples provided in the article are for learning purposes. There are multiple ways to handle and prevent `MalformedURLException`. The approach would change based on specific project requirements.
+Happy coding, Java ninjas! My Ninja Way!!
