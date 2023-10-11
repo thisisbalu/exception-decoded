@@ -7,17 +7,7 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Welcome to this comprehensive technical guide about handling the `MongoDataIntegrityViolationException` in Spring Framework. In today's article, we are going to shed light on a critical aspect of Spring web development that can often prove to be a bottleneck for many developers. 
-
-## Table of Contents
-- What is MongoDataIntegrityViolationException?
-- When does this exception occur?
-- How to handle the exception?
-- Real-life code examples
-- Conclusion
 
 ## What is MongoDataIntegrityViolationException?
 The `MongoDataIntegrityViolationException` is a subtype of `DataAccessException`, thrown by the Spring's Mongo Data Access Object(DAO) when detecting an attempt to violate data integrity constraints. In a more straightforward language, this exception occurs when you try to save or update a document in a way that violates the schema defined on your MongoDB database.
@@ -87,12 +77,6 @@ Armed with this knowledge, handling `MongoDataIntegrityViolationException` in Sp
 1. [Spring Data MongoDB - Exception Translation](https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#mongodb.error.handling.exception.translation)
 2. [Spring Framework - DataAccessException Hierarchy](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/DataAccessException.html)
 
---- 
-
 Thank you for reading. I hope you found the above article about MongoDataIntegrityViolationException in Spring useful. Don't forget to leave your comments and share the blog with your friends and co-developers. The more people understand common exceptions like `MongoDataIntegrityViolationException`, the simpler their coding journey becomes. If you have any questions, feel free to share them in the comments section below, and I will be more than happy to help.
 
 Until next time, Happy Coding!
-
----
-
-Tags: #SpringFramework, #MongoDB, #DataAccess, #MongoDataIntegrityViolationException, #Java, #SpringBoot, #DealingWithDataExceptions
