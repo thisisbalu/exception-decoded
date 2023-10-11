@@ -83,11 +83,11 @@ Establish sound practices when writing your queries and mapping your entity rela
 
 Handling exceptions is a crucial skill in software development. This guide is an attempt to help you in resolving one of those tricky ones - the InvalidDataAccessResourceUsageException in Spring framework. Always ensure to check your SQL syntax, cross-verify your mapping, and keep an eye out for any modifications in your database schema. Practice good coding standards, and bear in mind that bug-free code is rarely an accident; it's a result of careful planning, testing, and debugging.
 
-\*\*The examples provided in this article are derived from the Spring Data JPA documentation which can be found [here](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) for better understanding and in-depth learning.
+> The examples provided in this article are derived from the Spring Data JPA documentation which can be found [here](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) for better understanding and in-depth learning.
 
 Remember, every error leaves us with some learning. Happy debugging!
 
-**Additional Resources**
+## Additional Resources
 - [Spring Data JPA Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
 - [Spring InvalidDataAccessResourceUsageException API Documentation](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/InvalidDataAccessResourceUsageException.html)
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
