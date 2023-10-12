@@ -78,15 +78,3 @@ Spring is an expansive framework, and it's gusty winds of exceptions and intrica
 2. [Java Documentation](https://docs.oracle.com/en/java/)
 
 Hope this article shed some light on the dark corners of `NonTransientResourceException` exception in the Spring ecosystem. Until next time, happy coding!
-
----
-
-**Disclaimer:** All of the code examples provided in this post are illustrative. They may not work out-of-the-box if you just copy and paste into your codebase. Always ensure you understand what the code does before using it in your own applications.
-
----
-
-Articles you may also find interesting:
-
-* [Understanding The Spring Boot Auto Configuration](#)
-* [Dive Deep into Java: Unraveling ClassNotFoundException](#)
-* [Making the most of Spring's RestTemplate](#)
