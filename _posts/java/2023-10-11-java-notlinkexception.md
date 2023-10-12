@@ -21,7 +21,7 @@ public class NotLinkException
         extends FileSystemException
 ```
 
-## When does `NotLinkException` occur?
+## When does NotLinkException occur?
 
 The `NotLinkException` is primarily thrown by two methods:
 
@@ -53,7 +53,7 @@ try {
 ```
 In the above code, the `readSymbolicLink` method is invoked on a simple file "sample.txt". Consequently, a `NotLinkException` would be thrown, eventually being caught by the IOException catch block.
 
-## Handling the `NotLinkException`
+## Handling the NotLinkException
 
 The ideal exception handling mechanism in Java is a try-catch block. However, it's critical to remember that `NotLinkException` is a checked exception, which signifies that the Java compiler will mandate you to either catch it using a catch clause or declare it using the throws keyword.
 
