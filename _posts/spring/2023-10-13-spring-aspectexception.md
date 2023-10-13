@@ -81,9 +81,5 @@ With this tutorial, our aim has been to make you as well equipped with `AspectEx
 ## References
 
 [^1^]: [https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/aspectj/AspectException.html](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/aspectj/AspectException.html)
-
 [Spring AOP documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
-
 [AspectJ documentation](https://www.eclipse.org/aspectj/doc/released/progguide/index.html)
-
-_Remember to check out the Spring Framework and AspectJ documentation for more detailed information._
