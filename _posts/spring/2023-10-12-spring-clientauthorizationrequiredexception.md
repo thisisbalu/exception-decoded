@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
----
-
-
----
-
 When working with the Spring framework, a paradigm shift often emerges. You start to transition from just coding away to attempting to unravel the nuances of individual exceptions and exploring the entire ecosystem of Spring. In this article, we will scrape off the plight of the `ClientAuthorizationRequiredException` encountered in Spring Security OAuth2.
 
 The `ClientAuthorizationRequiredException` typically gets thrown when an OAuth 2.0 authorization request is being executed by the OAuth2 client but no current client authorization is available. It signifies a missing prerequisite before an OAuth2 client can perform certain tasks.
@@ -21,18 +16,6 @@ The `ClientAuthorizationRequiredException` typically gets thrown when an OAuth 2
 - Basic knowledge of Java programming language
 - Familiarity with the Spring framework
 - Understanding of OAuth2
-
----
-
-## Table of Contents
-
-- [Understanding the ClientAuthorizationRequiredException](#understanding-the-clientauthorizationrequiredexception)
-- [Situational Appearance of the Exception](#situational-appearance-of-the-exception)
-- [Mitigating the Exception](#mitigating-the-exception)
-- [Tips to Avoid the Exception](#tips-to-avoid-the-exception)
-- [Wrapping Up](#wrapping-up)
-
----
 
 ## Understanding the ClientAuthorizationRequiredException
 
@@ -113,9 +96,7 @@ In this code snippet, the custom failure handler checks if the `AuthorizationFai
 Now that you have an understanding of what triggers a `ClientAuthorizationRequiredException` and how to tame it, your journey with Spring Security would be a little less complicated. Remember, exceptions are not a catastrophe; they’re only road signs that guide us towards the correct solution.
 
                                                                                        
-
-//------------------------------------------------------------------------------
-References:
+## References
 - [Spring Security Documentation](https://docs.spring.io/spring-security/site/docs/current/reference/html5/)
 - [Spring OAuth2 Client](https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2)
 - [Authorization Server](https://tools.ietf.org/html/rfc6749#section-3.1)
