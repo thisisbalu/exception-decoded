@@ -101,5 +101,3 @@ After reading this step-by-step guide, whether you're a beginner or an experienc
 ## References
 1. [Java Virtual Machine - Oracle Docs](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-1.html)
 2. [AttachNotSupportedException API - Oracle Docs](https://docs.oracle.com/javase/8/docs/jdk/api/attach/spec/com/sun/tools/attach/AttachNotSupportedException.html)
-
-Becoming a master of handling exceptions and errors in Java is a valuable skill. Happy coding!
