@@ -10,9 +10,7 @@ toc: true
 
 In this in-depth programming piece, we unwrap the complexities surrounding the `InvalidPreferencesFormatException` in Java. This exception often appears a bit of a mystery to beginners and seasoned developers alike – and it's no surprise why. So, let's clear up the uncertainty with some real-time examples and best practices.
 
-_
-
-Java, the evergreen programming language, houses a multitude of exception handling methodologies. One such exception class is the `InvalidPreferencesFormatException`. As the name suggests, this runtime exception pops up when an error occurs during preference import or export.
+Java, the evergreen programming language, houses a multitude of exception-handling methodologies. One such exception class is the `InvalidPreferencesFormatException`. As the name suggests, this runtime exception pops up when an error occurs during preference import or export.
 
 This article seeks to expose the workings of this exception, underpinning it with code examples to facilitate comprehension. Grab your favorite cup of java (pun intended), and let's navigate through this fascinating aspect of Java programming.
 
@@ -20,7 +18,7 @@ This article seeks to expose the workings of this exception, underpinning it wit
 
 `InvalidPreferencesFormatException` derives from the `java.util.prefs` package. As a subclass of `Exception`, it belongs to the Java Exceptions Framework that tackles runtime anomalies.
 
-This exception occurs when your program attempts to read preferences from a XML document, and the document's format doesn't comply with the Preferences API's Document Type Definition (DTD) or when some other form of XML-related error occurs.
+This exception occurs when your program attempts to read preferences from an XML document, and the document's format doesn't comply with the Preferences API's Document Type Definition (DTD) or when some other form of XML-related error occurs.
 
 As per the JavaDoc documentation, the two chief constructors for this class are as follows:
 
@@ -95,7 +93,7 @@ In a nutshell, understanding the various exceptions in Java, such as the `Invali
 
 While exceptions are typically a hurdle we like to avoid, getting acquainted with them can only make us more adept Java programmers. Happy coding!
 
-**References:**
+## References
 1. [Java Official Documentation on InvalidPreferencesFormatException](https://docs.oracle.com/javase/7/docs/api/java/util/prefs/InvalidPreferencesFormatException.html)
 2. [JavaTpoint: How to Use Preferences](https://www.javatpoint.com/java-preferences)
 3. [Java Code Geeks: Java Prefs Example](https://examples.javacodegeeks.com/desktop-java/java-util-preference-example/)
