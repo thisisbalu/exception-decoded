@@ -85,11 +85,7 @@ As you continue to polish your Java skills and explore its hidden corners, under
 
 Take the leap, practice handling this exception, and evolve your journey towards becoming an exception(al) Java programmer! For more insights into the realm of Java, stay tuned. 
 
-------
 **References**:
 
 [Java Oracle Documentation - OpenDataException](https://docs.oracle.com/javase/7/docs/api/javax/management/openmbean/OpenDataException.html)
-
 [Handling Java Exceptions – The Ultimate Guide](https://stackify.com/specify-handle-exceptions-java/)
-
-[Best practices for exception handling in Java or J2EE](https://javarevisited.blogspot.com/2009/09/best-practices-while-dealing-with.html)
