@@ -20,7 +20,7 @@ Let’s take a closer look at the official definition from Spring's documentatio
 
 > `public class HttpMessageConversionException extends NestedRuntimeException`
 
->“Exception thrown when an error occurs during HTTP message conversion.”
+> “Exception thrown when an error occurs during HTTP message conversion.”
 
 In simpler terms, the exception is thrown when there is an issue with the conversion of the HTTP request or response. This situation usually occurs when we're trying to send or receive data that cannot be converted to or from the HTTP format.
 
@@ -78,4 +78,3 @@ That’s all for this guide on handling the HTTPMessageConversionException in Sp
 
 - Spring Official Documentation: [HttpMessageConversionException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/converter/HttpMessageConversionException.html)
 - Spring Boot: [Exception Handling](https://spring.io/guides/gs/actuator-service/)
-- Baeldung Tutorial: [Exception Handling in Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
