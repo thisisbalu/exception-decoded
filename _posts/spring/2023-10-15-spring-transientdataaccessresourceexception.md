@@ -10,13 +10,6 @@ toc: true
 
 Part of adopting any new framework involves learning to manage its typical exceptions. In the sprawling world of the Spring Framework for Java, this can seem like an intimidating task. Especially when you encounter persistent issues tied to complex intricacies such as the `TransientDataAccessResourceException`. By the end of this interactive walkthrough, we promise to make you proficient in addressing this surprisingly common exception. 
 
-## Table of Contents
-- Understanding TransientDataAccessResourceException 
-- Typical Triggers: When does it occur?
-- Case studies with Code Examples 
-- Handling TransientDataAccessResourceException
-- Reference Links 
-
 ## Understanding TransientDataAccessResourceException 
 
 First off, let's break down this mouthful term. `TransientDataAccessResourceException` is a `DataAccessException` thrown by Spring's exception hierarchy. This particular exception comes into picture when a previously failed operation might be able to succeed if your application thread retries it[[1]](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/TransientDataAccessResourceException.html).
