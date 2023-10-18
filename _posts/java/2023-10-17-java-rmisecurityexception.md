@@ -67,5 +67,3 @@ Some of the information about the RMISecurityException used in this article were
 - [Java™ Platform, Standard Edition 7 API Specification](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
   
 Stay tuned to learn about concurrency issues, exception handling, the library ecosystem, JVM internals, and get equipped to write high-performing Java applications!
-
-_Public Note_: This discussion only covers the `RMISecurityException` and not the wider topic of Java security. Java security involves intricate features such as the security manager, the bytecode verifier, and the sandbox model. It is recommended to carry out a detailed study for understanding it in its entirety.
