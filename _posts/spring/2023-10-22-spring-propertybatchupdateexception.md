@@ -1,6 +1,6 @@
 ---
 title: "Unraveling the Secrets of PropertyBatchUpdateException in Spring Framework "
-date: 2023-10-18 23:10:58 -0000
+date: 2023-10-22 23:10:58 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans]
 mermaid: true
