@@ -1,6 +1,6 @@
 ---
 title: "Understanding and Tackling the LambdaConversionException in Java"
-date: 2023-10-18 22:03:02 -0000
+date: 2023-10-19 22:03:02 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.lang.invoke, java-se]
 mermaid: true
