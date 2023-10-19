@@ -1,6 +1,6 @@
 ---
 title: "Unraveling the Secrets of PropertyBatchUpdateException in Spring Framework "
-date: 2023-10-18 22:10:58 -0000
+date: 2023-10-18 23:10:58 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans]
 mermaid: true
@@ -9,8 +9,6 @@ toc: true
 
 
 Greetings Spring enthusiasts! Have you encountered a `PropertyBatchUpdateException` while working with the Spring framework? If yes, then this post is just what you need. We will cover the nitty-gritty of `PropertyBatchUpdateException`, its causes and solution, and wrap it up with some code examples to bring the concept into perspective.
-
-<sub>_(keywords: **Spring Framework**, **PropertyBatchUpdateException**, **Java**, **Spring Boot**, **data binding**, **form submission processing**)_</sub>
 
 ## What is PropertyBatchUpdateException?
 
@@ -98,9 +96,3 @@ public class GlobalExceptionHandler {
 With the combination of *Spring’s web request binding* and *JSR 303 Bean Validation*, you can manage a significant part of the data binding errors, including `PropertyBatchUpdateException`.
 
 Refer to the official Spring documentation [here](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans) and [here](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-initbinder) for a more detailed grasp on `PropertyBatchUpdateException` and how `@InitBinder` works.
-
----
-
-With this, we unravel the secrets behind `PropertyBatchUpdateException` in the Spring framework. As a developer, don't just solve problems; decode them. Happy decoding!
-
-<sub>_(Article keywords: **Spring Framework**, **PropertyBatchUpdateException**, **Java**, **Spring MVC**, **data binding**, **form submission processing**)_</sub>
