@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 Java is a widely used and highly versatile programming language, known for its rich set of libraries, robust community support and intriguing features. One such feature is Lambda expressions introduced in Java 8. As software developers, we often come across various exceptions while coding and one such exception related to lambda expressions is `LambdaConversionException`. 
 
 This article offers a deep dive into the `LambdaConversionException`, how it arises, and how we deal with it. We will be sharing numerous code snippets and illustrations to make your learning experience more engaging and enlightening.
@@ -16,7 +15,7 @@ This article offers a deep dive into the `LambdaConversionException`, how it ari
 
 Before proceeding, it is important to understand what a `LambdaConversionException` is. From Oracle's official Java docs:
 
-> `LambdaConversionException` is an unchecked exception, used to indicate that the conversion of a lambda expression (or method reference) to a functional interface type (by method invocation conversion) cannot be done as according to the language's specification.
+> `LambdaConversionException` is an unchecked exception, used to indicate that the conversion of a lambda expression (or method reference) to a functional interface type (by method invocation conversion) cannot be done according to the language's specification.
 
 Simply put, `LambdaConversionException` arises when there is a failure in the conversion of a lambda expression or a method reference into a functional interface type. 
 
@@ -88,6 +87,3 @@ Happy coding, and may your lambda expressions always be error-free!
 1. [Oracle Java Docs](https://docs.oracle.com/javase/8/docs/api/java/lang/invoke/LambdaConversionException.html)
 2. [Understanding Lambda Expressions](https://www.oracle.com/corporate/features/understand-java-8-lambda-expressions.html)
 3. [Java 8 Functional Interfaces](https://www.baeldung.com/java-8-functional-interfaces)
-
----------------
-Hope this article helped you! If there are other Java exceptions you'd like us to explain, feel free to leave a comment below. If you found this article helpful, don't forget to share it with your friends and colleagues. Until next time, keep breaking and making (codes)! Good luck!
