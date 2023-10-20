@@ -87,6 +87,5 @@ Additional resources for further reading or reference:
 + Oracle Java SE Documentation: [`InternalError`](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/InternalError.html)
 + Oracle Java SE Documentation: [`VirtualMachineError`](https://docs.oracle.com/javase/8/docs/api/java/lang/VirtualMachineError.html)
 + Oracle Java SE Documentation: [`Error`](https://docs.oracle.com/javase/8/docs/api/java/lang/Error.html)
-+ [StackOverflow: Handling an InternalError](https://stackoverflow.com/questions/352780/what-causes-java-lang-internalerror-java-lang-reflect-invocationtargetexception)
 
 Keep Reading, Keep Coding!
