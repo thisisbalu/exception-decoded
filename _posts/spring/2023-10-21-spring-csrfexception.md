@@ -7,12 +7,7 @@ mermaid: true
 toc: true
 ---
 
----
-
-
 _As a developer, barriers in the form of exceptions can cut short our sprinting code. One such hurdle, the notorious CsrfException in the Spring Framework, presents its challenges. By better understanding and knowing how to resolve this exception, we can maintain a steady stride in creating efficient Spring applications._
-
----
 
 Cross-Site Request Forgery (CSRF) is a form of attack that forces an end user to execute undesirable actions in a web application in which they're authenticated. If left unchecked, this can lead to unwanted and potentially dangerous effects. 
 
@@ -20,7 +15,6 @@ In this handy guide, we will dissect CsrfException and learn how to resolve this
 
 ## Understanding CsrfException in Spring
 
-![Enter image description here](https://)
 In the Spring Security ecosystem, CsrfException is thrown when a CSRF token is either missing or incorrect. This exception usually arises when you are working with forms and fail to include a CSRF token in the form data.
 
 Here's an example of the exception message you may encounter:
@@ -89,7 +83,3 @@ We hope this guide has managed to throw some light on dealing with CsrfException
 1. [csrf](https://docs.spring.io/spring-security/site/docs/current/reference/html5/#servlet-csrf) in Spring Security Reference
 2. [Spring Security — CSRF Protection](https://www.baeldung.com/spring-security-csrf)
 3. [Spring MVC + Spring Security with pure Java Config](http://spring.io/blog/2013/07/04/spring-security-java-config-preview-csrf-protection/)
-
----
-
-Let me know in the comments if you have any questions or if there's anything else about Spring Security you're interested in learning more about. If you found this guide useful, feel free to share it with your colleagues!
