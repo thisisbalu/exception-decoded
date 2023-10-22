@@ -124,6 +124,3 @@ Comprehending what CharacterCodingException is, in what situations it comes abou
 ## References
 1. [Oracle Documentation on CharacterCodingException](https://docs.oracle.com/javase/7/docs/api/java/nio/charset/CharacterCodingException.html)
 2. [Official Java Documentation](https://docs.oracle.com/en/java/)
-3. [Java Code Examples for java.nio.charset.CharacterCodingException](https://www.programcreek.com/java-api-examples/)
-
-Note: Using "CharacterCodingException in Java", proper code examples, and technical tone in this blog post will help to generate organic traffic and please search engine algorithms. I have also included references to add credibility to our post, and the content is optimized to engage technical developers and promote sharing within their circles.
