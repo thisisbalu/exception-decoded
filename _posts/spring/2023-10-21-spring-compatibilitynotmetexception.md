@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 If you've been using Spring Framework for your Java applications, chances are, you've probably come across different types of exceptions. One such exception is the CompatibilityNotMetException. This article dives deep into understanding what CompatibilityNotMetException is all about and how to handle it efficiently.
 
 ## What is CompatibilityNotMetException?
@@ -74,8 +73,6 @@ Remember, next time you're faced with CompatibilityNotMetException in your Sprin
 
 Happy Coding!
 
-#### References
+## References
 1. [Spring Framework Docs](https://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/)
 2. [Spring Data MongoDB](https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/)
-3. [Maven Central Repository](https://mvnrepository.com/)
-4. [CompatibilityNotMetException in Stack Overflow](https://stackoverflow.com/)
