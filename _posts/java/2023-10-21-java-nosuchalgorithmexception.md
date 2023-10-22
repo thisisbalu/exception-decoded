@@ -1,5 +1,5 @@
 ---
-title: "Demystifying NoSuchAlgorithmException in Java: What it is and Ways to Deal with it "
+title: "NoSuchAlgorithmException in Java: What it is and Ways to Deal with it "
 date: 2023-10-26 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.security, java-se]
@@ -9,15 +9,6 @@ toc: true
 
 
 The intricate world of programming relies heavily on handling exceptions to ensure a smooth application run. While scripting in Java, you might have encountered a particular type of exception known as `NoSuchAlgorithmException`. This article dives deep into `NoSuchAlgorithmException`, its causes, consequences, and the various ways to manage it. Let's gear up!
-
-## Table of Contents
-
-- [Understanding Exceptions in Java](#Understanding-Exceptions-in-Java)
-- [Introduction to NoSuchAlgorithmException](#Introduction-to-NoSuchAlgorithmException)
-- [Causes of NoSuchAlgorithmException](#Causes-of-NoSuchAlgorithmException)
-- [Resolving NoSuchAlgorithmException](#Resolving-NoSuchAlgorithmException)
-- [Real-Life Coding Examples](#Real-Life-Coding-Examples)
-- [Conclusion](#Conclusion)
 
 ## Understanding Exceptions in Java
 
@@ -111,5 +102,3 @@ I hope this article helped you in getting a better understanding of `NoSuchAlgor
 1. [Exception Handling](https://docs.oracle.com/javase/tutorial/essential/exceptions/) - Oracle Docs
 2. [List of Cryptographic Algorithms](https://en.wikipedia.org/wiki/List_of_cryptographic_key_types) - Wikipedia
 3. [Java Secure Coding](https://www.oracle.com/java/technologies/javase/seccodeguide.html) - Oracle Docs
-
-_Disclaimer: It is essential to handle exceptions efficiently and hence keep enhancing your skills in exception handling in Java. This article content is carefully curated for educational purposes only. While trying the code examples, ensure to follow the correct guidelines for programming in Java._
