@@ -18,7 +18,7 @@ Although `RangeException` doesn't exist directly in standard Java, understanding
 
 Let's explore them individually.
 
-### **ArrayIndexOutOfBoundsException**
+### ArrayIndexOutOfBoundsException
 
 This exception is thrown to indicate that an array has been accessed with an illegal index. The index is either negative or greater than or equal to the size of the array.
 
@@ -33,7 +33,7 @@ class Main {
 }
 ```
 
-### **StringIndexOutOfBoundsException**
+### StringIndexOutOfBoundsException
 
 This exception is a subtype of `IndexOutOfBoundsException` and usually occurs when you try to access character from a string with an invalid index.
 
@@ -48,7 +48,7 @@ class Main {
 }
 ```
 
-### **IndexOutOfBoundsException**
+### IndexOutOfBoundsException
 
 This exception is the superclass of `ArrayIndexOutOfBoundsException` and `StringIndexOutOfBoundsException`. Any attempt to access an array or string with an index value that falls outside of its valid range will result in this exception. 
 
@@ -58,7 +58,7 @@ There are proven ways to handle Range-like exceptions in Java. The two most comm
 1. Checking the index before using it.
 2. Using `try-catch` block.
 
-### **Checking the index before using it**
+### Checking the index before using it
 
 The first and easiest way to prevent such exceptions is by making sure that the index is within the valid range before using it.
 
@@ -75,7 +75,7 @@ class Main {
   }
 }
 ```
-### **Using try-catch block**
+### Using try-catch block
 
 In Java, we have a mechanism to handle exceptions, known as `try-catch`. It works by capturing the exception in the `try` block and handling it in the `catch` block.
 
@@ -103,8 +103,7 @@ Remember, as the popular saying goes, the best way to become an expert is by pra
 
 Happy Coding!
 
-##### References:
+## References:
 
 1. [Oracle Java Documentation](https://docs.oracle.com/en/java/)
 2. [Oracle Java Tutorials – Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
-3. [Java Exception Handling Guide](http://www.tutorialspoint.com/java/java_exceptions.htm).
