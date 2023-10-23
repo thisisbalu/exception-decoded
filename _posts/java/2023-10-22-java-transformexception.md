@@ -7,21 +7,7 @@ mermaid: true
 toc: true
 ---
 
----
-
-
----
-
 Java is a versatile and powerful programming language widely used for creating complicated enterprise-grade applications. However, like all programming languages, it comes with its challenges - one of them being exceptions. In this blog post, we'll take a deep dive into one of these exceptions - the `TransformException`. After reading, you'll be well-versed in what a TransformException in Java is, why it occurs, and how to handle it. So, let's get started!
-
-### Table of Contents
-1. Understanding TransformException
-2. Reasons for A TransformException
-3. Handling TransformException
-4. Conclusion
-5. References
-
----
 
 ## Understanding TransformException:
 
@@ -42,7 +28,6 @@ try {
 }
 ```
 
----
 ## Reasons for A TransformException:
 
 A `TransformException` generally occurs due to:
@@ -51,7 +36,6 @@ A `TransformException` generally occurs due to:
 2. Errors in the transformation instructions.
 3. Inability to access or process either the Source or the Result.
 
----
 
 ## Handling TransformException:
 
@@ -95,16 +79,12 @@ In the catch block, we print out a custom error message along with `te.getMessag
      }
      ```
 
----
 ## Conclusion:
 
 We have just explored one of the common exceptions Java developers come across - the `TransformException`. Understanding the nature of this exception and how to handle it effectively is crucial to creating robust, enterprise-level applications. Remember, while exceptions can be intimidating at first, they exist to help us write better code. All it takes is a bit of patience and practice to learn how to manage them effectively.
 
----
 
 ## References:
 
 - [Oracle docs - TransformerException](https://docs.oracle.com/javase/7/docs/api/javax/xml/transform/TransformerException.html)
 - [Java API for XML Processing](https://www.oracle.com/technical-resources/articles/javase/jaxp.html)
-
----
