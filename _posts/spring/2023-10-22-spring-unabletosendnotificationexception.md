@@ -97,5 +97,3 @@ Remember, the principle of handling this exception relies on good programming pr
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 2. [Java Management Extensions (JMX) - Oracle Docs](https://docs.oracle.com/javase/tutorial/jmx/index.html)
 3. [Runtime Exception Handling in Java - Oracle Docs](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
-
-_Note: Code snippets in this post are for illustrative purposes only and may not be functional in a stand-alone app._
