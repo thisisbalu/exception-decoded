@@ -10,8 +10,6 @@ toc: true
 
 Exploring and unlocking the potential of the powerful SkipPolicyFailedException in Spring Batch, through code examples and intricate details you must know!
 
----
-
 In the ocean of batch processing, the Spring Batch framework is undoubtedly one of the most convenient, powerful, and versatile tools developers hold dear. Its carefully crafted programming model handy for large volume applications, cloud-based functionality, and extensive set of services and APIs are a testament to its prowess. However, to harness Spring Batch fully, it is crucial to understand various exceptions and how to handle them. This article aims to deep dive into the `SkipPolicyFailedException`.
 
 ## What is the SkipPolicyFailedException?
@@ -94,7 +92,3 @@ While Spring Batch can seem overwhelming given its expansive nature, focusing on
 - [SkipPolicyFailedException](https://www.javadoc.io/doc/org.springframework.batch/spring-batch-infrastructure/latest/org/springframework/batch/core/step/skip/SkipPolicyFailedException.html)
 
 Stay tuned for more technical deep-dives into the alluring world of Spring Batch!
-
----
-
-**Disclaimer: The code snippets in this article serve for illustrative purposes and might not be fully functional or free from bugs. Always test your code thoroughly before deploying.**
