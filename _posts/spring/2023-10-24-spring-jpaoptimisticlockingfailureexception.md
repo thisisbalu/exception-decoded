@@ -10,19 +10,7 @@ toc: true
 
 Do you keep getting a `JpaOptimisticLockingFailureException` while working with the Spring Framework? Don't you worry! This exception, although initially intimidating, can be resolved using smart, effective coding strategies. In this comprehensive guide, we will dig into the nitty-gritty of `JpaOptimisticLockingFailureException`, why it occurs, and how to handle it effectively. 
 
-## Table of contents
-
-1. Understanding JpaOptimisticLockingFailureException
-2. Why it happens
-    1. Unmanaged concurrent access
-    2. Stale data in session state
-3. Handling JpaOptimisticLockingFailureException
-    1. Using Optimistic locking
-    2. Using Pessimistic locking
-4. Examples
-5. Conclusion
-
-## 1. Understanding JpaOptimisticLockingFailureException
+## Understanding JpaOptimisticLockingFailureException
 
 `JpaOptimisticLockingFailureException` is a `javax.persistence.OptimisticLockException` sub-type, specific to JPA-based data access. Spring's DataAccessException hierarchy bridges the gap between various persistence technologies like JDBC, Hibernate, JPA or JDO and Spring's exception handling strategy, allowing the Spring data access framework exceptions to get translated seamlessly to the technology specific exceptions like JpaOptimisticLockingFailureException.
 
@@ -32,7 +20,7 @@ public class JpaOptimisticLockingFailureException
 ...
 ```
 
-## 2. Why It Happens
+## Why It Happens
 
 Before we dive into solutions, let's clarify why you'd encounter this exception in the first place. The following are common causes:
 
@@ -73,7 +61,7 @@ Entity staleEntity = originalEntity;
 repository.save(staleEntity); // Throws JpaOptimisticLockingFailureException
 ```
 
-## 3. Handling JpaOptimisticLockingFailureException
+## Handling JpaOptimisticLockingFailureException
 
 Spring provides two different ways to solve the `JpaOptimisticLockingFailureException`, one by being optimistic (Optimistic Locking) and the other by being pessimistic (Pessimistic Locking).
 
@@ -95,7 +83,7 @@ Pessimistic Locking involves using database-specific locking mechanisms to lock 
 Entity getEntityForUpdate(Long id);
 ```
 
-## 4. Examples
+## Examples
 
 Let's look at how to use these strategies with code examples:
 
@@ -130,11 +118,11 @@ public interface MyEntityRepository extends JpaRepository<MyEntity, Long> {
 }
 ```
 
-## 5. Conclusion
+## Conclusion
 
 Handling `JpaOptimisticLockingFailureException` requires a good understanding of your application's behavior, especially concerning data access and multi-threading. Both optimistic and pessimistic locking have their pros and cons, but with Spring's powerful support for data access management, the choice ultimately depends on your specific requirements and scenarios.
 
-Reference:
+## Reference:
 - [Spring Optimistic Locking](https://www.baeldung.com/jpa-optimistic-locking)
 - [Spring Pessimistic Locking](https://www.baeldung.com/jpa-pessimistic-locking)
 - [JpaOptimisticLockingFailureException documentation](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/JpaOptimisticLockingFailureException.html) 
