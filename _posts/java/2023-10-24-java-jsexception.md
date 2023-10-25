@@ -82,6 +82,3 @@ Understanding and handling `JSException` is vital in Java-to-JavaScript communic
 
 1. [Netscape JavaScript JSObject - Java Programming Tutorials](https://www.tutorialspoint.com/java_ref_netscape_javascript_jsobject.htm)
 2. [Java JSException Documentation](https://yhbtihl.gitbooks.io/deep-into-scriptengine/js-java/nashorn/js-jni/js/java/JSException.html)
-3. [Java Exception Handling - JournalDev](https://www.journaldev.com/1696/exception-handling-in-java)
-
-This has been a 15-minute read on the world of `JSException` in Java. I hope it has helped demystify this specific exception for you. Happy coding!
