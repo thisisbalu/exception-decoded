@@ -10,16 +10,7 @@ toc: true
 
 If you've been working with the Spring Framework, you've undoubtedly encountered various types of exceptions. One of these exceptions is known as the `CodeGenerationException`. This exception typically occurs when the Spring Framework is unable to generate proxy classes during runtime. In this comprehensive guide, we will be diving deep into this prevalent issue and providing you with the knowledge you need to debug and fix it in your Spring projects.
 
-## Table of contents
-1. [Introduction to CodeGenerationException in Spring Framework](#introduction)
-2. [Potential Causes for CodeGenerationException](#causes)
-3. [How to Troubleshoot CodeGenerationException](#troubleshoot)
-4. [Code Examples illustrating CodeGenerationException](#examples)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
-<a name="introduction"></a>
-## 1. Introduction to CodeGenerationException in Spring Framework
+## Introduction to CodeGenerationException in Spring Framework
 
 In Spring Framework, `CodeGenerationException` is associated with Aspect-Oriented Programming (AOP). It belongs to the `org.springframework.aop.framework` package and extends to the `FatalBeanException`. The occurrence of this exception suggests that there are problems in generating subclasses required at runtime for method invocation. 
 
@@ -27,8 +18,7 @@ In Spring Framework, `CodeGenerationException` is associated with Aspect-Oriente
 public class CodeGenerationException extends FatalBeanException
 ```
 
-<a name="causes"></a>
-## 2. Potential Causes for CodeGenerationException
+## Potential Causes for CodeGenerationException
 
 There can be many reasons behind the CodeGenerationException, the most common ones are:
 
@@ -41,8 +31,7 @@ public class BikeService {
 ```
 - **Not Implementing an Interface**: If you're trying to create a JDK dynamic proxy for a class that does not implement an interface and you have not enabled the use of CGLIB proxies, a `CodeGenerationException` will be thrown. 
 
-<a name="troubleshoot"></a>
-## 3. How to Troubleshoot CodeGenerationException
+## How to Troubleshoot CodeGenerationException
 
 Resolving this exception is relatively straightforward once you are aware of its causes. Here are some how-to fix steps:
 
@@ -63,8 +52,7 @@ public class BikeService implements VehicleService {
 }
 ```
 
-<a name="examples"></a>
-## 4. Code Examples illustrating CodeGenerationException
+## Code Examples illustrating CodeGenerationException
 
 Here, we have a simple Spring Boot Application. Let's see how `CodeGenerationException` is thrown and can be resolved.
 
@@ -123,13 +111,11 @@ public class BikeService implements VehicleService {
 ```
 In this version, the `BikeService` class implements an interface `VehicleService` and `rideBike()` is not a final method. The application now starts successfully.
 
-<a name="conclusion"></a>
-## 5. Conclusion
+## Conclusion
 
 A `CodeGenerationException` can be a headache if you face it unexpectedly in your Spring project. By refraining from using the final keyword on methods/classes that need to be proxied and ensuring they implement an interface, you can effectively avoid the `CodeGenerationException`.
 
-<a name="references"></a>
-## 6. References
+## References
 
 1. [Spring AOP (Aspect-oriented programming) with Spring Boot](https://www.javatpoint.com/spring-boot-aop)
 2. [Java Final Keyword](https://www.baeldung.com/java-final-keyword)
