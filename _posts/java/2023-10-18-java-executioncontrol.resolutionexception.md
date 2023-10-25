@@ -31,13 +31,13 @@ The `ExecutionControl.ResolutionException` typically occurs when:
 
 Let's illustrate this with an example. Consider executing the following code snippet in JShell:
 
-```Java
+```java
 jshell> class Test { Test2 t;}
 ```
 
 If the `Test2` class does not exist or is not within JShell's classpath, a `ResolutionException` will occur.
 
-```Java
+```java
 jshell> Test t = new Test();
 |  Error:
 |  cannot find symbol
@@ -52,7 +52,7 @@ The best practice for handling exceptions in Java is to use try-catch blocks. Du
 
 Here's an illustration of a try-catch block to handle this exception:
 
-```Java
+```java
 import jdk.jshell.*;
 
 public class Test{
