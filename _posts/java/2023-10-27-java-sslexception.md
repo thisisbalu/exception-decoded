@@ -94,8 +94,6 @@ In our code-filled adventure today, we've unpacked this exception inside out, fr
 
 Remember, your certificate management directly impacts your network security and integrity, making this a key skill in your Java Network Programming journey.
 
-Questions? Thoughts? Continue the conversation below. And until next time, Happy Programming!
-
 *References:*
 - [Oracle's SSL Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/JSSERefGuide.html)
 - [Java's Keytool Documentation](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/keytool.html)
