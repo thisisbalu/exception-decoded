@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
----
-
-
----
-
 Experiencing a `CertificateExpiredException` in your Java application? You’re not alone. This guide will provide a clear explanation of the `CertificateExpiredException` in Java, detail the impacts it could potentially have on your program, and help you understand how to handle and resolve this issue. 
 
 ## What is a CertificateExpiredException?
@@ -70,10 +65,7 @@ try {
 
 Having an effective error handling regimen in place and monitoring for exceptions such as `CertificateExpiredException` ensures the success and security of your application. 
 
----
 
 In conclusion, dealing with the CertificateExpiredException is essential in maintaining the security of your application. It is crucial to have systems in place to deal with such scenarios and continually ensure your SSL certificates remain up-to-date. Once understood, tackling the `CertificateExpiredException` is straightforward and contributes significantly to the overall robustness of your application.
 
 For more information, you can visit the official `java.security.cert` Java documentation [here](https://docs.oracle.com/javase/8/docs/api/java/security/cert/CertificateExpiredException.html).
-
----
