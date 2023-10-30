@@ -93,5 +93,3 @@ Hopefully, this discussion will clear out the haze around SkeletonNotFoundExcept
 1. [Java RMI Documentation](https://docs.oracle.com/javase/tutorial/rmi/)
 2. [Java Exception Handling - SkeletonNotFoundException | Baeldung](http://www.baeldung.com/java/exceptions/skeletonnotfoundexception)
 3. [Java 1.2 RMI Changes](https://docs.oracle.com/javase/1.5.0/docs/guide/rmi/relnotes.html)
-   
-## Happy Coding!
