@@ -10,14 +10,7 @@ toc: true
 
 In the bustling world of programming, Java's Spring Framework has an unrivaled reputation for enterprise solutions. However, as all technologies tend to be, Spring presents its fair share of occasionally frustrating challenges. Among those is the notorious LinkLoopException. This article is your lifeline. We're going to plunge into the depths of this exception, understanding its nature, causes, and solutions. We'll arm you with the knowledge you need to continue your Spring journey with confidence.
 
-**Lesson Outline:**
-1. Understanding the Spring LinkLoopException
-2. Common Causes of a LinkLoopException
-3. Handling a LinkLoopException
-4. The Code Way Out: Best Examples
-5. Conclusion
-
-## 1. Understanding the Spring LinkLoopException
+## Understanding the Spring LinkLoopException
 
 The LinkLoopException belongs to the realm of HATEOAS issues [*^1^*](https://docs.spring.io/spring-hateoas/docs/current/reference/html/#fundamentals).
 
@@ -29,7 +22,7 @@ public LinkLoopException(String message, Throwable cause) {
 
 It gets thrown when a REST service coded with Spring suffers from a cyclical problem of self-reference. Often, this occurs when two or more resources continuously link to each other, leading to a looping link issue (hence the term 'LinkLoopException'). 
 
-## 2. Common Causes of a LinkLoopException
+## Common Causes of a LinkLoopException
 
 While a single root cause of the LinkLoopException hardly exists, the most common scenario is cyclical linking among multiple resources. To illustrate, consider this simplified scenario:
 
@@ -47,7 +40,7 @@ public class ClassB {
 
 In this example, ClassA has a reference to an object of ClassB, which, in turn, has a reference to ClassA. Such a reference-loop can precipitate a LinkLoopException. Moreover, many data serialization libraries such as Jackson posed by data structures with circular relationships can inadvertently introduce similar exceptions [*^2^*](https://stackoverflow.com/questions/16763669/jackson-objectmapper-with-JsonManagedReference-and-JsonBackReference-fails/16773566#16773566).
 
-## 3. Handling a LinkLoopException
+## Handling a LinkLoopException
 
 Once the LinkLoopException appears, identifying and resolving looped links takes precedence. Depending on your specific case, you can choose among several strategies: 
 
@@ -81,7 +74,7 @@ public class ClassADto {
 }
 ```
      
-## 4. The Code Way Out: Best Examples
+## The Code Way Out: Best Examples
     
 Let's look at a few code examples to resolve the LinkLoopException using a combination of better design and useful Spring annotations like @JsonManagedReference, @JsonBackReference, and @JsonIdentityInfo.
 
@@ -128,8 +121,3 @@ While the LinkLoopException issue can seem unnerving initially, the Spring Frame
 **References:**
 
 [^1^]: [https://docs.spring.io/spring-hateoas/docs/current/reference/html/#fundamentals](https://docs.spring.io/spring-hateoas/docs/current/reference/html/#fundamentals)
-[^2^]: [https://stackoverflow.com/questions/16763669/jackson-objectmapper-with-JsonManagedReference-and-JsonBackReference-fails/16773566#16773566](https://stackoverflow.com/questions/16763669/jackson-objectmapper-with-JsonManagedReference-and-JsonBackReference-fails/16773566#16773566)
-[^3^]: [https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application) 
-
-
-
