@@ -7,20 +7,11 @@ mermaid: true
 toc: true
 ---
 
-
-**Table of Contents**
-1. [Introduction](#introduction)     
-2. [What is NamingSecurityException](#what-is-NamingSecurityException)       
-3. [Cause of NamingSecurityException](#cause-of-NamingSecurityException)
-4. [Handling NamingSecurityException in Java](#handling-NamingSecurityException-in-Java)       
-5. [Conclusion](#conclusion) 
-6. [References](#references)
-
-## Introduction<a name="introduction"></a>
+## Introduction
 
 Welcome to another insightful piece on Java exception handling. Today, let us unravel the nitty-gritty of the frequently encountered `NamingSecurityException`. By the end of this article, you will understand the nature of this exception, what causes it, and best ways to handle and resolve it in your Java applications.    
       
-## What is NamingSecurityException?<a name="what-is-NamingSecurityException"></a>
+## What is NamingSecurityException?
 
 In Java, `javax.naming.NamingSecurityException` is a subclass of NamingException, a checked exception [^1^]. This exception implies a security violation occurred in the Java Naming and Directory Interface (JNDI): a built-in feature in Java to connect Java applications to a wide array of naming and directory services. 
 
@@ -32,7 +23,7 @@ Remaining name: 'com/java'
             at example.java.Application.main(Application.java:80)
 ```
 
-## Cause of NamingSecurityException<a name="cause-of-NamingSecurityException"></a>
+## Cause of NamingSecurityException
 
 In most cases, the `NamingSecurityException` indicates a lack of required permissions to perform a directory operation such as add, delete, or modify a directory object. This usually happens when the credentials included during the JNDI lookup method are erroneous or missing privileges for the intended operation. 
 
@@ -69,7 +60,7 @@ public class DeleteObjectExample {
 
 In the above example, if the credentials supplied (i.e., `"cn=admin,ou=system"` and `"secret"`) are inaccurate or lacking required permissions, the `NamingSecurityException` is thrown.
 
-## Handling NamingSecurityException in Java<a name="handling-NamingSecurityException-in-Java"></a>
+## Handling NamingSecurityException in Java
 
 To effectively handle the `NamingSecurityException`, it's vital to understand the root cause that leads to this exception, usually a security violation. The remedies include:
 
@@ -97,10 +88,10 @@ public class HandleNamingSecurityExceptionExample {
     }
 }
 ```
-## Conclusion<a name="conclusion"></a>
+## Conclusion
 In summary, the `NamingSecurityException` is a common exception in Java, caused by security violations, particularly during operations like lookup, bind, and rebind on the naming or directory services. Proper credential management and thorough exception handling are the most effective ways to resolve this error.
 
-## References<a name="references"></a>
+## References
 
 [^1^]: Oracle Doc - [https://docs.oracle.com/javase/7/docs/api/javax/naming/NamingException.html](https://docs.oracle.com/javase/7/docs/api/javax/naming/NamingException.html)
 
