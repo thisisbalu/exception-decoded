@@ -78,9 +78,8 @@ We believe this article has equipped you with a thorough understanding of the Ba
 
 Remember, when designing batch jobs with Spring Batch, it’s crucial to plan for failures. Happy coding!
 
-```java
-    References: 
-    [Spring Batch Testing](https://www.baeldung.com/spring-batch-testing)
-    [Spring Batch Exception Handling](https://www.javacodegeeks.com/2019/05/spring-batch-exception-handling.html) 
-```
-In writing this blog, SEO best practices like keyword optimization, appealing headline, and backlinking have been followed to increase visibility in search engines. The blog also adheres to a 15-minute read length to engage readers but not consume too much of their time.
+## References: 
+
+[Spring Batch Testing](https://www.baeldung.com/spring-batch-testing)
+    
+[Spring Batch Exception Handling](https://www.javacodegeeks.com/2019/05/spring-batch-exception-handling.html) 
