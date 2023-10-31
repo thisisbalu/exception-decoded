@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ClassCastException in Java: Unraveling the Maze of Type Cast Errors"
+title: "Demystifying ClassCastException in Java: Unraveling the Maze of Type Cast Errors"
 date: 2023-11-12 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.lang, java-se]
@@ -11,14 +11,6 @@ toc: true
 ## Introduction
 
 In the wonderful world of Java programming, one common stumbling block developers encounter is the notorious `ClassCastException`. This exception occurs when an attempt is made to cast an object to a type that is not compatible. Its devastating impact can disrupt the flow of your program, causing headaches and frustration. But fret not, dear reader, for in this article, we will delve deep into the world of `ClassCastException`, exploring its causes, understanding why it happens, and learning how to overcome it. So let's embark on this journey of enlightenment!
-
-## Table of Contents
-1. What is a ClassCastException?
-2. Causes of ClassCastException
-3. Examples of ClassCastException
-4. How to Handle ClassCastException
-5. Preventing ClassCastException
-6. Conclusion
 
 ## 1. What is a ClassCastException?
 
