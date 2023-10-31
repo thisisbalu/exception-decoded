@@ -10,14 +10,6 @@ toc: true
 
 Welcome to another technical article on **Java Exception Handling**. In this post, we'll dive deep into the `RuntimeMBeanException`, a runtime exception specific to Java Management Extensions (JMX). By the end of this article, you'll have a clear understanding of what `RuntimeMBeanException` is, when it occurs, how to handle it, and some best practices to make your Java code resilient.
 
-## Table of Contents
-
-- [Introduction to RuntimeMBeanException](#introduction-to-runtimembeanexception)
-- [Understanding the MBean Structure](#understanding-the-mbean-structure)
-- [Causes of RuntimeMBeanException](#causes-of-runtimembeanexception)
-- [Handling RuntimeMBeanException](#handling-runtimembeanexception)
-- [Best Practices to Avoid RuntimeMBeanException](#best-practices-to-avoid-runtimembeanexception)
-
 ## Introduction to RuntimeMBeanException
 
 The `RuntimeMBeanException` is a runtime exception that extends the `MBeanException` class. It is thrown when a problem occurs while accessing or invoking an MBean (Managed Bean) operation using the Java Management Extensions (JMX) API.
@@ -83,7 +75,7 @@ Prevention is always better than dealing with exceptions. Below are some best pr
 
 By now, you should have gained an in-depth understanding of `RuntimeMBeanException` in Java, including its causes, handling techniques, and steps to avoid it. Remember, effectively managing MBeans is crucial for achieving better control and performance monitoring in your Java applications.
 
-For more information about RuntimeMBeanException and related Java exception handling practices, refer to the following resources:
+For more information about RuntimeMBeanException and related Java exception-handling practices, refer to the following resources:
 
 - [Java Management Extensions (JMX) Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/management/intro.html)
 - [MBeanException JavaDoc](https://docs.oracle.com/javase/8/docs/api/javax/management/MBeanException.html)
