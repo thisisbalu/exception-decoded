@@ -120,5 +120,3 @@ To avoid encountering `ClosedChannelException` in your Java applications, always
 For more information on `ClosedChannelException`, refer to the official Java documentation: [java.nio.channels.ClosedChannelException](https://docs.oracle.com/javase/10/docs/api/java/nio/channels/ClosedChannelException.html)
 
 So, the next time you encounter `ClosedChannelException`, don't panic – apply the techniques discussed in this article to tackle it like a pro! Happy coding!
-
-*Estimated reading time: 15 minutes*
