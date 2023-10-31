@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ConnectException in Java: A Deep Dive into Network Connection Errors"
+title: "Understanding ConnectException in Java: A Deep Dive into Network Connection Errors"
 date: 2023-11-16 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.net, java-se]
@@ -7,22 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In the vast world of Java programming, dealing with network connections is an essential skill. As a Java developer, you are likely to encounter various connection-related issues at some point in your career. One of the most common errors you may come across is the `ConnectException`. In this article, we will take a comprehensive look at this exception, its causes, and how to handle it effectively.
-
-## Table of Contents
-- What is ConnectException?
-- Common Causes of ConnectException
-- Handling ConnectException
-- Code Examples
-  - Example 1: Basic ConnectException Handling
-  - Example 2: Retry Mechanism for ConnectExceptions
-  - Example 3: Setting Connection Timeout
-  - Example 4: Catching Specific ConnectException Subtypes
-- Conclusion
-- References
 
 ## What is ConnectException?
 
