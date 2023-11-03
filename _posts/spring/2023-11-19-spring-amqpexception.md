@@ -7,20 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-*Improve Your Spring Exception Handling with In-depth knowledge of AMQPException in 15 Minutes*
-
----
-
-**Table of Contents**
-- Introduction
-- Understanding AMQPException
-- Handling AMQPException in Spring
-- Best Practices to Handle AMQPException
-- Conclusion
-
----
-
 ## Introduction
 
 As a Spring developer, you might have come across various exceptions during your application development journey. Understanding exception types and their handling mechanisms is crucial for building robust and resilient applications. In this comprehensive guide, we will take a deep dive into the AMQPException in Spring and explore effective ways to handle it.
@@ -125,7 +111,3 @@ Make sure to follow the best practices highlighted in this article, such as erro
 To further enhance your understanding, we recommend referring to the official [Spring AMQP documentation](https://docs.spring.io/spring-amqp/docs/current/reference/html/) and exploring additional resources related to AMQP handling in Spring.
 
 Happy coding!
-
---- 
-
-*Total reading time: 15 minutes*
