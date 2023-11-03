@@ -12,7 +12,7 @@ toc: true
 
 In the world of Spring development, we often come across situations where we need to perform dynamic queries or validations based on user input. However, in some cases, we may encounter a `FieldDoesNotExistException` which indicates that the field specified in the query or validation does not exist. In this article, we will explore this exception in detail and discuss the best practices to handle it effectively.
 
-## What is `FieldDoesNotExistException`?
+## What is FieldDoesNotExistException?
 
 The `FieldDoesNotExistException` is a runtime exception that can be thrown when executing queries or validations in Spring. It occurs when you try to access a field that does not exist in the entity or table you are querying. This exception is most commonly encountered when using Spring Data repositories or performing Hibernate/JPA operations.
 
@@ -36,7 +36,7 @@ public interface UserRepository extends JpaRepository<User, Long> {
 
 In this example, if we accidentally specify an invalid field name such as `findByEmailAddress`, a `FieldDoesNotExistException` will be thrown during runtime.
 
-## Handling `FieldDoesNotExistException`
+## Handling FieldDoesNotExistException
 
 Now that we understand the basics of the `FieldDoesNotExistException`, let's explore some best practices for handling it efficiently.
 
@@ -44,7 +44,7 @@ Now that we understand the basics of the `FieldDoesNotExistException`, let's exp
 
 One of the primary reasons for encountering this exception is improper field naming or misalignment between the query/validations and corresponding entity fields. To avoid this, always ensure that the field names in your queries/validations match the field names defined in the entity class. Verify the correctness of the field names by reviewing the entity class thoroughly.
 
-### 2. Use `@Column` Annotation
+### 2. Use @Column Annotation
 
 To overcome the issue of mismatched field names, it is recommended to use the `@Column` annotation provided by JPA. By specifying the `name` attribute, you can explicitly define the corresponding database column name. This helps in handling variations in column names across different database systems.
 
