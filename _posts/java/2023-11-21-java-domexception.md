@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding DOMException in Java: A Comprehensive Guide"
+title: "Understanding DOMException in Java: A Comprehensive Guide"
 date: 2023-11-21 09:00:00 -0000
 categories: [Java, java.xml]
 tags: [java, java-unchecked, org.w3c.dom, java-se]
