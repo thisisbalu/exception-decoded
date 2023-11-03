@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the BootstrapMethodError in Java: A Comprehensive Guide"
+title: "Demystifying the BootstrapMethodError in Java: A Comprehensive Guide"
 date: 2023-11-22 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
