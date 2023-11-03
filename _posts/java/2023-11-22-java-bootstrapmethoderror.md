@@ -7,25 +7,11 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 When you delve into the world of Java programming, you may come across a puzzling error called `BootstrapMethodError`. This error can cause frustration and confusion for developers who encounter it, mainly due to its cryptic nature and lack of clear explanations in the Java documentation.
 
 In this article, we will demystify the `BootstrapMethodError`, unravel its causes and solutions, and provide you with a clear understanding of how to handle this error effectively. By the end of this article, you will have a solid grasp of this error and will be equipped with the knowledge to tackle it with ease.
-
-## Table of Contents
-
-1. [Understanding the BootstrapMethodError](#understanding-the-bootstrapmethoderror)
-2. [Cause of BootstrapMethodError](#cause-of-bootstrapmethoderror)
-3. [Common Scenarios Leading to BootstrapMethodError](#common-scenarios-leading-to-bootstrapmethoderror)
-   - [Scenarios 1](#scenarios-1)
-   - [Scenarios 2](#scenarios-2)
-4. [Solutions for BootstrapMethodError](#solutions-for-bootstrapmethoderror)
-   - [Solution 1](#solution-1)
-   - [Solution 2](#solution-2)
-5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ## Understanding the BootstrapMethodError
 
@@ -122,4 +108,3 @@ Now that you have a solid understanding of the `BootstrapMethodError`, go forth 
 1. [Oracle Documentation: BootstrapMethodError](https://docs.oracle.com/javase/8/docs/api/java/lang/BootstrapMethodError.html)
 2. [Java Programming Forums: What is Bootstrap Method Error in Lambda Expression?](https://www.javaprogrammingforums.com/java-theory-questions/50039-what-bootstrap-method-error-lambda-expression.html)
 3. [Baeldung: Java 8 - Method References](https://www.baeldung.com/java-method-references)
-4. [Stack Overflow: What is a "bootstrap method error"?](https://stackoverflow.com/questions/47577637/what-is-a-bootstrap-method-error)
