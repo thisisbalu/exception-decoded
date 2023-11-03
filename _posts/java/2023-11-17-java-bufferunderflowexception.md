@@ -10,16 +10,6 @@ toc: true
 
 Are you a Java developer encountering a `BufferUnderflowException`? Don't fret! In this comprehensive guide, we'll discuss what this exception means, why it occurs, and how to handle it effectively. By the end, you'll have the tools and knowledge to decipher, troubleshoot, and conquer this exception, ensuring your Java code runs smoothly.
 
-## Table of Contents
-- [What is BufferUnderflowException?](#what-is-bufferunderflowexception)
-- [Causes of BufferUnderflowException](#causes-of-bufferunderflowexception)
-- [Handling BufferUnderflowException](#handling-bufferunderflowexception)
-  - [1. Check Buffer Size](#1-check-buffer-size)
-  - [2. Resetting the Buffer](#2-resetting-the-buffer)
-  - [3. Verify the Buffer's State](#3-verify-the-buffers-state)
-  - [4. Prevention is Better than Cure](#4-prevention-is-better-than-cure)
-- [Conclusion](#conclusion)
-
 ## What is BufferUnderflowException?
 
 `BufferUnderflowException` is a checked exception that belongs to the `java.nio` package in Java. It occurs when attempting to retrieve more data from a buffer than what is available. A buffer is a contiguous block of memory that stores data temporarily during input and output operations.
