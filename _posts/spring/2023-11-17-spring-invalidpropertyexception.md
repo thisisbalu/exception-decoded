@@ -93,7 +93,7 @@ Carefully review your configuration files and ensure they adhere to the defined 
 
 Now that we have identified the common causes of `InvalidPropertyException` let's explore strategies to handle and prevent this exception.
 
-### #1: Correcting Property Names
+### 1: Correcting Property Names
 
 As mentioned earlier, ensure that the property names in your configuration file match those in your Java class. Having consistent and correctly spelled property names will prevent `InvalidPropertyException` caused by name mismatches.
 
