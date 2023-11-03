@@ -16,7 +16,7 @@ The `DbActionExecutionException` is a runtime exception that is part of the Spri
 ## Exploring the Causes
 There can be multiple causes for the `DbActionExecutionException`. Let's discuss some possible scenarios:
 
-#### 1. Database Connection Failure
+### 1. Database Connection Failure
 One of the common causes is a failure to establish a connection with the database. This may occur due to invalid credentials, network issues, or an unavailable database server.
 
 ```java
@@ -29,7 +29,7 @@ try {
 }
 ```
 
-#### 2. SQL Syntax Error
+### 2. SQL Syntax Error
 If you have a syntax error in your SQL query, it can lead to an `DbActionExecutionException`. Double-check your SQL statements to ensure they are correct.
 
 ```java
@@ -42,7 +42,7 @@ try {
 }
 ```
 
-#### 3. Constraints Violation
+### 3. Constraints Violation
 If you are performing an operation that violates a specific database constraint, such as a unique key constraint or a foreign key constraint, Spring may throw a `DbActionExecutionException`. It is crucial to validate your data and ensure it complies with the defined constraints.
 
 ```java
@@ -55,7 +55,7 @@ try {
 }
 ```
 
-#### 4. Inconsistent Data Types
+### 4. Inconsistent Data Types
 Mismatched or inconsistent data types while performing database operations can also lead to the `DbActionExecutionException`. Ensure that the data being inserted or updated aligns with the defined column types in the database schema.
 
 ```java
