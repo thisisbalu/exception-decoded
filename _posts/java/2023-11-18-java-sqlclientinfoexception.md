@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In Java programming, connecting to a database is a common task, and being able to handle exceptions that may occur during the process is essential. One such exception is SQLClientInfoException. In this article, we will explore what SQLClientInfoException is, what causes it, and how to handle it effectively in your Java applications.
@@ -118,5 +117,3 @@ Further reading:
 - [java.sql.SQLClientInfoException documentation](https://docs.oracle.com/javase/10/docs/api/java/sql/SQLClientInfoException.html)
 - [Working with JDBC Connections](https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html)
 - [JDBC API](https://docs.oracle.com/en/java/javase/15/docs/api/java.sql/java/sql/package-summary.html)
-
-*Total reading time: 15 minutes*
