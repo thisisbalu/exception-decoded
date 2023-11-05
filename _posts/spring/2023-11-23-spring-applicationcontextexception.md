@@ -14,19 +14,6 @@ In Spring applications, **ApplicationContext** plays a crucial role by providing
 
 This article aims to provide a comprehensive understanding of the **ApplicationContextException** in Spring, including its definition, causes, common scenarios, and potential solutions. Additionally, we will explore some code examples to help clarify the concepts discussed.
 
-## Table of Contents
-
-1. What is ApplicationContextException?
-2. Causes of ApplicationContextException
-    - Incorrect XML Configuration
-    - Bean Creation or Initialization Issues
-    - Circular Dependency Problems
-    - Missing or Incompatible Dependencies
-3. Handling ApplicationContextException
-4. Code Examples
-5. Conclusion
-6. References
-
 ## 1. What is ApplicationContextException?
 
 The **ApplicationContextException** is a runtime exception that occurs when there are errors or exceptions encountered during the initialization of the Spring **ApplicationContext** or when obtaining a specific bean from the container. It is a subclass of the more general **BeansException**.
@@ -124,5 +111,3 @@ By following the recommended practices mentioned in this article, you can effect
 
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring ApplicationContext JavaDoc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextException.html)
-- [Understanding Spring Bean Creation](https://www.baeldung.com/spring-bean-creation)
-- [Circular Dependency in Spring](https://www.baeldung.com/circular-dependencies-in-spring)
