@@ -203,7 +203,4 @@ Keep learning, practicing, and honing your exception handling skills, and you'll
 ***References:***
 
 - [Java Documentation on IllegalStateException](https://docs.oracle.com/javase/10/docs/api/java/lang/IllegalStateException.html)
-- [Java Exceptions - Baeldung](https://www.baeldung.com/java-exceptions)
-- [Effective Java Exception Handling - DZone](https://dzone.com/articles/effective-java-exception-handling)
 - [Defensive Programming in Java - Stackify](https://stackify.com/defensive-programming-in-java-the-good-the-bad-and-the-ugly/)
-- [Unit Testing in Java - Oracle](https://www.oracle.com/technical-resources/articles/java/architect-unit-testing.html)
