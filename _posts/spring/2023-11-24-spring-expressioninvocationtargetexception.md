@@ -101,5 +101,3 @@ Handling exceptions appropriately is an essential part of building a reliable an
 For more information on error handling in Spring, refer to the official Spring documentation [here](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#error-handling).
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
