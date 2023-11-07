@@ -156,4 +156,3 @@ The `UnmarshallingFailureException` is a common exception when working with XML 
 References:
 - [Spring Framework Documentation - XML Marshalling and Unmarshalling](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#oxm)
 - [Java API for XML Binding (JAXB) Documentation](https://docs.oracle.com/javase/tutorial/jaxb/index.html)
-- [XML Validation with JAXB in Spring](https://www.baeldung.com/jaxb-xml-validation-with-validationeventhandler)
