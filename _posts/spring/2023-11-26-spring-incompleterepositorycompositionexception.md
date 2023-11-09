@@ -100,7 +100,6 @@ To dive deeper into `IncompleteRepositoryCompositionException` troubleshooting a
 - [Spring Data documentation](https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories.composing-repositories)
 - [Spring Boot documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-spring-data-jpa-repositories)
 - [Spring framework documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans)
-- [Stack Overflow - Spring Data questions](https://stackoverflow.com/questions/tagged/spring-data)
 
 ## In Conclusion
 
