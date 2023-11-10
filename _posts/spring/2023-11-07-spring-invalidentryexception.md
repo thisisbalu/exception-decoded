@@ -73,7 +73,5 @@ Stay tuned for more insightful articles that unravel the mysteries of Spring Fra
 
 ## References 
 
-1. [StackOverflow: InvalidEntryException](https://stackoverflow.com/questions/7467645/error-starting-application-context-java-lang-illegalstateexception-failed-to-loa)
-2. [Spring Framework API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/NoSuchBeanDefinitionException.html)
-3. [Java Documentation: ClassCastException](https://docs.oracle.com/javase/7/docs/api/java/lang/ClassCastException.html)
-4. [Java Code Geeks: Exception Handling in Spring](https://www.javacodegeeks.com/2013/03/exception-handling-in-spring.html)
+1. [Spring Framework API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/NoSuchBeanDefinitionException.html)
+2. [Java Documentation: ClassCastException](https://docs.oracle.com/javase/7/docs/api/java/lang/ClassCastException.html)
