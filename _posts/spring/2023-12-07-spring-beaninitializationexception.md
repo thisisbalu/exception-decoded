@@ -1,13 +1,10 @@
 ---
-title: "**Understanding BeanInitializationException in Spring**"
+title: "Understanding BeanInitializationException in Spring"
 date: 2023-12-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans.factory]
 mermaid: true
 toc: true
----
-
-
 ---
 
 As a developer working with the Spring framework, you might have encountered the BeanInitializationException at some point in your career. This exception is thrown when there is an error during the initialization of a bean in the Spring container. In this article, we will explore the BeanInitializationException in depth, understand its possible causes, and learn how to handle it effectively.
@@ -116,7 +113,4 @@ Keep coding, and happy Spring development!
 
 **References:**
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
-- [Handling BeanInitializationException in Spring - Baeldung](https://www.baeldung.com/spring-beaninitializationexception)
-- [Understanding BeanInitializationException in Spring - DZone](https://dzone.com/articles/what-is-beaninitializationexception-in-spring)
-- [Circular Dependency and BeanInitializationException - Stack Overflow](https://stackoverflow.com/questions/11710056/circular-dependency-in-spring)
 - [BeanInitializationException - Spring API Documentation](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanInitializationException.html)
