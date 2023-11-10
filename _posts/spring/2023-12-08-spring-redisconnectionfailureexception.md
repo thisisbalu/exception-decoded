@@ -33,7 +33,7 @@ Redis connection failures can occur due to multiple reasons. Some common causes 
 
 4. Redis server failures: Redis servers may experience temporary downtime due to maintenance, crashes, or unexpected errors. Check the server logs and monitor for any server-side issues that may impact the connectivity.
 
-Handling Redis Connection Failure in Spring
+## Handling Redis Connection Failure in Spring
 Now let's explore how to handle Redis connection failures in Spring applications.
 
 ```java
@@ -58,7 +58,7 @@ In the above example, we have a RedisConfig class that configures a RedisConnect
 
 By creating a reliable Redis connection factory bean, we can handle connection failures by catching RedisConnectionFailureException and taking appropriate actions. For example, you may choose to log the exception, retry the connection, or fallback to an alternate Redis server.
 
-Troubleshooting Redis Connection Issues
+## Troubleshooting Redis Connection Issues
 
 When faced with Redis connection issues, it's important to perform a systematic troubleshooting process to identify and resolve the problem. Here are some steps you can follow:
 
@@ -92,7 +92,7 @@ RedisConnectionFailureException in Spring indicates connectivity problems with t
 
 Remember, a stable and reliable Redis connection is crucial for the smooth functioning of your application. As always, stay vigilant, monitor your Redis infrastructure, and promptly address any connection failures to ensure uninterrupted service.
 
-### References
+## References
 
 - [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/current/reference/html/#reference)
 - [Lettuce Redis Client](https://lettuce.io/)
