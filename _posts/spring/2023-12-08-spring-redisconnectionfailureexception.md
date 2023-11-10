@@ -7,20 +7,7 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Are you encountering connectivity issues with Redis in your Spring application? Don't worry, you are not alone. Redis is a popular key-value store and message broker, widely used in many applications. However, sometimes it can be a bit tricky to establish and maintain a connection. In this article, we will explore the RedisConnectionFailureException in Spring and learn how to troubleshoot and resolve common connection failures.
-
-## Table of Contents
-
-- Introduction to RedisConnectionFailureException
-- Causes of Redis Connection Failure
-- Handling Redis Connection Failure in Spring
-- Troubleshooting Redis Connection Issues
-- Tips for Optimizing Redis Connections
-- Conclusion
-- References
 
 ## Introduction to RedisConnectionFailureException
 
@@ -99,7 +86,7 @@ To avoid Redis connection failures and optimize your Redis usage, consider the f
 
 4. Use Redis Sentinel or Redis Cluster: For high availability and failover support, consider using Redis Sentinel or Redis Cluster. These features allow automatic failover, replication, and distributed data management, improving your application's resilience.
 
-Conclusion
+## Conclusion
 
 RedisConnectionFailureException in Spring indicates connectivity problems with the Redis server. By understanding the causes of Redis connection failures and following the troubleshooting steps outlined in this article, you can effectively resolve and handle Redis connection issues. Additionally, implementing best practices for optimizing Redis connections can help improve performance, reliability, and scalability in your Spring applications.
 
@@ -112,5 +99,3 @@ Remember, a stable and reliable Redis connection is crucial for the smooth funct
 - [Jedis Redis Client](https://github.com/redis/jedis)
 - [Redis Sentinel Documentation](https://redis.io/topics/sentinel)
 - [Redis Cluster Tutorial](https://redis.io/topics/cluster-tutorial)
-
----
