@@ -1,5 +1,5 @@
 ---
-title: "15-Minute Guide to XPathException in Java"
+title: "Quick Guide to XPathException in Java"
 date: 2023-12-09 09:00:00 -0000
 categories: [Java, jdk.xml.dom]
 tags: [java, java-unchecked, org.w3c.dom.xpath, jdk]
