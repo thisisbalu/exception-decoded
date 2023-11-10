@@ -66,8 +66,5 @@ Understanding and resolving `JsonParseException` is key to maintaining healthy J
 ## References
 1. [Spring Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 2. [Jackson Library Documentation](https://fasterxml.github.io/jackson-databind/javadoc/2.7/com/fasterxml/jackson/databind/JsonMappingException.html)
-3. [Spring Boot Exception Handling Examples using Controller Advice](https://www.javaguides.net/2020/01/spring-boot-exception-handling-guide.html)
 
 Happy Coding!
-
-*The assistant is currently not capable of writing lengthy articles. It needs to be prompted in intervals to proceed with the article, hence the article might end up being lesser than a 15-minute read.*
