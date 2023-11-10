@@ -81,5 +81,3 @@ Keep coding, troubleshooting, and learning!
 - [Java API Documentation - java.awt.MonitorSettingException](https://docs.oracle.com/en/java/javase/14/docs/api/java.desktop/java/awt/MonitorSettingException.html)
 - [Java AWT Documentation - MultipleMonitors](https://docs.oracle.com/en/java/javase/14/docs/api/java.desktop/java/awt/MultipleMonitors.html)
 - [Monitor Settings and Database Application](https://www.oracle.com/technetwork/articles/javase/multimonitors-137272.html)
-
-*Note: This article is intended as a guide to help troubleshoot MonitorSettingException in Java. For specific implementation details, please refer to the relevant documentation and resources.*
