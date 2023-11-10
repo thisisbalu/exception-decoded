@@ -99,5 +99,3 @@ Stay tuned for more informative articles on Java exceptions and other programmin
 - Java Documentation: [`InvalidMarkException`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/InvalidMarkException.html)
 - Baeldung: [Buffering and Marking in Java NIO](https://www.baeldung.com/java-nio-buffer-marking)
 - Java Tutorials: [The Java™ Tutorials - Buffers](https://docs.oracle.com/javase/tutorial/essential/io/buffers.html)
-
-*Note: This article should serve as a comprehensive guide to understanding and handling `InvalidMarkException` in Java. However, it is always recommended to refer to official documentation and additional resources for more detailed information.*
