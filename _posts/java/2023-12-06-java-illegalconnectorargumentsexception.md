@@ -123,5 +123,3 @@ Remember to validate URLs, check protocol support, provide required arguments, a
 For further information and detailed documentation, refer to the official Java documentation on `URLConnection`: [Java SE Documentation - URLConnection](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/net/URLConnection.html)
 
 Keep coding, keep learning, and happy Java programming!
-
-*Estimated reading time: 15 minutes*
