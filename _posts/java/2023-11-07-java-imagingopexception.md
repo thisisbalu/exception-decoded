@@ -100,6 +100,3 @@ The Java `ImagingOpException` is an unchecked exception that occurs when an imag
 1. Java Documentation: [BufferedImage](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/image/BufferedImage.html)
 2. Java Documentation: [ImagingOpException](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/image/ImagingOpException.html)
 3. Java Documentation: [Graphics2D](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/Graphics2D.html)
-4. StackOverflow: [Discussion on ImagingOpException](https://stackoverflow.com/questions/4355060/java-2d-getting-a-subimage-of-a-bufferedimage-problem)
-
-_Note that all the example codes provided in this article are simplified for the purpose of explanation. They might require necessary modifications to meet real-world requirements._
