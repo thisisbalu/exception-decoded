@@ -7,21 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 Welcome to this comprehensive guide on handling `BadLdapGrammarException` in the Spring framework. This article aims to provide you with a detailed understanding of this exception and how to effectively handle it in your Spring applications. Whether you are an experienced Java developer or just starting with Spring, this guide will help you tackle this common exception efficiently.
-
-## Table of Contents
-1. What is `BadLdapGrammarException`?
-2. Causes of `BadLdapGrammarException`
-3. Handling `BadLdapGrammarException`
-   - Identifying the error
-   - Configuring Spring Security
-   - Customizing the authentication provider
-4. Conclusion
-
----
 
 ## What is `BadLdapGrammarException`?
 
@@ -29,7 +17,6 @@ Welcome to this comprehensive guide on handling `BadLdapGrammarException` in the
 
 The exception is part of the `org.springframework.ldap` package and is a subclass of `javax.naming.NamingException`. It indicates that the LDAP server encountered an error regarding the grammar of the provided query.
 
----
 
 ## Causes of `BadLdapGrammarException`
 
@@ -68,8 +55,6 @@ public List<User> searchUsers(String username) {
     // ...
 }
 ```
-
----
 
 ## Handling `BadLdapGrammarException`
 
@@ -130,7 +115,6 @@ public class CustomLdapAuthenticationProvider extends LdapAuthenticationProvider
 
 In the above example, the `createContext` method is overridden to catch the `BadLdapGrammarException` and throw a custom exception (`CustomBadLdapGrammarException`) instead. This allows you to handle the exception according to your application's needs.
 
----
 
 ## Conclusion
 
@@ -139,8 +123,6 @@ In this comprehensive guide, we discussed the `BadLdapGrammarException` in Sprin
 Remember to carefully review and validate your LDAP queries, ensure proper encoding, and use valid attribute names. Enable debug logging for detailed error information and consider customizing the authentication provider to handle the exception gracefully.
 
 We hope this guide has provided you with valuable insights into dealing with the `BadLdapGrammarException` and that you can now handle it confidently in your Spring applications.
-
----
 
 **References:**
 - [Spring Framework Documentation: LDAP Support](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#ldap)
