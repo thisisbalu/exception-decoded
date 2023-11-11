@@ -1,16 +1,11 @@
 ---
-title: "**Java NameNotFoundException Explained: How to Handle and Prevent It**"
+title: "Java NameNotFoundException Explained: How to Handle and Prevent It"
 date: 2023-12-10 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming, java-se]
 mermaid: true
 toc: true
 ---
-
-
-by Your Name
-
-------
 
 When developing Java applications, encountering exceptions is inevitable. One such exception that you may stumble upon is the `NameNotFoundException`. This particular exception is thrown when a name-based lookup using the JNDI (Java Naming and Directory Interface) API fails to find the requested name within the naming context. In this comprehensive guide, we will explore the causes, impacts, and most importantly, how to handle and prevent the `NameNotFoundException` in Java. So, let's dive in!
 
@@ -99,10 +94,3 @@ To learn more about JNDI and exception handling in Java, refer to the following 
 - [javax.naming.NameNotFoundException Oracle Documentation](https://docs.oracle.com/en/java/javase/17/docs/api/javax/naming/NameNotFoundException.html)
 
 We hope this guide has provided you with valuable insights into the `NameNotFoundException` in Java. Now you are equipped with the knowledge required to handle and prevent this exception in your Java applications more effectively. Happy coding!
-
-------
-
-**References:**
-
-1. Java Naming and Directory Interface (JNDI) - Official Documentation. Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/javax/naming/package-summary.html](https://docs.oracle.com/en/java/javase/17/docs/api/javax/naming/package-summary.html)
-2. `javax.naming.NameNotFoundException` - Oracle Documentation. Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/javax/naming/NameNotFoundException.html](https://docs.oracle.com/en/java/javase/17/docs/api/javax/naming/NameNotFoundException.html)
