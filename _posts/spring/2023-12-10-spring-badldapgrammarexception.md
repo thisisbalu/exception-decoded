@@ -11,14 +11,14 @@ toc: true
 
 Welcome to this comprehensive guide on handling `BadLdapGrammarException` in the Spring framework. This article aims to provide you with a detailed understanding of this exception and how to effectively handle it in your Spring applications. Whether you are an experienced Java developer or just starting with Spring, this guide will help you tackle this common exception efficiently.
 
-## What is `BadLdapGrammarException`?
+## What is BadLdapGrammarException?
 
 `BadLdapGrammarException` is an exception from the Spring framework that occurs when there is an issue with the grammar of Lightweight Directory Access Protocol (LDAP) queries. LDAP is a protocol used to access and manage directory information. When using Spring Security with LDAP authentication, this exception can be thrown if there are syntax errors in the LDAP query.
 
 The exception is part of the `org.springframework.ldap` package and is a subclass of `javax.naming.NamingException`. It indicates that the LDAP server encountered an error regarding the grammar of the provided query.
 
 
-## Causes of `BadLdapGrammarException`
+## Causes of BadLdapGrammarException
 
 There can be multiple reasons for `BadLdapGrammarException` to occur in your Spring application. Some of the common causes include:
 
@@ -56,7 +56,7 @@ public List<User> searchUsers(String username) {
 }
 ```
 
-## Handling `BadLdapGrammarException`
+## Handling BadLdapGrammarException
 
 Now let's dive into handling the `BadLdapGrammarException` in your Spring application. We'll discuss the steps to identify and resolve the issues causing the exception.
 
