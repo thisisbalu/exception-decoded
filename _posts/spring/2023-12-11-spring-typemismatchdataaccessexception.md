@@ -7,10 +7,6 @@ mermaid: true
 toc: true
 ---
 
-###### Understand and resolve common TypeMismatchDataAccessException issues in the Spring Framework 
-
----
-
 As a developer working with the Spring framework, you may encounter various exceptions that could hinder the smooth execution of your applications. One such exception is the `TypeMismatchDataAccessException`. This article aims to provide you with a comprehensive understanding of this exception and how to handle it effectively.
 
 ## What is TypeMismatchDataAccessException?
@@ -99,7 +95,3 @@ For more information on exception handling in Spring, refer to the official Spri
 - [Spring JDBC](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html)
 
 Happy coding!
-
----
-
-Estimated read time: 15 minutes
