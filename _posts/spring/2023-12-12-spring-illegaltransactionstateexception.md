@@ -1,5 +1,5 @@
 ---
-title: "**IllegalTransactionStateException in Spring: A Deep Dive into Handling Transactions**"
+title: "IllegalTransactionStateException in Spring: A Deep Dive into Handling Transactions"
 date: 2023-12-12 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.transaction]
@@ -7,19 +7,11 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In the world of Spring Framework, transactions play a vital role in ensuring the integrity and consistency of data operations. However, developers often encounter various exceptions related to transactions, such as `IllegalTransactionStateException`. This exception occurs when an illegal transaction state is detected, indicating that the transaction is not in a valid state to execute a particular operation.
 
 In this article, we will explore the `IllegalTransactionStateException` in-depth, understand its causes, and discuss best practices to handle and prevent this exception from occurring in your Spring applications.
-
-## Table of Contents
-- [Understanding the IllegalTransactionStateException](#understanding-the-illegaltransactionstateexception)
-- [Causes of IllegalTransactionStateException](#causes-of-illegaltransactionstateexception)
-- [Handling IllegalTransactionStateException](#handling-illegaltransactionstateexception)
-- [Best Practices to Prevent IllegalTransactionStateException](#best-practices-to-prevent-illegaltransactionstateexception)
-- [Conclusion](#conclusion)
 
 ## Understanding the IllegalTransactionStateException
 
@@ -151,8 +143,6 @@ Understanding and handling `IllegalTransactionStateException` is crucial for dev
 Remember to properly configure transaction management, handle concurrency issues, and review transaction boundaries to avoid illegal transaction states. Additionally, make sure to release resources appropriately and rely on declarative transaction management wherever possible.
 
 By adopting these best practices, you can ensure smoother transactional operations within your Spring applications and provide a better experience for your users.
-
----
 
 References:
 - [Spring Framework Documentation - Transaction Management](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction)
