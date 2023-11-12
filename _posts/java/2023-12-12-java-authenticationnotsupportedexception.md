@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding AuthenticationNotSupportedException in Java: A Comprehensive Guide"
+title: "Understanding AuthenticationNotSupportedException in Java: A Comprehensive Guide"
 date: 2023-12-12 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming, java-se]
@@ -11,15 +11,6 @@ toc: true
 ## Introduction
 
 In the world of Java programming, developers often encounter various exceptions and errors during their coding journey. One such exception is the `AuthenticationNotSupportedException`. In this article, we will delve into the details of what this exception means, its causes, and how to handle it effectively in your Java applications.
-
-## Table of Contents
-
-- [What is the AuthenticationNotSupportedException?](#what-is-the-authenticationnotsupportedexception)
-- [Causes of AuthenticationNotSupportedException](#causes-of-authenticationnotsupportedexception)
-- [Handling AuthenticationNotSupportedException](#handling-authenticationnotsupportedexception)
-- [Code Examples](#code-examples)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## What is the AuthenticationNotSupportedException?
 
@@ -111,5 +102,3 @@ With the knowledge gained from this comprehensive guide, you are better equipped
 - Java Naming and Directory Interface (JNDI) [API Specification](https://docs.oracle.com/javase/8/docs/technotes/guides/jndi/jndi-api-1.2.pdf)
 - Log4j documentation: [Apache Log4j2](https://logging.apache.org/log4j/2.x/)
 - Java SE Logging Overview: [Java Logging Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/logging/overview.html)
-
-*Note: This article aims to provide a comprehensive understanding of the `AuthenticationNotSupportedException` in a Java context and does not replace official documentation or professional support. Always consult the official documentation or seek expert advice when encountering complex issues.*
