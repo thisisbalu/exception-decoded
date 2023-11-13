@@ -10,19 +10,6 @@ toc: true
 
 As a developer working with Spring, encountering exceptions is inevitable. One of the common exceptions you may come across is `EncodingException`. In this article, we will delve into the details of `EncodingException` in Spring and understand how to decode and fix errors related to encoding.
 
-## Table of Contents
-1. What is EncodingException?
-2. Understanding Character Encoding
-3. Common Causes of EncodingException
-4. Decoding Exception Types
-   - org.springframework.core.codec.EncodingException
-   - java.nio.charset.MalformedInputException
-   - java.nio.charset.UnmappableCharacterException
-5. Handling EncodingException
-6. Preventive Measures
-7. Conclusion
-8. References
-
 ## 1. What is EncodingException?
 
 `EncodingException` is an exception that occurs when there are issues related to character encoding and decoding. In Spring, this exception is thrown when operations involving encoding and decoding fail.
