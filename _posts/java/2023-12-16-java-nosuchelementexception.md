@@ -12,14 +12,6 @@ toc: true
 
 Welcome to this in-depth guide on the `NoSuchElementException` in Java. In this article, we will explore the `NoSuchElementException` in detail, including its definition, common causes, prevention, and handling techniques. If you're a software developer working with Java, understanding this exception is critical for writing robust and error-free code.
 
-## Table of Contents
-
-- [What is NoSuchElementException?](#what-is-nosuchelementexception)
-- [Causes of NoSuchElementException](#causes-of-nosuchelementexception)
-- [Preventing NoSuchElementException](#preventing-nosuchelementexception)
-- [Handling NoSuchElementException](#handling-nosuchelementexception)
-- [Conclusion](#conclusion)
-
 ## What is NoSuchElementException?
 
 In Java, the `NoSuchElementException` is a type of `RuntimeException` that occurs when a method fails to find an element at the requested position in a collection, such as a `List`, `Set`, or `Queue`. This exception is a part of the `java.util` package and is primarily used to indicate that there are no more elements to retrieve from a collection.
@@ -180,4 +172,3 @@ Start leveraging your knowledge of `NoSuchElementException` today and write more
 *References:*
 
 - [Java NoSuchElementException - Oracle Documentation](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/NoSuchElementException.html)
-- [java.util.NoSuchElementException - Baeldung](https://www.baeldung.com/java-nosuchelementexception)
