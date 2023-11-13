@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: ConfigDataNotFoundException in Spring: Handling and Troubleshooting Configuration Data Errors"
+title: "ConfigDataNotFoundException in Spring: Handling and Troubleshooting Configuration Data Errors"
 date: 2023-12-14 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.context.config]
@@ -11,13 +11,6 @@ toc: true
 ## Introduction
 
 As developers, we often work with configuration data in our Spring applications. It helps us customize the behavior of our apps without modifying the code. However, with multiple configurations and different environments, we may encounter errors while fetching configuration data. One such error is the `ConfigDataNotFoundException`. In this article, we will dive deep into this exception, explore its causes, discuss how to handle it in Spring, and provide troubleshooting tips to resolve related issues.
-
-## Table of Contents
-- What is `ConfigDataNotFoundException`?
-- Causes of `ConfigDataNotFoundException`
-- Handling `ConfigDataNotFoundException` in Spring
-- Troubleshooting Tips
-- Conclusion
 
 ## What is `ConfigDataNotFoundException`?
 
@@ -110,4 +103,3 @@ By following these best practices, we can gracefully handle `ConfigDataNotFoundE
 **References:**
 - [Spring Docs: Exception Handling](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-exceptionhandlers)
 - [Spring Boot Docs: External Configuration](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config)
-- [Baeldung: Handling Exceptions with @ExceptionHandler](https://www.baeldung.com/exception-handling-for-rest-with-spring)
