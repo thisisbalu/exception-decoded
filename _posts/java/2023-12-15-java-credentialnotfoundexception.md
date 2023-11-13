@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding CredentialNotFoundException in Java: A Comprehensive Guide"
+title: "Understanding CredentialNotFoundException in Java: A Comprehensive Guide"
 date: 2023-12-15 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.security.auth.login, java-se]
@@ -7,21 +7,7 @@ mermaid: true
 toc: true
 ---
 
-
-Introduction:
---------------
 In the realm of Java programming, developers often encounter various exceptions that can disrupt the smooth functioning of their code. One such exception is the **CredentialNotFoundException**. In this article, we will explore what this exception means, its causes, and how to handle it effectively in Java applications.
-
-Table of Contents:
----------------------
-1. What is CredentialNotFoundException?
-2. Causes of CredentialNotFoundException
-3. Handling CredentialNotFoundException
-     3.1 Try-Catch Block
-     3.2 Using Optional
-4. Best Practices to Avoid CredentialNotFoundException
-5. Conclusion
-6. References
 
 ## 1. What is CredentialNotFoundException?
 
@@ -139,4 +125,3 @@ Remember, error handling and exception management are vital components of code d
 - Java SE Platform Documentation: [javax.security.auth.login](https://docs.oracle.com/javase/8/docs/api/javax/security/auth/login/package-summary.html)
 - Oracle Java Tutorials: [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 - Oracle's Blog: [Handling Exceptions](https://blogs.oracle.com/javamagazine/java-exceptions-example-handling-exceptions-try-catch-finally-explaination)
-- Baeldung's Guide: [Optional in Java](https://www.baeldung.com/java-optional)
