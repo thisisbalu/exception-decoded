@@ -7,16 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-> **Table of Contents**
->
-> 1. Introduction
-> 2. What is ConverterException?
-> 3. Causes of ConverterException
-> 4. Handling ConverterException
-> 5. Conclusion
-> 6. References
-
 ## Introduction
 
 In the context of Spring framework development, handling exceptions effectively becomes paramount for ensuring robust and reliable applications. One such exception often encountered is `ConverterException`. In this article, we will delve deep into understanding `ConverterException`, its causes, and explore best practices for handling it in Spring applications.
@@ -106,4 +96,3 @@ Thank you for reading this article. We hope it provided valuable insights into h
 
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#validation-error-handling)
 2. [Spring ConversionService API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/convert/converter/ConverterException.html)
-3. [Spring MVC Exception Handling](https://www.baeldung.com/spring-mvc-exception-handling-guide)
