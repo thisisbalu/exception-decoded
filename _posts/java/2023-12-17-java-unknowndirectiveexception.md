@@ -10,22 +10,6 @@ toc: true
 
 As a Java developer, you might have encountered the `UnknownDirectiveException` at some point during your development journey. This exception is thrown when the Java Virtual Machine (JVM) encounters an unknown directive or configuration command in your codebase. In this comprehensive guide, we will discuss everything you need to know about this exception, how to handle it effectively, and some best practices to avoid it altogether.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Understanding UnknownDirectiveException](#understanding-unknowndirectiveexception)
-3. [Common Causes of UnknownDirectiveException](#common-causes-of-unknowndirectiveexception)
-4. [Handling UnknownDirectiveException](#handling-unknowndirectiveexception)
-    1. [Catch and Log the Exception](#catch-and-log-the-exception)
-    2. [Ignore and Continue Execution](#ignore-and-continue-execution)
-    3. [Throw a Custom Exception](#throw-a-custom-exception)
-5. [Best Practices to Avoid UnknownDirectiveException](#best-practices-to-avoid-unknowndirectiveexception)
-    1. [Use Proper Configuration Checks](#use-proper-configuration-checks)
-    2. [Regularly Review and Update Configuration Files](#regularly-review-and-update-configuration-files)
-    3. [Use Configuration Management Tools](#use-configuration-management-tools)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## Introduction
 When working on Java projects, it is common to have configuration files that define various aspects of your application's behavior. These configuration files help in adjusting settings without modifying the code, providing flexibility and convenience. However, sometimes the JVM encounters an unknown directive or configuration command, resulting in the `UnknownDirectiveException`. This exception is a runtime exception derived from the `RuntimeException` class.
 
