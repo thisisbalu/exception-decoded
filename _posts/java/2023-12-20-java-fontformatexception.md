@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying FontFormatException in Java: A Comprehensive Guide"
+title: "FontFormatException in Java: A Comprehensive Guide"
 date: 2023-12-20 09:00:00 -0000
 categories: [Java, java.desktop]
 tags: [java, java-checked, java.awt, java-se]
@@ -11,12 +11,6 @@ toc: true
 ## Introduction
 Welcome to the world of Java programming! Fonts are essential elements of any graphical user interface (GUI) application. You might have encountered the `FontFormatException` while working with fonts in Java, leaving you wondering why it occurs and how to handle it. In this article, we will dive deep into the `FontFormatException` and explore its causes, prevention techniques, and proper exception handling. Buckle up, and let's begin this 15-minute journey to demystify the `FontFormatException` in Java!
 
-## Table of Contents
-- Background: What is `FontFormatException`?
-- Causes of `FontFormatException`
-- Handling `FontFormatException`
-- Prevention Techniques
-- Conclusion
 
 ## Background: What is `FontFormatException`?
 
