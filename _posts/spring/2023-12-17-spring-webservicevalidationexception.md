@@ -124,5 +124,3 @@ For more information on WebService Validation Exception in Spring, refer to the 
 - [Spring Validation Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-validation)
 
 Now you're equipped with the knowledge to implement WebService Validation Exception in your Spring projects. Happy coding and happy validating!
-
-*Estimated reading time: 15 minutes*
