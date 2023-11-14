@@ -142,5 +142,3 @@ Remember, exception handling is a fundamental aspect of developing reliable appl
 - [Spring Framework Documentation: Exception Translation](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#dao-exceptions)
 - [Spring DataAccessException Javadoc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/DataAccessException.html)
 - [Oracle® Database JDBC Java API Reference](https://docs.oracle.com/en/database/oracle/oracle-database/21/jjdbc/index.html)
-
-*This article was a 15-minute read on understanding and handling DataAccessException in Spring-based applications.*
