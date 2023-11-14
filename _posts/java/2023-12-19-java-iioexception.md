@@ -137,7 +137,4 @@ Happy coding!
 ## References
 
 - [Java API Documentation: IIOException](https://docs.oracle.com/en/java/javase/15/docs/api/java.desktop/javax/imageio/IIOException.html)
-- [Understanding and Handling Java Exceptions](https://www.baeldung.com/java-exceptions)
 - [Java File Class Documentation](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/io/File.html)
-
-*This article is a proprietary work of the author and not affiliated with any third-party libraries or platforms.*
