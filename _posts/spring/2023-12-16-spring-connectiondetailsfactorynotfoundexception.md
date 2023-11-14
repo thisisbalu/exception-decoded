@@ -1,13 +1,10 @@
 ---
-title: "**ConnectionDetailsFactoryNotFoundException in Spring: A Deep Dive into Handling Connection Details Factory Not Found Error**"
+title: "Troubleshooting ConnectionDetailsFactoryNotFoundException in Spring"
 date: 2023-12-16 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.autoconfigure.service.connection]
 mermaid: true
 toc: true
----
-
-
 ---
 
 Have you ever encountered a `ConnectionDetailsFactoryNotFoundException` error while working with the Spring framework? If you have, then this article is for you. In this comprehensive guide, we will take a closer look at this exception, understand its causes, and explore various strategies to effectively handle this error.
@@ -104,7 +101,4 @@ By following these guidelines and troubleshooting strategies, you can address th
 *References:*
 
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/)
-2. [Spring Connection Pooling with Apache Commons DBCP](https://www.baeldung.com/spring-connection-pooling)
-3. [Apache Commons DBCP Configuration](https://commons.apache.org/proper/commons-dbcp/configuration.html)
-
-**Note:** This article is a 15-minute read, providing an in-depth understanding of the `ConnectionDetailsFactoryNotFoundException` in Spring.
+2. [Apache Commons DBCP Configuration](https://commons.apache.org/proper/commons-dbcp/configuration.html)
