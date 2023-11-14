@@ -103,11 +103,7 @@ Remember, always handle UnknownElementException gracefully to prevent applicatio
 
 Now that you are armed with the knowledge to overcome the UnknownElementException, go forth and conquer your Java programming challenges with confidence!
 
----
-
 **Reference Links:**
 1. [Java Documentation: NoSuchElementException](https://docs.oracle.com/javase/8/docs/api/java/util/NoSuchElementException.html)
 2. [Java Documentation: Optional](https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html)
 3. [Java Documentation: ConcurrentHashMap](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/ConcurrentHashMap.html)
-
-***Note:*** *This article serves as a general guide. Always apply the best practices specified by your project or organization.*
