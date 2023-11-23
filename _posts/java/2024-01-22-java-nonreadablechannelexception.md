@@ -10,16 +10,6 @@ toc: true
 
 Sometimes, while working with file I/O operations in Java, you may encounter a specific exception called `NonReadableChannelException`. This exception is thrown when an attempt is made to read from a channel that is not open for reading. In this article, we will explore what causes this exception, how to handle it, and some best practices to follow when working with channels in Java.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Understanding Channels](#understanding-channels)
-- [What is NonReadableChannelException?](#what-is-nonreadablechannelexception)
-- [Why NonReadableChannelException Occurs?](#why-nonreadablechannelexception-occurs)
-- [Handling NonReadableChannelException](#handling-nonreadablechannelexception)
-- [Best Practices when Working with Channels](#best-practices-when-working-with-channels)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Introduction
 
 Java provides the `java.nio` package which includes a powerful concept known as channels. Channels are used for performing I/O operations on byte-oriented data, like reading from or writing to files. They offer higher performance and better control over I/O operations compared to traditional `InputStream` and `OutputStream` classes. However, when working with channels, it's essential to understand the various exceptions that can be thrown to handle them properly.
