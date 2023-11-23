@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 As a web developer, you might come across various exceptions while working on Spring applications. One such exception is the `InvalidEnvironmentRequestException`, which occurs when an invalid environment request is made to your application. In this article, we will dive deep into this exception, understand its causes, and learn how to handle it effectively in a Spring application.
 
 ## Understanding InvalidEnvironmentRequestException
@@ -134,6 +131,3 @@ For more information on Spring's exception handling capabilities, refer to the o
 - Spring Framework Documentation: [Exception Handling](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-exceptionhandlers)
 
 Thank you for reading, and happy coding!
-
----
-*Estimated reading time: 15 minutes*
