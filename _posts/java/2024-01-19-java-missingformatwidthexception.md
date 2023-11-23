@@ -117,11 +117,3 @@ In this detailed guide, we have explored the `MissingFormatWidthException` in Ja
 Remember, a thorough understanding of format specifiers and regular code reviews can go a long way in avoiding such exceptions. So, the next time you encounter a `MissingFormatWidthException`, you will be well-equipped to identify the problem swiftly and resolve it efficiently.
 
 Happy coding!
-
----
-
-**References**:
-- [Java Formatter Class Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Formatter.html)
-- [Java Printf Method Documentation](https://docs.oracle.com/javase/7/docs/api/java/io/PrintStream.html#printf(java.lang.String,%20java.lang.Object...))
-
-*Estimated reading time: 15 minutes*
