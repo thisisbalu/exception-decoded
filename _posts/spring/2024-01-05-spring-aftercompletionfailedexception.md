@@ -1,12 +1,11 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding AfterCompletionFailedException in Spring: A Definitive Guide"
+title: "Understanding AfterCompletionFailedException in Spring: A Definitive Guide"
 date: 2024-01-05 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp.rabbit.connection]
 mermaid: true
 toc: true
 ---
-
 
 ## Introduction
 
