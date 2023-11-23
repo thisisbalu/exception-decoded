@@ -84,10 +84,3 @@ In this article, we explored the concept of `ContextLoadException` in Spring and
 By understanding the root causes and following the recommended practices, you can minimize the occurrence of `ContextLoadException` and ensure a smooth application startup in your Spring projects.
 
 Remember, `ContextLoadException` is not an exception to be ignored but rather an opportunity to improve the overall quality and stability of your Spring applications.
-
----
-
-#### References
-
-- [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
-- [Stack Overflow: How to resolve ContextLoadException](https://stackoverflow.com/questions/12395281/how-to-resolve-org-springframework-context-contextexception-exception-in-spring)
