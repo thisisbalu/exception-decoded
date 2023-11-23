@@ -1,5 +1,5 @@
 ---
-title: "Title: Deep Dive into InvalidConfigurationMetadataException in Spring: How to Handle and Solve It"
+title: "Deep Dive into InvalidConfigurationMetadataException in Spring: How to Handle and Solve It"
 date: 2024-01-11 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.configurationprocessor.metadata]
@@ -7,27 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
-<!-- A comprehensive guide on InvalidConfigurationMetadataException in Spring with practical examples and techniques to resolve this exception -->
-
 ## Introduction
 
 When working with Spring, it's essential to understand the exceptions you might encounter to ensure smooth development and efficient error handling. One such exception is **InvalidConfigurationMetadataException**. In this article, we will explore InvalidConfigurationMetadataException in Spring, understand its causes and frequent occurrence, and provide techniques to handle and solve it effectively. So, let's dive into the details!
-
-## Table of Contents
-
-<!-- toc -->
-- [What is the InvalidConfigurationMetadataException?](#what-is-the-invalidconfigurationmetadataexception)
-- [Common Causes of InvalidConfigurationMetadataException](#common-causes-of-invalidconfigurationmetadataexception)
-- [Handling InvalidConfigurationMetadataException](#handling-invalidconfigurationmetadataexception)
-  * [Approach 1: Verify Annotation Usage](#approach-1-verify-annotation-usage)
-  * [Approach 2: Check Configuration Metadata](#approach-2-check-configuration-metadata)
-- [Solving InvalidConfigurationMetadataException](#solving-invalidconfigurationmetadataexception)
-  * [Solution 1: Correct Annotation Usage](#solution-1-correct-annotation-usage)
-  * [Solution 2: Validate Configuration Metadata](#solution-2-validate-configuration-metadata)
-- [Conclusion](#conclusion)
-- [References](#references)
-<!-- tocstop -->
 
 ## What is the InvalidConfigurationMetadataException?
 
