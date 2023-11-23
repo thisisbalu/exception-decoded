@@ -108,5 +108,3 @@ For further information and detailed documentation, please refer to the followin
 - [CRL Management Best Practices](https://www.tldrsec.com/blog/implementing-a-public-key-infrastructure-pki/crl-management-best-practices/)
 
 We hope this guide has helped you gain a better understanding of troubleshooting the `CRLException` in Java. Remember, maintaining secure communication is of utmost importance, and being well-prepared to address potential errors is a fundamental part of the process. Happy coding!
-
-*Estimated reading time: 15 minutes*
