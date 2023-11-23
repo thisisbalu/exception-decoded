@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding OnWriteError in Spring: A Comprehensive Guide"
+title: "Understanding OnWriteError in Spring: A Comprehensive Guide"
 date: 2024-01-08 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.annotation]
