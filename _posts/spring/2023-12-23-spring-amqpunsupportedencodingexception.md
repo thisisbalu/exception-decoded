@@ -105,7 +105,7 @@ Keep exploring the vast world of Spring AMQP to further expand your knowledge an
 
 ---
 
-##### References
+## References
 [Spring AMQP Documentation](https://docs.spring.io/spring-amqp/docs/)
 
 [Java™ Platform Standard Ed. 11 - UnsupportedEncodingException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/UnsupportedEncodingException.html)
