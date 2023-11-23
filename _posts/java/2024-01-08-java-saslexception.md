@@ -158,7 +158,3 @@ By enabling debug logging using `javax.security.sasl.debug`, you can obtain deta
 In this article, we have explored the `SaslException` in Java and identified its causes. By understanding the possible reasons behind this exception, you can take appropriate measures to handle it effectively. Remember to log and report any occurrences of `SaslException`, handle it gracefully, and gather relevant information for troubleshooting purposes. By doing so, you can ensure the security and integrity of your Java applications.
 
 For further information, you can refer to the official Java documentation on `SaslException` [here](https://docs.oracle.com/en/java/javase/17/docs/api/java.security.jgss/javax/security/sasl/SaslException.html).
-
-------------------
-
-*Estimated reading time: 15 minutes*
