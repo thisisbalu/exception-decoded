@@ -82,18 +82,8 @@ While handling AccountNotFoundException is crucial, it is equally important to i
 
 4. Unit Testing: Write thorough unit tests to cover different scenarios, including invalid or non-existent account identifiers. This allows you to identify and fix issues before they occur in production.
 
-## Further Resources
-
-For more information on handling exceptions in Java, refer to the following resources:
-
-- Oracle Java Exceptions guide: [https://docs.oracle.com/javase/tutorial/essential/exceptions/](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
-- Java Exception Handling Best Practices: [https://dzone.com/articles/java-exception-handling-best](https://dzone.com/articles/java-exception-handling-best)
-- Clean Code: Exception Handling Principles: [https://www.javacodegeeks.com/2016/07/clean-code-java-exception-handling-principles.html](https://www.javacodegeeks.com/2016/07/clean-code-java-exception-handling-principles.html)
-
 ## In Conclusion
 
 AccountNotFoundException in Java can be a frustrating exception to handle, but with the right techniques and preventive measures, you can effectively manage and minimize its occurrence. By implementing best practices such as proper error handling, input validation, and consistency checks, you can ensure a smoother user experience and enhance the reliability of your Java applications.
 
 Remember, prevention is better than cure, so strive to minimize the occurrence of AccountNotFoundException by following the recommendations outlined in this article. Happy coding!
-
-*Estimated reading time: 15 minutes*
