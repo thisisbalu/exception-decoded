@@ -1,13 +1,10 @@
 ---
-title: "Catchy Title: Understanding AuthenticationServiceException in Spring: A Comprehensive Guide"
+title: "Understanding AuthenticationServiceException in Spring: A Comprehensive Guide"
 date: 2024-01-04 09:00:00 -0000
 categories: [Spring, spring-security]
 tags: [spring, spring-unchecked, org.springframework.security.authentication]
 mermaid: true
 toc: true
----
-
-
 ---
 
 ## Introduction
