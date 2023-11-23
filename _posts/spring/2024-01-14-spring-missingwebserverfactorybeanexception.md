@@ -99,9 +99,8 @@ By following these solutions, you can quickly identify and fix the `MissingWebSe
 
 Keep coding and happy troubleshooting!
 
-### References
+## References
 
 - [Spring Boot Reference Guide - Embedded Web Servers](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-web-server)
 - [Spring Boot Reference Guide - Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 - [Spring Boot Auto-configuration](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-developing-auto-configuration)
-- [Spring Boot Getting Started Guide](https://spring.io/guides/gs/spring-boot/)
