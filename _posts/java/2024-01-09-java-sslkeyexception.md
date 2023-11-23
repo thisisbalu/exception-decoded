@@ -12,23 +12,6 @@ SSLKeyException is a common exception encountered while working with secure conn
 
 In this article, we will explore the causes of the SSLKeyException, how to troubleshoot the issue, and provide solutions to resolve it. Whether you are a Java developer or system administrator, this comprehensive guide will help you diagnose and fix SSL certificate-related problems.
 
-## Table of Contents
-1. What is SSLKeyException?
-2. Causes of SSLKeyException
-3. Troubleshooting SSLKeyException
-   - Checking SSL Certificate Expiry
-   - Verifying Certificate Chain
-   - Trusting the Certificate Authority (CA)
-4. Resolving SSLKeyException
-   - Updating JRE Truststore
-   - Custom Truststore Configuration
-   - Disabling SSL Certificate Verification (Not Recommended)
-5. Preventing SSLKeyException
-   - Renewing SSL Certificate
-   - Automating Certificate Management
-6. Conclusion
-7. References
-
 ## 1. What is SSLKeyException?
 
 SSLKeyException is a runtime exception that occurs when the Java Virtual Machine (JVM) or Java-based application encounters an issue while validating an SSL certificate. This exception indicates that an invalid, expired, self-signed, or untrusted certificate is being used, resulting in a failure to establish a secure SSL/TLS connection.
