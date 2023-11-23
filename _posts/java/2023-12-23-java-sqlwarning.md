@@ -10,16 +10,6 @@ toc: true
 
 Are you a Java developer who needs to handle exceptions and warnings when dealing with databases? Look no further! In this comprehensive guide, we will explore SQLWarning in Java, a powerful tool for diagnosing and resolving database issues. Whether you are an experienced developer or just starting, this article will equip you with the knowledge and code examples you need to handle warnings effectively.
 
-## Table of Contents
-- Introduction to SQLWarning
-- Understanding SQLWarning
-- Code examples
-  - Example 1: Handling SQLWarning
-  - Example 2: Iterating through SQLWarnings
-  - Example 3: Throwing SQLWarning
-- Summary
-- References
-
 ## Introduction to SQLWarning
 When working with databases in Java, it is important to handle potential warnings or errors that might occur during database operations. SQLWarning is a class in the Java API that provides valuable information about problems or issues that arise during program execution. It extends the SQLExeption class, making it a powerful tool for diagnosing and resolving database-related issues.
 
@@ -136,6 +126,5 @@ Keep strengthening your database management practices and dive deeper into SQLWa
 - Java API documentation on [`SQLWarning`](https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/SQLWarning.html)
 - JDBC API documentation on handling [`SQL Exceptions`](https://docs.oracle.com/en/java/javase/11/docs/api/java.sql/java/sql/SQLException.html)
 - Oracle's Java tutorials on [`JDBC Introduction`](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
-- Baeldung's tutorial on [`Handling JDBC SQLException`](https://www.baeldung.com/jdbc-sql-exceptions)
 - DZone's article on handling [`SQL Exceptions in Java`](https://dzone.com/articles/set-next-sql-exception)
 - JavaWorld's article on handling [`Warnings and Errors in JDBC`](https://www.javaworld.com/article/2074054/core-java-4000-jdbc-amp-relational-databases-243.html)
