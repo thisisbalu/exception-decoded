@@ -10,26 +10,6 @@ toc: true
 
 Serialization is a fundamental concept in computer science and plays a key role in various applications. In the context of Spring framework, SerializationException can be an obstacle that developers may encounter. In this article, we will delve deep into SerializationException, its causes, possible solutions, and best practices to handle it effectively.
 
-## Table of Contents
-
-1. Overview of Serialization
-2. Introduction to SerializationException
-3. Causes of SerializationException
-   - Incorrect Serialization Configuration
-   - Incompatible Serialization Versions
-   - Serialization of Non-Serializable Objects
-4. Handling SerializationException
-   - Specifying Serialization Version
-   - Implementing Serializable Interface
-   - Custom Serialization and Deserialization
-   - Externalizable Interface
-5. Best Practices to Avoid SerializationException
-   - Version Control
-   - Proper Exception Handling
-   - Testing Serialization and Deserialization
-6. Conclusion
-7. References
-
 ## 1. Overview of Serialization
 
 Serialization is the process of converting an object's state into a byte stream, which can be easily persisted to disk, transmitted over a network, or stored in memory. It allows objects to be reconstructed in the original form later, ensuring portability and interoperability.
