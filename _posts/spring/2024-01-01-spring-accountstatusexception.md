@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 As a developer working with the Spring framework, you may have encountered the `AccountStatusException` at some point in your projects. In this article, we will explore what this exception is, its common causes, and how to handle it effectively in your Spring applications.
