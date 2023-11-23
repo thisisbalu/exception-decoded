@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO-friendly Title: Unwrapping the ConsumerCancelledException in Spring: A Step-by-Step Guide"
+title: "Unwrapping the ConsumerCancelledException in Spring: A Step-by-Step Guide"
 date: 2023-12-28 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp.rabbit.support]
@@ -85,4 +85,4 @@ Thank you for reading this comprehensive guide! If you found it helpful, don't h
 - [Spring AMQP Documentation](https://docs.spring.io/spring-amqp/docs/current/reference/html/)
 - [RabbitMQ Official Documentation](https://www.rabbitmq.com/documentation.html)
 - [Baeldung - Exception Handling in Spring MVC](https://www.baeldung.com/exception-handling-for-rest-with-spring)
-- [DZone - RabbitMQ Spring Boot: Retry and Recover](https://dzone.com/articles/rabbitmq-spring-boot-retry-and-recover
+- [DZone - RabbitMQ Spring Boot: Retry and Recover](https://dzone.com/articles/rabbitmq-spring-boot-retry-and-recover)
