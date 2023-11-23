@@ -1,5 +1,5 @@
 ---
-title: "The Art of Handling ResponseErrors in Spring"
+title: "The Art of Handling ResponseError in Spring"
 date: 2023-12-29 09:00:00 -0000
 categories: [Spring, spring-graphql]
 tags: [spring, spring-unchecked, org.springframework.graphql]
