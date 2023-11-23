@@ -1,5 +1,5 @@
 ---
-title: "**Handling Returned Messages in Spring RabbitMQ**"
+title: "Ensuring reliable message delivery with AmqpMessageReturnedException in Spring"
 date: 2023-12-31 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp.core]
@@ -7,26 +7,7 @@ mermaid: true
 toc: true
 ---
 
-- *Ensuring reliable message delivery with AmqpMessageReturnedException in Spring*
-
----
-
 ***If you are a Spring developer working with RabbitMQ, you must have come across situations where messages are returned by the broker due to various reasons. Handling these returned messages efficiently is crucial for ensuring reliable message delivery. In this article, we will explore how to handle returned messages in Spring RabbitMQ using the `AmqpMessageReturnedException` class, along with some best practices and code examples.***
-
----
-
-## Table of Contents
-- Introduction
-- Handling Returned Messages
-  - `AmqpMessageReturnedException`
-  - Configuring the Listener Container
-  - Implementing the `ReturnCallback` Interface
-  - Example: Handling Returned Messages
-- Best Practices
-- Conclusion
-- References
-
----
 
 ## Introduction
 
@@ -36,7 +17,6 @@ To handle such situations effectively, Spring RabbitMQ provides the `AmqpMessage
 
 This article will guide you on how to handle returned messages using `AmqpMessageReturnedException` in Spring RabbitMQ.
 
----
 
 ## Handling Returned Messages
 
@@ -139,8 +119,6 @@ public class MessageProducer {
 
 In the above example, the `afterPropertiesSet` method from the `InitializingBean` interface is overridden in the `MessageConsumer` class. This method sets the `ReturnCallback` on the `RabbitTemplate` instance using `rabbitTemplate.setReturnCallback(this)`. So, whenever a message is returned by the broker, the `returnedMessage` method will be invoked.
 
----
-
 ## Best Practices
 
 While handling returned messages in Spring RabbitMQ, consider the following best practices:
@@ -151,8 +129,6 @@ While handling returned messages in Spring RabbitMQ, consider the following best
 
 3. **Error Reporting**: On encountering returned messages, it is important to report the error and take appropriate action. This can include sending notifications, raising alerts, or retrying the message delivery. Implement proper error reporting mechanisms to ensure failed messages are handled efficiently. [^3^]
 
----
-
 ## Conclusion
 
 Handling returned messages is a crucial aspect of ensuring reliable message delivery in Spring RabbitMQ applications. The `AmqpMessageReturnedException` class provides the necessary tools to capture and process these returned messages effectively. By configuring the listener container and implementing the `ReturnCallback` interface, developers can handle returned messages with ease.
@@ -161,14 +137,7 @@ In this article, we explained the usage of `AmqpMessageReturnedException` and pr
 
 By following such practices, you can build resilient and fault-tolerant messaging systems using Spring RabbitMQ.
 
----
-
 ## References
 
 1. [RabbitMQ - Handling Returned Messages](https://www.rabbitmq.com/confirms.html#returned-messages)
 2. [Spring AMQP - Configuring Return Callback](https://docs.spring.io/spring-amqp/docs/current/reference/html/#_configuring_return_callback)
-3. [Handling Returned Messages in Spring AMQP](https://www.baeldung.com/spring-amqp-return-callback)
-
----
-
-*Disclaimer: This article is for educational purposes only and intended to provide insights into handling returned messages in Spring RabbitMQ.*
