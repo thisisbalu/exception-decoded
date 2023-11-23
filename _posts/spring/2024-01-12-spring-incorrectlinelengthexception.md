@@ -14,7 +14,7 @@ Have you ever come across a situation where you encountered a `IncorrectLineLeng
 
 When dealing with Spring applications, exceptions are inevitable. One such exception that you might encounter is the `IncorrectLineLengthException`. The purpose of this exception is to indicate that a line in the input data is longer than the specified maximum length.
 
-## Understanding the `IncorrectLineLengthException`
+## Understanding the IncorrectLineLengthException
 
 The `IncorrectLineLengthException` is a subclass of the `RuntimeException`. It is thrown when an input line exceeds the maximum allowed length. This exception is commonly encountered when reading or processing files, especially in scenarios where strict line length constraints need to be enforced.
 
@@ -47,7 +47,7 @@ public class MyFileReader {
 
 In the above code snippet, `FlatFileItemReader` is a Spring utility class that reads data from a file line by line. When a line in the input file exceeds the maximum allowed length, a `IncorrectLineLengthException` is thrown.
 
-## Handling `IncorrectLineLengthException`
+## Handling IncorrectLineLengthException
 
 Now that we have a basic understanding of the `IncorrectLineLengthException`, let's explore various strategies to handle it in a Spring application.
 
@@ -131,10 +131,3 @@ Remember to log the exceptions, validate input data, and implement robust error 
 Don't let this exception interrupt the smooth operation of your Spring application. With the knowledge gained from this guide, you'll be able to confidently handle the `IncorrectLineLengthException` and keep your code running flawlessly.
 
 Stay tuned for more insightful articles on Spring and its exceptional handling techniques!
-
-**References:**
-- [Spring Framework Official Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/exception-handling.html)
-- [Apache Commons IO Library](https://commons.apache.org/proper/commons-io/)
-- [SLF4J Documentation](http://www.slf4j.org/manual.html)
-
-*Estimated reading time: 15 minutes*
