@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In the world of enterprise applications, transaction management is a crucial aspect to ensure data integrity and consistency. Spring Framework provides robust support for managing transactions in an efficient and flexible manner. However, there are certain challenges that developers may face when dealing with transaction isolation levels, one of which is the `InvalidIsolationLevelException`. This article aims to shed light on this exception, its implications, and how to address it effectively.
@@ -79,5 +78,3 @@ Remember to review your database compatibility, verify the Spring configuration,
 **References:**
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction-declarative-transaction-isolation)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/transaction-iso.html)
-
-*Estimated reading time: 15 minutes*
