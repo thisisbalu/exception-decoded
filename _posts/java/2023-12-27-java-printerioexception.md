@@ -1,5 +1,5 @@
 ---
-title: "**PrinterIOException in Java: An In-depth Guide**"
+title: "PrinterIOException in Java: An In-depth Guide"
 date: 2023-12-27 09:00:00 -0000
 categories: [Java, java.desktop]
 tags: [java, java-checked, java.awt.print, java-se]
@@ -102,13 +102,3 @@ Remember, staying up-to-date with printer drivers, checking printer connectivity
 ## References
 
 1. [Java Documentation - PrinterIOException](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/javax/print/PrinterIOException.html)
-
-2. [Stack Overflow - How to resolve PrinterIOException in Java](https://stackoverflow.com/questions/57020109/how-to-resolve-printerioexception-in-java)
-
-3. [HP Support - Troubleshooting Printing Issues](https://support.hp.com/us-en)
-
-4. [Microsoft Support - Troubleshoot Printer Problems in Windows](https://support.microsoft.com/en-us/windows/troubleshoot-printer-problems-in-windows-598b708f-469f-7ebb-bdfa-7aa2584c1f5f)
-
-5. [The Java Tutorials - Handling Errors and Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
-
-6. [W3Schools - Try Catch](https://www.w3schools.com/java/java_try_catch.asp)
