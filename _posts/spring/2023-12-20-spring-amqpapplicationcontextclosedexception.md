@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting Spring AMQP ApplicationContextClosedException"
+title: "Troubleshooting Spring AMQP ApplicationContextClosedException"
 date: 2023-12-20 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp]
@@ -9,22 +9,6 @@ toc: true
 
 
 Are you encountering the dreaded `AmqpApplicationContextClosedException` when working with Spring AMQP? Don't worry, you're not alone. This informative guide will help you understand the root cause of this exception and provide effective solutions to resolve it.
-
-## Table of Contents
-1. Introduction
-2. Understanding AMQP and Spring AMQP
-3. What is ApplicationContextClosedException?
-4. Common Causes of ApplicationContextClosedException
-   - 4.1. Early Shutdown of the ApplicationContext
-   - 4.2. Misconfiguration of ConnectionFactory
-5. How to Handle ApplicationContextClosedException
-   - 5.1. Graceful Shutdown
-   - 5.2. Resilient Reconnection
-6. Examples to Solve ApplicationContextClosedException
-   - 6.1. Example: Graceful Shutdown
-   - 6.2. Example: Resilient Reconnection
-7. Conclusion
-8. References
 
 ## 1. Introduction
 
@@ -155,10 +139,3 @@ Remember, graceful shutdown and resilient reconnection are crucial in maintainin
 1. [Spring AMQP Official Documentation](https://docs.spring.io/spring-amqp/docs/)
 2. [RabbitMQ Official Website](https://www.rabbitmq.com/)
 3. [AMQP Protocol Specifications](https://www.amqp.org/resources/specifications)
-
-### About the author
-John Doe is a software engineer and technical writer with expertise in Spring, AMQP, and distributed systems. He enjoys sharing his knowledge and helping developers overcome challenges in their projects. Keep up with his latest articles on [johndoe.com](https://www.johndoe.com).
-
---
-
-This article should take approximately 15 minutes to read.
