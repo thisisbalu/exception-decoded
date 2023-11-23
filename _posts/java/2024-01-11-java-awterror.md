@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding AWTError in Java - The Complete Guide"
+title: "Understanding AWTError in Java - The Complete Guide"
 date: 2024-01-11 09:00:00 -0000
 categories: [Java, java.desktop]
 tags: [java, java-error, java.awt, java-se]
@@ -99,5 +99,4 @@ Now that you are equipped with essential knowledge about AWTErrors, you are read
 ## References
 - Official Java Documentation: [https://docs.oracle.com/en/java/javase/14/docs/api/java.desktop/java/awt/doc-files/AWTError.html](https://docs.oracle.com/en/java/javase/14/docs/api/java.desktop/java/awt/doc-files/AWTError.html)
 - Java Swing Tutorial: [https://docs.oracle.com/javase/tutorial/uiswing/](https://docs.oracle.com/javase/tutorial/uiswing/)
-- Stack Overflow: [https://stackoverflow.com/questions/8574521/what-should-i-do-to-make-swing-components-thread-safe](https://stackoverflow.com/questions/8574521/what-should-i-do-to-make-swing-components-thread-safe)
 - Oracle Java SE: [https://www.oracle.com/java/](https://www.oracle.com/java/)
