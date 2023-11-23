@@ -1,5 +1,5 @@
 ---
-title: "Title: VMCannotBeModifiedException in Java: Understanding and Handling Immutable Objects"
+title: "VMCannotBeModifiedException in Java: Understanding and Handling Immutable Objects"
 date: 2024-01-03 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
@@ -12,24 +12,15 @@ toc: true
 
 Java is a popular object-oriented programming language that promotes the concept of immutability when designing classes and objects. Immutable objects are objects whose state cannot be modified once they are created. This immutability provides several benefits like thread safety, improved performance, and simplified error handling. However, when attempting to modify an immutable object, Java throws a `VMCannotBeModifiedException`. In this article, we will explore this exception in detail, understand its causes, and learn how to handle it effectively.
 
-## Table of Contents
-1. [Understanding Immutability in Java](#understanding-immutability-in-java)
-2. [What is VMCannotBeModifiedException?](#what-is-vmcannotbemodifiedexception)
-3. [Causes of VMCannotBeModifiedException](#causes-of-vmcannotbemodifiedexception)
-4. [Handling VMCannotBeModifiedException](#handling-vmcannotbemodifiedexception)
-5. [Best Practices to Avoid VMCannotBeModifiedException](#best-practices-to-avoid-vmcannotbemodifiedexception)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
-## 1. Understanding Immutability in Java <a name="understanding-immutability-in-java"></a>
+## 1. Understanding Immutability in Java
 
 In Java, immutability refers to the state of an object that cannot be modified after it has been instantiated. Immutable objects are useful in scenarios where you need to guarantee the integrity of the object's state or ensure thread safety. Once an immutable object is created, its state remains constant throughout its lifetime, making it more predictable and easier to reason about in concurrent environments.
 
-## 2. What is VMCannotBeModifiedException? <a name="what-is-vmcannotbemodifiedexception"></a>
+## 2. What is VMCannotBeModifiedException?
 
 `VMCannotBeModifiedException` is a runtime exception that is thrown by the Java Virtual Machine (JVM) when an attempt is made to modify an object that is marked as immutable. This exception indicates that the object is not designed to support modification and trying to change its state would violate the principles of immutability.
 
-## 3. Causes of VMCannotBeModifiedException <a name="causes-of-vmcannotbemodifiedexception"></a>
+## 3. Causes of VMCannotBeModifiedException
 
 There are several possible causes for encountering a `VMCannotBeModifiedException` in Java:
 
@@ -63,7 +54,7 @@ Another cause of `VMCannotBeModifiedException` is when you inadvertently use or 
 ### c. Improper Serialization or Deserialization
 Java's serialization and deserialization mechanisms are not compatible with immutability by default. If an immutable object is improperly serialized and then deserialized, it may lose its immutability properties. Attempting to modify such an object will raise a `VMCannotBeModifiedException`.
 
-## 4. Handling VMCannotBeModifiedException <a name="handling-vmcannotbemodifiedexception"></a>
+## 4. Handling VMCannotBeModifiedException
 
 When encountering a `VMCannotBeModifiedException`, it is essential to handle it gracefully to prevent unexpected behavior or application crashes. Here are some approaches to consider:
 
@@ -97,7 +88,7 @@ if (object instanceof ImmutableClass) {
 ### c. Defensive Design
 When designing your own objects, consider implementing defensive strategies like creating defensive copies of mutable properties before returning them from methods. This way, even if the caller attempts to modify the returned object, it won't impact the underlying immutable object.
 
-## 5. Best Practices to Avoid VMCannotBeModifiedException <a name="best-practices-to-avoid-vmcannotbemodifiedexception"></a>
+## 5. Best Practices to Avoid VMCannotBeModifiedException 
 
 To mitigate the risk of encountering a `VMCannotBeModifiedException`, follow these best practices:
 
@@ -134,6 +125,5 @@ Developing with immutable objects is a powerful technique that brings several be
 In this article, we explored the concept of immutability in Java, discussed the `VMCannotBeModifiedException`, its causes, and provided strategies for handling and avoiding this exception. By adhering to immutability principles and employing defensive coding techniques, developers can harness the power of immutable objects while minimizing the risk of encountering `VMCannotBeModifiedException`.
 
 ## References <a name="references"></a>
-- [Java Immutable Objects: Pros and Cons by Baeldung](https://www.baeldung.com/java-immutable-object)
 - [Java Virtual Machine Specification - Exception Details](https://docs.oracle.com/javase/specs/jvms/se16/html/jvms-6.html#jvms-6.3)
 - [Understanding Immutability in Java by IBM Developer](https://developer.ibm.com/articles/use-immutable-objects-java/)
