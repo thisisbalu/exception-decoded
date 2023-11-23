@@ -81,10 +81,4 @@ During the course of this article, we explored the root causes of ResultHandling
 
 By following these best practices, developers can effectively handle ResultHandlingException and provide a seamless and error-free user experience.
 
-## References
-
-- Spring Framework Documentation: [https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-exceptions](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-exceptions)
-- Spring MVC Exception Handling: [https://www.baeldung.com/exception-handling-for-rest-with-spring#global-rest-exception-handling-via-controlleradvice](https://www.baeldung.com/exception-handling-for-rest-with-spring#global-rest-exception-handling-via-controlleradvice)
-- Spring MVC Exception Handling with @ExceptionHandler: [https://www.baeldung.com/spring-mvc-ex Handler](https://www.baeldung.com/spring-mvc-exception-handling-@exceptionhandler)
-
 This article should equip you with the knowledge necessary to handle ResultHandlingException effectively in your Spring applications.
