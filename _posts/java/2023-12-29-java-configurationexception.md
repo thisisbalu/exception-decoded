@@ -116,9 +116,4 @@ In this comprehensive guide, we covered everything you need to know about the `C
 
 Remember, handling exceptions is an integral part of software development. By implementing proper exception-handling mechanisms and adopting best practices, you can enhance the reliability and stability of your Java applications.
 
-For detailed information, please refer to the official documentation:
-
-- [Apache Commons Configuration](https://commons.apache.org/proper/commons-configuration/)
-- [Java Exception Handling Tutorial](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
-
 Happy coding!
