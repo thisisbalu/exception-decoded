@@ -12,20 +12,6 @@ As a Java programmer, you may have encountered the `IllegalFormatException` at s
 
 In this article, we'll delve into the intricacies of `IllegalFormatException`. We'll explore its various error types, examine their causes, and provide practical code examples to help you identify and resolve these issues effectively.
 
-## Table of Contents
-1. [Introduction to IllegalFormatException](#introduction-to-illegalformatexception)
-2. [Understanding Error Types](#understanding-error-types)
-   - [MissingFormatArgumentException](#missingformatargumentexception)
-   - [MissingFormatWidthException](#missingformatwidthexception)
-   - [MissingFormatPrecisionException](#missingformatprecisionexception)
-   - [UnknownFormatConversionException](#unknownformatconversionexception)
-   - [FormatFlagsConversionMismatchException](#formatflagsconversionmismatchexception)
-3. [Handling IllegalFormatException](#handling-illegalformatexception)
-   - [Using Try-Catch Blocks](#using-try-catch-blocks)
-   - [Validating Format Strings](#validating-format-strings)
-4. [Conclusion](#conclusion)
-5. [References](#references)
-
 ## Introduction to IllegalFormatException
 
 `IllegalFormatException` is a checked exception that extends the `IllegalStateException` class. It specifically represents an error caused by incorrect format string usage within the `Formatter` class. The `Formatter` class supports various format specifiers, allowing developers to effectively format text, numbers, and other data in Java. However, using these specifiers incorrectly can result in an `IllegalFormatException` being thrown.
@@ -154,7 +140,6 @@ To learn more about `IllegalFormatException` and the Java `Formatter` class, ref
 
 - [Oracle Java Documentation - IllegalFormatException](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/IllegalFormatException.html)
 - [Oracle Java Documentation - Formatter](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Formatter.html)
-- [Baeldung - Format Flags in Java](https://www.baeldung.com/java-format-flags)
 - [StackOverflow - IllegalFormatException](https://stackoverflow.com/questions/tagged/illegalformatexception)
 
 Make sure to check these references for a more in-depth understanding of the topic, allowing you to enhance your mastery of the Java programming language. Happy coding!
