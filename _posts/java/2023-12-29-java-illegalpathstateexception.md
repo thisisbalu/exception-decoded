@@ -1,5 +1,5 @@
 ---
-title: "ILLEGALPATHSTATEEXCEPTION IN JAVA: UNDERSTANDING AND HANDLING"
+title: "Understanding the IllegalPathStateException in Java: How to Handle Unexpected Path Operations"
 date: 2023-12-29 09:00:00 -0000
 categories: [Java, java.desktop]
 tags: [java, java-unchecked, java.awt.geom, java-se]
