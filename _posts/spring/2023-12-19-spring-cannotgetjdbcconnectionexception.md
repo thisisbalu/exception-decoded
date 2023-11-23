@@ -109,5 +109,3 @@ For more information on JDBC connectivity and exception handling in Spring, refe
 - [Oracle JDBC Driver Downloads](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html)
 
 Now armed with this knowledge, you are well-equipped to tackle the `CannotGetJdbcConnectionException` in your Spring applications. Happy coding!
-
-*Note: This article is for educational purposes only and should not be considered as a substitute for professional advice or guidance.*
