@@ -103,5 +103,3 @@ Now that you're armed with this knowledge, go forth and conquer the `CassandraTr
 
 - [Spring Data Cassandra Documentation](https://docs.spring.io/spring-data/cassandra/docs/current/reference/html/#cassandra.tracing)
 - [Cassandra Official Documentation](https://cassandra.apache.org/doc/latest/)
-
-*Note: This article is intended as a troubleshooting guide and should not be considered a substitute for official documentation or personalized support from the Spring community.*
