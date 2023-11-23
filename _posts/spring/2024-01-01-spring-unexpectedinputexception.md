@@ -120,10 +120,3 @@ Besides using `SkipPolicy`, Spring Batch also offers other exception handling me
 ## Conclusion
 
 Handling unexpected input is crucial for maintaining robust and fault-tolerant Spring applications. Spring Batch provides powerful exception handling mechanisms, including the `UnexpectedInputException`, to help you gracefully handle such scenarios. By understanding the purpose and usage of this exception, and through appropriate configuration and implementation of exception handlers, you can ensure your application remains stable and provides meaningful error feedback to the user.
-
-**References**:
-- [Spring Batch Official Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html)
-- [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)
-- [Baeldung Spring Batch Tutorials](https://www.baeldung.com/spring-batch)
-
-*Note: This article is a 15-minute read. Time may vary based on individual reading speed.*
