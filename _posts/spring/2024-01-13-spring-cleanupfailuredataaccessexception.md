@@ -1,5 +1,5 @@
 ---
-title: "**Understanding the CleanupFailureDataAccessException in Spring: A Comprehensive Guide**"
+title: "Understanding the CleanupFailureDataAccessException in Spring: A Comprehensive Guide"
 date: 2024-01-13 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]
@@ -10,7 +10,7 @@ toc: true
 
 Have you ever encountered a situation where cleaning up resources after a transaction has failed became a nightmare? As a Spring developer, you might have come across the `CleanupFailureDataAccessException` at some point. In this article, we will delve deep into this exception and explore its origins, causes, and possible solutions. So, grab a cup of coffee and let's get started!
 
-## What is `CleanupFailureDataAccessException`?
+## What is CleanupFailureDataAccessException?
 
 `CleanupFailureDataAccessException` is a runtime exception that belongs to the Spring Framework's exception hierarchy. It is a sub-class of `DataAccessException` and is thrown when an error occurs during the transactional resource cleanup phase. This exception typically occurs when the transaction fails to clean up resources properly.
 
@@ -24,7 +24,7 @@ During the transactional resource cleanup phase, Spring releases any acquired re
 
 However, in some scenarios, the resource cleanup process may fail. This failure can happen due to various reasons, including network issues, database server outages, or application-specific conditions. When such failures occur, Spring throws the `CleanupFailureDataAccessException` to signal that cleaning up resources after the transaction failed.
 
-## Common Scenarios Leading to `CleanupFailureDataAccessException`
+## Common Scenarios Leading to CleanupFailureDataAccessException
 
 Now that we understand the concept behind the `CleanupFailureDataAccessException`, let's explore some common scenarios where this exception may arise.
 
@@ -76,7 +76,7 @@ Another scenario where the `CleanupFailureDataAccessException` may arise is when
 
 In the above example, when the `cleanupResources()` method fails to clean up the resources, the `CleanupFailureDataAccessException` will be thrown, allowing the transaction manager to initiate the rollback process.
 
-## Handling the `CleanupFailureDataAccessException`
+## Handling the CleanupFailureDataAccessException
 
 When dealing with the `CleanupFailureDataAccessException`, it is essential to have a robust error handling and recovery mechanism in place. Here are a few strategies you can consider:
 
@@ -123,5 +123,3 @@ Happy coding!
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring Retry Documentation](https://github.com/spring-projects/spring-retry)
 - [Spring Annotations](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-annotation-config)
-
-*Note: Please consult the official Spring documentation and specific Java libraries for the latest and most accurate information.*
