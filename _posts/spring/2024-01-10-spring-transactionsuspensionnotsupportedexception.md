@@ -7,12 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-**Keywords:** TransactionSuspensionNotSupportedException, Spring, transaction management, Spring framework, coding examples
-
----
-
 ## Introduction
 
 In the world of software development, managing transactions is a critical aspect of database operations. The Spring framework provides powerful support for transaction management, enabling developers to handle database transactions efficiently. However, in certain scenarios, developers may encounter a specific exception called `TransactionSuspensionNotSupportedException`. In this article, we will explore this exception in detail, understand its causes, consequences, and finally learn how to handle it effectively.
@@ -102,11 +96,3 @@ By applying the techniques described above, you can ensure your Spring applicati
 Remember, the key to dealing with exceptions like `TransactionSuspensionNotSupportedException` lies in understanding the underlying mechanisms, making informed decisions, and applying best practices in transaction management.
 
 Keep learning, keep coding, and may your transactions stay seamless!
-
----
-
-**References:**
-- [Spring Framework Documentation - Transaction Management](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction)
-- [Spring Transaction Propagation and Isolation Levels](https://www.baeldung.com/spring-transaction-propagation-isolation)
-- [Understanding Spring Transactions](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
-- [Spring @Transactional - Propagation and Isolation Levels](https://www.logicbig.com/tutorials/spring-framework/spring-data-access-transaction/spring-transactional-propagation-transaction.html)
