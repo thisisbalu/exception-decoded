@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 As developers, we often encounter various errors while writing and executing Java code. One of the common errors that many developers encounter is the "ClassCircularityError". Although it may sound complex, understanding this error is crucial in order to write efficient and error-free code. In this article, we will demystify the ClassCircularityError in Java, explore its causes, and learn how to prevent and fix it.
 
 ## What is ClassCircularityError?
@@ -101,12 +98,3 @@ When facing a ClassCircularityError, consider the following steps to fix the iss
 In conclusion, understanding and addressing the ClassCircularityError in Java is vital for writing robust and error-free code. By following best practices, such as analyzing dependencies, utilizing interfaces, and using appropriate design patterns, you can prevent circular dependencies and mitigate the occurrence of this error. When encountered, carefully analyze the error message and refactor your code accordingly to eliminate circular dependencies.
 
 Now that you have a clear understanding of the ClassCircularityError, you can confidently tackle this error in your Java applications. Happy coding!
-
----
-
-**References:**
-
-- [Oracle Documentation: ClassCircularityError](https://docs.oracle.com/javase/8/docs/api/java/lang/ClassCircularityError.html)
-- [Stack Overflow: How to resolve ClassCircularityError](https://stackoverflow.com/questions/19636412/how-can-i-debug-classcircularityerror-in-a-project-that-has-a-building-depend/19637412#19637412)
-- [Java Tech Journal: Circular Dependency](https://www.javatechjournal.com/java/circular-dependency/)
-- [Baeldung: Circular Dependencies in Java](https://www.baeldung.com/java-circular-dependencies)
