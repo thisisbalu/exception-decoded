@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding JdbcUpdateAffectedIncorrectNumberOfRowsException in Spring: A Deep Dive"
+title: "Understanding JdbcUpdateAffectedIncorrectNumberOfRowsException in Spring: A Deep Dive"
 date: 2024-01-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jdbc]
@@ -97,6 +97,5 @@ For more information on handling database exceptions in Spring, refer to the off
 
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring JDBC Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#jdbc)
-- [Handling Exceptions in Spring](https://www.baeldung.com/spring-exception-handlers)
 
 Thank you for reading!
