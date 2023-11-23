@@ -10,15 +10,6 @@ toc: true
 
 In the world of network programming, authentication and security play a crucial role in safeguarding valuable data. Java, being a popular language for developing network applications, provides robust mechanisms for handling authentication and security protocols. One of the common exceptions encountered during the authentication process is `GSSException`. In this article, we will take a deep dive into the `GSSException` in Java, understand its causes, and explore possible solutions.
 
-## Table of Contents
-
-- [Introduction to GSSAPI](#introduction-to-gssapi)
-- [Understanding GSSException](#understanding-gssexception)
-- [Common Causes of GSSException](#common-causes-of-gssexception)
-- [Handling GSSException](#handling-gssexception)
-- [Best Practices](#best-practices)
-- [Conclusion](#conclusion)
-
 ## Introduction to GSSAPI
 
 The **Generic Security Services Application Programming Interface (GSSAPI)**, defined by the Internet Engineering Task Force (IETF), provides a framework for the implementation of security services, such as authentication and encryption, in a protocol-independent manner. GSSAPI is widely used in Java applications to authenticate users and secure network communication.
