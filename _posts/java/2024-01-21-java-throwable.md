@@ -1,5 +1,5 @@
 ---
-title: "Title: Unveiling the Power of Throwable in Java: A Comprehensive Guide for Developers"
+title: "Unveiling the Power of Throwable in Java: A Comprehensive Guide for Developers"
 date: 2024-01-21 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.lang, java-se]
@@ -11,19 +11,6 @@ toc: true
 ## Introduction
 
 In the vast ecosystem of Java programming, the `Throwable` class plays a crucial role when it comes to exception handling. Understanding this class and its related subclasses is essential for developers who aim to build robust and error-resilient applications. In this article, we will explore the intricacies of `Throwable`, its subclasses, and how it can be harnessed effectively to detect, handle, and propagate exceptions. So, grab your coding hat and let's dive into the world of `Throwable`!
-
-## Table of Contents
-
-1. What is Throwable?
-2. The Throwable Hierarchy
-3. Basic Usage of Throwable
-4. Catching Exceptions using try-catch
-5. Throwing Exceptions with throw
-6. Creating Custom Exceptions
-7. Exception Propagation
-8. Checked Exceptions vs. Unchecked Exceptions
-9. Best Practices for Exception Handling
-10. Conclusion
 
 ## 1. What is Throwable?
 
@@ -147,7 +134,3 @@ Exception handling is a crucial aspect of developing reliable and maintainable s
 Exception handling is an essential aspect of writing reliable and maintainable Java applications. Understanding the `Throwable` hierarchy and its subclasses empowers developers to detect, handle, and propagate exceptions effectively. By following best practices for exception handling, you can ensure graceful error recovery, improve code readability, and deliver more resilient software.
 
 So, embrace the power of `Throwable` and enhance the quality of your Java code!
-
-> References:
-> - [Java 11 Documentation - Throwable](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Throwable.html)
-> - [Java Exception Handling](https://www.baeldung.com/java-exception-handling-guide)
