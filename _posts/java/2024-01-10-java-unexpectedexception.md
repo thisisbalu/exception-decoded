@@ -8,16 +8,9 @@ toc: true
 ---
 
 
-**Introduction**
+## Introduction
 
 Java programming language is widely used across the globe due to its reliability, security, and flexibility. However, like any other programming language, it is not immune to errors and exceptions. One such exception that developers often encounter is the `UnexpectedException`. In this comprehensive guide, we will dive deep into the `UnexpectedException` in Java, understand its causes, explore common scenarios where it occurs, and provide effective troubleshooting techniques.
-
-**Table of Contents**
-- What is an `UnexpectedException`?
-- Understanding the Causes
-- Scenarios where `UnexpectedException` Occurs
-- Troubleshooting Techniques
-- Conclusion
 
 ## What is an `UnexpectedException`?
 
