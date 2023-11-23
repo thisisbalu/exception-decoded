@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 Have you ever encountered a SQLTimeoutException while working with a Java application? If so, then this article is for you. In this guide, we will explore what SQLTimeoutException is, why it occurs, and how to handle it effectively in your Java code.
 
 ## Understanding SQLTimeoutException
