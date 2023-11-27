@@ -1,5 +1,5 @@
 ---
-title: "`PreconditionNotMetException` in AWS Secrets Manager - How to Handle Preconditions in Securely Managing Secrets "
+title: "PreconditionNotMetException in AWS Secrets Manager - How to Handle Preconditions in Securely Managing Secrets "
 date: 2023-11-22 09:00:00 -0000
 categories: [AWS, AWS Secrets Manager]
 tags: [aws, secretsmanager, com.amazonaws.services.secretsmanager.model]
@@ -168,6 +168,6 @@ Within AWS Secrets Manager, `PreconditionNotMetException` acts as a crucial safe
 
 Taking full advantage of these techniques, developers can securely manage secrets within AWS Secrets Manager and elevate their organization's security practices.
 
-#### References
+## References
 - [AWS Secrets Manager Documentation](https://aws.amazon.com/secrets-manager/)
 - [AWS Secrets Manager Java SDK Documentation](https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/getting-started-features.html)
