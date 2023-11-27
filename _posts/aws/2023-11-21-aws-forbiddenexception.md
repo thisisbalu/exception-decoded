@@ -1,5 +1,5 @@
 ---
-title: "Title: AWS MediaLive ForbiddenException: Exploring Common Causes and Effective Solutions"
+title: "AWS MediaLive ForbiddenException: Exploring Common Causes and Effective Solutions"
 date: 2023-11-21 09:00:00 -0000
 categories: [AWS, AWS MediaLive]
 tags: [aws, medialive, com.amazonaws.services.medialive.model]
@@ -100,5 +100,3 @@ To learn more about managing AWS MediaLive and handling API exceptions, refer to
 - [AWS IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
 
 With these insights and best practices, you are now equipped to handle ForbiddenException in AWS MediaLive effectively. Happy coding!
-
-*Estimated reading time: 15 minutes*
