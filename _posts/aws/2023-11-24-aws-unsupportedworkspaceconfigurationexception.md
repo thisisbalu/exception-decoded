@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Troubleshooting UnsupportedWorkspaceConfigurationException in AWS WorkSpaces"
 date: 2023-11-24 09:00:00 -0000
 categories: [AWS, AWS WorkSpaces]
 tags: [aws, workspaces, com.amazonaws.services.workspaces.model]
@@ -7,22 +7,7 @@ mermaid: true
 toc: true
 ---
 
-## Title: Troubleshooting "UnsupportedWorkspaceConfigurationException" in AWS WorkSpaces
-
-Introduction: 
-
 Are you encountering the "UnsupportedWorkspaceConfigurationException" error while working with AWS WorkSpaces? Don't worry; you're not alone. In this comprehensive guide, we will explore the causes behind this error, its possible solutions, and best practices to prevent it. Whether you're a beginner or an experienced user, this article will provide you with the necessary knowledge to overcome this issue swiftly.
-
-Table of Contents:
-1. Understanding the "UnsupportedWorkspaceConfigurationException" error
-2. Causes of the "UnsupportedWorkspaceConfigurationException" error
-3. Possible Solutions
-   - Update the WorkSpaces client SDK
-   - Check for compatible operating systems and bundles
-   - Inspect workspace creation parameters
-4. Best Practices to prevent "UnsupportedWorkspaceConfigurationException"
-5. Conclusion
-6. References
 
 ## 1. Understanding the "UnsupportedWorkspaceConfigurationException" error
 
