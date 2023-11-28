@@ -12,11 +12,11 @@ toc: true
 
 In the world of Internet of Things (IoT), managing and monitoring fleets of devices is a complex task. AWS IoT Fleetwise simplifies this job by providing a comprehensive set of tools and APIs. However, like any system, exceptions can occur. One such exception is the `InvalidNodeException`. In this article, we will explore this exception, understand its causes, and learn how to handle it effectively.
 
-## Understanding the `InvalidNodeException`
+## Understanding the InvalidNodeException
 
 The `InvalidNodeException` is a specific exception class in the `com.amazonaws.services.iotfleetwise.model` package of AWS IoT Fleetwise. It is thrown when an application attempts to perform operations on an invalid node within a fleet. This exception indicates that a requested operation cannot be completed due to the node's invalid state.
 
-## Causes of the `InvalidNodeException`
+## Causes of the InvalidNodeException
 
 There can be several causes for the `InvalidNodeException` in AWS IoT Fleetwise. Some common scenarios that can trigger this exception are:
 
@@ -101,5 +101,3 @@ For more information about AWS IoT Fleetwise and exception handling, please refe
 - [Handling Exceptions in AWS IoT Fleetwise](https://docs.aws.amazon.com/iot/latest/developerguide/iot-fleetwise-exceptions.html)
 
 Remember, understanding and addressing exceptions is an ongoing process. Regularly review your codebase for potential issues and stay up-to-date with AWS IoT Fleetwise best practices!
-
-*Estimated reading time: 15 minutes*
