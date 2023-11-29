@@ -13,20 +13,6 @@ When developing applications using the Spring framework, it's not uncommon to en
 
 By the end, you will have a clear understanding of `ClientSessionException` and be equipped with the knowledge to tackle it effectively in your Spring applications.
 
-## Table of Contents
-
-- [What is ClientSessionException?](#what-is-clientsessionexception)
-- [Causes of ClientSessionException](#causes-of-clientsessionexception)
-  - [1. Connection Timeout](#1-connection-timeout)
-  - [2. Inconsistent State Management](#2-inconsistent-state-management)
-  - [3. Invalid Response Received](#3-invalid-response-received)
-- [Handling ClientSessionException](#handling-clientsessionexception)
-  - [1. Retry Mechanisms](#1-retry-mechanisms)
-  - [2. Circuit Breaker Pattern](#2-circuit-breaker-pattern)
-  - [3. Proper Error Logging](#3-proper-error-logging)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is ClientSessionException?
 
 The `ClientSessionException` is an unchecked exception that indicates a problem with the session management between the client and the server in a Spring application. It is a subclass of the `RestClientException` and is thrown when the session between the client and the server becomes invalid or encounters an error.
