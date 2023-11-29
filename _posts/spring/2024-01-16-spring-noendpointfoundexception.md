@@ -10,21 +10,6 @@ toc: true
 
 In the world of Spring-based microservices, errors are bound to occur. One such common error is the `NoEndpointFoundException`. In this article, we will explore what this exception is, how it occurs, and how to handle and troubleshoot it effectively.
 
-## Table of Contents
-- [Understanding the NoEndpointFoundException](#understanding-the-noendpointfoundexception)
-- [Common Causes of NoEndpointFoundException](#common-causes-of-noendpointfoundexception)
-- [Handling NoEndpointFoundException](#handling-noendpointfoundexception)
-  - [1. Check for Correct URL Mapping](#1-check-for-correct-url-mapping)
-  - [2. Verify and Adjust Request Body](#2-verify-and-adjust-request-body)
-  - [3. Review Application Context and Bean Definitions](#3-review-application-context-and-bean-definitions)
-  - [4. Ensure Correct Security Configuration](#4-ensure-correct-security-configuration)
-  - [5. Investigate Proxy and Load Balancer Configurations](#5-investigate-proxy-and-load-balancer-configurations)
-- [Troubleshooting NoEndpointFoundException](#troubleshooting-noendpointfoundexception)
-  - [1. Review Application Logs](#1-review-application-logs)
-  - [2. Analyzing the Stack Trace](#2-analyzing-the-stack-trace)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Understanding the NoEndpointFoundException
 
 The `NoEndpointFoundException` indicates that no handler method or endpoint is available to handle an incoming request. It is commonly encountered in Spring-based applications using frameworks like Spring MVC or Spring Boot. When this exception occurs, the server cannot find the appropriate handler method based on the request URL.
@@ -131,4 +116,3 @@ Happy coding!
 
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [Spring MVC Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
-- [Baeldung - Guide to the Spring NoHandlerFoundException](https://www.baeldung.com/spring-no-handler-found-exception)
