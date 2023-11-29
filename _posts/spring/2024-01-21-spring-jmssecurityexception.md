@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying JmsSecurityException in Spring: A Comprehensive Guide"
+title: "Demystifying JmsSecurityException in Spring: A Comprehensive Guide"
 date: 2024-01-21 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jms]
@@ -9,18 +9,6 @@ toc: true
 
 
 JMS (Java Message Service) is a widely-used messaging standard in Java-based applications for building distributed systems. However, when working with JMS in the Spring framework, developers may encounter an exception called JmsSecurityException. In this in-depth guide, we will explore the causes, implications, and solutions for this exception in Spring.
-
-## Table of Contents
-- [Introduction to JmsSecurityException](#introduction-to-jmssecurityexception)
-- [Root Causes](#root-causes)
-- [Understanding the Implications](#understanding-the-implications)
-- [Handling JmsSecurityException](#handling-jmssecurityexception)
-- [Code Examples](#code-examples)
-    - [Example 1: Setting Up JMS Connection and Session](#example-1-setting-up-jms-connection-and-session)
-    - [Example 2: Adding Security Constraints using Spring Security](#example-2-adding-security-constraints-using-spring-security)
-    - [Example 3: Exception Handling in Controller](#example-3-exception-handling-in-controller)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction to JmsSecurityException
 JmsSecurityException is an exception that is thrown when a security violation occurs while attempting to send or receive messages using the Java Message Service. It indicates that a user lacks the necessary privileges or permissions to perform the desired JMS operation.
