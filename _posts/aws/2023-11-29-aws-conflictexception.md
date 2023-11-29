@@ -120,5 +120,3 @@ Now that you're equipped with a deeper understanding of ConflictException, go ah
 
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/index.html)
 - [AWS IoT Developer Guide](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
-
-*Total reading time: 15 minutes*
