@@ -10,30 +10,17 @@ toc: true
 
 Are you struggling with managing payment instruments in your AWS Organizations account? Do you find it challenging to keep track of expenses and payments across multiple accounts and services? Look no further! In this comprehensive guide, we will dive deep into the `PaymentInstrumentRequiredException` model of `com.amazonaws.services.organizations` in AWS Organizations. By the end of this article, you'll be equipped with the knowledge and tools to effectively handle payment instruments, ensuring seamless operations across your organization.
 
-## Table of Contents
-1. Introduction to AWS Organizations
-2. Understanding `PaymentInstrumentRequiredException`
-   - 2.1 What is `PaymentInstrumentRequiredException`?
-   - 2.2 When and why does `PaymentInstrumentRequiredException` occur?
-3. Handling `PaymentInstrumentRequiredException` properly
-   - 3.1 Verifying the payment methods
-   - 3.2 Updating payment instruments
-       - 3.2.1 Updating the account payment method
-       - 3.2.2 Updating the consolidated billing payment method
-4. Conclusion
-5. References
-
 ## Introduction to AWS Organizations
 AWS Organizations is a powerful service that allows you to centrally manage multiple AWS accounts within your organization. It simplifies the administration process, provides consolidated billing, and enables fine-grained control over policies and access management.
 
 When working with AWS Organizations, it is essential to understand how payment instruments are managed and the potential challenges that can arise, such as the `PaymentInstrumentRequiredException`.
 
-## Understanding `PaymentInstrumentRequiredException`
+## Understanding PaymentInstrumentRequiredException
 
-### 2.1 What is `PaymentInstrumentRequiredException`?
+### 2.1 What is PaymentInstrumentRequiredException?
 The `PaymentInstrumentRequiredException` is an exception specific to the `com.amazonaws.services.organizations.model` package in AWS Organizations. It indicates that a payment instrument is required to perform certain actions, such as creating new accounts, enabling policies, or making changes to existing accounts.
 
-### 2.2 When and why does `PaymentInstrumentRequiredException` occur?
+### 2.2 When and why does PaymentInstrumentRequiredException occur?
 The `PaymentInstrumentRequiredException` occurs when a payment instrument, like a credit card or direct debit, is missing or invalid for an AWS account or organization. This exception commonly arises in the following scenarios:
 
 - **Creating new accounts**: When creating a new account within your organization, AWS requires a valid payment instrument to ensure billing and payment accuracy.
@@ -42,7 +29,7 @@ The `PaymentInstrumentRequiredException` occurs when a payment instrument, like 
 
 In these cases, the `PaymentInstrumentRequiredException` is thrown to alert you about the missing or invalid payment instrument. It is crucial to handle this exception appropriately to prevent disruptions in your AWS Organizations operations.
 
-## Handling `PaymentInstrumentRequiredException` properly
+## Handling PaymentInstrumentRequiredException properly
 
 To overcome the `PaymentInstrumentRequiredException` and ensure smooth operations in your AWS Organizations account, you can follow the steps below:
 
