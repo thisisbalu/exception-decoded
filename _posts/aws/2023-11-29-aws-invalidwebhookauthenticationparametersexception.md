@@ -91,5 +91,3 @@ To learn more about AWS CodePipeline and how to work with webhooks, refer to the
 - [AWS CodePipeline API Reference](https://docs.aws.amazon.com/codepipeline/latest/APIReference/Welcome.html)
 
 Now armed with the knowledge of how to handle the `InvalidWebhookAuthenticationParametersException`, you can confidently develop your AWS CodePipeline infrastructure and integrate it seamlessly with external systems.
-
-*Estimated reading time: 15 minutes*
