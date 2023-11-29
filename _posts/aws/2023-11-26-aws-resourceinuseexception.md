@@ -136,5 +136,3 @@ In this comprehensive guide, we have covered the `ResourceInUseException` in AWS
 To learn more about AWS SageMaker and its exceptional features, refer to the official [AWS SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html).
 
 We hope this guide has been helpful in familiarizing you with the `ResourceInUseException` in AWS SageMaker. Happy coding!
-
-*Estimated reading time: 15 minutes*
