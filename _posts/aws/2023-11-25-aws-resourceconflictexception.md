@@ -12,18 +12,6 @@ toc: true
 
 Welcome to this in-depth blog post on the ResourceConflictException in the AWS IoT 1-Click Projects! In this article, we will explore the various aspects of this exception and understand how to handle conflict resolution effectively. As a developer working with AWS IoT 1-Click Projects, it is crucial to understand the implications of this exception and implement appropriate measures to address it.
 
-## Table of Contents
-
-* [Understanding ResourceConflictException](#understanding-resourceconflictexception)
-* [Causes of Resource Conflict](#causes-of-resource-conflict)
-	* [Parallel Updates](#parallel-updates)
-	* [Concurrency Issues](#concurrency-issues)
-* [Handling ResourceConflictException](#handling-resourceconflictexception)
-	* [Retrying the Operation](#retrying-the-operation)
-	* [Using Conditional Writes](#using-conditional-writes)
-	* [Leveraging Versioning](#leveraging-versioning)
-* [Conclusion](#conclusion)
-
 ## Understanding ResourceConflictException
 
 The ResourceConflictException is a common exception in the com.amazonaws.services.iot1clickprojects.model package of AWS IoT 1-Click Projects. It indicates a conflict situation where the requested operation cannot be completed due to a resource conflict. This exception typically occurs when multiple processes or clients attempt to modify the same resource simultaneously.
