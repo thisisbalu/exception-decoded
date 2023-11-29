@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting CustomKeyStoreInvalidStateException in AWS KMS"
+title: "Troubleshooting CustomKeyStoreInvalidStateException in AWS KMS"
 date: 2023-11-30 09:00:00 -0000
 categories: [AWS, AWS KMS]
 tags: [aws, kms, com.amazonaws.services.kms.model]
