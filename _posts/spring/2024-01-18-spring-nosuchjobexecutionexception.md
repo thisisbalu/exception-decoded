@@ -1,5 +1,5 @@
 ---
-title: "**NoSuchJobExecutionException in Spring: Exploring Error Handling in Spring Batch**"
+title: "NoSuchJobExecutionException in Spring: Exploring Error Handling in Spring Batch"
 date: 2024-01-18 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.launch]
@@ -74,11 +74,6 @@ Now that you are equipped with the knowledge to tackle the `NoSuchJobExecutionEx
 Feel free to explore the [official Spring Batch documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html) for further information on handling exceptions and implementing error handling strategies.
 
 Happy coding!
-
----
-*15-minute read*
-
-*Reference links:* 
 
 - [Spring Batch Official Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html)
 - [Spring Retry](https://docs.spring.io/spring-retry/docs/current/reference/html5/)
