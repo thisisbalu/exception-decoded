@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 ## Introduction
 
 Welcome to this in-depth technical article on the AccessDeniedException of com.amazonaws.services.securityhub.model in AWS Security Lake. In this article, we will dive deep into AWS Security Lake's security exceptions, focusing specifically on the AccessDeniedException. 
@@ -114,6 +111,3 @@ For more information, refer to the official AWS Security Hub documentation:
 - [AWS Security Hub Documentation](https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html)
 
 Let's continue securing our AWS resources and building resilient cloud architectures!
-
----
-*Total reading time: 15 minutes*
