@@ -1,5 +1,5 @@
 ---
-title: "Title: Exploring the NotFoundException in Amazon Managed Streaming for Apache Kafka"
+title: "Exploring the NotFoundException in Amazon Managed Streaming for Apache Kafka"
 date: 2023-11-28 09:00:00 -0000
 categories: [AWS, Amazon Managed Streaming for Apache Kafka]
 tags: [aws, kafka, com.amazonaws.services.kafka.model]
@@ -11,16 +11,6 @@ toc: true
 ## Introduction
 
 In the world of Amazon Managed Streaming for Apache Kafka (MSK), the `com.amazonaws.services.kafka.model.NotFoundException` is an essential component that developers and system administrators need to be aware of. This exception helps to handle scenarios when a requested resource is not found within an MSK cluster. In this article, we will take an in-depth look at this exception, its significance, and how to handle it effectively.
-
-## Table of Contents
-
-- Understanding the NotFoundException
-- Getting Started with Amazon MSK
-- Throwing the NotFoundException
-- Handling the NotFoundException
-- Key Considerations to Keep in Mind
-- Conclusion
-- References
 
 ## Understanding the NotFoundException
 
