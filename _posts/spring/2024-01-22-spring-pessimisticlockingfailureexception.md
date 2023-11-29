@@ -126,7 +126,3 @@ Happy coding and may your transactions never be locked!
 
 1. [Spring Framework Documentation: Transaction Management](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction)
 2. [Java Persistence API (JPA) Specification](https://jcp.org/en/jsr/detail?id=338)
-3. [Understanding Pessimistic Locking](https://www.baeldung.com/hibernate-pessimistic-locking)
-4. [Optimistic vs. Pessimistic Concurrency Control](https://www.geeksforgeeks.org/optimistic-vs-pessimistic-concurrency-control/)
-5. [Spring Data JPA - Locking](https://www.baeldung.com/jpa-pessimistic-locking)
-6. [JDBC Isolation Levels in Simple Words](https://vladmihalcea.com/jdbc-isolation-levels/)
