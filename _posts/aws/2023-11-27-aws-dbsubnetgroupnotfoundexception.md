@@ -12,17 +12,6 @@ toc: true
 
 Welcome to our advanced technical guide on understanding the `DBSubnetGroupNotFoundException` error in AWS RDS (Relational Database Service). In this article, we'll dive deep into this exception, explore its causes, and provide practical solutions to help you effectively troubleshoot and resolve this issue.
 
-## Table of Contents
-
-- [What is the DBSubnetGroupNotFoundException?](#what-is-the-dbsubnetgroupnotfoundexception)
-- [Common Causes of the Error](#common-causes-of-the-error)
-- [Solving the DBSubnetGroupNotFoundException](#solving-the-dbsubnetgroupnotfoundexception)
-  - [Solution 1: Check the DB Subnet Group](#solution-1-check-the-db-subnet-group)
-  - [Solution 2: Verify Subnet Availability](#solution-2-verify-subnet-availability)
-  - [Solution 3: Review VPC and Subnet Configuration](#solution-3-review-vpc-and-subnet-configuration)
-  - [Solution 4: Grant Sufficient Permissions](#solution-4-grant-sufficient-permissions)
-- [Conclusion](#conclusion)
-
 ## What is the DBSubnetGroupNotFoundException?
 
 The `DBSubnetGroupNotFoundException` is a specific error that occurs when attempting to create or modify an Amazon RDS instance within an Amazon Virtual Private Cloud (VPC). This exception is thrown when the specified DB subnet group is not found.
