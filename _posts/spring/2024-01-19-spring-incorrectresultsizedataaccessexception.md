@@ -1,5 +1,5 @@
 ---
-title: "Title: Dealing with IncorrectResultSizeDataAccessException in Spring: Exploring Causes, Solutions, and Best Practices"
+title: "Dealing with IncorrectResultSizeDataAccessException in Spring: Exploring Causes, Solutions, and Best Practices"
 date: 2024-01-19 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]
@@ -96,5 +96,3 @@ Feel free to share your thoughts and experiences in the comments section below!
 
 ## References
 - Spring Framework Documentation: [Exception Hierarchy](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#dao-exceptions)
-- Baeldung: [Spring IncorrectResultSizeDataAccessException](https://www.baeldung.com/spring-incorrectresultsizedataaccessexception)
-- Stack Overflow: [Spring JdbcTemplate - When to use query/execute/executeUpdate?](https://stackoverflow.com/questions/39202607/spring-jdbctemplate-when-to-use-query-execute-executeupdate)
