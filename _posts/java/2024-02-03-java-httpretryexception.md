@@ -103,6 +103,3 @@ So go ahead, try it out, enhance your HTTP interactions, and make your applicati
 
 - [Java Documentation - HttpRetryException](https://docs.oracle.com/en/java/javase/14/docs/api/java.net/http/HttpRetryException.html)
 - [Java Documentation - HttpURLConnection](https://docs.oracle.com/en/java/javase/14/docs/api/java/net/HttpURLConnection.html)
-- [How To Handle Retries With Exponential Backoff in Java](https://example.com/blog/how-to-handle-retries-with-exponential-backoff-in-java) (placeholder link)
-
-*Disclaimer: This article has been written for educational purposes and cannot be held responsible for any damage caused by its implementation. Always thoroughly test and adapt code to fit your specific requirements.*
