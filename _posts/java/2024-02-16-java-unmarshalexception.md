@@ -1,5 +1,5 @@
 ---
-title: "Title: UnmarshalException in Java: Handling XML and SOAP Deserialization Errors"
+title: "UnmarshalException in Java: Handling XML and SOAP Deserialization Errors"
 date: 2024-02-16 09:00:00 -0000
 categories: [Java, java.rmi]
 tags: [java, java-unchecked, java.rmi, java-se]
