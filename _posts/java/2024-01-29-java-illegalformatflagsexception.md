@@ -8,10 +8,6 @@ toc: true
 ---
 
 
-> **TL;DR:** This comprehensive guide will walk you through the `IllegalFormatFlagsException` in Java. It will explain the cause of this exception, present several code examples, offer solutions, and provide best practices for avoiding this exception in your Java programs.
-
----
-
 As a programmer, encountering exceptions is an inevitable part of the development process. One such exception that deserves attention is the `IllegalFormatFlagsException` in Java. This exception is thrown when an illegal combination of flags is used in a format specifier, resulting in unexpected behavior.
 
 In this 15-minute read, we will dive deep into the details of the `IllegalFormatFlagsException`, understand its causes, and explore practical solutions. So, grab a cup of coffee and let's get started!
@@ -126,5 +122,3 @@ So, next time you're formatting output using format specifiers, keep an eye out 
 - [Java SE Documentation: Formatter](https://docs.oracle.com/javase/10/docs/api/java/util/Formatter.html)
 - [Java SE Documentation: IllegalFormatFlagsException](https://docs.oracle.com/javase/10/docs/api/java/util/IllegalFormatFlagsException.html)
 - [Java SE Tutorial: Formatting Numeric Print Output](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html)
-
-*This article is published under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).*
