@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In the world of software development, version control plays a crucial role in managing code repositories. AWS CodeCommit, a fully managed source control service, empowers developers to securely store and manage their code. However, like any powerful tool, it comes with its own set of exceptions, one of which is the `RepositoryNamesRequiredException`. In this article, we will dive deep into this particular exception, understand its causes, and explore the best practices to handle it effectively.
