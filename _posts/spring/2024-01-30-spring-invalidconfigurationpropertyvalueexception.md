@@ -14,17 +14,6 @@ When working with Spring, you might come across an `InvalidConfigurationProperty
 
 In this article, we will dive deep into the `InvalidConfigurationPropertyValueException` and explore its causes, common scenarios, and best practices for handling and preventing it.
 
-## Table of Contents
-
-- [What is the `InvalidConfigurationPropertyValueException`?](#what-is-the-invalidconfigurationpropertyvalueexception)
-- [Common Causes](#common-causes)
-- [Common Scenarios](#common-scenarios)
-- [Handling the Exception](#handling-the-exception)
-  - [Example 1: Using `@Value` Annotation](#example-1-using-value-annotation)
-  - [Example 2: Using `@Validated` Annotation](#example-2-using-validated-annotation)
-- [Preventing the Exception](#preventing-the-exception)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## What is the `InvalidConfigurationPropertyValueException`?
 
@@ -179,4 +168,3 @@ Remember to always validate and test your application's configuration thoroughly
 1. [Spring Framework Documentation](https://docs.spring.io/spring-framework)
 2. [Spring Boot Documentation](https://docs.spring.io/spring-boot)
 3. [JSR-303 Bean Validation](https://beanvalidation.org)
-4. [Spring Annotations Guide](https://www.baeldung.com/spring-annotations-guide)
