@@ -1,5 +1,5 @@
 ---
-title: "**Troubleshooting CertificateParsingException in Java**"
+title: "Troubleshooting CertificateParsingException in Java"
 date: 2024-02-15 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.security.cert, java-se]
@@ -75,9 +75,4 @@ Keep your code secure and happy coding!
 **References:**
 - [Oracle Java API Documentation: CertificateFactory](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/cert/CertificateFactory.html)
 - [Oracle Java API Documentation: X509Certificate](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/cert/X509Certificate.html)
-- [Stack Overflow: How to read a X.509 Certificate using Java](https://stackoverflow.com/questions/43719224/how-to-read-a-x-509-certificate-using-java)
 - [Java Tutorials: Working with Certificates](https://docs.oracle.com/javase/tutorial/security/toolsign/rstep2.html)
-
-*Note: This article aims to provide insights into troubleshooting the `CertificateParsingException` in Java. The specific implementation details might differ depending on your application's requirements and environment.*
-
-Estimated reading time: 15 minutes.
