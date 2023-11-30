@@ -116,5 +116,3 @@ In this article, we delved into the details of `ExemptionMechanismException` in 
 For more information, you can refer to the official Java documentation on [ExemptionMechanismException](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/javax/crypto/ExemptionMechanismException.html).
 
 Keep coding securely and enjoy the world of Java!
-
-*Estimated reading time: 15 minutes*
