@@ -7,24 +7,7 @@ mermaid: true
 toc: true
 ---
 
-
-&nbsp;
-
 The UndeclaredThrowableException in Java is a powerful runtime exception class that allows developers to handle unexpected exceptions gracefully. In this article, we will explore the UndeclaredThrowableException in detail, understand its purpose, and learn how to effectively handle it in Java applications.
-
-&nbsp;
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Understanding UndeclaredThrowableException](#understanding-undeclaredthrowableexception)
-3. [Handling UndeclaredThrowableException](#handling-undeclaredthrowableexception)
-   - [Example 1: Basic Usage](#example-1-basic-usage)
-   - [Example 2: Wrapping Checked Exceptions](#example-2-wrapping-checked-exceptions)
-4. [Best Practices for Handling UndeclaredThrowableException](#best-practices-for-handling-undeclaredthrowableexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
-&nbsp;
 
 ## Introduction <a name="introduction"></a>
 
@@ -34,7 +17,6 @@ Developers who have worked with Java's reflection or proxy-based frameworks migh
 
 Understanding the functionality and best practices for handling the UndeclaredThrowableException is crucial for building robust and maintainable Java applications. Let's dive deeper into this topic.
 
-&nbsp;
 
 ## Understanding UndeclaredThrowableException <a name="understanding-undeclaredthrowableexception"></a>
 
@@ -46,7 +28,6 @@ To overcome this situation, Java automatically wraps the undeclared checked exce
 
 Now, let's explore how to handle the UndeclaredThrowableException in Java.
 
-&nbsp;
 
 ## Handling UndeclaredThrowableException <a name="handling-undeclaredthrowableexception"></a>
 
@@ -141,7 +122,6 @@ In this example, the `createProxy()` method creates a dynamic proxy of `MyInterf
 
 When calling `myInterface.myMethod()`, the `UndeclaredThrowableException` will be thrown, and we can catch and handle the original exception using the `getUndeclaredThrowable()` method.
 
-&nbsp;
 
 ## Best Practices for Handling UndeclaredThrowableException <a name="best-practices-for-handling-undeclaredthrowableexception"></a>
 
@@ -159,7 +139,6 @@ When dealing with the UndeclaredThrowableException in Java, it is important to f
 
 By following these best practices, developers can effectively handle the UndeclaredThrowableException, ensuring the reliability and maintainability of their Java applications.
 
-&nbsp;
 
 ## Conclusion <a name="conclusion"></a>
 
@@ -171,10 +150,7 @@ Additionally, we discussed best practices for handling the UndeclaredThrowableEx
 
 By following these best practices and understanding the UndeclaredThrowableException, developers can build robust and maintainable Java applications that gracefully handle unexpected exceptions.
 
-&nbsp;
-
 ## References <a name="references"></a>
 
 1. [UndeclaredThrowableException - Java Platform SE 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/reflect/UndeclaredThrowableException.html)
 2. [Methods in Reflection API](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/reflect/Method.html)
-3. [A Guide to Java Reflection](https://www.baeldung.com/java-reflection)
