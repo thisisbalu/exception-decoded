@@ -142,7 +142,4 @@ Keep coding and keep refining your error handling skills!
 
 ## References
 - [Java Documentation - IllegalArgumentException](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/IllegalArgumentException.html)
-- [Java Exception Handling Tutorial](https://www.baeldung.com/java-exceptions)
 - [Effective Java Exceptions Handling](https://www.oracle.com/java/technologies/effective-exceptions-handling.html)
-
-**Note:** This article is a contribution by the OpenAI GPT-3 language model and is intended for educational purposes only.
