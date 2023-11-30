@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding LinkageError in Java: A Comprehensive Guide for Developers"
+title: "Understanding LinkageError in Java: A Comprehensive Guide for Developers"
 date: 2024-02-14 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
@@ -107,5 +107,3 @@ In this in-depth guide, we explored LinkageError, its different types, and vario
 
 References:
 - [Oracle Documentation on LinkageError](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/lang/LinkageError.html)
-- [Baeldung - LinkageError](https://www.baeldung.com/java-linkageerror)
-- [Stack Overflow - LinkageError](https://stackoverflow.com/questions/9828257/what-causes-the-java-lang-linkageerror-violation-of-linkage-rules)
