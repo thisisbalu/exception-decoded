@@ -94,5 +94,3 @@ Now, get out there and take your Java channel groups to the next level!
 
 1. [Java documentation: ShutdownChannelGroupException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/channels/ShutdownChannelGroupException.html)
 2. [Java documentation: AsynchronousChannelGroup](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/channels/AsynchronousChannelGroup.html)
-3. [Baeldung: Introduction to Java NIO Channels](https://www.baeldung.com/java-nio-channels)
-4. [Stack Overflow: How to handle ShutdownChannelGroupException](https://stackoverflow.com/questions/65244415/java-asynchronous-channel-group-throwing-exception-while-closing-the-socket)
