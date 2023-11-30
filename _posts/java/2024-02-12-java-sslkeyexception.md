@@ -1,5 +1,5 @@
 ---
-title: "**Understanding SSLKeyException in Java: A Comprehensive Guide**"
+title: "Understanding SSLKeyException in Java: A Comprehensive Guide"
 date: 2024-02-12 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.net.ssl, java-se]
@@ -12,13 +12,13 @@ As technology continues to evolve rapidly, secure communication over networks be
 
 However, in Java applications, developers may encounter an exception known as SSLKeyException. This particular exception occurs when there's an issue with SSL/TLS certificates or the keystore used for SSL/TLS operations. In this article, we'll delve into the details of SSLKeyException, explore its causes, and discuss potential solutions.
 
-## **Understanding SSL/TLS Certificates**
+## Understanding SSL/TLS Certificates
 
 Before delving into SSLKeyException, it's essential to understand SSL/TLS certificates. SSL/TLS certificates play a vital role in establishing and verifying the identity of the server. These certificates essentially act as digital passports that ensure the encryption and security of communication channels.
 
 In essence, SSL certificates are issued by trusted Certificate Authorities (CAs) after validating the identity of the certificate owner. They contain information such as the domain name, the owner's details, the public key, and the digital signature. When a client connects to a server, it verifies the digital signature against the CA's public key, ensuring the authenticity and integrity of the certificate.
 
-## **The SSLKeyException**
+## The SSLKeyException
 
 Now that we have a basic understanding of SSL/TLS certificates, let's delve into SSLKeyException itself. The SSLKeyException is a subclass of the general java.security.cert.CertificateException, indicating that there has been an issue related to SSL/TLS certificates.
 
@@ -34,7 +34,7 @@ javax.net.ssl.SSLKeyException: RSA premaster secret error
     ...
 ```
 
-## **Potential Causes of SSLKeyException**
+## Potential Causes of SSLKeyException
 
 Let's explore the common causes behind SSLKeyException:
 
@@ -68,7 +68,7 @@ In case of a trust store misconfiguration, ensure that the client's trust store 
 
 To resolve hostname mismatches, verify whether the hostname used by the client matches the subject name in the server's certificate. If there's a mismatch, consider updating the certificate or using the correct hostname for establishing the connection.
 
-## **Conclusion**
+## Conclusion
 
 In this comprehensive guide, we explored SSLKeyException, a common exception encountered while dealing with SSL/TLS certificates in Java applications. We discussed the potential causes behind this exception, such as invalid certificates, trust store misconfigurations, and hostname mismatches.
 
