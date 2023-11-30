@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting CertificateNotFoundException in AWS Elastic Load Balancing V2"
+title: "Troubleshooting CertificateNotFoundException in AWS Elastic Load Balancing V2"
 date: 2023-12-01 09:00:00 -0000
 categories: [AWS, AWS Elastic Load Balancing V2]
 tags: [aws, elasticloadbalancingv2, com.amazonaws.services.elasticloadbalancingv2.model]
@@ -65,5 +65,3 @@ By following these recommendations and taking necessary precautions, you can ove
 We hope this article was helpful in troubleshooting the `CertificateNotFoundException` for AWS Elastic Load Balancing V2. For further information and detailed documentation, please refer to the official [AWS Developer Guide](https://docs.aws.amazon.com/elasticloadbalancing/).
 
 Happy coding!
-
-*Approximate reading time: 15 minutes*
