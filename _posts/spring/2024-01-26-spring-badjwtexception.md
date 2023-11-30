@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
----
-
 In the world of secure authentication, JSON Web Tokens (JWT) have gained popularity for enabling stateless and scalable authentication mechanisms. With Spring Security, developers can easily integrate JWT-based authentication in their applications. However, like any technology, JWTs can present their own set of challenges.
 
 In this article, we will explore one specific challenge called `BadJwtException` and discuss its causes, consequences, and ways to handle it effectively. By the end, you will have a deeper understanding of this exception and be equipped with practical solutions.
