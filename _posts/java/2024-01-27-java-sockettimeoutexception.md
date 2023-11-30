@@ -1,5 +1,5 @@
 ---
-title: "Title: SocketTimeoutException in Java: Understanding and Handling Connection Timeouts"
+title: "SocketTimeoutException in Java: Understanding and Handling Connection Timeouts"
 date: 2024-01-27 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.net, java-se]
@@ -7,26 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 ## Introduction
 
 In the digital world, where network communication plays a vital role, handling timeouts is crucial to ensure the stability and reliability of any software system. Java, being a popular programming language, provides robust mechanisms to manage timeouts. One such timeout exception is the `SocketTimeoutException`, a powerful tool for handling connectivity delays and network-related issues. In this article, we will delve deeper into the concept of `SocketTimeoutException` in Java, understand its causes, analyze potential scenarios, and explore effective approaches to handle and prevent it.
-
-## Table of Contents
-
-1. [Understanding SocketTimeoutException](#understanding-sockettimeoutexception)
-2. [Scenarios Leading to SocketTimeoutException](#scenarios-leading-to-sockettimeoutexception)
-    - [1. Client-Server Connections](#1-client-server-connections)
-    - [2. Web Service Calls](#2-web-service-calls)
-3. [Handling SocketTimeoutException](#handling-sockettimeoutexception)
-    - [1. Socket Configuration](#1-socket-configuration)
-    - [2. Connection Retry Mechanisms](#2-connection-retry-mechanisms)
-    - [3. Timeout Error Handling](#3-timeout-error-handling)
-4. [Preventing SocketTimeoutException](#preventing-sockettimeoutexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ## 1. Understanding SocketTimeoutException <a name="understanding-sockettimeoutexception"></a>
 
@@ -158,9 +141,3 @@ By understanding and mastering the concepts shared in this article, developers c
 
 1. [Java SE Documentation: SocketTimeoutException](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/SocketTimeoutException.html)
 2. [Oracle Java Tutorials: Custom Networking](https://docs.oracle.com/javase/tutorial/networking/customsockets/index.html)
-3. [Baeldung: Guide to Java SocketTimeoutException](https://www.baeldung.com/socket-timeout-exception-java)
-4. [Stack Overflow: How to Set Timeout forURLConnection](https://stackoverflow.com/questions/22580874/how-to-set-timeout-for-urlconnection-in-java)
-
----
-
-*Estimated reading time: 15 minutes.*
