@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-> *Learn how to handle conflicts in AWS Kendra Ranking effortlessly using the ConflictException class from the com.amazonaws.services.kendraranking.model package.*
-
 Data conflicts are a common challenge when it comes to building robust and scalable systems. Amazon Kendra Ranking, a powerful and intelligent search service offered by AWS, is no exception. To tackle such conflicts effectively, AWS provides the ConflictException class in the com.amazonaws.services.kendraranking.model package. In this article, we will delve deep into how this class can be leveraged to handle data conflicts efficiently.
 
 ## Understanding ConflictException
