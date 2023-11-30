@@ -87,8 +87,5 @@ For more information on AccountExpiredException and related topics, refer to the
 
 - [Java documentation on AccountExpiredException](https://docs.oracle.com/javase/8/docs/api/java/nio/file/AccountExpiredException.html)
 - [Spring Security documentation](https://docs.spring.io/spring-security/site/docs/current/api/)
-- [Exception Handling Best Practices in Java](https://www.baeldung.com/java-exception-handling-best-practices)
-- [Effective Exception Handling in Java](https://www.javaworld.com/article/2076013/effective-exception-handling-in-java-part-1.html)
-- [Exception Handling in Spring Boot](https://www.baeldung.com/exception-handling-for-rest-with-spring)
 
 We hope this article has provided you with valuable insights into handling AccountExpiredException in Java. Happy coding!
