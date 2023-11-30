@@ -1,5 +1,5 @@
 ---
-title: "Title: The Ultimate Guide to Understanding and Handling OutOfMemoryError in Java"
+title: "The Ultimate Guide to Understanding and Handling OutOfMemoryError in Java"
 date: 2024-02-09 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
@@ -8,28 +8,8 @@ toc: true
 ---
 
 
-#### Introduction
+## Introduction
 In the world of Java development, one of the most dreaded errors that we often encounter is the `OutOfMemoryError`. This pesky error occurs when the Java Virtual Machine (JVM) runs out of memory to allocate new objects. It can be a real nightmare, causing applications to crash and wreaking havoc on your system. In this comprehensive guide, we will delve into the various causes of `OutOfMemoryError` and discuss effective strategies to handle and prevent it.
-
-#### Table of Contents
-1. Understanding `OutOfMemoryError`
-2. Common Causes of `OutOfMemoryError`
-    - Memory Leak
-    - Insufficient Heap Size
-    - High Object Creation Rate
-3. Different Types of `OutOfMemoryError`
-    - `java.lang.OutOfMemoryError: Java heap space`
-    - `java.lang.OutOfMemoryError: Metaspace`
-    - `java.lang.OutOfMemoryError: GC Overhead Limit Exceeded`
-4. Analyzing `OutOfMemoryError`
-    - Enabling Heap Dumps
-    - Analyzing Heap Dumps with Eclipse MAT
-5. Handling `OutOfMemoryError`
-    - Increase Heap Size
-    - Reduce Memory Consumption
-    - Optimize Garbage Collection
-6. Best Practices to Avoid `OutOfMemoryError`
-7. Conclusion
 
 ## 1. Understanding `OutOfMemoryError`
 `OutOfMemoryError` is an unchecked exception that occurs when JVM's memory, known as the heap, is exhausted. This error occurs when there's insufficient memory to allocate new objects or to expand or replicate existing ones. While JVM manages memory automatically via garbage collection, it may not always be able to reclaim enough memory to satisfy the application's memory requirements. Consequently, the JVM throws an `OutOfMemoryError`, signaling the application to handle the situation gracefully.
@@ -168,10 +148,7 @@ While handling `OutOfMemoryError` is essential, it's better to prevent it altoge
 
 In this guide, we've explored the causes, types, and handling of `OutOfMemoryError` in Java applications. We've discussed memory leaks and their impact, balancing heap size, excessive object creation, and various strategies to handle and prevent this notorious error. Armed with this knowledge and a tool like Eclipse MAT, you can effectively diagnose and resolve `OutOfMemoryErrors`, ensuring the stability and smooth operation of your Java applications.
 
-#### References:
+## References:
 - [Java SE Application Performance Tuning](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/Error.html#OutOfMemoryError-java.lang.String-)
-- [How to Analyze Java Thread Dumps](https://dzone.com/articles/how-analyze-java-thread-dumps)
-- [Java Memory Errors: OutOfMemoryError and Memory Leaks](https://www.baeldung.com/java-outofmemoryerror)
 - [Diagnosing and Resolving OutOfMemoryError in Java](https://www.oracle.com/technical-resources/articles/javase/troubleshoot-java-memory-issues.html)
-- [Understanding Metaspace in Java 8](https://dzone.com/articles/understanding-metaspace-or-permgen-removal-in-jdk)
 - [Eclipse Memory Analyzer Tool](https://www.eclipse.org/mat/)
