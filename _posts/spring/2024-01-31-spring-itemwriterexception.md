@@ -10,11 +10,6 @@ toc: true
 
 Have you ever encountered an `ItemWriterException` while working with Spring Batch? If you have, you know that it can be quite frustrating. But fear not! In this article, we will explore this exception in detail and provide you with the guidance needed to overcome it. So, let's dive into the world of `ItemWriterException` and learn how to effectively handle it in your Spring applications.
 
-## Table of Contents
-- [Understanding ItemWriterException](#understanding-itemwriterexception)
-- [Common Causes of ItemWriterException](#common-causes-of-itemwriterexception)
-- [Handling ItemWriterException](#handling-itemwriterexception)
-- [Best Practices](#best-practices)
 
 ## Understanding ItemWriterException
 
