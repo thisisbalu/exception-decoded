@@ -115,6 +115,3 @@ Didn't find the solution to your MarshalException? Be sure to consult the offici
 Remember, serialization is a powerful mechanism, allowing objects to transcend process boundaries. By mastering the art of serialization, you can unlock new possibilities for network communication and secure data storage within your Java applications.
 
 Happy coding!
-
-[^1^]: [Official Java Serialization Documentation](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/io/Serializable.html)
-[^2^]: [Java Developer Community (Stack Overflow)](https://stackoverflow.com/questions/tagged/java)
