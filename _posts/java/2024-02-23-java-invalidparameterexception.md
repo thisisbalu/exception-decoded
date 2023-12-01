@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding InvalidParameterException in Java: A Comprehensive Guide"
+title: "Understanding InvalidParameterException in Java: A Comprehensive Guide"
 date: 2024-02-23 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.security, java-se]
@@ -7,19 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In Java, exceptions play a crucial role in handling runtime errors. Among the various types of exceptions, `InvalidParameterException` is frequently encountered when programs receive incorrect or inadequate input parameters. This article will explore the `InvalidParameterException` class in detail, discussing its purpose, usage, and best practices when handling this exception in Java applications.
-
-## Table of Contents
-- [What is InvalidParameterException?](#what-is-invalidparameterexception)
-- [Handling InvalidParameterException](#handling-invalidparameterexception)
-- [Best Practices](#best-practices)
-- [Code Examples](#code-examples)
-   - [Example 1: Basic usage of InvalidParameterException](#example-1-basic-usage-of-invalidparameterexception)
-   - [Example 2: Customizing InvalidParameterException](#example-2-customizing-invalidparameterexception)
-- [Conclusion](#conclusion)
 
 ## What is InvalidParameterException? <a name="what-is-invalidparameterexception"></a>
 
@@ -90,7 +80,6 @@ In conclusion, the `InvalidParameterException` class is an important tool for si
 
 To learn more about `InvalidParameterException` and related Java exception handling concepts, refer to the following resources:
 - [Oracle Java Documentation: InvalidParameterException](https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/InvalidParameterException.html)
-- [Java Exception Handling](https://www.baeldung.com/java-exceptions)
 - [Effective Java Exception Handling](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=concept-best-practices-exception-handling)
 
 Keep in mind that understanding and appropriately handling exceptions are crucial for building resilient and error-free applications. Happy coding!
