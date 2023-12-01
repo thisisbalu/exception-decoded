@@ -12,16 +12,6 @@ As businesses continue to generate massive amounts of data, real-time streaming 
 
 In this article, we will dive deep into the `InvalidKMSResourceException` of the `com.amazonaws.services.kinesisfirehose.model` in AWS Kinesis Firehose. We will explore what this exception means, when and why it occurs, how to handle it, and provide some code examples to illustrate its usage.
 
-## Table of Contents
-1. Introduction
-2. Understanding the InvalidKMSResourceException
-   - What is the InvalidKMSResourceException?
-   - When and why does it occur?
-   - How to handle the InvalidKMSResourceException
-3. Code Examples
-4. Conclusion
-5. References
-
 ## 1. Introduction
 
 Amazon Kinesis Firehose is a powerful service that simplifies the process of loading streaming data into various AWS data storage and analytics platforms. It allows you to capture and transform real-time data from several sources seamlessly.
