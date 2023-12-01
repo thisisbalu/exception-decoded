@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: "Demystifying GraphQLTransportException in Spring: Handling Errors and Enhancing Performance""
+title: "Demystifying GraphQLTransportException in Spring: Handling Errors and Enhancing Performance"
 date: 2024-02-10 09:00:00 -0000
 categories: [Spring, spring-graphql]
 tags: [spring, spring-unchecked, org.springframework.graphql.client]
