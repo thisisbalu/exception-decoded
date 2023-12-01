@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting InvalidVPCNetworkStateException in AWS RDS - A Deep Dive"
+title: "Troubleshooting InvalidVPCNetworkStateException in AWS RDS - A Deep Dive"
 date: 2023-12-03 09:00:00 -0000
 categories: [AWS, AWS RDS]
 tags: [aws, rds, com.amazonaws.services.rds.model]
@@ -75,5 +75,3 @@ By following the troubleshooting steps outlined in this article, you should be a
 For more information on AWS RDS, visit the official [AWS RDS Documentation](https://docs.aws.amazon.com/rds/).
 
 Happy troubleshooting!
-
-*Note: This article is for educational purposes only and should not be considered as professional advice.*
