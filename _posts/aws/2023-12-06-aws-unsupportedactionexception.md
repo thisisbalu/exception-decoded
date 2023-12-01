@@ -1,12 +1,11 @@
 ---
-title: "Title: Deep Dive into UnsupportedActionException in AWS Cloud Control API"
+title: "Deep Dive into UnsupportedActionException in AWS Cloud Control API"
 date: 2023-12-06 09:00:00 -0000
 categories: [AWS, AWS Cloud Control API]
 tags: [aws, cloudcontrolapi, com.amazonaws.services.cloudcontrolapi.model]
 mermaid: true
 toc: true
 ---
-
 
 ## Introduction
 
