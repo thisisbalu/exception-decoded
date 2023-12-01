@@ -1,5 +1,5 @@
 ---
-title: "Title: Solving the QueuesNotAvailableException in Spring: A Comprehensive Guide"
+title: "Solving the QueuesNotAvailableException in Spring: A Comprehensive Guide"
 date: 2024-02-10 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp.rabbit.listener]
