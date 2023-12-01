@@ -12,14 +12,6 @@ Are you encountering SQLTransientException while working with Java applications?
 
 In this article, we will explore SQLTransientException in Java and discuss its causes, common solutions, and best practices for handling this exception. So, grab a cup of coffee and let's delve into the world of SQLTransientException!
 
-## Table of Contents
-- [Introduction to SQLTransientException](#introduction-to-sqltransientexception)
-- [Causes of SQLTransientException](#causes-of-sqltransientexception)
-- [Common Scenarios](#common-scenarios)
-- [Handling SQLTransientException](#handling-sqltransientexception)
-- [Best Practices](#best-practices)
-- [Conclusion](#conclusion)
-
 ## Introduction to SQLTransientException
 SQLTransientException is a subclass of SQLException and is categorized as a transient error. A transient error indicates a temporary failure or interruption in the database connection and operations. It is a runtime exception that can occur when accessing the database using Java Database Connectivity (JDBC) API.
 
