@@ -118,5 +118,3 @@ In this article, we explored the ConflictingOperationException in AWS IoT SiteWi
 To dig deeper into the topic, you can refer to the official AWS documentation on [AWS IoT SiteWise ConflictingOperationException](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/iotsitewise/model/ConflictingOperationException.html).
 
 So, whether you are just starting your IoT journey or enhancing your existing implementations, mastering the handling of ConflictingOperationException is a valuable skill. Keep exploring and happy coding!
-
-*Note: This article is a 15-minute read, catering to tech enthusiasts and developers seeking detailed insights on ConflictingOperationException in AWS IoT SiteWise.
