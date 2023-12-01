@@ -7,16 +7,7 @@ mermaid: true
 toc: true
 ---
 
-
-**Introduction:**
 In any distributed system, message queues play a crucial role in decoupling components and ensuring reliable communication. Spring provides excellent integration with RabbitMQ, a widely-used message broker, through the `spring-amqp` library. However, when dealing with message rejection scenarios, it's essential to understand and handle exceptions properly. In this article, we'll explore the `AmqpNackReceivedException` in Spring and discuss how to handle it efficiently.
-
-**Table of Contents:**
-1. Understanding the AmqpNackReceivedException
-2. Handling the Exception
-3. Retrying Message Processing
-4. Dead Letter Exchange
-5. Conclusion
 
 ## 1. Understanding the AmqpNackReceivedException
 The `AmqpNackReceivedException` is a specialized exception class in the Spring AMQP library. It's thrown when a message sent to a RabbitMQ consumer is explicitly rejected. This rejection typically occurs when a consumer encounters an error while processing the message and requests to reject it. It's important to note that there are multiple ways to reject a message in Spring; however, this exception specifically relates to negative acknowledgments (NACKs).
@@ -223,5 +214,3 @@ Remember, understanding and effectively handling exceptions in message-driven ar
 - [RabbitMQ Tutorials](https://www.rabbitmq.com/tutorials/)
 - [Spring Retry Documentation](https://docs.spring.io/spring-retry/docs/current/reference/html/)
 - [SLF4J Documentation](http://www.slf4j.org/manual.html)
-
-*Estimated reading time: 15 minutes*
