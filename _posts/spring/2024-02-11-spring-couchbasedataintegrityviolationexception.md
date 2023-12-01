@@ -1,13 +1,10 @@
 ---
-title: "Catchy and SEO friendly title: Understanding CouchbaseDataIntegrityViolationException in Spring: Prevention and Resolution"
+title: "Understanding CouchbaseDataIntegrityViolationException in Spring: Prevention and Resolution"
 date: 2024-02-11 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.couchbase.core]
 mermaid: true
 toc: true
----
-
-
 ---
 
 ## Introduction
@@ -132,5 +129,3 @@ Now armed with the knowledge of CouchbaseDataIntegrityViolationException, you ar
 - [Spring Data Couchbase Documentation](https://docs.spring.io/spring-data/couchbase/docs/current/reference/html)
 - [Spring Bean Validation Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#validation)
 - [Couchbase Documentation: Indexing](https://docs.couchbase.com/server/current/n1ql/n1ql-language-reference/createindex.html)
-
-*Disclaimer: The code examples provided are for illustration purposes only and may require customization based on specific project requirements.*
