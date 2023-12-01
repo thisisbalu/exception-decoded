@@ -10,13 +10,6 @@ toc: true
 
 Are you a Java developer facing the FileAlreadyExistsException? Don't worry, you've come to the right place! In this in-depth article, we'll cover everything you need to know about FileAlreadyExistsException in Java. From its definition and causes to handling and preventing this exception, we've got you covered. So, let's dive right in!
 
-## Table of Contents
-- Introduction to FileAlreadyExistsException
-- Common Causes of FileAlreadyExistsException
-- Code Examples for Handling FileAlreadyExistsException
-- Best Practices for Preventing FileAlreadyExistsException
-- Conclusion
-
 ## Introduction to FileAlreadyExistsException:
 
 FileAlreadyExistsException is an exception that is part of the powerful **java.nio.file** package introduced in Java 7. This exception is thrown when an attempt is made to create a file or directory, but the file or directory already exists. 
