@@ -11,19 +11,6 @@ toc: true
 ## Introduction
 Welcome to another exciting blog post where we explore the Amazon Elastic Kubernetes Service (EKS) and delve into the AmazonEKSException in the com.amazonaws.services.eks.model package. In this article, we will dive deep into this exception and discuss common issues you may encounter while using Amazon EKS, providing you with possible solutions and recommendations. So, let's get started!
 
-## Table of Contents
-1. What is Amazon Elastic Kubernetes Service?
-2. AmazonEKSException - An Overview
-3. Understanding Common Use Cases and Scenarios
-4. Troubleshooting Common Issues
-     - Issue #1: InvalidParameterException
-     - Issue #2: ResourceInUseException
-     - Issue #3: LimitExceededException
-     - Issue #4: ServiceUnavailableException
-5. Recommended Practices to Avoid Exceptions
-6. Conclusion
-7. References
-
 ## What is Amazon Elastic Kubernetes Service?
 Amazon Elastic Kubernetes Service (EKS) is a managed container orchestration service offered by Amazon Web Services (AWS). It simplifies the process of running Kubernetes on AWS infrastructure without the need to manage the underlying infrastructure. EKS provides automatic scaling, monitoring, and high availability for your Kubernetes cluster, allowing you to focus on deploying and managing containerized applications.
 
