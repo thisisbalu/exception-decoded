@@ -1,5 +1,5 @@
 ---
-title: "Understanding the 'MethodInvocationException' in Spring"
+title: "Understanding the 'MethodInvocationException in Spring"
 date: 2024-02-06 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans]
