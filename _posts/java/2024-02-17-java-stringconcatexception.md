@@ -11,14 +11,6 @@ toc: true
 ## Introduction
 String handling is an essential part of Java programming. It allows developers to manipulate and work with textual data effectively. One of the most common operations is concatenating strings, which means combining multiple strings into a single string. However, when concatenating strings in Java, you may come across a StringConcatException. In this article, we will explore what a StringConcatException is, why it occurs, and how to handle it effectively.
 
-## Table of Contents
-- [What is a StringConcatException?](#what-is-a-stringconcatexception)
-- [Why does a StringConcatException Occur?](#why-does-a-stringconcatexception-occur)
-- [Understanding the Exception Message](#understanding-the-exception-message)
-- [Handling a StringConcatException](#handling-a-stringconcatexception)
-- [Best Practices for Avoiding StringConcatException](#best-practices-for-avoiding-stringconcatexception)
-- [Conclusion](#conclusion)
-
 
 ## What is a StringConcatException?
 A StringConcatException is a runtime exception that occurs when there are issues with concatenating strings using the "+" operator or the concat() method in Java. It is a subclass of RuntimeException and belongs to the java.lang package.
