@@ -10,22 +10,6 @@ toc: true
 
 Imagine you're building a web application using the popular Spring framework. You've written code to save data into a database and are excited to test it out. But when you execute your application, you encounter an error message that says "DuplicateKeyException." What does this mean and how can you handle it effectively? In this article, we'll delve into the details of DuplicateKeyException in Spring and explore various solutions to overcome it efficiently.
 
-## Table of Contents
-1. [Understanding DuplicateKeyException](#understanding-duplicatekeyexception)
-2. [Causes of DuplicateKeyException](#causes-of-duplicatekeyexception)
-    - [1. Concurrent Database Operations](#concurrent-database-operations)
-    - [2. Unique Constraint Violation](#unique-constraint-violation)
-3. [Handling DuplicateKeyException](#handling-duplicatekeyexception)
-    - [1. Validation and User Feedback](#validation-and-user-feedback)
-    - [2. Transaction Rollbacks](#transaction-rollbacks)
-    - [3. Custom Exception Handling](#custom-exception-handling)
-4. [Code Examples](#code-examples)
-    - [1. Validation and User Feedback](#code-example-1)
-    - [2. Transaction Rollbacks](#code-example-2)
-    - [3. Custom Exception Handling](#code-example-3)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## Understanding DuplicateKeyException<a name="understanding-duplicatekeyexception"></a>
 
 In Spring and Spring Boot applications, a `DuplicateKeyException` is a specific exception that occurs when an attempt is made to insert or update data into a database table, but the operation violates a unique constraint defined on the table. This constraint ensures that certain columns or combinations of columns in the table have unique values, preventing the accidental creation of duplicate records.
@@ -119,5 +103,4 @@ Remember, preventing duplicate entries not only ensures data consistency but als
 
 - [Spring Framework Documentation: DuplicateKeyException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/DuplicateKeyException.html)
 - [Spring Boot Reference Guide: Data Access](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#spring-boot-data-access)
-- [Baeldung: The Ultimate Guide to @Transactional](https://www.baeldung.com/spring-transactional-rollback-exception)
 - [Spring Boot Reference Guide: Error Handling](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-error-handling)
