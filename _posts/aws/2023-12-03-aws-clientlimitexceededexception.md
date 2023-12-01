@@ -1,5 +1,5 @@
 ---
-title: "**ClientLimitExceededException in AWS Kinesis Video Signaling Channels: Managing Client Limits Efficiently**"
+title: "ClientLimitExceededException in AWS Kinesis Video Signaling Channels: Managing Client Limits Efficiently"
 date: 2023-12-03 09:00:00 -0000
 categories: [AWS, AWS Kinesis Video Signaling Channels]
 tags: [aws, kinesisvideosignalingchannels, com.amazonaws.services.kinesisvideosignalingchannels.model]
