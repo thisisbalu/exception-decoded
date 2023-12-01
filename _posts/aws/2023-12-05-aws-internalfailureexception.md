@@ -94,5 +94,3 @@ The `InternalFailureException` in AWS CloudWatch Synthetics is a representation 
 References:
 - [AWS CloudWatch Synthetics Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Canaries.html)
 - [com.amazonaws.services.synthetics.model.InternalFailureException - AWS SDK for Java Documentation](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/synthetics/model/InternalFailureException.html)
-
-*Total reading time: 15 minutes*
