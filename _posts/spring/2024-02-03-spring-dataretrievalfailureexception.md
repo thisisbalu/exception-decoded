@@ -12,7 +12,7 @@ toc: true
 
 In a Spring-based application, it is not uncommon to encounter exceptions while working with data retrieval. One such exception is the `DataRetrievalFailureException`. In this article, we will explore the causes, common scenarios, and strategies to handle this exception effectively.
 
-## What is `DataRetrievalFailureException`?
+## What is DataRetrievalFailureException?
 
 `DataRetrievalFailureException` is an unchecked exception that is thrown when a failure occurs while retrieving data from a data source, such as a database, in a Spring application.
 
