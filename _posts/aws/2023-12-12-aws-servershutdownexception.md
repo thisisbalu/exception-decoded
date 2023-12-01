@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ServerShutdownException in Amazon Neptune Data Service"
+title: "Understanding ServerShutdownException in Amazon Neptune Data Service"
 date: 2023-12-12 09:00:00 -0000
 categories: [AWS, Amazon Neptune Data Service]
 tags: [aws, neptunedata, com.amazonaws.services.neptunedata.model]
@@ -8,18 +8,8 @@ toc: true
 ---
 
 
----
-
 Are you dealing with server shutdown issues when using Amazon Neptune Data Service? In this article, we'll dive deep into the `ServerShutdownException` of `com.amazonaws.services.neptunedata.model` and explore its potential causes, solutions, and recommended best practices. Whether you're a beginner or an experienced developer, this comprehensive guide will help you overcome server shutdown challenges in no time.
 
-## Table of Contents
-
-- Introduction to Amazon Neptune Data Service
-- What is `ServerShutdownException`?
-- Potential Causes of `ServerShutdownException`
-- How to Handle `ServerShutdownException`
-- Best Practices for Avoiding Server Shutdown
-- Conclusion and Next Steps
 
 ## Introduction to Amazon Neptune Data Service
 
