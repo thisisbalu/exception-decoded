@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the UnsupportedDataSourcePropertyException in Spring: A Developer's Guide"
+title: "Demystifying the UnsupportedDataSourcePropertyException in Spring: A Developer's Guide"
 date: 2024-02-09 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.jdbc]
