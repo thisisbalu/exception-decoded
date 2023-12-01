@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding MessageDeliveryException in Spring - Tips and Tricks for Effective Message Delivery"
+title: "Understanding MessageDeliveryException in Spring - Tips and Tricks for Effective Message Delivery"
 date: 2024-01-29 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.messaging]
@@ -11,16 +11,6 @@ toc: true
 Are you familiar with Spring's messaging framework and its various components? Whether you are a seasoned developer or just starting with Spring, understanding how to handle exceptions effectively is crucial for building robust and reliable applications.
 
 In this article, we will delve into the intricacies of the `MessageDeliveryException` in Spring, exploring its causes, implications, and ways to handle this exception effectively. By the end, you'll have a solid understanding of how to tackle this common issue, ensuring smooth message delivery within your Spring-based applications.
-
-## Table of Contents
-- [Introduction to MessageDeliveryException](#introduction-to-messagedeliveryexception)
-- [Causes and Implications](#causes-and-implications)
-- [Handling MessageDeliveryException Effectively](#handling-messagedeliveryexception-effectively)
-  - [Retrying Failed Message Delivery](#retrying-failed-message-delivery)
-  - [Adding Error Handling Advice](#adding-error-handling-advice)
-  - [Redirecting Failed Messages](#redirecting-failed-messages)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction to MessageDeliveryException
 Before diving deeper into understanding the `MessageDeliveryException` in Spring, let's first grasp the basic concepts involved. In Spring's messaging framework, messages are passed between message producers and consumers via message channels. These messages can be sent using various protocols such as JMS, AMQP, or even plain old HTTP.
