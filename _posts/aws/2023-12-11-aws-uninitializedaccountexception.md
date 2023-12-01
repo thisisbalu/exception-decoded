@@ -101,5 +101,3 @@ For more information on AWS Elastic Disaster Recovery and related exceptions, re
 - [AWS SDK for Java - com.amazonaws.services.drs.model Documentation](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/drs/model/package-frame.html)
 
 Remember always to maintain a thorough understanding of the exceptions that can occur in AWS Elastic DRS, as it empowers you to build resilient and reliable disaster recovery infrastructures. Happy coding and disaster-proofing your applications!
-
-*Estimated reading time: 15 minutes*
