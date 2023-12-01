@@ -1,14 +1,11 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: "Everything You Need to Know About InvalidRepositoryTriggerDestinationArnException in AWS CodeCommit"
 date: 2023-12-08 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
 mermaid: true
 toc: true
 ---
-
-
-Everything You Need to Know About InvalidRepositoryTriggerDestinationArnException in AWS CodeCommit
 
 ## Introduction
 
