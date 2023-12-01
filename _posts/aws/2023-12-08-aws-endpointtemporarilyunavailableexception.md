@@ -10,17 +10,6 @@ toc: true
 
 In today's article, we will delve into the intricacies of the `EndpointTemporarilyUnavailableException` in the AWS Route 53 Recovery Cluster. This exception is an essential aspect of the recovery cluster's functionality, and understanding it thoroughly can aid in troubleshooting and resolving issues effectively.
 
-## Table of Contents
-
-1. Introduction
-2. Understanding the EndpointTemporarilyUnavailableException
-3. Common Use Cases
-4. Sample Code
-   - Example 1: Retrieving the Recovery Cluster State
-   - Example 2: Handling the EndpointTemporarilyUnavailableException
-5. Troubleshooting and Best Practices
-6. Conclusion
-7. References
 
 ## Introduction
 
