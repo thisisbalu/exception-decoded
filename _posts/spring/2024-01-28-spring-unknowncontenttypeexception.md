@@ -161,6 +161,3 @@ _References:_
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring MVC Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- [Baeldung - Spring Content Negotiation](https://www.baeldung.com/spring-content-negotiation)
-- [Testing Spring MVC with MockMvc](https://www.baeldung.com/spring-mvc-test-assert)
-- [Stack Overflow - UnknownContentTypeException](https://stackoverflow.com/questions/72893668/how-to-handle-spring-unknowncontenttypeexception)
