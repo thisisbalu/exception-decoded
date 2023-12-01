@@ -1,5 +1,5 @@
 ---
-title: "Title: "
+title: "Managing Large Classes in Spring: Handling ClassTooLargeException Effectively"
 date: 2024-02-05 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-checked, org.springframework.asm]
@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-Managing Large Classes in Spring: Handling ClassTooLargeException Effectively
 
 ## Introduction
 
