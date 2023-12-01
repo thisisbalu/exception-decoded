@@ -8,8 +8,6 @@ toc: true
 ---
 
 
-*Unlock the potential of AWS CodeCommit with understanding its commented ID requirement exception.*
-
 Are you looking for a secure and scalable version control service for your application development projects? AWS CodeCommit is your one-stop solution. CodeCommit provides a fully managed, highly secure, and scalable Git-based version control service. It allows you to host secure and private Git repositories for your applications, making it easier to collaborate with your team seamlessly.
 
 However, when working with CodeCommit, you might encounter an exception called `CommentIdRequiredException`. In this article, we will deep dive into this exception and discuss its significance, possible causes, and how to handle it effectively.
@@ -94,5 +92,3 @@ Understanding the `CommentIdRequiredException` in AWS CodeCommit is essential fo
 For more information on AWS CodeCommit and its features, you can refer to the official AWS CodeCommit [documentation](https://docs.aws.amazon.com/codecommit/).
 
 Happy coding and collaborating with AWS CodeCommit!
-
-*Estimated reading time: 15 minutes*
