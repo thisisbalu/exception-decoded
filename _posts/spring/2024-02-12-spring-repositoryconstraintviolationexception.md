@@ -10,13 +10,6 @@ toc: true
 
 Finding and resolving errors in a Spring application can sometimes be a cumbersome task. One error that you might come across is the `RepositoryConstraintViolationException`. In this article, we will take a deep dive into what this exception is, why it occurs, and how to handle it effectively.
 
-## Table of Contents
-- Introduction
-- Understanding RepositoryConstraintViolationException
-- Causes of RepositoryConstraintViolationException
-- Handling RepositoryConstraintViolationException
-- Conclusion
-- References
 
 ## Introduction
 As a Spring developer, you may have encountered situations where you need to perform data validations before persisting or updating entities in your application. Spring provides a powerful and flexible way to handle these validations using the `javax.validation` API. However, there are scenarios where these validations can fail, leading to a `RepositoryConstraintViolationException`.
