@@ -12,24 +12,6 @@ toc: true
 
 In software development, using message queues is a common practice to decouple components and improve scalability. Spring, a popular framework for Java applications, provides seamless integration with various message queue systems such as RabbitMQ and Apache Kafka. However, occasionally, Spring developers encounter the dreaded `QueuesNotAvailableException`. This error indicates that the application is unable to establish a connection with the message queue server. In this article, we will explore the causes of this exception, discuss potential solutions, and outline best practices to ensure a smooth messaging experience in your Spring-based projects.
 
-## Table of Contents
-
-1. Understanding the `QueuesNotAvailableException`
-2. Common Causes of the Exception
-   1. Incorrect Configuration
-   2. Network Connectivity Issues
-   3. Message Queue Server Unavailability
-3. Resolving the `QueuesNotAvailableException`
-   1. Verify Configuration Settings
-   2. Check Network Connectivity
-   3. Ensure Message Queue Server Availability
-4. Advanced Techniques for Preventing the Exception
-   1. Implementing Retry Logic
-   2. Using Connection Pools
-   3. Employing Circuit Breakers
-5. Conclusion
-6. References
-
 ## Understanding the `QueuesNotAvailableException`
 
 The `QueuesNotAvailableException` is a runtime exception that occurs when Spring tries to establish a connection with a message queue server but fails. This exception is thrown when the application cannot reach the message queue server or encounters an unexpected response.
