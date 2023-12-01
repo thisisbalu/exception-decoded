@@ -10,13 +10,6 @@ toc: true
 
 If you're a Java developer working with the Spring framework, you might have come across the dreaded `MethodInvocationException`. This exception is common and often encountered when using Spring's declarative transaction management. In this article, we'll delve into the details of the `MethodInvocationException`, its causes, and possible solutions. Join us as we explore this commonly faced issue in Spring and discuss how to handle it effectively.
 
-## Table of Contents
-- Introduction
-- What is the `MethodInvocationException`?
-- Root Causes of the `MethodInvocationException`
-- Handling the `MethodInvocationException`
-- Conclusion
-
 ## Introduction
 
 When working with a large and complex codebase, exceptions are inevitable. As a developer, you've likely stumbled upon various exceptions during your career. One such exception that frequently occurs in Spring applications is the `MethodInvocationException`.
