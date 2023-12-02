@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying DBClusterRoleNotFoundException in AWS Neptune: An Essential Guide"
+title: "Demystifying DBClusterRoleNotFoundException in AWS Neptune: An Essential Guide"
 date: 2023-12-14 09:00:00 -0000
 categories: [AWS, AWS Neptune]
 tags: [aws, neptune, com.amazonaws.services.neptune.model]
@@ -10,18 +10,6 @@ toc: true
 
 ## Introduction
 AWS Neptune is a powerful graph database service that enables you to build applications that require real-time querying of highly connected data. However, while working with Neptune, you may encounter errors that can hinder your development progress. One of these errors is the **DBClusterRoleNotFoundException** of the `com.amazonaws.services.neptune.model` package. In this article, we will delve into the nitty-gritty of this exception, explore its implications, and provide effective solutions to resolve it.
-
-## Table of Contents
-1. What is DBClusterRoleNotFoundException?
-2. Causes of DBClusterRoleNotFoundException
-3. Exception Scenarios and Troubleshooting
-   - 3.1. Scenario 1: Missing IAM Role for Neptune Cluster
-   - 3.2. Scenario 2: Insufficient Permissions for IAM Role
-   - 3.3. Scenario 3: Inconsistency in Role Deletion and Neptune Cluster
-   - 3.4. Scenario 4: Regional Restrictions
-4. Resolving DBClusterRoleNotFoundException
-5. Conclusion
-6. References
 
 ## 1. What is DBClusterRoleNotFoundException?
 The `DBClusterRoleNotFoundException` is an exception that occurs when a requested Neptune cluster is unable to find the specified IAM role. This exception belongs to the `com.amazonaws.services.neptune.model` package and typically manifests during the execution of AWS Neptune API operations that depend on IAM roles, such as creating or updating a cluster.
