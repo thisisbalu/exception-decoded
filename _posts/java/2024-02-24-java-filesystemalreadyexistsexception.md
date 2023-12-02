@@ -129,5 +129,3 @@ Reference links:
 - [Java Documentation: FileSystemAlreadyExistsException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/FileSystemAlreadyExistsException.html)
 - [Java Documentation: FileSystems class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/FileSystems.html)
 - [Java Documentation: Files class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html)
-
-Estimated reading time: 15 minutes
