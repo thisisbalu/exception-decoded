@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the Internal Server Exception in AWS App Registry"
+title: "Demystifying the Internal Server Exception in AWS App Registry"
 date: 2023-12-15 09:00:00 -0000
 categories: [AWS, AWS App Registry]
 tags: [aws, appregistry, com.amazonaws.services.appregistry.model]
@@ -10,17 +10,6 @@ toc: true
 
 ## Introduction
 Welcome to our comprehensive guide on dealing with the InternalServerException, an error faced by developers when using the AWS App Registry. In this article, we'll dive deep into understanding this exception, its causes, and possible resolutions to help you troubleshoot efficiently. By the end, you'll be equipped with the knowledge and tools to tackle this issue head-on.
-
-## Table of Contents
-1. Understanding the AWS App Registry
-2. Unveiling the InternalServerException
-3. Root Causes of the InternalServerException
-4. Resolving the InternalServerException
-   - Scenario 1: Invalid Request Parameters
-   - Scenario 2: Excessively High API Traffic
-   - Scenario 3: AWS Service Outage
-5. Conclusion
-6. References
 
 ## 1. Understanding the AWS App Registry
 AWS App Registry is a powerful service offered by Amazon Web Services (AWS) that allows you to store, manage, and retrieve resources like applications, resources, and metadata in a centralized registry. It provides a consistent view of your applications and their dependencies, making it easier to track and manage resources across a wide range of AWS services.
@@ -108,6 +97,3 @@ As an AWS App Registry developer, it's essential to be aware of these potential 
 - [AWS App Registry Documentation](https://docs.aws.amazon.com/appregistry/latest/userguide/what-is.html)
 - [AWS App Registry API Documentation](https://docs.aws.amazon.com/appregistry/latest/APIReference/Welcome.html)
 - [AWS Service Health Dashboard](https://status.aws.amazon.com/)
-
-------
-Estimated reading time: 15 minutes.
