@@ -1,5 +1,5 @@
 ---
-title: "Title: AWS Location ValidationException - A Comprehensive Guide"
+title: "AWS Location ValidationException - A Comprehensive Guide"
 date: 2023-12-15 09:00:00 -0000
 categories: [AWS, AWS Location]
 tags: [aws, location, com.amazonaws.services.location.model]
@@ -10,14 +10,6 @@ toc: true
 
 ## Introduction:
 When working with AWS Location services, you may come across a ValidationException at some point during your development process. This exception occurs when the input provided is incorrect or doesn't adhere to the expected format. In this article, we will explore the ValidationException of the `com.amazonaws.services.location.model` class in AWS Location and delve into various scenarios where this exception can be encountered. By understanding this exception, developers can ensure more robust and error-free Location-based applications.
-
-## Table of Contents
-- What is AWS Location?
-- Understanding ValidationException
-- Common Scenarios causing ValidationException
-- Handling ValidationException
-- Conclusion
-- References
 
 ## What is AWS Location?
 AWS Location is a service provided by Amazon Web Services (AWS) that allows developers to include location and mapping capabilities in their applications. Leveraging the underlying infrastructure provided by AWS, developers can build applications that make use of geolocation, geocoding, and mapping functionalities. AWS Location offers various APIs that can be easily integrated into applications to add these capabilities.
