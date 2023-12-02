@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Scaling Your Video Streaming with Amazon Kinesis Video: Dealing with ClientLimitExceededException"
 date: 2023-12-16 09:00:00 -0000
 categories: [AWS, Amazon Kinesis Video]
 tags: [aws, kinesisvideo, com.amazonaws.services.kinesisvideo.model]
@@ -7,12 +7,8 @@ mermaid: true
 toc: true
 ---
 
-## Title: Scaling Your Video Streaming with Amazon Kinesis Video: Dealing with ClientLimitExceededException
-
 ## Introduction
 Video streaming has become an integral part of our digital lives, and businesses are increasingly leveraging this technology to engage their users. Amazon Kinesis Video, a fully-managed AWS service, allows you to securely stream video from devices to AWS for processing, storage, and playback in real-time. However, as your video streaming demands grow, you may encounter limitations to the number of concurrent clients that can access your streams. In this article, we will dive into the `ClientLimitExceededException` of the `com.amazonaws.services.kinesisvideo.model` in Amazon Kinesis Video and explore methods to overcome or mitigate this limitation.
-
-![Amazon Kinesis Video](https://example.com/aws-kinesis-video.png)
 
 ## Understanding ClientLimitExceededException
 The `ClientLimitExceededException` is an exception thrown by the `com.amazonaws.services.kinesisvideo.model` package whenever a client attempts to establish a connection to your Kinesis Video stream, but exceeds the maximum allowed limit. This exception is often encountered in scenarios where the demand for video streaming exceeds the service's default limits.
@@ -103,5 +99,3 @@ Remember, to ensure a smooth video streaming experience, it is crucial to monito
 - [Amazon Kinesis Video Documentation](https://docs.aws.amazon.com/kinesisvideo/latest/dg/what-is-kinesis-video.html)
 - [AWS Auto Scaling Documentation](https://docs.aws.amazon.com/autoscaling/)
 - [Kinesis Video Streams Producer SDK for Java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java)
-
-*This article is approximately a 15-minute read.*
