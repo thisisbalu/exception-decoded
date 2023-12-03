@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-*by [Your Name]*
-
----
-
 ## Introduction
 
 In modern-day software development, the Spring Framework has emerged as a popular choice among developers due to its robustness, flexibility, and ease of use. However, while working with the Spring JDBC module, you may encounter occasional exceptions that require your attention. One such exception is the `InvalidResultSetAccessException`. In this article, we'll deep dive into this exception, understanding its causes, effects, and potential solutions.
@@ -131,7 +126,3 @@ For more information on Spring JDBC and exception handling, refer to the officia
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring JDBC Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#jdbc)
 - [Spring DataAccessException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/DataAccessException.html)
-
-Remember, it is important to regularly review and test your code to catch these exceptions early. Happy coding!
-
----
