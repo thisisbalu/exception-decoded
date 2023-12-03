@@ -1,5 +1,5 @@
 ---
-title: "**Understanding InvalidResultSetAccessException in Spring**"
+title: "Understanding InvalidResultSetAccessException in Spring"
 date: 2024-02-18 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jdbc]
