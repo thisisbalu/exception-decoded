@@ -12,16 +12,6 @@ toc: true
 
 As a Spring developer, you may encounter various exceptions while working with the framework. One such exception is the `NoRootNodeMappingException`. In this article, we'll dive deep into this exception, understand its causes, and explore possible solutions. Whether you are a beginner or an experienced developer, this guide will help you handle this exception effectively.
 
-## Table of Contents
-
-1. [What is NoRootNodeMappingException?](#what-is-norootnodemappingexception)
-2. [Causes of NoRootNodeMappingException](#causes-of-norootnodemappingexception)
-3. [Solutions and Examples](#solutions-and-examples)
-   - [Solution 1: Missing root element in XML](#solution-1-missing-root-element-in-xml)
-   - [Solution 2: Incorrect mapping of XML to Java objects](#solution-2-incorrect-mapping-of-xml-to-java-objects)
-4. [Conclusion](#conclusion)
-5. [References](#references)
-
 ## What is NoRootNodeMappingException?
 
 The `NoRootNodeMappingException` is a runtime exception thrown by Spring when it fails to map an XML document to a Java object because the root element is missing. This exception is specific to the Spring Framework's XML-based configuration handling, typically when using XML configuration files or annotations.
