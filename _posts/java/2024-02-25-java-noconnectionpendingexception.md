@@ -124,5 +124,3 @@ Now that you are equipped with valuable insights into handling the `NoConnection
 
 - [Java Documentation: NoConnectionPendingException](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/nio/channels/NoConnectionPendingException.html)
 - [Java Documentation: SocketChannel](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/nio/channels/SocketChannel.html)
-
-*Estimated reading time: 15 minutes*
