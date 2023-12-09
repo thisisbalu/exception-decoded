@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Are you working with Amazon Neptune Data Service and encountered the `CancelledByUserException`? In this article, we will dive deep into this exception, discussing its causes, implications, and how to handle it in your applications effectively. Whether you are a seasoned developer or someone new to Neptune, this article aims to provide you with a comprehensive understanding of the `CancelledByUserException` and its best practices.
 
 ## What is `CancelledByUserException`?
