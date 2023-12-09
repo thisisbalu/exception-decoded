@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ResourceNotFoundException in AWS Kinesis Video WebRTC Storage"
+title: "Demystifying ResourceNotFoundException in AWS Kinesis Video WebRTC Storage"
 date: 2023-12-21 09:00:00 -0000
 categories: [AWS, AWS Kinesis Video WebRTC Storage]
 tags: [aws, kinesisvideowebrtcstorage, com.amazonaws.services.kinesisvideowebrtcstorage.model]
