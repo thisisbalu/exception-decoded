@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting the InternalServerException in AWS IoT Robo Runner"
+title: "Troubleshooting the InternalServerException in AWS IoT Robo Runner"
 date: 2023-12-18 09:00:00 -0000
 categories: [AWS, AWS IoT Robo Runner]
 tags: [aws, iotroborunner, com.amazonaws.services.iotroborunner.model]
