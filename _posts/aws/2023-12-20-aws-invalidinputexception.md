@@ -1,5 +1,5 @@
 ---
-title: "Title: Mastering InvalidInputException in AWS Security Lake"
+title: "Mastering InvalidInputException in AWS Security Lake"
 date: 2023-12-20 09:00:00 -0000
 categories: [AWS, AWS Security Lake]
 tags: [aws, securityhub, com.amazonaws.services.securityhub.model]
