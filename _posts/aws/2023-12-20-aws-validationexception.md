@@ -1,6 +1,5 @@
 ---
-title: "AWS Redshift Serverless: Handling Validation Exceptions like a Pro
-           Handle the exception"
+title: "AWS Redshift Serverless: Handling Validation Exceptions like a Pro"
 date: 2023-12-20 09:00:00 -0000
 categories: [AWS, AWS Redshift Serverless]
 tags: [aws, redshiftserverless, com.amazonaws.services.redshiftserverless.model]
