@@ -1,6 +1,5 @@
 ---
-title: "TooManyRequestsException in AWS Pinpoint Email: Handling Throttling Errors Efficiently
-Handle the response and potential TooManyRequestsException"
+title: "TooManyRequestsException in AWS Pinpoint Email: Handling Throttling Errors Efficiently"
 date: 2023-12-17 09:00:00 -0000
 categories: [AWS, AWS Pinpoint Email]
 tags: [aws, pinpointemail, com.amazonaws.services.pinpointemail.model]
@@ -12,20 +11,6 @@ toc: true
 In the world of AWS Pinpoint Email, one of the most common challenges that developers and system administrators face is the **TooManyRequestsException**. Understanding this exception and knowing how to handle it is crucial for maintaining the smooth operation of your Pinpoint Email service.
 
 In this article, we will take an in-depth look at the **TooManyRequestsException** and explore the best practices for dealing with this exception effectively. We will delve into the causes, impact, and mitigation strategies, backed by insightful code examples. So, let's dive right in!
-
-## Table of Contents
-
-1. [Introduction to TooManyRequestsException](#introduction-to-toomanyrequestsexception)
-2. [Causes and Impact](#causes-and-impact)
-3. [Mitigation Strategies](#mitigation-strategies)
-    - [Implementing Exponential Backoff](#implementing-exponential-backoff)
-    - [Increasing Request Rate Limits](#increasing-request-rate-limits)
-    - [Monitoring and Throttling Metrics](#monitoring-and-throttling-metrics)
-4. [Code Examples](#code-examples)
-    - [Using the AWS SDK for Java](#using-the-aws-sdk-for-java)
-    - [Using the AWS CLI](#using-the-aws-cli)
-5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ## Introduction to TooManyRequestsException
 
@@ -139,5 +124,4 @@ Now armed with this knowledge, you can ensure the smooth operation of your Pinpo
 - [AWS Pinpoint Email - Developer Guide](https://docs.aws.amazon.com/pinpoint-email/latest/APIReference/Welcome.html)
 - [AWS SDK for Java - Exponential Backoff](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/correct-code-exponential-backoff.html)
 - [AWS Pinpoint Email - Request Rate Limits](https://docs.aws.amazon.com/general/latest/gr/pem.html#pem throttling)
-
-**Note**: This article serves as a comprehensive guide that is intended to cover all key aspects related to the **TooManyRequestsException** in AWS Pinpoint Email. However, as the AWS services are continuously updated and optimized, it is advised to refer to the official AWS documentation for the latest guidance and best practices.
+  
