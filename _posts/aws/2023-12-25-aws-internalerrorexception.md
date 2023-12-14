@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the InternalErrorException in AWS Shield: Dealing with Unexpected Errors like a Pro"
+title: "Demystifying the InternalErrorException in AWS Shield: Dealing with Unexpected Errors like a Pro"
 date: 2023-12-25 09:00:00 -0000
 categories: [AWS, AWS Shield]
 tags: [aws, shield, com.amazonaws.services.shield.model]
