@@ -12,16 +12,6 @@ toc: true
 
 Welcome to another exciting blog post about Amazon DynamoDB Accelerator (DAX). In this article, we'll deep dive into the `InvalidParameterGroupStateException` of `com.amazonaws.services.dax.model`. We'll explore the possible use cases, causes, and ways to handle this exception effectively in your applications. So, let's get started!
 
-### Table of Contents
-
-1. [What is Amazon DynamoDB Accelerator (DAX)](#what-is-amazon-dynamodb-accelerator-dax)
-2. [Understanding InvalidParameterGroupStateException](#understanding-invalidparametergroupstateexception)
-3. [Causes of InvalidParameterGroupStateException](#causes-of-invalidparametergroupstateexception)
-4. [Handling InvalidParameterGroupStateException](#handling-invalidparametergroupstateexception)
-      - [Example - Creating a Parameter Group](#example-creating-a-parameter-group)
-      - [Example - Modifying a Parameter Group](#example-modifying-a-parameter-group)
-5. [Summary](#summary)
-
 ### What is Amazon DynamoDB Accelerator (DAX)
 
 Before we dive deep into the `InvalidParameterGroupStateException`, let's have a quick overview of Amazon DynamoDB Accelerator (DAX). DAX is an in-memory cache for Amazon DynamoDB that enables you to dramatically improve read performance for database-driven applications. It seamlessly integrates with your existing DynamoDB applications with minimal code changes, providing an easy-to-use caching layer.
@@ -117,5 +107,3 @@ In this article, we explored the `InvalidParameterGroupStateException` in Amazon
 If you want to learn more about DAX and its error handling, please refer to the official [AWS DAX Documentation](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Operations_Amazon_DynamoDB_Accelerator_DAX.html).
 
 Thank you for reading! Happy coding!
-
-**Estimated Reading Time:** 15 minutes
