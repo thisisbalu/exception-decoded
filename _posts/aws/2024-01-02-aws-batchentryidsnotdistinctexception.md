@@ -1,5 +1,5 @@
 ---
-title: "Title: Deep Dive into BatchEntryIdsNotDistinctException in Amazon Simple Queue Service (SQS)"
+title: "Deep Dive into BatchEntryIdsNotDistinctException in Amazon Simple Queue Service (SQS)"
 date: 2024-01-02 09:00:00 -0000
 categories: [AWS, Amazon Simple Queue Service]
 tags: [aws, sqs, com.amazonaws.services.sqs.model]
