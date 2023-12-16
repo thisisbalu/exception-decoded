@@ -79,5 +79,3 @@ By understanding and addressing the HsmConfigurationAlreadyExistsException, you 
 To learn more about HSM configurations in AWS Redshift, refer to the official AWS documentation [here](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-HSM.html).
 
 Thank you for reading, and happy coding!
-
-*Estimated Reading Time: 15 minutes*
