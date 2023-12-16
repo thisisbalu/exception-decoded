@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting InvalidActionDeclarationException in AWS Code Pipeline"
+title: "Troubleshooting InvalidActionDeclarationException in AWS Code Pipeline"
 date: 2023-12-27 09:00:00 -0000
 categories: [AWS, AWS Code Pipeline]
 tags: [aws, codepipeline, com.amazonaws.services.codepipeline.model]
@@ -105,5 +105,3 @@ For more information, you can refer to the following AWS documentation links:
 - [AWS Code Pipeline Action Type IDs](https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html#action-requirements)
 
 We hope this article was helpful in resolving the `InvalidActionDeclarationException` in your AWS Code Pipeline. Feel free to reach out to our technical support for further assistance. Happy coding!
-
-Estimated reading time: 15 minutes.
