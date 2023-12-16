@@ -1,5 +1,5 @@
 ---
-title: "**AmazonKinesisException Explained: Handling Errors in AWS Kinesis**"
+title: "AmazonKinesisException Explained: Handling Errors in AWS Kinesis"
 date: 2024-01-01 09:00:00 -0000
 categories: [AWS, AWS Kinesis]
 tags: [aws, kinesis, com.amazonaws.services.kinesis.model]
@@ -7,19 +7,8 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 _As a developer, working with AWS Kinesis can greatly enhance your ability to process and analyze streaming data in real-time. However, like any system, it's important to be aware of potential errors that may occur and learn how to handle them effectively. In this article, we will explore the AmazonKinesisException of the com.amazonaws.services.kinesis.model in AWS Kinesis, discussing its causes, common scenarios, and best practices for managing and resolving these exceptions._
 
-## **Table of Contents**
-
-1. Introduction to AmazonKinesisException
-2. Understanding the Causes
-3. Common Scenarios and Examples
-4. Best Practices for Handling Exceptions
-5. Conclusion
-6. References
 
 ## **1. Introduction to AmazonKinesisException**
 
@@ -168,7 +157,3 @@ In this article, we explored the AmazonKinesisException in AWS Kinesis, understa
 1. AWS SDK for Java - [https://aws.amazon.com/sdk-for-java/](https://aws.amazon.com/sdk-for-java/)
 2. AWS Kinesis Developer Guide - [https://docs.aws.amazon.com/kinesis/index.html](https://docs.aws.amazon.com/kinesis/index.html)
 3. AWS Error Code and Error Message Reference - [https://docs.aws.amazon.com/streams/latest/dev/error-handling.html](https://docs.aws.amazon.com/streams/latest/dev/error-handling.html)
-
----
-
-**[Note]:** This is a 15-minute read article providing detailed information on handling AmazonKinesisExceptions in AWS Kinesis.
