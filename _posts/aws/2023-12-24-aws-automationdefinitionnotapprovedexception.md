@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding AutomationDefinitionNotApprovedException in AWS SSM"
+title: "Understanding AutomationDefinitionNotApprovedException in AWS SSM"
 date: 2023-12-24 09:00:00 -0000
 categories: [AWS, AWS Simple Systems Management (SSM)]
 tags: [aws, simplesystemsmanagement, com.amazonaws.services.simplesystemsmanagement.model]
