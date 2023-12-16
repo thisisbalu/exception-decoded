@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ServiceQuotaExceededException in AWS Payment Cryptography"
+title: "Demystifying ServiceQuotaExceededException in AWS Payment Cryptography"
 date: 2023-12-22 09:00:00 -0000
 categories: [AWS, AWS Payment Cryptography]
 tags: [aws, paymentcryptography, com.amazonaws.services.paymentcryptography.model]
