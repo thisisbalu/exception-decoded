@@ -117,5 +117,3 @@ To learn more about `BadRequestException` and other exceptions in AWS AppConfig,
 In this article, we explored the `BadRequestException` in AWS AppConfig and learned about its different causes. We also discussed various strategies to handle this exception effectively using `com.amazonaws.services.appconfig.model`. By implementing proper error handling techniques and performing input validation, you can enhance the resilience and reliability of your applications integrating with AWS AppConfig.
 
 Remember, handling exceptions diligently not only improves the user experience but also helps in identifying and resolving underlying issues swiftly. So, leverage the power of exception handling to build robust and error-free applications on AWS AppConfig!
-
-*Estimated reading time: 15 minutes*
