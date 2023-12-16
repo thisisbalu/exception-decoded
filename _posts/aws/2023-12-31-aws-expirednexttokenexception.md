@@ -1,5 +1,5 @@
 ---
-title: "Title: "Exploring ExpiredNextTokenException in AWS Pricing: Advancing Your Cost Optimization Strategies""
+title: "Exploring ExpiredNextTokenException in AWS Pricing: Advancing Your Cost Optimization Strategies"
 date: 2023-12-31 09:00:00 -0000
 categories: [AWS, AWS Pricing]
 tags: [aws, pricing, com.amazonaws.services.pricing.model]
@@ -82,7 +82,3 @@ To explore further, refer to the official AWS Pricing documentation:
 - [AWS Pricing Developer Guide](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/awssavingsplans-pricing.html)
 
 Happy cloud cost optimization!
-
----
-
-*Approximate reading time: 15 minutes*
