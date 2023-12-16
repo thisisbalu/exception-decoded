@@ -1,5 +1,5 @@
 ---
-title: "**UnprocessableEntityException in AWS MediaLive: A Deep Dive**"
+title: "UnprocessableEntityException in AWS MediaLive: A Deep Dive"
 date: 2023-12-28 09:00:00 -0000
 categories: [AWS, AWS MediaLive]
 tags: [aws, medialive, com.amazonaws.services.medialive.model]
@@ -75,5 +75,3 @@ In conclusion, the UnprocessableEntityException is a sign of invalid input param
 For further in-depth information on AWS MediaLive, the official AWS documentation is an excellent resource to consult: [AWS MediaLive Documentation](https://docs.aws.amazon.com/medialive/index.html).
 
 Now that you're armed with knowledge to tackle UnprocessableEntityException, you can confidently develop robust applications leveraging the power of AWS MediaLive. Happy streaming!
-
-*Estimated Reading Time: 15 minutes*
