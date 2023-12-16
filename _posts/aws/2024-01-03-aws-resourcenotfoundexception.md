@@ -81,5 +81,3 @@ To learn more about AWS Customer Profiles and its capabilities, refer to the off
 - [AWS Customer Profiles Documentation](https://docs.aws.amazon.com/customer-profiles/latest/APIReference/Welcome.html)
 
 Remember, proper error handling is a crucial aspect of any application development process. By proactively addressing exceptions like the ResourceNotFoundException, you can enhance the reliability and user experience of your applications. Happy coding!
-
-*Estimated reading time: 15 minutes*
