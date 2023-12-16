@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Unlocking the Power of InvalidInputException in AWS Organizations"
+title: "Unlocking the Power of InvalidInputException in AWS Organizations"
 date: 2024-01-04 09:00:00 -0000
 categories: [AWS, AWS Organizations]
 tags: [aws, organizations, com.amazonaws.services.organizations.model]
