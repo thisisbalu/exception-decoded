@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 As organizations grow and expand their infrastructure on the cloud, managing user access and policies becomes crucial for effective governance and security. AWS Organizations is a powerful service that helps manage and govern multiple AWS accounts under a single umbrella. With its robust features, it enables centralized control over policies, service control policies, and enables you to automate the creation and management of AWS accounts.
 
 However, while working with AWS Organizations, you might encounter various exceptions that need to be handled gracefully to ensure smooth operations. One such exception is the `PolicyTypeNotAvailableForOrganizationException` of `com.amazonaws.services.organizations.model`. This exception occurs when you attempt to create or update a policy type that is not available for use within your organization.
@@ -82,10 +79,6 @@ Remember to catch and log the exception details for better analysis and inform t
 If you encounter this exception frequently, it might be worth revisiting your policy types and make sure they are supported in AWS Organizations. Check the AWS Organizations API Reference for more information on policy types: [AWS Organizations API Reference](https://docs.aws.amazon.com/organizations/latest/APIReference/Welcome.html)
 
 Stay tuned for more informative articles on AWS Services and effective exception handling!
-
----
-
-*Total reading time: 15 minutes*
 
 **References:**
 - [AWS Organizations API Reference](https://docs.aws.amazon.com/organizations/latest/APIReference/Welcome.html)
