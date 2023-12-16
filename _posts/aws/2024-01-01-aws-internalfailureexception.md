@@ -75,5 +75,3 @@ Remember to leverage retry mechanisms, thoroughly examine logs and error message
 References:
 - [AWS SageMaker Feature Store Runtime Documentation](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime.html)
 - [AWS Service Health Dashboard](https://status.aws.amazon.com/)
-
-*Estimated Reading Time: 15 minutes*
