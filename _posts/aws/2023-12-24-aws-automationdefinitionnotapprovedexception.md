@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 ## Introduction
 
 In the realm of AWS Simple Systems Management (SSM), automation workflows enhance operational efficiency and enable infrastructure management at scale. However, while utilizing the power of automation, developers and system administrators might encounter exceptions. One such exception is `AutomationDefinitionNotApprovedException`. In this article, we will delve into what this exception signifies, its possible causes, and how to handle it effectively.
