@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding ResourceNotFoundException in Amazon Connect Wisdom"
+title: "Understanding ResourceNotFoundException in Amazon Connect Wisdom"
 date: 2023-12-30 09:00:00 -0000
 categories: [AWS, Amazon Connect Wisdom]
 tags: [aws, connectwisdom, com.amazonaws.services.connectwisdom.model]
