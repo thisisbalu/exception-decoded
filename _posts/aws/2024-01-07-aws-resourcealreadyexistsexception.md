@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ResourceAlreadyExistsException in AWS CloudWatch Events"
+title: "Understanding ResourceAlreadyExistsException in AWS CloudWatch Events"
 date: 2024-01-07 09:00:00 -0000
 categories: [AWS, AWS CloudWatch Events]
 tags: [aws, cloudwatchevents, com.amazonaws.services.cloudwatchevents.model]
