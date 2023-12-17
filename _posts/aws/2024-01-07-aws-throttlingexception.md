@@ -1,6 +1,5 @@
 ---
-title: "ThrottlingException in AWS Timestream Write - A Comprehensive Guide
-            Make the Timestream request here"
+title: "ThrottlingException in AWS Timestream Write - A Comprehensive Guide"
 date: 2024-01-07 09:00:00 -0000
 categories: [AWS, AWS Timestream Write]
 tags: [aws, timestreamwrite, com.amazonaws.services.timestreamwrite.model]
@@ -87,5 +86,3 @@ To learn more about the ThrottlingException and how to handle it in AWS Timestre
 - [AWS SDK for Python (Boto3) Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
 Keep exploring Timestream Write and leverage its capabilities while ensuring robustness and reliability in managing your time-series data. Happy coding!
-
-*[AWS]: Amazon Web Services
