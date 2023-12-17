@@ -79,5 +79,3 @@ Happy DocumentDB coding!
 *Reference:*
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
 - [Amazon DocumentDB Developer Guide](https://docs.aws.amazon.com/documentdb/latest/developerguide/)
-
-*Note: This article assumes familiarity with Amazon DocumentDB and Java programming.*
