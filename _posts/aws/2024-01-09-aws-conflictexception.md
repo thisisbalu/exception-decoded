@@ -145,7 +145,3 @@ In this article, we discussed the ConflictException encountered in the AWS SSO A
 Remember to always review the AWS SSO Admin API documentation and familiarize yourself with the available operations and their specific requirements to minimize conflicts and ensure successful operations.
 
 Happy coding!
-
----
-
-*Read more on ConflictException in the [AWS SSO Admin API Reference](https://docs.aws.amazon.com/singlesignon/latest/APIReference/Welcome.html).*
