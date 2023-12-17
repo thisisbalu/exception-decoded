@@ -43,7 +43,3 @@ In this article, we explored the `InternalServerException` in AWS Glue Data Brew
 Remember, handling exceptions is an integral part of software development, and understanding them helps us become better developers. So the next time you encounter an `InternalServerException`, you will be better equipped to resolve it.
 
 Happy debugging!
-
----
-
-*Note: This article serves as a guide for developers encountering the `InternalServerException` in AWS Glue Data Brew. For official documentation and latest updates, refer to the [AWS Glue Data Brew API reference](https://docs.aws.amazon.com/gluedatabrew/latest/APIReference/Welcome.html).*
