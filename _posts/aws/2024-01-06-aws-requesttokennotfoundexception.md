@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding RequestTokenNotFoundException in AWS Cloud Control API"
+title: "Understanding RequestTokenNotFoundException in AWS Cloud Control API"
 date: 2024-01-06 09:00:00 -0000
 categories: [AWS, AWS Cloud Control API]
 tags: [aws, cloudcontrolapi, com.amazonaws.services.cloudcontrolapi.model]
