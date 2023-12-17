@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the InvalidReplicationGroupStateException in AWS ElastiCache"
+title: "Demystifying the InvalidReplicationGroupStateException in AWS ElastiCache"
 date: 2024-01-07 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]
