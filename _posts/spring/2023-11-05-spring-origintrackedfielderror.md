@@ -68,9 +68,3 @@ Navigating fields, objects, and their errors is an integral part of mastering th
 
 - [Spring Framework Documentation on OriginTrackedFieldError](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/FieldError.html)
 - [FieldError Interface in Spring Framework](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/FieldError.html)
-
-## About the author
-
-A passionate technophile who likes writing about different technologies and spreading knowledge.
-
-Feel free to share your thoughts, suggestions or corrections in the comment section below. Stay tuned for more informative articles!
