@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding InternalServerException in AWS Resource Explorer"
+title: "Understanding InternalServerException in AWS Resource Explorer"
 date: 2024-01-15 09:00:00 -0000
 categories: [AWS, AWS Resource Explorer]
 tags: [aws, resourceexplorer2, com.amazonaws.services.resourceexplorer2.model]
