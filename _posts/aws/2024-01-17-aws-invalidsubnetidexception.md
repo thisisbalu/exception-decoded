@@ -72,5 +72,3 @@ Reference Links:
 - [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
 - [AWS Identity and Access Management (IAM) Documentation](https://aws.amazon.com/documentation/iam/)
 - [AWS CLI Documentation](https://aws.amazon.com/documentation/cli/)
-
-*Disclaimer: This article is for informational purposes only. The information provided here may not reflect the latest updates and changes in AWS Lambda.*
