@@ -1,5 +1,5 @@
 ---
-title: "Title: Deep Dive into InternalException of com.amazonaws.services.macie.model in AWS Macie"
+title: "Deep Dive into InternalException of com.amazonaws.services.macie.model in AWS Macie"
 date: 2024-01-15 09:00:00 -0000
 categories: [AWS, AWS Macie]
 tags: [aws, macie, com.amazonaws.services.macie.model]
@@ -10,13 +10,6 @@ toc: true
 
 ## Introduction
 Welcome to another informative and in-depth article on AWS Macie! In this article, we will take a closer look at the `InternalException` of `com.amazonaws.services.macie.model` in AWS Macie. We will explore what this exception is, its significance, when it occurs, and how you can handle it effectively in your AWS Macie applications.
-
-## Table of Contents
-- What is `InternalException`?
-- Why is it critical to handle `InternalException`?
-- Causes of `InternalException`
-- Handling `InternalException` effectively
-- Conclusion
 
 ## What is `InternalException`?
 The `InternalException` is an exception class in the `com.amazonaws.services.macie.model` package of the AWS Macie SDK. It is specifically designed to represent internal failures or errors encountered while performing operations within the AWS Macie service.
