@@ -1,5 +1,5 @@
 ---
-title: "Title: Everything You Need to Know About the InvalidManifestException in AWS Rekognition"
+title: "Everything You Need to Know About the InvalidManifestException in AWS Rekognition"
 date: 2024-01-31 09:00:00 -0000
 categories: [AWS, AWS Rekognition]
 tags: [aws, rekognition, com.amazonaws.services.rekognition.model]
@@ -11,17 +11,6 @@ toc: true
 ## Introduction
 
 Are you familiar with the InvalidManifestException in AWS Rekognition? If not, don't worry! In this article, we'll dive deep into this exception, its causes, and how to handle it effectively. So, fasten your seatbelts as we explore the world of InvalidManifestException in AWS Rekognition.
-
-## Table of Contents
-
-1. What is the InvalidManifestException?
-2. Causes of InvalidManifestException
-3. How to Handle InvalidManifestException
-4. Code Examples
-   - Example 1: Uploading a Invalid Manifest
-   - Example 2: Handling the Exception
-5. Conclusion
-6. References
 
 ## What is the InvalidManifestException?
 
@@ -102,4 +91,3 @@ Keep in mind the causes we discussed and the handling techniques to overcome the
 
 - [AWS Rekognition Documentation](https://docs.aws.amazon.com/rekognition/)
 - [JSON Schema Validation](https://json-schema.org/)
-- [Exception Handling Best Practices in Java](https://www.baeldung.com/java-exceptions-best-practices)
