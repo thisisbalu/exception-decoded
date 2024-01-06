@@ -7,23 +7,8 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Tags play a crucial role when it comes to managing resources in Amazon Web Services (AWS). They provide a flexible way to categorize and organize resources, enabling efficient resource management and monitoring. In AWS Observability Access Manager, tags are used extensively to label various components and resources. However, excessive use of tags can lead to issues, such as the dreaded `TooManyTagsException`. In this article, we will dive deep into the `TooManyTagsException` and explore ways to keep tags under control to ensure smooth operations in the AWS Observability Access Manager.
 
-## Table of Contents
-
-1. Introduction
-2. What is AWS Observability Access Manager?
-3. Understanding Tags in AWS Observability Access Manager
-4. The Problem: TooManyTagsException
-5. Causes of TooManyTagsException
-6. Analyzing the Exception
-7. Mitigating the Issue
-8. Best Practices for Tag Management
-9. Conclusion
-10. References
 
 ## 1. Introduction
 
@@ -97,5 +82,3 @@ Tags are a powerful tool for organizing and managing resources in AWS Observabil
 - [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/oam/index.html)
 - [AWS SDK for Java Documentation](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/oam/package-summary.html)
 - [AWS Blog: Best Practices for Managing AWS Tags](https://aws.amazon.com/blogs/aws-best-practices/best-practices-for-managing-aws-tags/)
----
-Estimated reading time: 15 minutes
