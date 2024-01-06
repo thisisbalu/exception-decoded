@@ -81,9 +81,3 @@ In this article, we explored the `InvalidRecordingGroupException` of the `com.am
 By understanding this exception and implementing proper exception handling techniques, you'll be able to ensure smooth operations in your AWS Config setups. Remember to always validate inputs and ensure the correctness of recording group configurations to avoid this exception and maintain the integrity of your AWS resources.
 
 So, go ahead and start leveraging AWS Config for better configuration management in your AWS environment!
-
----
-
-*This article is a part of a series on AWS Config. Check out the other articles in the series to deepen your understanding of AWS Config.*
-
-**Total Reading Time: 15 minutes**
