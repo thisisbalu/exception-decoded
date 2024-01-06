@@ -1,5 +1,5 @@
 ---
-title: "Title: Decoding ValidationExceptionReason in AWS Network Manager"
+title: "Decoding ValidationExceptionReason in AWS Network Manager"
 date: 2024-01-12 09:00:00 -0000
 categories: [AWS, AWS Network Manager]
 tags: [aws, networkmanager, com.amazonaws.services.networkmanager.model]
@@ -97,5 +97,3 @@ Now that you are equipped with the knowledge of `ValidationExceptionReason`, you
 Remember, proper input validation and error handling are key to building scalable and reliable network infrastructure on AWS Network Manager.
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
