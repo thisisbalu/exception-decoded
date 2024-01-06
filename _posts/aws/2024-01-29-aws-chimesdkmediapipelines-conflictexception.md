@@ -80,5 +80,3 @@ To learn more about the AWS Chime SDK Media Pipelines and the `ConflictException
 - [AWS Chime SDK Media Pipelines Documentation](https://docs.aws.amazon.com/chime/latest/APIReference/Welcome.html)
 
 Happy coding with AWS Chime SDK Media Pipelines!
-
-*Estimated reading time: 15 minutes*
