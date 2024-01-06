@@ -1,6 +1,5 @@
 ---
-title: "Title: Exploring the InvalidSnapshotStateException in AWS ElastiCache: An In-Depth Guide
-    Continue with desired operations on the snapshot"
+title: "Exploring the InvalidSnapshotStateException in AWS ElastiCache: An In-Depth Guide"
 date: 2024-01-11 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]
