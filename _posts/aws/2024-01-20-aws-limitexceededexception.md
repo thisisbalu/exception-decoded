@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding LimitExceededException in AWS Application Discovery Service"
+title: "Understanding LimitExceededException in AWS Application Discovery Service"
 date: 2024-01-20 09:00:00 -0000
 categories: [AWS, AWS Application Discovery Service]
 tags: [aws, applicationdiscovery, com.amazonaws.services.applicationdiscovery.model]
