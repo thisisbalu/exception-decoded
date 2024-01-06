@@ -1,5 +1,5 @@
 ---
-title: "**DomainAlreadyExistsException in AWS Simple Workflow**"
+title: "DomainAlreadyExistsException in AWS Simple Workflow"
 date: 2024-01-19 09:00:00 -0000
 categories: [AWS, AWS Simple Workflow]
 tags: [aws, simpleworkflow, com.amazonaws.services.simpleworkflow.model]
