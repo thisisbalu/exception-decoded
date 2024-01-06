@@ -1,14 +1,11 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: "Understanding InvalidCustomDBEngineVersionStateException in AWS RDS"
 date: 2024-01-21 09:00:00 -0000
 categories: [AWS, AWS RDS]
 tags: [aws, rds, com.amazonaws.services.rds.model]
 mermaid: true
 toc: true
 ---
-
-
-Understanding InvalidCustomDBEngineVersionStateException in AWS RDS
 
 ## Introduction
 
