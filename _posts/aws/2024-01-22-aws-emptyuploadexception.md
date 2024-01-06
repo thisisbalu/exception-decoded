@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO-friendly Title: Demystifying EmptyUploadException in AWS ECR Public"
+title: "Demystifying EmptyUploadException in AWS ECR Public"
 date: 2024-01-22 09:00:00 -0000
 categories: [AWS, AWS ECR Public]
 tags: [aws, ecrpublic, com.amazonaws.services.ecrpublic.model]
@@ -95,5 +95,3 @@ To explore more about AWS ECR Public and its exception handling, refer to the of
 - [Java SDK Examples for AWS ECR Public](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javav2/example_code/ecrpublic/src/main/java/com/example/ecrpublic/)
 
 Remember, a thorough understanding of exceptions and their handling ultimately leads to robust and reliable applications in the AWS ECR Public ecosystem.
-
-*Total reading time: 15 minutes*
