@@ -112,5 +112,3 @@ For more details and official documentation, check out the references below:
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
 
 Keep exploring and enhancing your AWS IAM implementation to ensure secure and reliable access management.
-
-*Disclaimer: This article is for informational purposes only. Any code examples provided are not production-ready and should be used with caution in a controlled environment.*
