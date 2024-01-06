@@ -1,13 +1,10 @@
 ---
-title: "Title: Demystifying ResourceNotFoundException in AWS Payment Cryptography Data"
+title: "Demystifying ResourceNotFoundException in AWS Payment Cryptography Data"
 date: 2024-01-13 09:00:00 -0000
 categories: [AWS, AWS Payment Cryptography Data]
 tags: [aws, paymentcryptographydata, com.amazonaws.services.paymentcryptographydata.model]
 mermaid: true
 toc: true
----
-
-
 ---
 
 ## Introduction
@@ -88,7 +85,3 @@ Remember, proper handling of exceptions like `ResourceNotFoundException` is cruc
 For more information, check out the official AWS Payment Cryptography Data documentation: [https://docs.aws.amazon.com/payment-cryptography-data](https://docs.aws.amazon.com/payment-cryptography-data)
 
 Make sure to stay tuned for more exciting articles on AWS and other technologies on our blog. Happy coding!
-
----
-
-*Estimated reading time: 15 minutes*
