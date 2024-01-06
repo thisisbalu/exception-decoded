@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Troubleshooting OutputVariablesSizeExceededException in AWS CodePipeline"
+title: "Troubleshooting OutputVariablesSizeExceededException in AWS CodePipeline"
 date: 2024-01-16 09:00:00 -0000
 categories: [AWS, AWS Code Pipeline]
 tags: [aws, codepipeline, com.amazonaws.services.codepipeline.model]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
 
 As developers, we understand that a seamless and efficient continuous integration and continuous delivery (CI/CD) pipeline is essential for successful software development and deployment. AWS CodePipeline provides an integrated solution that simplifies the process of building, testing, and deploying applications.
 
@@ -75,7 +73,3 @@ To learn more about AWS CodePipeline and other related topics, feel free to expl
 - [AWS Developer Forums - CodePipeline](https://forums.aws.amazon.com/forum.jspa?forumID=164)
 
 Now that you are equipped with this knowledge, go forth and build robust CI/CD pipelines with confidence!
-
----
-
-*Estimated reading time: 15 minutes*
