@@ -50,5 +50,3 @@ Take full advantage of AWS SSM Automation, harness the power of scalable automat
 - [AWS Simple Systems Management (SSM) Documentation](https://docs.aws.amazon.com/systems-manager/)
 - [AWS SSM Automation Actions](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
 - [AWS Step Functions](https://aws.amazon.com/step-functions/)
-
-*Estimated reading time: 15 minutes*
