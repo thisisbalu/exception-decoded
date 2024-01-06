@@ -1,14 +1,11 @@
 ---
-title: "**Troubleshooting ResourceNotReadyException in AWS Connect**"
+title: "Troubleshooting ResourceNotReadyException in AWS Connect"
 date: 2024-01-24 09:00:00 -0000
 categories: [AWS, AWS Connect]
 tags: [aws, connect, com.amazonaws.services.connect.model]
 mermaid: true
 toc: true
 ---
-
-
-*This is a comprehensive guide on troubleshooting and resolving the `ResourceNotReadyException` of `com.amazonaws.services.connect.model` in AWS Connect. In this article, we will cover the causes and potential solutions to this exception to help you quickly resolve any related issues.*
 
 Are you encountering the `ResourceNotReadyException` when working with AWS Connect? Don't worry, you're not alone. This exception is thrown when a requested resource is not yet in a ready state. In this article, we will explore common scenarios that trigger this exception and present steps to overcome them.
 
