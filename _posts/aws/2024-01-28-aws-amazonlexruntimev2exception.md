@@ -12,13 +12,6 @@ Are you using Amazon Lex Runtime V2 to build interactive conversational interfac
 
 In this article, we will dive deep into understanding the AmazonLexRuntimeV2Exception and its significance in Amazon Lex Runtime V2. We will explore its properties, common scenarios where it occurs, and discuss best practices to handle and mitigate these exceptions effectively.
 
-## Table of Contents
-- Understanding Amazon Lex Runtime V2 Exception
-- Handling AmazonLexRuntimeV2Exception
-- Best Practice: Proper Exception Handling
-- Common Scenarios Where AmazonLexRuntimeV2Exception Occurs
-- Conclusion
-
 ## Understanding Amazon Lex Runtime V2 Exception
 
 The `AmazonLexRuntimeV2Exception` is an exception class specific to the Lex Runtime V2 API service in the AWS SDK for Java. It extends the base `AmazonServiceException` class and is thrown when an error occurs during the execution of a Lex V2 operation.
