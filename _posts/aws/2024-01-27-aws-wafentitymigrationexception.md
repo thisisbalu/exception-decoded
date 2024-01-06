@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding the WAFEntityMigrationException in AWS WAF"
+title: "Understanding the WAFEntityMigrationException in AWS WAF"
 date: 2024-01-27 09:00:00 -0000
 categories: [AWS, AWS WAF (Web Application Firewall)]
 tags: [aws, waf, com.amazonaws.services.waf.model]
