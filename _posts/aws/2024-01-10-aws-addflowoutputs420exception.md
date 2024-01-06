@@ -10,17 +10,6 @@ toc: true
 
 Have you ever encountered the AddFlowOutputs420Exception while working with AWS MediaConnect? Don't worry! In this comprehensive guide, we will explain what this exception means, its possible causes, and provide step-by-step troubleshooting techniques to overcome this issue. So, grab a cup of coffee, sit back, and let's dive into the world of AWS MediaConnect!
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Understanding the AddFlowOutputs420Exception](#understanding-the-addflowoutputs420exception)
-- [Causes of the AddFlowOutputs420Exception](#causes-of-the-addflowoutputs420exception)
-- [Troubleshooting the AddFlowOutputs420Exception](#troubleshooting-the-addflowoutputs420exception)
-   - [Check the Input Flow Status](#check-the-input-flow-status)
-   - [Verify the Output Configuration](#verify-the-output-configuration)
-   - [Verify the IAM Role Permissions](#verify-the-iam-role-permissions)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Introduction
 
 AWS MediaConnect is a reliable and secure service that enables you to transport, compress, and process broadcast-quality video streams. It offers flexibility, scalability, and ease of use for building live video workflows in the cloud. However, like any complex system, you might encounter certain exceptions during its usage, and one such exception is the AddFlowOutputs420Exception.
@@ -99,5 +88,3 @@ Remember, AWS MediaConnect offers a range of features and configurations, so und
 - [AWS MediaConnect Java SDK Documentation](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/mediaconnect/MediaConnectClient.html)
 - [AWS Identity and Access Management (IAM) Documentation](https://docs.aws.amazon.com/iam/)
 - [AWS Support Forums](https://forums.aws.amazon.com/index.jspa)
-
-*Note: This article assumes you have basic knowledge of AWS MediaConnect and working with the AWS SDK.*
