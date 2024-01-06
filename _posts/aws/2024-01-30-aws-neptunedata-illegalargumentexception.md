@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-**Keywords: IllegalArgumentException, Amazon Neptune Data Service, troubleshooting Neptune exceptions**
-
 ## Introduction
 
 If you are working with Amazon Neptune Data Service, you might have come across the IllegalArgumentException at some point. This exception is a common occurrence when interacting with Neptune, and it can sometimes be quite challenging to troubleshoot. In this article, we will explore the various aspects of the IllegalArgumentException in Amazon Neptune Data Service, its causes, and how to effectively handle and debug it.
