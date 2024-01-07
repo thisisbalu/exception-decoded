@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting InvalidScheduleException in AWS Redshift"
+title: "Troubleshooting InvalidScheduleException in AWS Redshift"
 date: 2024-02-10 09:00:00 -0000
 categories: [AWS, AWS Redshift]
 tags: [aws, redshift, com.amazonaws.services.redshift.model]
