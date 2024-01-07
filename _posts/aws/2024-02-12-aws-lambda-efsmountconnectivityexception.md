@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting EFSMountConnectivityException in AWS Lambda"
+title: "Troubleshooting EFSMountConnectivityException in AWS Lambda"
 date: 2024-02-12 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]
@@ -84,5 +84,3 @@ References:
 - [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 - [AWS Elastic File System Documentation](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
 - [AWS Security Group Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
-
-Estimated Reading Time: 15 minutes
