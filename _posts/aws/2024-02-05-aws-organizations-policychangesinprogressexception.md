@@ -1,5 +1,5 @@
 ---
-title: "**PolicyChangesInProgressException in AWS Organizations**"
+title: "PolicyChangesInProgressException in AWS Organizations"
 date: 2024-02-05 09:00:00 -0000
 categories: [AWS, AWS Organizations]
 tags: [aws, organizations, com.amazonaws.services.organizations.model]
