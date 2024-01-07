@@ -1,5 +1,5 @@
 ---
-title: "**The Catchy Guide to Handling NamingException in Spring**"
+title: "The Catchy Guide to Handling NamingException in Spring"
 date: 2024-02-21 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-checked, org.springframework.ldap]
@@ -9,17 +9,6 @@ toc: true
 
 
 Welcome to another insightful article on our technical blog! Today, we will delve into the world of Spring Framework and explore the infamous `NamingException`. Whether you are a seasoned Spring developer or just starting out, understanding and effectively handling `NamingException` is crucial for developing robust and reliable applications.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Understanding NamingException](#understanding-namingexception)
-- [Common Causes of NamingException](#common-causes-of-namingexception)
-- [Handling NamingException](#handling-namingexception)
-    - [Example 1: Declaring JNDI Resources](#example-1-declaring-jndi-resources)
-    - [Example 2: Spring Boot Configuration](#example-2-spring-boot-configuration)
-    - [Example 3: Exception Handling](#example-3-exception-handling)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction
 
