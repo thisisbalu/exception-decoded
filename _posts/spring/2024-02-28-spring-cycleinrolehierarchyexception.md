@@ -1,5 +1,5 @@
 ---
-title: "Error: CycleInRoleHierarchyException in Spring - Understanding and Resolving"
+title: "CycleInRoleHierarchyException in Spring - Understanding and Resolving"
 date: 2024-02-28 09:00:00 -0000
 categories: [Spring, spring-security]
 tags: [spring, spring-unchecked, org.springframework.security.access.hierarchicalroles]
@@ -7,29 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
-> _Note: This article is a detailed guide on understanding and resolving the `CycleInRoleHierarchyException` error in Spring. It provides comprehensive explanations along with code examples and best practices to help you fix this issue effectively._
-
 ## Introduction
 
 Are you encountering the `CycleInRoleHierarchyException` error while working with Spring Security? Fear not! This article will provide in-depth insights into this error and guide you towards resolving it efficiently. Understanding the root causes and implementing the suggested solutions will save you valuable development time. Let's dive in!
-
-## Table of Contents
-
-1. [What is `CycleInRoleHierarchyException`?](#what-is-cycleinrolehierarchyexception)
-2. [Understanding the Error](#understanding-the-error)
-3. [Common Causes](#common-causes)
-    - [1. Circular Role Hierarchy Configuration](#1-circular-role-hierarchy-configuration)
-    - [2. Incorrect Role Definitions](#2-incorrect-role-definitions)
-4. [Resolving `CycleInRoleHierarchyException`](#resolving-cycleinrolehierarchyexception)
-    - [1. Check Role Hierarchy Configuration](#1-check-role-hierarchy-configuration)
-    - [2. Validate Role Definitions](#2-validate-role-definitions)
-5. [Code Examples](#code-examples)
-    - [Example 1: Circular Role Hierarchy](#example-1-circular-role-hierarchy)
-    - [Example 2: Incorrect Role Definitions](#example-2-incorrect-role-definitions)
-6. [Best Practices](#best-practices)
-7. [Conclusion](#conclusion)
-8. [References](#references)
 
 ## What is `CycleInRoleHierarchyException`?
 
@@ -161,7 +141,3 @@ Here are some additional references to help you further explore Spring Security 
 - [Spring Security Reference Documentation](https://docs.spring.io/spring-security/site/docs/current/reference/html5/)
 - [Spring Security on GitHub](https://github.com/spring-projects/spring-security)
 - [Baeldung - Spring Security Tutorials](https://www.baeldung.com/spring-security)
-
----
-
-<span style="font-size: 12px;">**Disclaimer:** The code examples provided in this article are for demonstration purposes only and may not reflect the actual implementation in your application. Please adapt the code accordingly and test thoroughly before deploying it in a production environment.</span>
