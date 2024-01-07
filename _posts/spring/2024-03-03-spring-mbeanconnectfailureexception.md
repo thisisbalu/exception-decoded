@@ -96,5 +96,3 @@ Keep exploring and refining your JMX configuration, and soon you'll be monitorin
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/)
 - [Troubleshooting JMX Connectivity](https://docs.oracle.com/javase/8/docs/technotes/guides/management/agent.html#TroubleshootConnectivity)
 - [Spring Community Forum](https://community.spring.io/)
-
-*Estimated reading time: 15 minutes*
