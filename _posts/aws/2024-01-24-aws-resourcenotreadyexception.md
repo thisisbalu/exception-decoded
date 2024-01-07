@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Troubleshooting ResourceNotReadyException in AWS Connect"
+title: "Troubleshooting ResourceNotReadyException in AWS Connect"
 date: 2024-01-24 09:00:00 -0000
 categories: [AWS, AWS Connect]
 tags: [aws, connect, com.amazonaws.services.connect.model]
@@ -100,5 +100,3 @@ For more information about AWS Connect and troubleshooting, consider the followi
 - [AWS Connect API Reference](https://docs.aws.amazon.com/connect/latest/APIReference/Welcome.html)
 
 Happy troubleshooting!
-
-*Total reading time: 15 minutes*
