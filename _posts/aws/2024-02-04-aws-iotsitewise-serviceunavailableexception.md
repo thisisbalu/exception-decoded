@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding ServiceUnavailableException in AWS IoT SiteWise"
+title: "Understanding ServiceUnavailableException in AWS IoT SiteWise"
 date: 2024-02-04 09:00:00 -0000
 categories: [AWS, AWS IoT SiteWise]
 tags: [aws, iotsitewise, com.amazonaws.services.iotsitewise.model]
@@ -68,5 +68,3 @@ Remember, it is crucial to always keep an eye on the [AWS IoT SiteWise documenta
 If you have any further questions or need assistance, feel free to refer to the AWS support forums or reach out to the AWS customer support team.
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
