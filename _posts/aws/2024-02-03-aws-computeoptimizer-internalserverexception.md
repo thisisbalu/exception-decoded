@@ -1,7 +1,5 @@
 ---
-title: "Catching the InternalServerException in AWS Compute Optimizer: A Comprehensive Guide
-        Your Compute Optimizer API request code here
-        Proceed with success handling"
+title: "Catching the InternalServerException in AWS Compute Optimizer: A Comprehensive Guide"
 date: 2024-02-03 09:00:00 -0000
 categories: [AWS, AWS Compute Optimizer]
 tags: [aws, computeoptimizer, com.amazonaws.services.computeoptimizer.model]
@@ -11,22 +9,6 @@ toc: true
 
 
 *This article is a detailed guide on understanding and handling the `InternalServerException` of `com.amazonaws.services.computeoptimizer.model` in AWS Compute Optimizer. We'll explore its causes, implications, and provide actionable steps to effectively troubleshoot and resolve this issue.*
-
----
-<!-- Table of Contents -->
-## Table of Contents
-- Introduction
-- Understanding the InternalServerException
-- Causes and Implications
-- Resolving the InternalServerException
-    - Step 1: Check API Permissions
-    - Step 2: Signing Exceptions
-    - Step 3: Data Consistency Checks
-    - Step 4: Retry with Exponential Backoff
-- Conclusion
-- References
-
----
 
 ## Introduction
 
