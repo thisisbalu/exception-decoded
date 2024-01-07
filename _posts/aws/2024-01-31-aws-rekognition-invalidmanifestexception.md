@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting InvalidManifestException in AWS Rekognition"
+title: "Troubleshooting InvalidManifestException in AWS Rekognition"
 date: 2024-01-31 09:00:00 -0000
 categories: [AWS, AWS Rekognition]
 tags: [aws, rekognition, com.amazonaws.services.rekognition.model]
@@ -93,5 +93,3 @@ To learn more about AWS Rekognition and managing manifests, refer to the officia
 - [AWS Rekognition Documentation](https://docs.aws.amazon.com/rekognition/index.html)
 
 Happy coding and analyzing!
-
-*Estimated reading time: 15 minutes*
