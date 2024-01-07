@@ -1,5 +1,5 @@
 ---
-title: "Title: SubnetNotAllowedException in AWS ElastiCache: A Deep Dive into Subnet Configuration"
+title: "SubnetNotAllowedException in AWS ElastiCache: A Deep Dive into Subnet Configuration"
 date: 2024-01-31 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]
@@ -11,15 +11,6 @@ toc: true
 ## Introduction
 
 Welcome to another exciting and informative article on AWS ElastiCache! In this comprehensive guide, we will explore the `SubnetNotAllowedException` of `com.amazonaws.services.elasticache.model` and delve into the intricate details of subnet configuration in AWS ElastiCache.
-
-## Table of Contents
-
-- [Understanding SubnetNotAllowedException](#understanding-subnetnotallowedexception)
-- [Root Causes of SubnetNotAllowedException](#root-causes-of-subnetnotallowedexception)
-- [Resolving SubnetNotAllowedException](#resolving-subnetnotallowedexception)
-- [Code Examples](#code-examples)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Understanding SubnetNotAllowedException
 
