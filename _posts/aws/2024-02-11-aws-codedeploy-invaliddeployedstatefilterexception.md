@@ -88,5 +88,3 @@ By validating the deployed state filter value, checking the filter configuration
 AWS CodeDeploy provides robust deployment capabilities, and understanding and handling exceptions like `InvalidDeployedStateFilterException` is crucial for a smooth and error-free deployment process.
 
 To learn more about AWS CodeDeploy and its exceptions, refer to the official [AWS documentation](https://aws.amazon.com/codedeploy/).
-
-*Estimated reading time: 15 minutes*
