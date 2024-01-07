@@ -1,5 +1,5 @@
 ---
-title: "Title: An In-Depth Guide to Handling the InternalServiceErrorException in AWS Pinpoint SMS Voice"
+title: "An In-Depth Guide to Handling the InternalServiceErrorException in AWS Pinpoint SMS Voice"
 date: 2024-02-09 09:00:00 -0000
 categories: [AWS, AWS Pinpoint SMS Voice]
 tags: [aws, pinpointsmsvoice, com.amazonaws.services.pinpointsmsvoice.model]
@@ -58,5 +58,3 @@ By understanding and effectively handling the `InternalServiceErrorException`, y
 - [AWS Pinpoint SMS Voice Documentation](https://docs.aws.amazon.com/pinpoint/latest/apireference/welcome.html)
 - [AWS Service Health Dashboard](https://status.aws.amazon.com/)
 - [AWS Support](https://aws.amazon.com/support/)
-
-*Total reading time: 15 minutes*
