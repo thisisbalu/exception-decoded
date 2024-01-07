@@ -1,11 +1,5 @@
 ---
-title: "InstanceRefreshInProgressException in AWS Auto Scaling: A Detailed Overview
-    Code to initiate the instance refresh process
-    Log the exception or take appropriate action
-    Example: Wait for the previous instance refresh to complete
-    Code to initiate the instance refresh process
-    Log the exception or take appropriate action
-    Example: Wait for the previous instance refresh to complete"
+title: "InstanceRefreshInProgressException in AWS Auto Scaling: A Detailed Overview"
 date: 2024-02-08 09:00:00 -0000
 categories: [AWS, AWS Auto Scaling]
 tags: [aws, autoscaling, com.amazonaws.services.autoscaling.model]
@@ -17,15 +11,6 @@ toc: true
 ## Introduction
 
 In this article, we will dive deep into the `InstanceRefreshInProgressException` of the `com.amazonaws.services.autoscaling.model` package in AWS Auto Scaling. We will explore its significance, common use cases, and provide code examples to help you understand how to handle this exception effectively. So, let's get started!
-
-## Table of Contents
-
-- [Understanding Instance Refresh](#understanding-instance-refresh)
-- [InstanceRefreshInProgressException: What is it?](#instancerefreshinprogressexception-what-is-it)
-- [Handling InstanceRefreshInProgressException](#handling-instancerefreshinprogressexception)
-- [Sample Code Examples](#sample-code-examples)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Understanding Instance Refresh
 
