@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-**Abstract:**
-
 Managing encryption keys securely is crucial when using Amazon Web Services (AWS) Key Management Service (KMS). One of the exceptions you might encounter is `XksKeyInvalidConfigurationException` of `com.amazonaws.services.kms.model`. In this article, we will delve into this error, its possible causes, and explore various solutions to address it effectively. By the end of this article, you will have a thorough understanding of `XksKeyInvalidConfigurationException` and be equipped to handle it confidently.
 
 ## Introduction
