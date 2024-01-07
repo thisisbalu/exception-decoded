@@ -7,14 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-*Published on [TechGeek](https://www.techgeek.com)*
-
-*Author: John Doe*
-
----
-
 ## Introduction
 
 In modern application architectures, maintaining reliable and scalable services is crucial. To ensure seamless communication between these services, AWS provides the Service Discovery feature. AWS Service Discovery is a fully managed service that makes it easy to discover, register, and manage cloud resources within your applications. However, like any other software, AWS Service Discovery is not without its challenges. One such challenge is dealing with exceptions, specifically the AWSServiceDiscoveryException.
@@ -162,6 +154,3 @@ In this article, we discussed the AWSServiceDiscoveryException and its common sc
 To learn more about AWS Service Discovery and the AWSServiceDiscoveryException, refer to the [AWS Service Discovery documentation](https://docs.aws.amazon.com/servicediscovery).
 
 Happy coding!
-
----
-*Check out [TechGeek](https://www.techgeek.com) for more informative articles on cloud computing, DevOps, and technology trends.*
