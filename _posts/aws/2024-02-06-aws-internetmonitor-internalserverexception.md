@@ -10,15 +10,6 @@ toc: true
 
 Are you an AWS enthusiast who loves monitoring your internet resources effectively? Look no further! In this comprehensive guide, we will unravel all the technical details surrounding the InternalServerException of com.amazonaws.services.internetmonitor.model in AWS Internet Monitor. Whether you are a seasoned developer or just starting your journey in the AWS ecosystem, this article has got you covered!
 
-## Table of Contents
-
-1. Introduction to AWS Internet Monitor
-2. Understanding the InternalServerException
-3. Causes of InternalServerException
-4. Handling InternalServerException
-5. Best Practices for Avoiding InternalServerException
-6. Conclusion
-
 ## Introduction to AWS Internet Monitor
 
 AWS Internet Monitor is a powerful service that provides real-time monitoring and analysis of your internet resources. It enables you to gain insights into the performance, availability, and health of your network connections. By leveraging this service, you can proactively monitor the network connectivity between your AWS resources and the internet.
