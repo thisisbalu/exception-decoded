@@ -10,15 +10,6 @@ toc: true
 
 Welcome to another insightful article on Spring authentication and authorization! In this article, we will delve into OAuth2IntrospectionException, a significant exception that can occur while dealing with token introspection in Spring applications. Brace yourself as we demystify this exception, discuss its various manifestations, explore best practices to handle it, and provide code examples for a better understanding.
 
-## Table of Contents
-1. Introduction to OAuth2IntrospectionException
-2. Understanding token introspection
-3. Different scenarios leading to OAuth2IntrospectionException
-4. Handling OAuth2IntrospectionException gracefully
-5. Code examples to handle OAuth2IntrospectionException in Spring
-6. Best practices for dealing with OAuth2IntrospectionException
-7. Conclusion
-
 ## 1. Introduction to OAuth2IntrospectionException
 
 OAuth2IntrospectionException is an exception class provided by the Spring Security OAuth module. It is thrown when an error occurs during the introspection of an OAuth2 token, specifically when the introspection endpoint returns an error response. This exception can occur while validating the token's authenticity, expiration, or any other related attributes.
