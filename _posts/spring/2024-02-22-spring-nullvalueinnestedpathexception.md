@@ -1,5 +1,5 @@
 ---
-title: "Exception Spotlight: `NullValueInNestedPathException` in Spring"
+title: "Exception Spotlight: NullValueInNestedPathException in Spring"
 date: 2024-02-22 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans]
@@ -104,5 +104,3 @@ If you'd like to learn more about this exception and its related topics, you may
 - [Guide to Creating Custom Property Editors in Spring](https://www.baeldung.com/property-editors-spring)
 
 Remember to handle exceptions diligently and prioritize preventive measures to ensure the robustness and reliability of your Spring applications. Happy coding!
-
-*Estimated reading time: 15 minutes*
