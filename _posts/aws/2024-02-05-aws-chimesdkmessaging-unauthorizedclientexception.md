@@ -62,5 +62,3 @@ For more information, explore the AWS Chime SDK Messaging documentation:
 - [Troubleshooting AWS Chime SDK Messaging](https://docs.aws.amazon.com/chime/latest/APIReference/API_Operations.html#API_Operations_Invocation_Errors)
 
 Now that you are equipped with the knowledge to handle `UnauthorizedClientException`, go ahead and build exceptional real-time messaging experiences with AWS Chime SDK Messaging. Happy coding!
-
-*Estimated Reading Time: 15 minutes*
