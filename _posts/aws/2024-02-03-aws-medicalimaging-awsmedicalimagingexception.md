@@ -1,5 +1,5 @@
 ---
-title: "Title: AWSMedicalImagingException: A Comprehensive Guide "
+title: "AWSMedicalImagingException - Streamlining Medical Imaging Workflows with AWS"
 date: 2024-02-03 09:00:00 -0000
 categories: [AWS, AWS Medical Imaging]
 tags: [aws, medicalimaging, com.amazonaws.services.medicalimaging.model]
