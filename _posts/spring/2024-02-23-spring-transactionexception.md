@@ -1,5 +1,5 @@
 ---
-title: "Title: Unraveling the TransactionException in Spring: A Comprehensive Guide"
+title: "Unraveling the TransactionException in Spring: A Comprehensive Guide"
 date: 2024-02-23 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-checked, org.springframework.transaction]
