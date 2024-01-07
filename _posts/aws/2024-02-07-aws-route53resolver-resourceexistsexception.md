@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding the ResourceExistsException in AWS Route 53 Resolver"
+title: "Understanding the ResourceExistsException in AWS Route 53 Resolver"
 date: 2024-02-07 09:00:00 -0000
 categories: [AWS, AWS Route 53 Resolver]
 tags: [aws, route53resolver, com.amazonaws.services.route53resolver.model]
@@ -133,7 +133,3 @@ Remember to check for resource existence proactively, implement retry mechanisms
 For more details, refer to the official AWS documentation:
 - [AWS Route 53 Resolver Developer Guide](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/index.html)
-
---- 
-
-Estimated Reading Time: 15 minutes
