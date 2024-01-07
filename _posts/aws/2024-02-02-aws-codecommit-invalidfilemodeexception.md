@@ -1,5 +1,5 @@
 ---
-title: "**The In-Depth Guide to InvalidFileModeException in AWS CodeCommit**"
+title: "The In-Depth Guide to InvalidFileModeException in AWS CodeCommit"
 date: 2024-02-02 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
