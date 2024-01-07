@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Solving the MessageFormatException in Spring: A Comprehensive Guide"
+title: "Solving the MessageFormatException in Spring: A Comprehensive Guide"
 date: 2024-03-05 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jms]
