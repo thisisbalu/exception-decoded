@@ -11,15 +11,6 @@ toc: true
 ## Introduction
 Handling exceptions is an integral part of writing robust and reliable code in Java. One common exception that developers encounter when dealing with directories is `DirectoryNotEmptyException`. In this article, we will dive deep into understanding what `DirectoryNotEmptyException` is, how it can be thrown, and various techniques to handle it effectively.
 
-## Table of Contents
-- [Understanding DirectoryNotEmptyException](#understanding-directorynotemptyexception)
-- [Scenarios that Trigger DirectoryNotEmptyException](#scenarios-that-trigger-directorynotemptyexception)
-- [Handling DirectoryNotEmptyException](#handling-directorynotemptyexception)
-- [Recursive Deletion Method](#recursive-deletion-method)
-- [Graceful Error Handling](#graceful-error-handling)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Understanding DirectoryNotEmptyException
 `DirectoryNotEmptyException` is a subclass of the `FileSystemException` class introduced in Java 7. It is thrown when an attempt is made to delete or move a non-empty directory using the `Files.delete(Path)` or `Files.move(Path, Path)` methods, respectively.
 
