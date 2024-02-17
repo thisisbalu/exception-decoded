@@ -10,17 +10,6 @@ toc: true
 
 Are you a Java developer encountering the NameAlreadyBoundException? Fret not, as this article aims to provide an in-depth explanation of the NameAlreadyBoundException in Java and how to handle it effectively in your code. Whether you are a beginner or an experienced programmer, this guide will cover all the necessary details and best practices you need to know. So, let's dive in and understand this exception better!
 
-## Table of Contents
-
-- [What is NameAlreadyBoundException in Java?](#what-is-namealreadyboundexception-in-java)
-- [Causes of NameAlreadyBoundException](#causes-of-namealreadyboundexception)
-- [Common Scenarios](#common-scenarios)
-- [How to handle NameAlreadyBoundException](#how-to-handle-namealreadyboundexception)
-- [Code Examples](#code-examples)
-- [Best Practices to Avoid NameAlreadyBoundException](#best-practices-to-avoid-namealreadyboundexception)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is NameAlreadyBoundException in Java?
 
 NameAlreadyBoundException is a checked exception that is thrown when an attempt is made to bind a name that is already in use. It is a subclass of NamingException in the Java Naming and Directory Interface (JNDI) framework.
@@ -124,5 +113,3 @@ Happy coding!
 1. [Java Naming and Directory Interface (JNDI) Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.naming/javax/naming/package-summary.html)
 2. [Java Naming and Directory Interface (JNDI) - Wikipedia](https://en.wikipedia.org/wiki/Java_Naming_and_Directory_Interface)
 3. [NamingException - Oracle Docs](https://docs.oracle.com/en/java/javase/11/docs/api/java.naming/javax/naming/NamingException.html)
-
-**Note:** This article is for educational purposes only and aims to provide a general understanding of the NameAlreadyBoundException in Java.
