@@ -10,14 +10,6 @@ toc: true
 
 SocketException is a common exception that occurs in Java programming when there is an issue with the sockets, which are communication endpoints for sending and receiving data between two computers. In this article, we will explore SocketException in detail, its causes, and how to handle it effectively in your Java code. So, let's dive in!
 
-## Table of Contents
-- [Introduction to SocketException](#introduction-to-socketexception)
-- [Causes of SocketException](#causes-of-socketexception)
-- [Common SocketException Scenarios](#common-socketexception-scenarios)
-- [Handling SocketException](#handling-socketexception)
-- [Best Practices to Prevent SocketException](#best-practices-to-prevent-socketexception)
-- [Conclusion](#conclusion)
-
 ## Introduction to SocketException
 In Java, SocketException is a subclass of the IOException class, specifically designed to handle socket-related errors. It is thrown when there is an issue with socket communication or socket-related operations. SocketException inherits all the properties and methods of its superclass, making it a powerful tool for developers to troubleshoot and resolve socket-related issues.
 
