@@ -10,20 +10,6 @@ toc: true
 
 As a Java developer, you may have encountered the dreaded `ClassNotFoundException` at some point in your coding journey. This exception occurs when the Java Virtual Machine (JVM) is unable to find a particular class during runtime. In this article, we will explore the nuances of `ClassNotFoundException` in depth, along with its causes and potential solutions. Whether you're a beginner or an experienced developer, this comprehensive guide will help you tackle this issue like a pro.
 
-## Table of Contents
-1. [What is ClassNotFoundException?](#what-is-classnotfoundexception)
-2. [Causes of ClassNotFoundException](#causes-of-classnotfoundexception)
-    1. [Missing Class in Classpath](#missing-class-in-classpath)
-    2. [Incorrect Class Name or Package](#incorrect-class-name-or-package)
-    3. [ClassLoader Issues](#classloader-issues)
-3. [Handling ClassNotFoundException](#handling-classnotfoundexception)
-4. [Examples of ClassNotFoundException](#examples-of-classnotfoundexception)
-    1. [Example 1: Missing JDBC Driver](#example-1-missing-jdbc-driver)
-    2. [Example 2: Incorrect Package Name](#example-2-incorrect-package-name)
-    3. [Example 3: Class Loading and ClassLoader](#example-3-class-loading-and-classloader)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## What is ClassNotFoundException? {#what-is-classnotfoundexception}
 
 `ClassNotFoundException` is a checked exception that occurs when the JVM tries to load a class dynamically and cannot find the corresponding .class file at runtime. It is a subclass of the `java.lang.Exception` class and is declared in the `java.lang` package.
