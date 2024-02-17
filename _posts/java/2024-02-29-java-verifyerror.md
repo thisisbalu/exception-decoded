@@ -1,5 +1,5 @@
 ---
-title: "Title: "Understanding VerifyError in Java: A Comprehensive Guide""
+title: "Understanding VerifyError in Java: A Comprehensive Guide"
 date: 2024-02-29 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
@@ -86,7 +86,3 @@ Remember, a thorough understanding of `VerifyError` empowers developers to tackl
 - [FindBugs](http://findbugs.sourceforge.net/)
 - [SpotBugs](https://spotbugs.github.io/)
 - [PMD](https://pmd.github.io/)
-
----
-
-*Estimated reading time: 15 minutes*
