@@ -117,5 +117,3 @@ Hopefully, armed with this knowledge, you will be able to identify and rectify i
 - [Java API Specification - ServerNotActiveException](https://docs.oracle.com/en/java/javase/11/docs/api/java.rmi/java/rmi/ServerNotActiveException.html)
 - [Remote Method Invocation (RMI) - Oracle Documentation](https://docs.oracle.com/javase/7/docs/technotes/guides/rmi/index.html)
 - [ServerNotActiveException - GeeksforGeeks](https://www.geeksforgeeks.org/java-rmi-servernotactiveexception/)
-
-*Note: This article is a comprehensive guide to understanding and troubleshooting the `ServerNotActiveException` in Java. Estimated reading time: 15 minutes.*
