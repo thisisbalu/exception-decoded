@@ -10,19 +10,6 @@ toc: true
 
 Have you ever encountered a situation where you've implemented event listeners in your Java code, only to find out that they are not being triggered? One possible reason for this is the `ListenerNotFoundException`. In this article, we will explore what this exception is, why it occurs, and how to handle it effectively in your Java applications.
 
-## Table of Contents
-- [Understanding ListenerNotFoundException](#understanding-listenernotfoundexception)
-- [Why Does ListenerNotFoundException Occur?](#why-does-listenernotfoundexception-occur)
-- [Handling ListenerNotFoundException](#handling-listenernotfoundexception)
-  - [1. Verify Event Registration](#1-verify-event-registration)
-  - [2. Ensure Proper Naming and Usage](#2-ensure-proper-naming-and-usage)
-  - [3. Check Event Listener Hierarchy](#3-check-event-listener-hierarchy)
-  - [4. Use Exception Handling](#4-use-exception-handling)
-  - [5. Logging and Debugging](#5-logging-and-debugging)
-  - [6. Unit Testing](#6-unit-testing)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Understanding ListenerNotFoundException
 When working with event-driven programming in Java, event listeners are a fundamental part of the architecture. They allow your application to respond to specific events triggered by the user or system. However, there may be cases where these event listeners are not found or cannot be executed, leading to a `ListenerNotFoundException`.
 
