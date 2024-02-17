@@ -14,22 +14,6 @@ In today's interconnected world, communication between computer systems is vital
 
 However, when dealing with network connections, errors can occur. One such error is the `HttpConnectTimeoutException`. This article aims to explain what this exception is, how it occurs, and provides best practices to handle and troubleshoot it effectively in Java.
 
-## Table of Contents
-
-1. What is `HttpConnectTimeoutException`?
-2. Causes of `HttpConnectTimeoutException`
-3. Handling and Troubleshooting Strategies
-   1. Increase Connection Timeout
-   2. Check Connectivity and DNS Resolution
-   3. Ensure Server Availability
-   4. Use Connection Pooling
-4. Best Practices to Prevent `HttpConnectTimeoutException`
-   1. Use Asynchronous Requests
-   2. Implement Retry Mechanisms
-   3. Implement Circuit-Breaking Patterns
-   4. Cache Responses
-5. Conclusion
-6. References
 
 ## 1. What is `HttpConnectTimeoutException`?
 
