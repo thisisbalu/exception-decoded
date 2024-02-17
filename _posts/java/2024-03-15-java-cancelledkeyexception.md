@@ -1,5 +1,5 @@
 ---
-title: "**Title: CancelledKeyException in Java: Understanding and Handling**"
+title: "CancelledKeyException in Java: Understanding and Handling"
 date: 2024-03-15 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.channels, java-se]
@@ -11,20 +11,6 @@ toc: true
 ## Introduction
 
 As a Java developer, you may come across various exceptions while writing code. One such exception is `CancelledKeyException`. In this comprehensive guide, we will explore the CancelledKeyException in Java, understand its cause and nature, learn how to handle it effectively in your code, and discuss best practices to avoid this exception altogether.
-
-## Table of Contents
-
-- What is CancelledKeyException?
-- Understanding the Cause
-- Handling CancelledKeyException
-  - Scenario 1: Detecting and Handling the Exception
-  - Scenario 2: Preventing the Exception
-- Best Practices to Avoid CancelledKeyException
-  - Practice 1: Properly Registering Channels
-  - Practice 2: Responsibly Closing Channels
-  - Practice 3: Implementing Error Handling Mechanisms
-- Conclusion
-- References
 
 ## What is CancelledKeyException?
 
