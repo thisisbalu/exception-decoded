@@ -79,5 +79,3 @@ Now that you have gained a deeper understanding of the `ResolutionException` in 
 - [Ambiguous Resolution in Java 9 Modules](https://www.infoworld.com/article/3577472/ambiguous-resolution-in-java-9-modules.html)
 - [Java 9 Module System: Resolving Module Names Ambiguity](https://dzone.com/articles/java-9-module-system-resolving-ambiguity)
 - [Modularizing and Shading Dependencies in Java](https://www.baeldung.com/java-modularize-shading-dependencies)
-
-Estimated reading time: 15 minutes.
