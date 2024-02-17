@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying MissingFormatArgumentException in Java: Understanding Error Handling and Formatting in Java"
+title: "Demystifying MissingFormatArgumentException in Java: Understanding Error Handling and Formatting in Java"
 date: 2024-03-08 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.util, java-se]
