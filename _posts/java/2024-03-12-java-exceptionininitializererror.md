@@ -10,19 +10,6 @@ toc: true
 
 ExceptionInInitializerError is a Java error that occurs when there is an exception while executing the static initializer block or initializing static variables in a class. This error can be quite perplexing, as it does not provide much information about the actual cause of the error. However, with a deeper understanding of this error and its common causes, developers can quickly identify and fix the underlying issues. In this article, we will delve into the ExceptionInInitializerError, explore its different scenarios, and provide insights into handling and preventing this error in your Java code.
 
-## Table of Contents
-- [What is ExceptionInInitializerError?](#what-is-exceptionininitializererror)
-- [Root Causes and Common Scenarios](#root-causes-and-common-scenarios)
-  - [1. Throwing an Exception in a Static Initializer Block](#throwing-an-exception-in-a-static-initializer-block)
-  - [2. Exceptions in Static Variable Initialization](#exceptions-in-static-variable-initialization)
-- [Dealing with ExceptionInInitializerError](#dealing-with-exceptionininitializererror)
-  - [1. Catching ExceptionInInitializerError](#catching-exceptionininitializererror)
-  - [2. Finding the Root Cause](#finding-the-root-cause)
-  - [3. Using ExceptionInInitializerError in Exception Handling](#using-exceptionininitializererror-in-exception-handling)
-- [Preventing ExceptionInInitializerError](#preventing-exceptionininitializererror)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is ExceptionInInitializerError?
 
 ExceptionInInitializerError is a subclass of `Error` and occurs at runtime when an exception is thrown inside the static initializer block or while initializing static variables of a class. Java allows developers to use a static initializer block to initialize static variables or perform static initialization tasks. The static initializer block ensures that the initialization process is performed before any other operations with the class.
