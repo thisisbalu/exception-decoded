@@ -100,5 +100,3 @@ Handling exceptions is an integral part of writing robust and reliable Java code
 For more information about `AlreadyBoundException`, you can refer to the official Java documentation on the [AlreadyBoundException class](https://docs.oracle.com/javase/8/docs/api/java/nio/channels/AlreadyBoundException.html) and [JNDI](https://docs.oracle.com/javase/8/docs/technotes/guides/jndi/index.html).
 
 Keep innovating, coding, and handling exceptions like a pro! Happy coding!
-
-*Total reading time: 15 minutes*
