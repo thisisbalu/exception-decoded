@@ -143,5 +143,3 @@ Remember, when it comes to data integrity, prevention is better than cure. By fo
 References:
 - [Java Documentation: SQLDataException](https://docs.oracle.com/javase/8/docs/api/java/sql/SQLDataException.html)
 - [Hibernate Validator Documentation](https://hibernate.org/validator/)
-
-**Note:** *This article should take an estimated 15 minutes to read, but the actual reading time may vary depending on the individual.*
