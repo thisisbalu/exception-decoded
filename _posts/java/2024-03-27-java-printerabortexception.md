@@ -10,14 +10,6 @@ toc: true
 
 Are you a Java developer who has encountered the obscure `PrinterAbortException` while working with printers? Fret not, as we dive into the details of this exception and explore its causes and possible solutions. In this article, we will discuss the PrinterAbortException and how you can effectively handle it in your Java applications.
 
-## Table of Contents
-1. [Understanding the PrinterAbortException](#Understanding-the-PrinterAbortException)
-2. [Causes of the PrinterAbortException](#Causes-of-the-PrinterAbortException)
-3. [Handling the PrinterAbortException](#Handling-the-PrinterAbortException)
-4. [Sample Code](#Sample-Code)
-5. [Conclusion](#Conclusion)
-6. [References](#References)
-
 ## Understanding the PrinterAbortException
 
 PrinterAbortException is a checked exception that can be thrown by the `java.awt.print.PrinterJob` class in Java. This exception occurs when a print job is aborted for any reason. It indicates that the print job was terminated before it could be completed, typically due to an external event or intervention.
