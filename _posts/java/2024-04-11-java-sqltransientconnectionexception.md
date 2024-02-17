@@ -10,14 +10,6 @@ toc: true
 
 As a Java developer or database administrator, it is crucial to understand and effectively handle database connection errors that can occur in your applications. One such exception you might encounter is the `SQLTransientConnectionException`. In this article, we will explore what this exception means, its possible causes, and how to mitigate and troubleshoot such errors.
 
-## Table of Contents
-
-- [Understanding SQLTransientConnectionException](#understanding-sqltransientconnectionexception)
-- [Common Causes of SQLTransientConnectionException](#common-causes-of-sqltransientconnectionexception)
-- [Mitigating SQLTransientConnectionException](#mitigating-sqltransientconnectionexception)
-- [Troubleshooting SQLTransientConnectionException](#troubleshooting-sqltransientconnectionexception)
-- [Conclusion](#conclusion)
-
 ## Understanding SQLTransientConnectionException
 
 The `SQLTransientConnectionException` is a subclass of the `SQLException` class in Java. It signifies a transient error condition that occurred during a database connection attempt. Transient errors are usually temporary and self-recoverable, indicating a potential network issue, a high server load, or temporary unavailability of the database.
