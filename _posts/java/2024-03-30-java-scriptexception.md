@@ -1,5 +1,5 @@
 ---
-title: "**Understanding ScriptException in Java: A Comprehensive Guide**"
+title: "Understanding ScriptException in Java: A Comprehensive Guide"
 date: 2024-03-30 09:00:00 -0000
 categories: [Java, java.scripting]
 tags: [java, java-unchecked, javax.script, java-se]
@@ -10,15 +10,6 @@ toc: true
 
 Welcome to another informative blog post on Java programming! In this article, we will explore the intriguing world of ScriptException in Java. We will delve into its meaning, usage, and practical implementation. So without any further ado, let's get started!
 
-## **Table of Contents**
-
-- Introduction
-- Understanding ScriptException
-- Causes of ScriptException
-- Handling ScriptException
-- Examples of ScriptException
-- Conclusion
-- References
 
 ## **Introduction**
 
