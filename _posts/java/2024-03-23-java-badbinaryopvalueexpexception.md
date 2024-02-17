@@ -108,5 +108,3 @@ We hope you found this article helpful. Feel free to explore our other articles 
 
 - [Oracle Java Documentation - BadBinaryOpValueExpException](https://docs.oracle.com/en/java/javase/17/docs/api/java.management/javax/management/BadBinaryOpValueExpException.html)
 - [JavaWorld - Checked vs Unchecked Exceptions in Java](https://www.javaworld.com/article/3211130/checked-vs-unchecked-exceptions-in-java.html)
-
-(Cover image source: [Pexels](https://www.pexels.com/))
