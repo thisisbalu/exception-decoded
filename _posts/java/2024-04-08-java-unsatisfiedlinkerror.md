@@ -1,5 +1,5 @@
 ---
-title: "**UnsatisfiedLinkError in Java: A Deep Dive into the Error and How to Fix it**"
+title: "UnsatisfiedLinkError in Java: A Deep Dive into the Error and How to Fix it"
 date: 2024-04-08 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-error, java.lang, java-se]
