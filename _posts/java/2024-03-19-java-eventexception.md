@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 ## Introduction
 
 Events are an integral part of any software application. In Java, event handling is implemented through event listeners and event objects. These objects contain information about the event and provide a way to perform actions based on the occurrence of an event. However, there are scenarios where an event cannot be delivered to the intended recipient, leading to an exception being thrown. One such exception is the `EventException`.
@@ -106,7 +103,3 @@ For more information on event handling in Java, refer to the following resources
 - [JavaFX Event Handling Tutorial](https://docs.oracle.com/javafx/2/events/jfxpub-events.htm)
 
 Happy event handling!
-
----
-
-*Total reading time: 15 minutes*
