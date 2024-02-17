@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding SQLException and Handling Database Errors in Java"
+title: "Understanding SQLException and Handling Database Errors in Java"
 date: 2024-03-13 09:00:00 -0000
 categories: [Java, java.sql]
 tags: [java, java-error, java.sql, java-se]
@@ -116,5 +116,3 @@ Now that you have a better understanding of `SQLException`, go ahead, apply thes
 - [Java Documentation: java.sql.SQLException](https://docs.oracle.com/en/java/javase/16/docs/api/java.sql/java/sql/SQLException.html)
 - [Oracle JDBC Developer's Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/jjdbc/index.html)
 - [The Java Tutorials: Handling SQL Exceptions](https://docs.oracle.com/javase/tutorial/jdbc/basics/sqlexception.html)
-
-*(15-minute read)*
