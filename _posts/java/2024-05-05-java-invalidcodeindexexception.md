@@ -8,24 +8,6 @@ toc: true
 ---
 
 
----
-
-**Table of Contents**
-
-1. Introduction
-2. Understanding the InvalidCodeIndexException
-3. Causes of InvalidCodeIndexException
-4. Resolving InvalidCodeIndexException
-   1. Updating the JVM
-   2. Reviewing the Code
-   3. Checking Dependencies and Libraries
-   4. Analyzing Stack Traces
-   5. Debugging Techniques
-5. Conclusion
-6. References
-
----
-
 ## Introduction
 
 In the world of software development, encountering exceptions is a common occurrence. These exceptions provide valuable insights into potential issues within your code. One such exception that Java developers may come across is `InvalidCodeIndexException`. This article explores the causes behind this exception and presents strategies to effectively resolve it.
@@ -86,5 +68,3 @@ Now armed with the knowledge to tackle the `InvalidCodeIndexException`, you can 
 2. [Debugging in IntelliJ IDEA](https://www.jetbrains.com/help/idea/debugging.html)
 3. [Debugging in Eclipse](https://www.eclipse.org/community/eclipse_newsletter/2017/august/article1.php)
 4. [Debugging in NetBeans](https://netbeans.org/kb/docs/java/debugging.html)
-
----
