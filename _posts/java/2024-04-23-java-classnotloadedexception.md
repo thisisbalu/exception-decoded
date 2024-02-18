@@ -1,5 +1,5 @@
 ---
-title: "Title: ClassNotLoadedException in Java: Understanding and Handling Java's Mysterious Exception"
+title: "ClassNotLoadedException in Java: Understanding and Handling Java's Mysterious Exception"
 date: 2024-04-23 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
