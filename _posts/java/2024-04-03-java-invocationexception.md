@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the InvocationException in Java: Exploring Its Causes and Effective Solutions"
+title: "Understanding the InvocationException in Java: Exploring Its Causes and Effective Solutions"
 date: 2024-04-03 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
@@ -114,5 +114,3 @@ By following these best practices, you can effectively address `InvocationExcept
 For further reading, consider exploring the official Java documentation on [InvocationTargetException](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/reflect/InvocationTargetException.html) and [RemoteException](https://docs.oracle.com/en/java/javase/15/docs/api/java.rmi/java/rmi/RemoteException.html).
 
 Happy coding!
-
-*Total reading time: 15 minutes*
