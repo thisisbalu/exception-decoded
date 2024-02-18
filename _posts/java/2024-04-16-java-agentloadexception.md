@@ -133,7 +133,3 @@ Keep exploring and coding with confidence!
 1. [Oracle Java SE Documentation - Agents](https://docs.oracle.com/en/java/javase/14/docs/api/java.instrument/java/lang/instrument/package-summary.html)
 2. [Oracle Java SE Documentation - Handling Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 3. [Java Platform, Standard Edition Troubleshooting Guide - Exception Handling](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/exceptions.html)
-
-<hr>
-
-*This article is a product of the OpenAI GPT-3 language model, written with proper understanding of AgentLoadException in Java. Code examples and best practices are provided for informational purposes only, and developers should adapt them to their specific use cases and environments.
