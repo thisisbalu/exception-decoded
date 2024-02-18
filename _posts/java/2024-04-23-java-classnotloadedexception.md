@@ -1,5 +1,5 @@
 ---
-title: "**Understanding ClassNotLoadedException in Java**"
+title: "Understanding ClassNotLoadedException in Java"
 date: 2024-04-23 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
@@ -93,5 +93,3 @@ Reference links:
 - Stack Overflow: [Why is a "ClassNotFoundException" thrown when deserializing an object?](https://stackoverflow.com/questions/43830861/why-is-a-classnotfoundexception-thrown-when-deserializing-an-object)
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
