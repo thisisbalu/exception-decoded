@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the InterruptedByTimeoutException in Java: Handling Interrupts with Finesse"
+title: "Demystifying the InterruptedByTimeoutException in Java: Handling Interrupts with Finesse"
 date: 2024-04-05 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.channels, java-se]
@@ -11,17 +11,6 @@ toc: true
 ## Introduction
 
 As an aspiring Java developer, it's crucial to master the art of handling interrupts gracefully. Among the numerous exceptions thrown in Java, the `InterruptedByTimeoutException` demands special attention. In this comprehensive article, we will delve deep into the inner workings of this exception, understand its use cases, and explore effective strategies for handling interrupts efficiently in Java.
-
-## Table of Contents
-
-1. [Understanding Interrupts](#understanding-interrupts)
-2. [Introduction to InterruptedByTimeoutException](#intro-to-interruptbytimeoutexception)
-3. [Handling InterruptedByTimeoutException](#handling-interruptbytimeoutexception)
-    - [Method 1: Ignoring Interrupts](#method-1-ignoring-interrupts)
-    - [Method 2: Propagating Interrupts](#method-2-propagating-interrupts)
-4. [Best Practices for Handling Interrupts](#best-practices-for-handling-interrupts)
-5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ## Understanding Interrupts
 
@@ -117,5 +106,3 @@ Now that you have a solid grasp of the InterruptedByTimeoutException, go forth a
 2. [Java Concurrency in Practice by Brian Goetz](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
 3. [Java Thread Interruption Tutorial by Baeldung](https://www.baeldung.com/java-thread-interrupts)
 4. [Interrupting Java threads by IBM Developer](https://developer.ibm.com/articles/j-interrupt/#what-happens-when-you-interrupt-a-thread)
-
-*Note: This article is a detailed yet concise exploration of the `InterruptedByTimeoutException` in Java, written to provide a comprehensive understanding to beginner and intermediate Java developers. The examples provided are not exhaustive but aim to illustrate the concepts effectively.*
