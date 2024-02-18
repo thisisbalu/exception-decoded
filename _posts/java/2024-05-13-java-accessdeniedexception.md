@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Do you ever find yourself encountering unexpected AccessDeniedExceptions while working with Java applications? If you've been puzzled by these exceptions and are looking for a comprehensive guide to understanding and handling them effectively, you've come to the right place. In this article, we will delve into the details of the AccessDeniedException in Java and explore the best practices for preventing and resolving them.
 
 ## Introduction to AccessDeniedException
@@ -120,7 +117,3 @@ For more detailed information on AccessDeniedException and the Java NIO package,
 - [Java Documentation: java.nio.file Package](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/nio/file/package-summary.html)
 
 Feel free to leave your comments or questions below. Happy coding!
-
----
-
-*Note: The estimated reading time of this article is 15 minutes.*
