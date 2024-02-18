@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding ExecutionControl.InternalException in Java"
+title: "Understanding ExecutionControl.InternalException in Java"
 date: 2024-04-26 09:00:00 -0000
 categories: [Java, jdk.jshell]
 tags: [java, java-error, jdk.jshell.spi, jdk]
@@ -57,7 +57,3 @@ Throughout this in-depth guide, we have explored the ins and outs of `ExecutionC
 If you want to dive deeper into the topic, refer to the official Java documentation on [ExecutionControl.InternalException](https://docs.oracle.com/en/java/javase/11/docs/api/java.security/java/security/ExecutionControl.InternalException.html).
 
 Have any further questions or suggestions related to this topic? Feel free to leave a comment below!
-
-*Estimated Reading Time: 15 minutes.*
-
-**_Note: This article is provided for informational purposes only. Any actions taken based on this information are at the sole discretion of the reader._**
