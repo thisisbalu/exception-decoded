@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 ## Introduction
 
 As a Java developer, you might have encountered the dreaded `VMOutOfMemoryException` at some point in your career. This error occurs when the Java Virtual Machine (JVM) cannot allocate enough memory to perform an operation. In this article, we will explore the reasons behind this exception, discuss different types of memory in Java, and provide techniques to diagnose and resolve memory issues effectively.
