@@ -1,13 +1,10 @@
 ---
-title: "**Understanding ClosedDirectoryStreamException in Java**"
+title: "Understanding ClosedDirectoryStreamException in Java"
 date: 2024-05-23 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.file, java-se]
 mermaid: true
 toc: true
----
-
-
 ---
 
 As a Java developer, you might come across various exceptions while working with file and directory operations. One such exception is `ClosedDirectoryStreamException`. In this article, we will delve into the details of this exception, understand its cause, and learn how to handle it efficiently in your Java programs.
@@ -139,5 +136,3 @@ Exception handling is just one aspect of Java programming. If you want to learn 
 - [Java Documentation: DirectoryStream](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/DirectoryStream.html)
 - [Java Tutorial: Managing I/O Files](https://docs.oracle.com/javase/tutorial/essential/io/fileio.html)
 - [Java Documentation: Files](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html)
-
-***Note:*** *This article is a documentation on ClosedDirectoryStreamException in Java and does not provide any guarantee or warranty. Use the information provided at your own discretion.*
