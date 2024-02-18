@@ -139,5 +139,3 @@ In this article, we discussed the `MalformedInputException`, its causes, and eff
 To learn more about character encoding and Java's handling of encodings, you can refer to the official documentation provided by Oracle [here](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/nio/charset/MalformedInputException.html).
 
 Thank you for reading, and happy coding!
-
-*\[Total reading time: 15 minutes\]*
