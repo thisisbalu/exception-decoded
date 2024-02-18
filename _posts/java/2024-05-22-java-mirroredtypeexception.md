@@ -1,5 +1,5 @@
 ---
-title: "**Understanding MirroredTypeException in Java**"
+title: "Understanding MirroredTypeException in Java"
 date: 2024-05-22 09:00:00 -0000
 categories: [Java, java.compiler]
 tags: [java, java-unchecked, javax.lang.model.type, java-se]
@@ -74,5 +74,3 @@ While MirroredTypeException may appear confusing at first, understanding its cau
 
 - [Official Java Documentation on MirroredTypeException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/annotation/MirroredTypeException.html)
 - [Java Reflection API](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/reflect/package-summary.html)
-
-*Disclaimer: This article is for educational purposes only and does not constitute professional advice. Always refer to official documentation and consult with experts for accurate information and guidance.*
