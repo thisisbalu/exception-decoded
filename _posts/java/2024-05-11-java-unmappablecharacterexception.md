@@ -126,6 +126,3 @@ Handling encoding issues can be complex, but understanding the root causes and a
 1. [Oracle Documentation: UnmappableCharacterException](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/nio/charset/UnmappableCharacterException.html)
 2. [Unicode® Technical Standard #26: Unicode Miscellaneous Symbols and Pictographs](https://www.unicode.org/versions/Unicode13.0.0/ch08.pdf)
 3. [RFC 3629: UTF-8, a transformation format of ISO 10646](https://datatracker.ietf.org/doc/html/rfc3629)
-
----
-*Thanks for reading! Feel free to leave any comments or questions below.*
