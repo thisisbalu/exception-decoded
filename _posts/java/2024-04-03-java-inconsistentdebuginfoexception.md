@@ -1,5 +1,5 @@
 ---
-title: "**Troubleshooting the InconsistentDebugInfoException in Java Applications**"
+title: "Troubleshooting the InconsistentDebugInfoException in Java Applications"
 date: 2024-04-03 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]
@@ -72,5 +72,3 @@ Stay curious and happy debugging!
 - [Stack Overflow: Fixing Inconsistent Debug Info Exception](https://stackoverflow.com/questions/1234567/fixing-inconsistent-debug-info-exception)
 - [Maven Build Tool Documentation](https://maven.apache.org/)
 - [Gradle Build Tool Documentation](https://gradle.org/)
-
-*Note: This article assumes basic familiarity with Java development and debugging tools.*
