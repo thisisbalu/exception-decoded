@@ -74,6 +74,3 @@ Happy coding!
 References:
 - [Java SE 11 Documentation - WatchService](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/WatchService.html)
 - [Java SE 11 Documentation - ClosedWatchServiceException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/ClosedWatchServiceException.html)
-
----
-*Note: This article should take an estimated 15 minutes to read.*
