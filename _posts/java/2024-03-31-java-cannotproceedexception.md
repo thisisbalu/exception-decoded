@@ -1,5 +1,5 @@
 ---
-title: "Title: Mastering the CannotProceedException in Java: Handling Unexpected Situations with Grace"
+title: "Mastering the CannotProceedException in Java: Handling Unexpected Situations with Grace"
 date: 2024-03-31 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming, java-se]
