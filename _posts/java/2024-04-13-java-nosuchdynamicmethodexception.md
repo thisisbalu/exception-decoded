@@ -116,5 +116,3 @@ Remember to always double-check method names and signatures, use the appropriate
 For further information, refer to the official Java documentation on NoSuchMethodException: [Java SE 11 - NoSuchMethodException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/NoSuchMethodException.html).
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
