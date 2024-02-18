@@ -1,15 +1,10 @@
 ---
-title: "**UnmodifiableClassException in Java: Understanding and Handling Immutable Classes**"
+title: "UnmodifiableClassException in Java: Understanding and Handling Immutable Classes"
 date: 2024-05-26 09:00:00 -0000
 categories: [Java, java.instrument]
 tags: [java, java-unchecked, java.lang.instrument, java-se]
 mermaid: true
 toc: true
----
-
-
-*Boosting Java Performance and Security with Immutable Classes*
-
 ---
 
 ## Introduction
