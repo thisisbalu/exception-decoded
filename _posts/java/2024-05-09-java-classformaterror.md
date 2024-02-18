@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Have you ever encountered a `ClassFormatError` in your Java programming journey? Perhaps you've stumbled upon this error message and wondered what it meant and how to fix it. In this comprehensive guide, we will explore the `ClassFormatError` in detail, understand its causes, and provide effective solutions to overcome this common error.
 
 ## Table of Contents
@@ -119,7 +116,3 @@ Next time you encounter a `ClassFormatError`, don't fret! Armed with this knowle
 - [Java SE 17 - ClassFormatError](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ClassFormatError.html)
 - [Java Class File - Wikipedia](https://en.wikipedia.org/wiki/Java_class_file)
 - [JVM Specifications - Oracle](https://docs.oracle.com/javase/specs/jvms/se17/html/jvms-4.html)
-
----
-
-**Disclaimer:** The code examples and scenarios mentioned in this article are intended for educational purposes only and may not represent real-world production scenarios. Always exercise caution and refer to official documentation when encountering errors or issues in your Java applications.
