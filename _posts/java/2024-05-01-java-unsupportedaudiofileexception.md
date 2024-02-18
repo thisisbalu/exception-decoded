@@ -1,5 +1,5 @@
 ---
-title: "**Catchy Title: Java UnsupportedAudioFileException - A Comprehensive Guide**"
+title: "Java UnsupportedAudioFileException - A Comprehensive Guide"
 date: 2024-05-01 09:00:00 -0000
 categories: [Java, java.desktop]
 tags: [java, java-checked, javax.sound.sampled, java-se]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
 
 ## Introduction
 
