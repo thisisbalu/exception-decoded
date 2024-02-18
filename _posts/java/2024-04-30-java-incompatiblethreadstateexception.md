@@ -1,5 +1,5 @@
 ---
-title: "**Understanding IncompatibleThreadStateException in Java**"
+title: "Understanding IncompatibleThreadStateException in Java"
 date: 2024-04-30 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-checked, com.sun.jdi, jdk]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
 
 Java, being one of the most popular programming languages, provides a robust and reliable platform for developing concurrent applications. However, like any other programming language, Java is not immune to errors and exceptions. One such exception, the `IncompatibleThreadStateException`, may occasionally arise when working with threads.
 
