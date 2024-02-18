@@ -1,12 +1,11 @@
 ---
-title: "Title: Demystifying HttpTimeoutException in Java: A Comprehensive Guide"
+title: "Demystifying HttpTimeoutException in Java: A Comprehensive Guide"
 date: 2024-05-06 09:00:00 -0000
 categories: [Java, java.net.http]
 tags: [java, java-unchecked, java.net.http, java-se]
 mermaid: true
 toc: true
 ---
-
 
 ## Introduction
 
