@@ -1,5 +1,5 @@
 ---
-title: "**Understanding UnsupportedCallbackException in Java**"
+title: "Understanding UnsupportedCallbackException in Java"
 date: 2024-04-19 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.security.auth.callback, java-se]
@@ -94,7 +94,3 @@ If you want to dig deeper into the topic, the following references might be bene
 - [Oracle Java SE API Documentation: javax.security.auth.callback.UnsupportedCallbackException](https://docs.oracle.com/en/java/javase/17/docs/api/java.security.jgjavax/security/auth/callback/UnsupportedCallbackException.html)
 
 Hope this article clarified your doubt regarding *UnsupportedCallbackException* in Java. Thanks for reading!
-
----
-
-*Duration: 15 minutes*
