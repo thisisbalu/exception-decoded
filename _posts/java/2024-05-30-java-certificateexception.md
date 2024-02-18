@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding CertificateException in Java: A Comprehensive Guide"
+title: "Understanding CertificateException in Java: A Comprehensive Guide"
 date: 2024-05-30 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, javax.security.cert, java-se]
