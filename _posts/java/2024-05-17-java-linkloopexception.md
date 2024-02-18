@@ -140,5 +140,3 @@ For more information and resources on linked lists, exceptions, and Java program
 - [Java LinkedList Class](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)
 
 Now you have the knowledge and tools to tackle the `LinkLoopException` head-on. Happy coding, and may your linked lists always remain loop-free!
-
-*Estimated reading time: 15 minutes.*
