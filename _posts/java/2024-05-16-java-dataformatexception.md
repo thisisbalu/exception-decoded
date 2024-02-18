@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the DataFormatException in Java: A Comprehensive Guide"
+title: "Demystifying the DataFormatException in Java: A Comprehensive Guide"
 date: 2024-05-16 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.util.zip, java-se]
