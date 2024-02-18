@@ -1,5 +1,5 @@
 ---
-title: "**Everything you need to know about CertPathValidatorException in Java**"
+title: "Everything you need to know about CertPathValidatorException in Java"
 date: 2024-04-14 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.security.cert, java-se]
