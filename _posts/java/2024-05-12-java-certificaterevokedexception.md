@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding CertificateRevokedException in Java: A Deep Dive Into Handling Revoked Certificates"
+title: "Understanding CertificateRevokedException in Java: A Deep Dive Into Handling Revoked Certificates"
 date: 2024-05-12 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.security.cert, java-se]
