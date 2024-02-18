@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding JarSignerException in Java: Troubleshooting and Solutions"
+title: "Understanding JarSignerException in Java: Troubleshooting and Solutions"
 date: 2024-04-02 09:00:00 -0000
 categories: [Java, jdk.jartool]
 tags: [java, java-unchecked, jdk.security.jarsigner, jdk]
@@ -123,5 +123,3 @@ Now that you have a better understanding of JarSignerException, its causes, and 
 - [Oracle Java Documentation: jarsigner Command](https://docs.oracle.com/en/java/javase/16/docs/specs/man/jarsigner.html)
 - [Oracle Java Documentation: Creating and Managing Keys and Certificates](https://docs.oracle.com/en/java/javase/16/security/creating-and-managing-keys-and-certificates-in-a-keystore.html)
 - [Oracle Java Documentation: jar Command](https://docs.oracle.com/en/java/javase/16/docs/specs/man/jar.html)
-- [Stack Overflow: JarSignerException: Couldn't retrieve certificates from key store](https://stackoverflow.com/questions/41677647/jarsignerexception-couldnt-retrieve-certificates-from-key-store)
-- [Stack Overflow: Failed to sign APK with jarsigner](https://stackoverflow.com/questions/15772185/failed-to-sign-apk-with-jarsigner)
