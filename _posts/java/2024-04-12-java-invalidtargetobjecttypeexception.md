@@ -1,5 +1,5 @@
 ---
-title: "Title: Unraveling InvalidTargetObjectTypeException: A Deep Dive into Java's Exception Hierarchy"
+title: "Unraveling InvalidTargetObjectTypeException: A Deep Dive into Java's Exception Hierarchy"
 date: 2024-04-12 09:00:00 -0000
 categories: [Java, java.management]
 tags: [java, java-unchecked, javax.management.modelmbean, java-se]
