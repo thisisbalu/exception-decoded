@@ -131,6 +131,3 @@ Happy coding!
 1. [Java API Documentation - AttributeModificationException](https://docs.oracle.com/javase/10/docs/api/javax/management/AttributeModificationException.html)
 2. [Java Logging API - Oracle Documentation](https://docs.oracle.com/en/java/javase/11/core/java-logging-overview.html)
 3. [Effective Java by Joshua Bloch (Chapter 4.3: Classes and Interfaces](https://www.oreilly.com/library/view/effective-java/9780134686097/)
-
----
-Estimated reading time: 15 minutes
