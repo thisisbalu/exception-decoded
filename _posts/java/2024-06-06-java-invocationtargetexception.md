@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Demystifying the InvocationTargetException in Java: Unveiling Its Secrets and Solutions"
+title: "Demystifying the InvocationTargetException in Java: Unveiling Its Secrets and Solutions"
 date: 2024-06-06 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.lang.reflect, java-se]
