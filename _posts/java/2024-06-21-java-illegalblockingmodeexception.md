@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying IllegalBlockingModeException in Java: Understanding the Magic Behind Asynchronous Communication"
+title: "Demystifying IllegalBlockingModeException in Java: Understanding the Magic Behind Asynchronous Communication"
 date: 2024-06-21 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.channels, java-se]
