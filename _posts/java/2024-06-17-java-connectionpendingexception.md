@@ -7,18 +7,9 @@ mermaid: true
 toc: true
 ---
 
-
 ## Introduction
 
 In the world of networking and communication systems, Java has become the go-to language for its robustness and versatility. One common challenge that Java programmers might encounter is handling various exceptions that arise when dealing with network connections. One such exception is the `ConnectionPendingException`. In this article, we will dive deep into this exception, understand its causes, and explore the best practices for handling it effectively in your Java applications.
-
-## Table of Contents
-
-- [What is ConnectionPendingException?](#what-is-connectionpendingexception)
-- [Causes of ConnectionPendingException](#causes-of-connectionpendingexception)
-- [Handling ConnectionPendingException](#handling-connectionpendingexception)
-- [Code Examples](#code-examples)
-- [Conclusion](#conclusion)
 
 ## What is ConnectionPendingException? {#what-is-connectionpendingexception}
 
