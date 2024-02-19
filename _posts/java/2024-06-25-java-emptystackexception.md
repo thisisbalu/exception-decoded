@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Have you ever encountered an `EmptyStackException` while working with Java? If you're a Java developer, chances are you've encountered this exception at some point. In this article, we will delve into the depths of the `EmptyStackException` and understand its causes, consequences, and possible solutions. So, grab your favorite beverage, sit back, and let's dive in!
 
 ## Understanding EmptyStackException
@@ -131,5 +128,3 @@ Happy coding!
 - [Oracle - Lesson: Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 - [GeeksforGeeks - Stack in Java](https://www.geeksforgeeks.org/stack-class-in-java/)
 - [Baeldung - Java Stack](https://www.baeldung.com/java-stack)
-
-*This article is a part of our comprehensive series on Java Exception Handling.*
