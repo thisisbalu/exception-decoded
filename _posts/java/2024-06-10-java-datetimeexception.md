@@ -1,16 +1,10 @@
 ---
-title: "Introduction"
+title: "Understanding DateTimeException in Java: Handling Dates and Times Like a Pro"
 date: 2024-06-10 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.time, java-se]
 mermaid: true
 toc: true
----
-
-## Catchy title: 
-
-Understanding DateTimeException in Java: Handling Dates and Times Like a Pro
-
 ---
 
 
