@@ -1,5 +1,5 @@
 ---
-title: "Title: How to Handle MissingResourceException in Java: A Comprehensive Guide"
+title: "How to Handle MissingResourceException in Java: A Comprehensive Guide"
 date: 2024-06-19 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-runtime, java.util, java-se]
