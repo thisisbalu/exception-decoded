@@ -102,5 +102,3 @@ Now that you have a comprehensive understanding of `CloneNotSupportedException` 
 1. [Oracle Java Documentation - Cloneable Interface](https://docs.oracle.com/javase/10/docs/api/java/lang/Cloneable.html)
 2. [Oracle Java Tutorials - Object Cloning](https://docs.oracle.com/javase/tutorial/essential/objectclone.html)
 3. [Baeldung - CloneNotSupportedException](https://www.baeldung.com/java-clone-not-supported-exception)
-
-*Note: This article is a product of in-depth research and aims to provide accurate information on the topic.*
