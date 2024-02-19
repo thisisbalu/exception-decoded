@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding WrongMethodTypeException in Java: A Comprehensive Guide"
+title: "Understanding WrongMethodTypeException in Java: A Comprehensive Guide"
 date: 2024-06-22 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.lang.invoke, java-se]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
 
 ## Introduction
 
