@@ -158,5 +158,3 @@ Remember, XMLParseExceptions are just one part of the XML journey. Continuously 
 3. [Oracle Documentation: How to read XML file in Java](https://docs.oracle.com/javase/tutorial/jaxp/dom/readingXML.html)
 4. [OWASP XML External Entity Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
 5. [Apache Xerces2 Java: Security Features](https://xerces.apache.org/xerces2-j/features.html#security-features)
-
-**Estimated Reading Time: 15 minutes**
