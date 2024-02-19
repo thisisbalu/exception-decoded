@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
 Are you encountering an `InstantiationError` in your Java application? Don't worry, you're not alone. This article will walk you through what an `InstantiationError` is, how it is caused, and how to handle it effectively. Whether you're a beginner or an experienced Java developer, this comprehensive guide will help you understand and solve this common issue.
 
 ## Table of Contents
