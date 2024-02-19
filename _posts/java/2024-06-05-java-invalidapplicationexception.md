@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying InvalidApplicationException in Java: A Comprehensive Guide"
+title: "Demystifying InvalidApplicationException in Java: A Comprehensive Guide"
 date: 2024-06-05 09:00:00 -0000
 categories: [Java, java.management]
 tags: [java, java-unchecked, javax.management, java-se]
@@ -104,5 +104,3 @@ In this exhaustive guide, we've explored the `InvalidApplicationException` in Ja
 For more information on exception handling in Java, refer to the official Java documentation: [Java Exception Handling](https://docs.oracle.com/en/java)
 
 Happy coding!
-
-*Estimated reading time: 15 minutes*
