@@ -1,7 +1,5 @@
 ---
-title: "**Java InvalidPropertiesFormatException: A Guide to Handling Property File Format Errors**
-Property file with an incorrect entry
-Correctly formatted property entry"
+title: "Java InvalidPropertiesFormatException: A Guide to Handling Property File Format Errors"
 date: 2024-06-16 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.util, java-se]
