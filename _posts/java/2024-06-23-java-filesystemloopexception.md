@@ -1,5 +1,5 @@
 ---
-title: "Title: Avoiding FileSystemLoopException in Java: The Ultimate Guide to File System Loops"
+title: "Avoiding FileSystemLoopException in Java: The Ultimate Guide to File System Loops"
 date: 2024-06-23 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.file, java-se]
