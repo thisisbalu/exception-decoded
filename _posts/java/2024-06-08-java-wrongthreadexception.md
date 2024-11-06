@@ -17,7 +17,7 @@ Have you ever encountered the **WrongThreadException** in your Java application?
     - [Swing UI Thread Violation](#swing-ui-thread-violation)
     - [Android Main Thread Violation](#android-main-thread-violation)
 - [Handling WrongThreadException](#handling-wrongthreadexception)
-    - [SwingUtilities.invokeLater()](#swingutilitiesinvokeLater)
+    - [SwingUtilities.invokeLater()](#handling-wrongthreadexception)
     - [JavaFX Platform.runLater()](#javafx-platformrunlater)
     - [Android runOnUiThread()](#android-runonuithread)
 - [Best Practices to Prevent WrongThreadException](#best-practices-to-prevent-wrongthreadexception)
