@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting AttributeModificationException in Spring: A Comprehensive Guide"
+title: "Troubleshooting AttributeModificationException in Spring: A Comprehensive Guide"
 date: 2024-04-22 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-unchecked, org.springframework.ldap]
