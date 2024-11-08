@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the DescriptionTooLongException in AWS CodeDeploy"
+title: "Demystifying the DescriptionTooLongException in AWS CodeDeploy"
 date: 2024-02-26 09:00:00 -0000
 categories: [AWS, AWS Code Deploy]
 tags: [aws, codedeploy, com.amazonaws.services.codedeploy.model]
@@ -78,5 +78,3 @@ Remember, a well-structured and concise description is crucial for effective com
 For more information on AWS CodeDeploy and related exceptions, please refer to the official [AWS CodeDeploy Documentation](https://docs.aws.amazon.com/codedeploy/latest/APIReference/welcome.html).
 
 Feel free to dive deeper into our other technical articles and stay tuned for more exciting content!
-
-*Total reading time: 15 minutes*
