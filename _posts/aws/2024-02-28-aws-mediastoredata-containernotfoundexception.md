@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ContainerNotFoundException in AWS Media Store Data"
+title: "Demystifying ContainerNotFoundException in AWS Media Store Data"
 date: 2024-02-28 09:00:00 -0000
 categories: [AWS, AWS Media Store Data]
 tags: [aws, mediastoredata, com.amazonaws.services.mediastoredata.model]
