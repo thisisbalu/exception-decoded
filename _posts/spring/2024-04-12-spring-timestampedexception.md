@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying TimestampedException in Spring: Handling Time-related Exceptions with Ease"
+title: "Demystifying TimestampedException in Spring: Handling Time-related Exceptions with Ease"
 date: 2024-04-12 09:00:00 -0000
 categories: [Spring, spring-kafka]
 tags: [spring, spring-unchecked, org.springframework.kafka.listener]
