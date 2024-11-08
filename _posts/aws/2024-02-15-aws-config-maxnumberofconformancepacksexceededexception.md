@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "Catching Up on AWS Config: Dealing with MaxNumberOfConformancePacksExceededException"
 date: 2024-02-15 09:00:00 -0000
 categories: [AWS, AWS Config]
 tags: [aws, config, com.amazonaws.services.config.model]
 mermaid: true
 toc: true
 ---
-
-﻿# Catching Up on AWS Config: Dealing with MaxNumberOfConformancePacksExceededException
 
 Are overloaded AWS Config limits causing concerns? Wondering how to handle the MaxNumberOfConformancePacksExceededException error? Look no further! In this article, we will dive into the details of com.amazonaws.services.config.model and learn how to effectively manage this exception. So, let's get started and ensure hassle-free AWS Config experience!
 
