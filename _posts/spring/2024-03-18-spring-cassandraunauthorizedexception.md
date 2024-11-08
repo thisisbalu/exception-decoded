@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting CassandraUnauthorizedException in Spring: An In-depth Guide"
+title: "Troubleshooting CassandraUnauthorizedException in Spring: An In-depth Guide"
 date: 2024-03-18 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.cassandra]
