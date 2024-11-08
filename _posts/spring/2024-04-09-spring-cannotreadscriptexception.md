@@ -101,5 +101,3 @@ Remember to validate the script format and language, check the script engine dep
 - Spring Framework Reference Documentation: [https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#scripting](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#scripting)
 - Maven Build Tool: [https://maven.apache.org/](https://maven.apache.org/)
 - Gradle Build Tool: [https://gradle.org/](https://gradle.org/)
-
-**Note:** This article is for educational purposes only, and the code snippets provided are simplified examples. Always ensure to consult the official Spring documentation and consider your specific project requirements for accurate implementation.
