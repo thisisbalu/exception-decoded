@@ -1,5 +1,5 @@
 ---
-title: "Title: Fixing the IncorrectResultSetColumnCountException in Spring: A Comprehensive Guide "
+title: "Fixing the IncorrectResultSetColumnCountException in Spring: A Comprehensive Guide "
 date: 2024-05-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jdbc]
