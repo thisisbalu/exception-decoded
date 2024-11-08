@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding DisabledException in Spring: Handling Disabled User Access with Ease"
+title: "Understanding DisabledException in Spring: Handling Disabled User Access with Ease"
 date: 2024-04-24 09:00:00 -0000
 categories: [Spring, spring-security]
 tags: [spring, spring-unchecked, org.springframework.security.authentication]
