@@ -1,5 +1,5 @@
 ---
-title: "Title: Mastering the LimitExceededException in AWS Elasticsearch"
+title: "Mastering the LimitExceededException in AWS Elasticsearch"
 date: 2024-02-16 09:00:00 -0000
 categories: [AWS, AWS Elasticsearch]
 tags: [aws, elasticsearch, com.amazonaws.services.elasticsearch.model]
