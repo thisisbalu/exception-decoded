@@ -1,5 +1,5 @@
 ---
-title: "Title: Mastering MessagingException: A Comprehensive Spring Guide"
+title: "Mastering MessagingException: A Comprehensive Spring Guide"
 date: 2024-03-13 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.messaging]
