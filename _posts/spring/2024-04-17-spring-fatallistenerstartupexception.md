@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting FatalListenerStartupException in Spring: A Comprehensive Guide"
+title: "Troubleshooting FatalListenerStartupException in Spring: A Comprehensive Guide"
 date: 2024-04-17 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp.rabbit.listener.exception]
