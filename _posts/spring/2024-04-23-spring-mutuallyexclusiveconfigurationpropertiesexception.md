@@ -1,14 +1,10 @@
 ---
-title: "Catchy and SEO Friendly Title:"
+title: "Demystifying the MutuallyExclusiveConfigurationPropertiesException in Spring: Solving Configuration Conundrums"
 date: 2024-04-23 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-checked, org.springframework.boot.context.properties.source]
 mermaid: true
 toc: true
----
-
-## Demystifying the MutuallyExclusiveConfigurationPropertiesException in Spring: Solving Configuration Conundrums
-
 ---
 
 ## Introduction
