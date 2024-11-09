@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying CommonsXsdSchemaException in Spring: A Comprehensive Guide"
+title: "Demystifying CommonsXsdSchemaException in Spring: A Comprehensive Guide"
 date: 2024-03-30 09:00:00 -0000
 categories: [Spring, spring-ws]
 tags: [spring, spring-unchecked, org.springframework.xml.xsd.commons]
