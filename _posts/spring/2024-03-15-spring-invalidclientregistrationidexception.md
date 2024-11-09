@@ -10,7 +10,6 @@ toc: true
 
 _Explore the InvalidClientRegistrationIdException in Spring, its causes, solutions, and best practices to handle the exception effectively._
 
-**Keywords:** InvalidClientRegistrationIdException, Spring, exception, code example, best practices
 
 ## Introduction
 
@@ -107,8 +106,5 @@ In this article, we explored the details of `InvalidClientRegistrationIdExceptio
 - OAuth 2.0: [https://oauth.net/2/](https://oauth.net/2/)
 - OpenID Connect: [https://openid.net/connect/](https://openid.net/connect/)
 
-_[Published on [YourWebsite.com](https://www.yourwebsite.com)]_
 
 ---
-
-Estimated reading time: 15 minutes
