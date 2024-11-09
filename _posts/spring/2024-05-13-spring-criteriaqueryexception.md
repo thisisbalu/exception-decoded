@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-*A comprehensive guide to understanding and handling CriteriaQueryException in Spring, an exception that arises when working with dynamic queries.*
-
----
-
 Are you working with dynamic queries in your Spring application? Do you occasionally encounter a CriteriaQueryException and wonder how to resolve it? In this article, we will delve into the intricacies of CriteriaQueryException, exploring its causes, potential solutions, and best practices for handling it effectively. By the end of this read, you will have a solid understanding of this exception and be equipped with the knowledge needed to overcome it. So, let's get started!
 
 ## Understanding CriteriaQueryException
@@ -110,5 +105,3 @@ Continue exploring the Spring documentation and experimenting with the Criteria 
 - [Java Persistence API (JPA) Specification](https://jakarta.ee/specifications/persistence/)
 - [Criteria API - Oracle Documentation](https://docs.oracle.com/javaee/6/tutorial/doc/gjitv.html)
 - [Effective Java by Joshua Bloch](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
-
-*(Article length: 12 minutes)*
