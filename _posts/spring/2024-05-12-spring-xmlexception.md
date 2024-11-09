@@ -86,5 +86,3 @@ If you encounter an XMLException related to incorrect XML namespaces, carefully 
 XMLExceptions in the Spring framework can be challenging to troubleshoot, but armed with the knowledge gained from this article, you are better equipped to tackle these errors effectively. By paying attention to XML syntax, verifying XML configuration, and correctly handling XML namespaces, you can resolve XMLExceptions and ensure smooth operation of your Spring applications.
 
 Keep on exploring the fantastic world of XML in Spring, and happy coding!
-
-_This article was a 15-minute read. If you'd like to delve deeper into Spring XML configuration, refer to the official Spring documentation: [Spring XML Configuration](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans)._
