@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding and Handling VersionConflictException in AWS IoT"
+title: "Understanding and Handling VersionConflictException in AWS IoT"
 date: 2024-03-03 09:00:00 -0000
 categories: [AWS, AWS IoT]
 tags: [aws, iot, com.amazonaws.services.iot.model]
