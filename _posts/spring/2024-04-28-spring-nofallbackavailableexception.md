@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "Demystifying the NoFallbackAvailableException in Spring: Handling Service Degradation Gracefully"
 date: 2024-04-28 09:00:00 -0000
 categories: [Spring, spring-cloud]
 tags: [spring, spring-unchecked, org.springframework.cloud.client.circuitbreaker]
 mermaid: true
 toc: true
 ---
-
-### Title: Demystifying the NoFallbackAvailableException in Spring: Handling Service Degradation Gracefully
 
 ## Introduction
 
