@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Demystifying the UncategorizedAmqpException in Spring: A Comprehensive Guide"
+title: "Demystifying the UncategorizedAmqpException in Spring: A Comprehensive Guide"
 date: 2024-04-07 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp]
