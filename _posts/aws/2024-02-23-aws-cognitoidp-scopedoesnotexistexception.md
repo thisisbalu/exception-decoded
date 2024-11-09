@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding ScopeDoesNotExistException in AWS Cognito Identity Provider"
+title: "Understanding ScopeDoesNotExistException in AWS Cognito Identity Provider"
 date: 2024-02-23 09:00:00 -0000
 categories: [AWS, AWS Cognito Identity Provider]
 tags: [aws, cognitoidp, com.amazonaws.services.cognitoidp.model]
@@ -114,5 +114,3 @@ Did you find this article helpful? Feel free to share your thoughts and suggesti
 2. [com.amazonaws.services.cognitoidp.model.ScopeDoesNotExistException - AWS SDK for Java Documentation](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/cognitoidp/model/ScopeDoesNotExistException.html)
 
 ---
-
-*Disclaimer: This article is for informational purposes only. The code examples provided are meant for illustrative purposes and may require modification to suit your specific use case.*
