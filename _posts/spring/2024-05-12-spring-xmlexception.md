@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the XmlException in Spring: Handling XML Parsing Errors for Robust Applications"
+title: "Demystifying the XmlException in Spring: Handling XML Parsing Errors for Robust Applications"
 date: 2024-05-12 09:00:00 -0000
 categories: [Spring, spring-ws]
 tags: [spring, spring-unchecked, org.springframework.xml]
