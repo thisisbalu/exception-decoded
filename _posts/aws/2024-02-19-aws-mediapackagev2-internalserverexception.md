@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting Internal Server Exceptions in AWS Media Package V2"
+title: "Troubleshooting Internal Server Exceptions in AWS Media Package V2"
 date: 2024-02-19 09:00:00 -0000
 categories: [AWS, AWS Media Package V2]
 tags: [aws, mediapackagev2, com.amazonaws.services.mediapackagev2.model]
