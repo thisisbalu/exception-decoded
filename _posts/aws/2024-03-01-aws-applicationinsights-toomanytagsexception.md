@@ -84,5 +84,3 @@ By following these guidelines and leveraging the powerful capabilities of AWS Ap
 - [AWS Application Insights Documentation](https://docs.aws.amazon.com/application-insights/index.html)
 - [AWS Application Insights SDKs](https://docs.aws.amazon.com/application-insights/latest/APIReference/Welcome.html)
 - [AmazonApplicationInsights Java SDK Documentation](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/services/applicationinsights/AmazonApplicationInsights.html)
-
-*Note: This article is meant to provide a comprehensive understanding of the `com.amazonaws.services.applicationinsights.model.TooManyTagsException` error in AWS Application Insights. Always refer to the official documentation and consult AWS support for the latest updates and best practices.*
