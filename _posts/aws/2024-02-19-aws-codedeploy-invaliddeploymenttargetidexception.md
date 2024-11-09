@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding InvalidDeploymentTargetIdException in AWS CodeDeploy"
+title: "Understanding InvalidDeploymentTargetIdException in AWS CodeDeploy"
 date: 2024-02-19 09:00:00 -0000
 categories: [AWS, AWS Code Deploy]
 tags: [aws, codedeploy, com.amazonaws.services.codedeploy.model]
