@@ -1,5 +1,5 @@
 ---
-title: "Catchy SEO-friendly Title: Understanding and Handling MissingRequestCookieException in Spring"
+title: "Understanding and Handling MissingRequestCookieException in Spring"
 date: 2024-04-30 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.bind]
