@@ -139,6 +139,3 @@ For further reading, you may want to explore the following resources:
 - [Spring Retry Introduction](https://docs.spring.io/spring-retry/docs/current/reference/html/)
 
 By mastering the handling of `MessageHandlingException`, you can ensure that your Spring applications are ready to tackle real-world challenges with confidence.
-
----
-*Authored by an expert in Spring Framework, this article aims to provide a well-rounded understanding of handling MessageHandlingException within the framework.*
