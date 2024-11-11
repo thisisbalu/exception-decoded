@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting Malformed Policy Document Exception in AWS IAM"
+title: "Troubleshooting Malformed Policy Document Exception in AWS IAM"
 date: 2024-03-04 09:00:00 -0000
 categories: [AWS, AWS IAM (Identity and Access Management)]
 tags: [aws, identitymanagement, com.amazonaws.services.identitymanagement.model]
@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-Introduction (150 words):
+Introduction:
 In AWS IAM (Identity and Access Management), policy documents play a critical role in defining permissions and access control for various resources. However, sometimes we encounter the **MalformedPolicyDocumentException** when working with policy documents. This exception occurs when the policy document is incorrectly formatted or contains invalid syntax, preventing it from being processed by IAM.
 
 In this article, we will explore the possible causes behind this exception and provide step-by-step troubleshooting guidance to rectify it. We will also discuss the key concepts related to policy documents and offer code examples to illustrate the correct syntax and structure. By following the best practices and guidelines outlined in this article, you will be able to quickly diagnose and resolve the MalformedPolicyDocumentException, ensuring smooth access management in your AWS environment.
@@ -143,5 +143,3 @@ References:
 - [AWS IAM Policy Simulator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html)
 - [JSONLint - The JSON Validator](https://jsonlint.com/)
 - [Visual Studio Code - JSON Editing](https://code.visualstudio.com/docs/languages/json)
-
-Estimated Read Time: 15 minutes
