@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying CodecException in Spring: A Comprehensive Guide"
+title: "Demystifying CodecException in Spring: A Comprehensive Guide"
 date: 2024-05-05 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.core.codec]
