@@ -1,5 +1,5 @@
 ---
-title: "**KafkaSendFailureException in Spring: A Deep Dive into Resolving Messaging Failures**"
+title: "KafkaSendFailureException in Spring: A Deep Dive into Resolving Messaging Failures"
 date: 2024-03-27 09:00:00 -0000
 categories: [Spring, spring-integration]
 tags: [spring, spring-unchecked, org.springframework.integration.kafka.support]
