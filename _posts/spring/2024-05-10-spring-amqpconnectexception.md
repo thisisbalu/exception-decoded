@@ -1,5 +1,5 @@
 ---
-title: "**Troubleshooting AMQP Connect Exception in Spring Applications**"
+title: "Troubleshooting AMQP Connect Exception in Spring Applications"
 date: 2024-05-10 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp]
