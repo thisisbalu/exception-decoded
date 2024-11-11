@@ -120,5 +120,3 @@ Keep honing your AMQP authentication skills, and happy coding!
 **References:**
 - [Spring AMQP Documentation](https://docs.spring.io/spring-amqp/docs)
 - [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
-
-*Note: This article is a 15-minute read based on average reading speed.*
