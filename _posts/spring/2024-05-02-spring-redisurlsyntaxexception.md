@@ -125,5 +125,3 @@ To learn more about Redis and Spring integration, refer to the following resourc
 - [Jedis Documentation](https://javadoc.io/doc/redis.clients/jedis/latest/index.html)
 
 Now, armed with the knowledge of resolving the `RedisUrlSyntaxException`, you can confidently build efficient and robust Spring applications that leverage the power of Redis. Happy coding!
-
-*Estimated reading time: 15 minutes*
