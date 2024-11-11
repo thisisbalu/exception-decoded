@@ -1,5 +1,5 @@
 ---
-title: "Article Title: "Understanding IllegalStateException in the Spring Framework: Demystifying Common Errors and Resolving Issues""
+title: "Understanding IllegalStateException in the Spring Framework: Demystifying Common Errors and Resolving Issues"
 date: 2024-03-29 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.jms]
