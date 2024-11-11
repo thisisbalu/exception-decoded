@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling LimitExceededException in AWS Qldb Session: A Comprehensive Guide"
+title: "Handling LimitExceededException in AWS Qldb Session: A Comprehensive Guide"
 date: 2024-02-22 09:00:00 -0000
 categories: [AWS, AWS Qldb Session]
 tags: [aws, qldbsession, com.amazonaws.services.qldbsession.model]
