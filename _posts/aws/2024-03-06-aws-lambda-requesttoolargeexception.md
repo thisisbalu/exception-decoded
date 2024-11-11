@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Handling Large Requests in AWS Lambda: Demystifying the RequestTooLargeException"
+title: "Handling Large Requests in AWS Lambda: Demystifying the RequestTooLargeException"
 date: 2024-03-06 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]
