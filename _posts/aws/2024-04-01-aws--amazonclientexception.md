@@ -8,8 +8,6 @@ toc: true
 ---
 
 
-![AmazonClientException](https://example.com/image.png)
-
 Are you using the com.amazonaws SDK Common? Do you want to learn more about the AmazonClientException class? Look no further! In this article, we will dive deep into the AmazonClientException class, why it is essential, and how to effectively use it in your applications.
 
 ## Table of Contents
