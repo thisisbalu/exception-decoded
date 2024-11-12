@@ -8,14 +8,12 @@ toc: true
 ---
 
 
-Introduction:
---------------
+## Introduction:
 In today's rapidly evolving cloud environment, it is crucial to ensure that your applications can handle high traffic loads and maintain optimal performance. AWS App Mesh, a powerful service mesh tool, helps you efficiently manage and scale your services in a microservices architecture.
 
 One of the challenges you might encounter when using App Mesh is the "TooManyRequestsException" error. In this article, we will explore this exception in detail, discussing its causes and providing solutions to effectively handle it in order to optimize your service communication.
 
-Table of Contents:
-------------------
+## Table of Contents:
 * What is TooManyRequestsException?
 * Primary causes of TooManyRequestsException
 * Strategies to handle TooManyRequestsException
@@ -29,12 +27,10 @@ Table of Contents:
 * Conclusion
 * References
 
-What is TooManyRequestsException?
------------------------------------
+## What is TooManyRequestsException?
 The `TooManyRequestsException` is an Amazon Web Services (AWS) App Mesh specific exception that indicates that a particular service has exceeded the allowed number of requests within a given timeframe. This exception is crucial in managing and maintaining service communication integrity within your App Mesh environment.
 
-Primary causes of TooManyRequestsException:
--------------------------------------------
+##Primary causes of TooManyRequestsException:
 Several factors contribute to the occurrence of the `TooManyRequestsException` in your App Mesh environment. Here are the primary causes:
 
 1. Load spikes: Unexpected traffic spikes can cause a sudden surge in requests, overwhelming your services and triggering this exception.
@@ -43,12 +39,11 @@ Several factors contribute to the occurrence of the `TooManyRequestsException` i
 
 3. Misconfigured rate limiting: Incorrectly configured rate limits can inadvertently allow excessive traffic, causing the exception to be thrown.
 
-Strategies to handle TooManyRequestsException:
-----------------------------------------------
+## Strategies to handle TooManyRequestsException:
 To effectively handle `TooManyRequestsException`, you can implement certain strategies in your App Mesh environment. Let's explore a few of them:
 
-Rate Limiting:
---------------
+## Rate Limiting:
+
 Rate limiting is a crucial approach to managing traffic and mitigating the occurrence of `TooManyRequestsException`. By defining and enforcing specific request limits, you can ensure that your services do not get overwhelmed by traffic spikes. Here's an example of how you can implement rate limiting using Envoy filters:
 
 ```yaml
@@ -63,8 +58,8 @@ http_filters:
         fill_interval: 1s
 ```
 
-Caching:
---------
+## Caching:
+
 Caching is an effective strategy to optimize your service communication and reduce the number of requests that reach your services. AWS Elasticache, a managed in-memory caching service, can be leveraged to store frequently accessed data. Here's an example of how you can integrate caching with Elasticache:
 
 ```java
@@ -85,8 +80,8 @@ if (cache.contains(getObjectRequest)) {
 }
 ```
 
-Circuit Breaking:
------------------
+## Circuit Breaking:
+
 Circuit breaking is a pattern used to detect and prevent performance degradation due to failed services. It involves monitoring the failure rate of dependent services and allowing requests to bypass those services when they are experiencing issues. Here's an example of implementing circuit breaking in AWS App Mesh:
 
 ```yaml
@@ -102,12 +97,12 @@ circuit_breakers:
       track_remaining: true
 ```
 
-Implementation examples in AWS App Mesh:
-----------------------------------------
+## Implementation examples in AWS App Mesh:
+
 Let's now explore specific implementation examples to handle `TooManyRequestsException` within the AWS App Mesh environment.
 
-Rate Limiting using Envoy filters:
------------------------------------
+## Rate Limiting using Envoy filters:
+
 To implement rate limiting, you can leverage the powerful Envoy proxy in your App Mesh. Here's an example of an Envoy filter configuration that enables rate limiting:
 
 ```yaml
@@ -122,8 +117,8 @@ http_filters:
         fill_interval: 1s
 ```
 
-Caching with AWS Elasticache:
------------------------------
+## Caching with AWS Elasticache:
+
 To realize the benefits of caching, you can integrate AWS Elasticache into your App Mesh environment. Here's a Java code snippet that demonstrates caching with Elasticache:
 
 ```java
@@ -144,8 +139,8 @@ if (cache.contains(getObjectRequest)) {
 }
 ```
 
-Circuit Breaking with AWS App Mesh:
------------------------------------
+## Circuit Breaking with AWS App Mesh:
+
 AWS App Mesh provides robust circuit breaking capabilities to manage service failures. Here's an example of a circuit breaker configuration in App Mesh:
 
 ```yaml
@@ -161,12 +156,11 @@ circuit_breakers:
       track_remaining: true
 ```
 
-Conclusion:
-------------
+## Conclusion:
+
 By understanding the causes and implementing effective strategies to handle the `TooManyRequestsException` in your AWS App Mesh environment, you can ensure smoother service communication, optimal performance, and a better user experience. Leveraging rate limiting, caching, and circuit breaking techniques can significantly improve your service availability and scalability.
 
-References:
------------
+## References:
 1. AWS App Mesh documentation: [https://docs.aws.amazon.com/app-mesh/latest/userguide/what-is-app-mesh.html](https://docs.aws.amazon.com/app-mesh/latest/userguide/what-is-app-mesh.html)
 2. AWS Elasticache documentation: [https://aws.amazon.com/elasticache/](https://aws.amazon.com/elasticache/)
 3. Envoy proxy documentation: [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
