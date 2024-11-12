@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling TooManyRequestsException in AWS App Mesh: Optimizing Your Service Communication"
+title: "Handling TooManyRequestsException in AWS App Mesh: Optimizing Your Service Communication"
 date: 2024-08-06 09:00:00 -0000
 categories: [AWS, AWS App Mesh]
 tags: [aws, appmesh, com.amazonaws.services.appmesh.model]
