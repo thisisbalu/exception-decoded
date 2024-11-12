@@ -18,20 +18,6 @@ When working with Spring applications, you might encounter scenarios where datab
 
 In this article, we will delve into the details of `QueryTimeoutException` in Spring, its possible causes, and how to effectively handle and prevent this exception. We will also explore some best practices and solutions to ensure optimal performance and responsiveness in your Spring applications.
 
-## Table of Contents
-
-1. [Understanding Query Timeout Exception](#understanding-query-timeout-exception)
-2. [Causes of Query Timeout Exception](#causes-of-query-timeout-exception)
-3. [Handling Query Timeout Exception](#handling-query-timeout-exception)
-   - 3.1. [Setting Query Timeout](#setting-query-timeout)
-   - 3.2. [Handling Timeout Exceptions](#handling-timeout-exceptions)
-4. [Preventing Query Timeout Exception](#preventing-query-timeout-exception)
-   - 4.1. [Optimizing Queries](#optimizing-queries)
-   - 4.2. [Database Indexing](#database-indexing)
-   - 4.3. [Connection Pool Configuration](#connection-pool-configuration)
-5. [Conclusion](#conclusion)
-
----
 
 ## 1. Understanding Query Timeout Exception
 

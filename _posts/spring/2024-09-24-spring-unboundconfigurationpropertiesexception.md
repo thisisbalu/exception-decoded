@@ -14,13 +14,6 @@ In the realm of Spring framework development, configuration plays a pivotal role
 
 In this article, we will explore the `UnboundConfigurationPropertiesException` and understand its causes, implications, and how to fix it. So, without further ado, let's dive in!
 
-#### Table of Contents
-- [Understanding the `UnboundConfigurationPropertiesException`](#understanding-the-unboundconfigurationexception)
-- [Common Causes of the `UnboundConfigurationPropertiesException`](#common-causes-of-the-unboundconfigurationpropertiesexception)
-- [How to Fix the `UnboundConfigurationPropertiesException`](#how-to-fix-the-unboundconfigurationpropertiesexception)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 #### Understanding the `UnboundConfigurationPropertiesException`
 
 At its core, Spring allows us to configure our applications using properties files, YAML files, or through annotations. We can define various properties to control application behavior, such as database connections, caching mechanisms, and much more.
