@@ -130,4 +130,3 @@ Keep exploring, learning, and developing with Spring, while embracing the challe
 - [log4j](https://logging.apache.org/log4j/2.x/)
 - [logback](https://logback.qos.ch/)
 
-*Disclaimer: This article is intended as a guide and should not be considered an exhaustive resource on the topic. Always refer to the official documentation and consult with experienced professionals for specific cases.*
