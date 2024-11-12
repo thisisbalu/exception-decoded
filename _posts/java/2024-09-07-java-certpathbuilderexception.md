@@ -1,5 +1,5 @@
 ---
-title: ""Demystifying the CertPathBuilderException in Java: A Comprehensive Guide""
+title: "Demystifying the CertPathBuilderException in Java: A Comprehensive Guide"
 date: 2024-09-07 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.security.cert, java-se]

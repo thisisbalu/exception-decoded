@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "Troubleshooting CloudFront: Unveiling the TestFunctionFailedException"
 date: 2024-04-27 09:00:00 -0000
 categories: [AWS, AWS CloudFront]
 tags: [aws, cloudfront, com.amazonaws.services.cloudfront.model]
 mermaid: true
 toc: true
 ---
-
-## Title: Troubleshooting CloudFront: Unveiling the TestFunctionFailedException
 
 ## Introduction
 

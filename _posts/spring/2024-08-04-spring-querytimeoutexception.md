@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-> Note: This article follows best SEO practices and is written in markdown format.
-
----
-
 ## Introduction
 
 When working with Spring applications, you might encounter scenarios where database queries take longer to execute than expected. This can result in a `QueryTimeoutException`, causing your application to become unresponsive and impacting the overall user experience.

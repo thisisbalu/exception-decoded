@@ -12,15 +12,6 @@ toc: true
 
 In this article, we will explore the `NodeQuotaForCustomerExceededException` of the `com.amazonaws.services.dax.model` class in Amazon DynamoDB Accelerator (DAX). We will discuss its significance, causes, and potential solutions. Whether you are a beginner or an experienced developer, this article will provide you with the necessary insights into handling this exception effectively.
 
-## Table of Contents
-
-- [What is Amazon DynamoDB Accelerator (DAX)?](#what-is-amazon-dynamodb-accelerator-dax)
-- [Understanding NodeQuotaForCustomerExceededException](#understanding-nodequotaforcustomerexception)
-- [Causes of NodeQuotaForCustomerExceededException](#causes-of-nodequotaforcustomerexception)
-- [Handling NodeQuotaForCustomerExceededException](#handling-nodequotaforcustomerexception)
-- [Sample Code](#sample-code)
-- [Conclusion](#conclusion)
-
 ## What is Amazon DynamoDB Accelerator (DAX)?
 
 Amazon DynamoDB Accelerator, commonly known as DAX, is an in-memory caching service provided by AWS that seamlessly integrates with Amazon DynamoDB. It improves read performance by caching frequently accessed data, reducing the need for repeated DynamoDB read requests.

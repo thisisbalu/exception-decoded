@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "MailAuthenticationException in Spring: Troubleshooting Email Authentication Issues"
 date: 2024-09-09 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.mail]
@@ -7,9 +7,7 @@ mermaid: true
 toc: true
 ---
 
-## MailAuthenticationException in Spring: Troubleshooting Email Authentication Issues
 
----
 
 **Introduction**
 

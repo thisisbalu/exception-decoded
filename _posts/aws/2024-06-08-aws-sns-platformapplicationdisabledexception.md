@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Understanding PlatformApplicationDisabledException in Amazon Simple Notification Service (SNS)"
 date: 2024-06-08 09:00:00 -0000
 categories: [AWS, Amazon Simple Notification Service]
 tags: [aws, sns, com.amazonaws.services.sns.model]
@@ -7,24 +7,11 @@ mermaid: true
 toc: true
 ---
 
-
-Understanding PlatformApplicationDisabledException in Amazon Simple Notification Service (SNS)
-
 ---
 
 ## Introduction
 
 In the world of modern technology, communication is a vital aspect of any application or platform. With Amazon Simple Notification Service (SNS), developers can easily build scalable, reliable, and flexible communication systems using push notifications. However, sometimes things don't go as planned, and developers may encounter exceptions like the `PlatformApplicationDisabledException`. In this article, we will dive deep into understanding this exception and how to handle it effectively.
-
----
-
-## Table of Contents
-1. [What is the PlatformApplicationDisabledException?](#what-is-the-platformapplicationdisabledexception)
-2. [When Does this Exception Occur?](#when-does-this-exception-occur)
-3. [Handling the PlatformApplicationDisabledException](#handling-the-platformapplicationdisabledexception)
-4. [Code Examples](#code-examples)
-5. [Conclusion](#conclusion)
-6. [References](#references)
 
 ---
 

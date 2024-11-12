@@ -1,14 +1,10 @@
 ---
-title: ""
+title: "KafkaProducerException in Spring: A Deep Dive into Handling and Troubleshooting"
 date: 2024-06-23 09:00:00 -0000
 categories: [Spring, spring-kafka]
 tags: [spring, spring-unchecked, org.springframework.kafka.core]
 mermaid: true
 toc: true
----
-
-## KafkaProducerException in Spring: A Deep Dive into Handling and Troubleshooting
-
 ---
 
 Introduction:

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Understanding AccessDeniedException in AWS HealthLake: A Comprehensive Guide"
 date: 2024-07-06 09:00:00 -0000
 categories: [AWS, AWS Health Lake]
 tags: [aws, healthlake, com.amazonaws.services.healthlake.model]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-## "Understanding AccessDeniedException in AWS HealthLake: A Comprehensive Guide"
 
 ## Introduction:
 

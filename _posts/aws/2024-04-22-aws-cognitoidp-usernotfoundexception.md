@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Demystifying UserNotFoundException in AWS Cognito Identity Provider: Handling User Not Found Errors with Ease"
 date: 2024-04-22 09:00:00 -0000
 categories: [AWS, AWS Cognito Identity Provider]
 tags: [aws, cognitoidp, com.amazonaws.services.cognitoidp.model]
@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-## "Demystifying UserNotFoundException in AWS Cognito Identity Provider: Handling User Not Found Errors with Ease"
-
----
 With the rapid growth of modern web applications, user authentication and authorization have become pivotal aspects of every online platform. Amazon Web Services (AWS) offers a comprehensive solution for user management with its Cognito Identity Provider service. However, like any software, it can encounter errors—such as the notorious `UserNotFoundException`. In this article, we will deep dive into this error, understand its causes, and explore various techniques to handle it effectively. So, let's get started!
 
 ## Table of Contents

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Understanding BeanExpressionException in Spring"
 date: 2024-06-26 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.beans.factory]
@@ -7,7 +7,6 @@ mermaid: true
 toc: true
 ---
 
-## **Understanding BeanExpressionException in Spring**
 
 Welcome to yet another insightful article on Spring framework! In this article, we will dive deep into the world of `BeanExpressionException` and explore its various aspects. So, get ready for an informative journey through the intricacies of Spring's exception handling mechanism.
 

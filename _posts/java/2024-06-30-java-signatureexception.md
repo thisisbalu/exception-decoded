@@ -11,17 +11,6 @@ toc: true
 ## Introduction
 In today's digital era, security plays a vital role in various software applications. One commonly used cryptographic technique is digital signatures, which provide an additional layer of data integrity and authenticity. However, as with any sophisticated technology, challenges may arise. In this article, we will explore the SignatureException in Java and discuss how to effectively handle them in your applications.
 
-## Table of Contents
-- [What is a SignatureException?](#what-is-a-signatureexception)
-- [Handling SignatureExceptions](#handling-signatureexceptions)
-  - [1. Checking for SignatureException](#checking-for-signatureexception)
-  - [2. Verifying Digital Signatures](#verifying-digital-signatures)
-  - [3. Handling Invalid Signatures](#handling-invalid-signatures)
-- [Examples and Code Snippets](#examples-and-code-snippets)
-- [Best Practices for Secure Signatures](#best-practices-for-secure-signatures)
-- [Closing Thoughts](#closing-thoughts)
-- [References](#references)
-
 ## What is a SignatureException?
 A SignatureException in Java is a subclass of the general `java.lang.Exception` class, specifically designed to handle issues related to digital signatures. It is thrown when there is an error during the generation or verification of a digital signature. Typical causes for this exception include improper key management, invalid algorithm configurations, or corrupted signature data.
 

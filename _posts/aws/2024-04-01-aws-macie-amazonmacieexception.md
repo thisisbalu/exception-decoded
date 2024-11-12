@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Understanding AmazonMacieException: Everything You Need to Know about com.amazonaws.services.macie.model in AWS Macie"
 date: 2024-04-01 09:00:00 -0000
 categories: [AWS, AWS Macie]
 tags: [aws, macie, com.amazonaws.services.macie.model]
@@ -7,8 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-### Understanding AmazonMacieException: Everything You Need to Know about com.amazonaws.services.macie.model in AWS Macie
 
 Introduction:
 ==============

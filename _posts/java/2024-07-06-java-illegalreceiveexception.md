@@ -1,5 +1,5 @@
 ---
-title: ""Demystifying IllegalReceiveException in Java: What, Why, and How to Handle It""
+title: "Demystifying IllegalReceiveException in Java: What, Why, and How to Handle It"
 date: 2024-07-06 09:00:00 -0000
 categories: [Java, jdk.sctp]
 tags: [java, java-unchecked, com.sun.nio.sctp, jdk]
