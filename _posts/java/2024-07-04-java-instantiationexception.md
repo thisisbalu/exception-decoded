@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO-friendly Title: Unraveling the Mysteries of InstantiationException in Java"
+title: "Unraveling the Mysteries of InstantiationException in Java"
 date: 2024-07-04 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.lang, java-se]

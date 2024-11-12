@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: ""
 date: 2024-09-10 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.redis]
@@ -78,4 +78,3 @@ Now that you have a better understanding of the `TooManyClusterRedirectionsExcep
 
 ---
 
-*Disclaimer: The code examples provided in this article are for illustrative purposes only. Please adapt them according to your specific requirements and best practices.*

@@ -105,4 +105,3 @@ In this article, we explored the `AccessDeniedException` in Spring, learned abou
 
 Take a step forward and integrate `AccessDeniedException` handling in your Spring application today! For more information, refer to the official Spring Security documentation: [https://docs.spring.io/spring-security/site/docs/current/reference/html5/](https://docs.spring.io/spring-security/site/docs/current/reference/html5/).
 
-*Estimated reading time: 15 minutes*

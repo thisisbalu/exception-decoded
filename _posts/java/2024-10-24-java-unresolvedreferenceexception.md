@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding UnresolvedReferenceException in Java: A Comprehensive Guide for Developers"
+title: "Understanding UnresolvedReferenceException in Java: A Comprehensive Guide for Developers"
 date: 2024-10-24 09:00:00 -0000
 categories: [Java, jdk.jshell]
 tags: [java, java-unchecked, jdk.jshell, jdk]

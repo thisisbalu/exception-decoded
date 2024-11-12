@@ -76,7 +76,6 @@ In this example, if we remember to set the interest operations to `OP_ACCEPT` af
 
 Treading the Java landscape, `AcceptPendingException` is a critical exception in the Java NIO package. The key to managing such scenarios often lies in a robust design that uses `SelectionKey` and judiciously defines the accept operations to avoid repetitive calls. If you're deep-diving into Java NIO operations, this understanding will be indispensable.
 
-*Disclaimer: While this article offers insights into managing `AcceptPendingException`, the behavior is dependent on the JVM and may differ across JVM implementations.*
 
 ## References:
 

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying InvalidRuntimeException in AWS Lambda"
+title: "Demystifying InvalidRuntimeException in AWS Lambda"
 date: 2024-07-14 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]

@@ -113,4 +113,3 @@ Happy scheduling!
 - [AWS BatchWriteJobRequest documentation](https://docs.aws.amazon.com/scheduler/latest/APIReference/API_BatchWriteJobRequest.html)
 - [AWS CloudWatch metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 
-*Total reading time: 15 minutes*

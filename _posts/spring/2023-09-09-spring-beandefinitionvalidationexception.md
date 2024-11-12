@@ -59,5 +59,4 @@ Remember to always review your bean definitions, adhere to proper naming convent
 
 The more you learn about the Spring framework, the better you’ll get at writing efficient Spring applications. Happy coding!
 
-**Disclaimer: This article assumes that the reader has a basic understanding of the Spring Framework, Beans and their configurations.**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying PoxMessageException in Spring: Handling and Preventing XML Parsing Issues
+title: "Demystifying PoxMessageException in Spring: Handling and Preventing XML Parsing Issues
 application.properties"
 date: 2024-09-30 09:00:00 -0000
 categories: [Spring, spring-ws]

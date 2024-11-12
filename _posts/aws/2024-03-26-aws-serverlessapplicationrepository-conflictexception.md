@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ConflictException in AWS Serverless Application Repository"
+title: "Understanding ConflictException in AWS Serverless Application Repository"
 date: 2024-03-26 09:00:00 -0000
 categories: [AWS, AWS Serverless Application Repository]
 tags: [aws, serverlessapplicationrepository, com.amazonaws.services.serverlessapplicationrepository.model]

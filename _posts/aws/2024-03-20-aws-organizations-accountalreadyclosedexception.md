@@ -1,5 +1,5 @@
 ---
-title: "Title: AccountAlreadyClosedException in AWS Organizations: How to Handle and Troubleshoot"
+title: "AccountAlreadyClosedException in AWS Organizations: How to Handle and Troubleshoot"
 date: 2024-03-20 09:00:00 -0000
 categories: [AWS, AWS Organizations]
 tags: [aws, organizations, com.amazonaws.services.organizations.model]
@@ -95,4 +95,3 @@ For more information about the `AccountAlreadyClosedException` and AWS Organizat
 
 **Note**: This article provides general guidance and steps for troubleshooting the `AccountAlreadyClosedException`. It is recommended to refer to the official AWS documentation and consult with AWS Support for specific issues and account-related concerns.
 
-*Estimated reading time: 15 minutes*

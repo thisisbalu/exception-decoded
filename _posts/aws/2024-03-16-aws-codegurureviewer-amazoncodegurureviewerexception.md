@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Unraveling the AmazonCodeGuruReviewerException in AWS Code Guru Reviewer: A Deep Dive into Exception Handling"
+title: "Unraveling the AmazonCodeGuruReviewerException in AWS Code Guru Reviewer: A Deep Dive into Exception Handling"
 date: 2024-03-16 09:00:00 -0000
 categories: [AWS, AWS Code Guru Reviewer]
 tags: [aws, codegurureviewer, com.amazonaws.services.codegurureviewer.model]

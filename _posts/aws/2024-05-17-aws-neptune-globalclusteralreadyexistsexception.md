@@ -83,4 +83,3 @@ Investing time in familiarizing yourself with error codes like GlobalClusterAlre
 
 Now that you're equipped with the knowledge to tackle GlobalClusterAlreadyExistsException, optimize your AWS Neptune experience by implementing these best practices and keep your global clusters running smoothly!
 
-*Estimated reading time: 15 minutes*

@@ -100,5 +100,3 @@ By understanding the `InvalidAliasNameException` and following the recommended p
 For more details, refer to the official AWS documentation on [InvalidAliasNameException](https://docs.aws.amazon.com/kms/latest/APIReference/API_InvalidAliasNameException.html) and [AWS KMS](https://aws.amazon.com/kms/).
 
 *Note: This article provides general information and should not be considered as legal or professional advice. Always refer to the official documentation and consult with experts when dealing with security-related matters.*
-
-*Estimated reading time: 15 minutes*

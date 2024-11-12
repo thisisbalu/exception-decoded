@@ -87,5 +87,3 @@ In this article, we explored the `AccessDeniedException` in AWS CodeGuru Securit
 If you require further assistance or have additional questions, refer to the [official AWS CodeGuru Security documentation](https://docs.aws.amazon.com/codeguru/latest/recommendations/security-welcome.html) or reach out to the AWS support team for advanced troubleshooting.
 
 Happy coding and secure programming!
-
-*Estimated reading time: 15 minutes*

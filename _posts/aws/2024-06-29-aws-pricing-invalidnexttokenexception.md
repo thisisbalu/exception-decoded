@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding and Handling InvalidNextTokenException in AWS Pricing"
+title: "Understanding and Handling InvalidNextTokenException in AWS Pricing"
 date: 2024-06-29 09:00:00 -0000
 categories: [AWS, AWS Pricing]
 tags: [aws, pricing, com.amazonaws.services.pricing.model]

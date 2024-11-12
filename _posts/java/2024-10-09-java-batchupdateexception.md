@@ -156,4 +156,3 @@ It's time to embrace the power of batch updates and revolutionize your Java appl
 - [Best Practices for Bulk Data Insertion in JDBC](http://technobytz.com/best-practices-for-bulk-data-processing-in-jdbc.html)
 
 ---
-Estimated reading time: 15 minutes.

@@ -123,4 +123,3 @@ To learn more about Spring and web service transformation, refer to the followin
 
 Keep refining your web service transformation skills, and happy coding!
 
-*Estimated reading time: 15 minutes*

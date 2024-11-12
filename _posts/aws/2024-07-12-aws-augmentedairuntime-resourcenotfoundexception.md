@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the ResourceNotFoundException in AWS Augmented AI Runtime
+title: "Demystifying the ResourceNotFoundException in AWS Augmented AI Runtime
         Handle the ResourceNotFoundException gracefully
         Log an appropriate error message or initiate a fallback strategy
         ..."
@@ -86,4 +86,3 @@ For more information on how to interact with A2IR and handle exceptions, refer t
 
 We hope this article has been insightful and has equipped you with the knowledge to handle the `ResourceNotFoundException` effectively. Happy coding!
 
-*Estimated reading time: 15 minutes*

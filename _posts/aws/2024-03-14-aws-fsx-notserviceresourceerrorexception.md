@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying NotServiceResourceErrorException in AWS FSx"
+title: "Demystifying NotServiceResourceErrorException in AWS FSx"
 date: 2024-03-14 09:00:00 -0000
 categories: [AWS, AWS FSx]
 tags: [aws, fsx, com.amazonaws.services.fsx.model]

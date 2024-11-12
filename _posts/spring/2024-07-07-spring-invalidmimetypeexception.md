@@ -1,5 +1,5 @@
 ---
-title: "Catchy title: Dealing with InvalidMimeTypeException in Spring: A Comprehensive Guide"
+title: "Dealing with InvalidMimeTypeException in Spring: A Comprehensive Guide"
 date: 2024-07-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-checked, org.springframework.util]

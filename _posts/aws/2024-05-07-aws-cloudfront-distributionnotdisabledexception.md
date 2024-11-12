@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding DistributionNotDisabledException in AWS CloudFront: Efficient Content Delivery Made Easy"
+title: "Understanding DistributionNotDisabledException in AWS CloudFront: Efficient Content Delivery Made Easy"
 date: 2024-05-07 09:00:00 -0000
 categories: [AWS, AWS CloudFront]
 tags: [aws, cloudfront, com.amazonaws.services.cloudfront.model]
@@ -63,4 +63,3 @@ For more information on the DistributionNotDisabledException model and other rel
 
 Keep experimenting and discover the immense potential of AWS CloudFront to help you deliver content at lightning-fast speeds, ultimately enhancing user experience on your website or application. Happy CloudFronting!
 
-###### Estimated reading time: 10 minutes

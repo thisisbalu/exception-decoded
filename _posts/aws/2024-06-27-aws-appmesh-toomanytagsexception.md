@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the `TooManyTagsException` in AWS App Mesh"
+title: "Demystifying the `TooManyTagsException` in AWS App Mesh"
 date: 2024-06-27 09:00:00 -0000
 categories: [AWS, AWS App Mesh]
 tags: [aws, appmesh, com.amazonaws.services.appmesh.model]
@@ -40,4 +40,3 @@ The `TooManyTagsException` can be an unexpected hurdle while working with AWS Ap
 
 We hope this article has shed light on the `TooManyTagsException` in AWS App Mesh and provided you with valuable insights on how to address it. For more information on AWS App Mesh and related topics, refer to the official [AWS App Mesh documentation](https://docs.aws.amazon.com/app-mesh/index.html).
 
-*Estimated reading time: 15 minutes*

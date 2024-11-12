@@ -117,4 +117,3 @@ To learn more about network programming in Java, refer to the following resource
 
 Remember, handling the `ClosedConnectionException` effectively not only ensures smooth user experience but also demonstrates your expertise in network programming. So go ahead and conquer the realm of robust network connections with Java!
 
-*Estimated reading time: 15 minutes*

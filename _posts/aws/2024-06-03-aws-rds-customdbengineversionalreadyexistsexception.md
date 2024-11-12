@@ -1,5 +1,5 @@
 ---
-title: "Title: CustomDBEngineVersionAlreadyExistsException in AWS RDS: A Comprehensive Guide to Resolve Database Engine Version Conflicts"
+title: "CustomDBEngineVersionAlreadyExistsException in AWS RDS: A Comprehensive Guide to Resolve Database Engine Version Conflicts"
 date: 2024-06-03 09:00:00 -0000
 categories: [AWS, AWS RDS]
 tags: [aws, rds, com.amazonaws.services.rds.model]
@@ -80,5 +80,3 @@ For further information and guidance on Amazon RDS and custom database engine ve
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/)
 
 Happy coding and managing your AWS resources efficiently!
-
-*Estimated reading time: 15 minutes*

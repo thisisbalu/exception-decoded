@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding and Handling NoSuchAttributeException in Java"
+title: "Understanding and Handling NoSuchAttributeException in Java"
 date: 2024-07-24 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming.directory, java-se]

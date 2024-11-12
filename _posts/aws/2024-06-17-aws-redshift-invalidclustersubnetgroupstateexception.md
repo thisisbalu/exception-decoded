@@ -86,4 +86,3 @@ Keep your AWS Redshift cluster running efficiently and enjoy uninterrupted data 
 
 Happy troubleshooting!
 
-*Estimated reading time: 15 minutes*

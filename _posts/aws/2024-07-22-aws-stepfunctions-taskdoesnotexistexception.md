@@ -156,5 +156,3 @@ The `TaskDoesNotExistException` is an important exception to be aware of when wo
 - [AWS Step Functions API Reference](https://docs.aws.amazon.com/step-functions/latest/apireference/welcome.html)
 
 This article provided valuable insights into the `TaskDoesNotExistException` of `com.amazonaws.services.stepfunctions.model` in AWS Step Functions. We covered the causes of this exception, various strategies for handling it, and best practices to minimize its occurrence. By implementing these recommendations, you can ensure smooth and error-free execution of your Step Functions workflows. Happy coding!
-
-*Estimated reading time: 15 minutes*

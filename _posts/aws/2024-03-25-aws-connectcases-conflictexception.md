@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding ConflictException in Amazon Connect Cases"
+title: "Understanding ConflictException in Amazon Connect Cases"
 date: 2024-03-25 09:00:00 -0000
 categories: [AWS, Amazon Connect Cases]
 tags: [aws, connectcases, com.amazonaws.services.connectcases.model]

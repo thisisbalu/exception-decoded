@@ -106,4 +106,3 @@ We hope this comprehensive guide has provided you with valuable insights into Sy
 - [Logging with Log4j](https://logging.apache.org/log4j/2.x/)
 - [Java File Class - Java Platform SE 8 API](https://docs.oracle.com/javase/8/docs/api/java/io/File.html)
 
-*Estimated reading time: 7 minutes*

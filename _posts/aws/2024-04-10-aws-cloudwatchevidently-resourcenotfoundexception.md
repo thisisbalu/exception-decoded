@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Dealing with ResourceNotFoundException in AWS CloudWatch Evidently"
+title: "Dealing with ResourceNotFoundException in AWS CloudWatch Evidently"
 date: 2024-04-10 09:00:00 -0000
 categories: [AWS, AWS CloudWatch Evidently]
 tags: [aws, cloudwatchevidently, com.amazonaws.services.cloudwatchevidently.model]

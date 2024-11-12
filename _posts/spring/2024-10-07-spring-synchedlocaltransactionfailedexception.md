@@ -102,4 +102,3 @@ Happy coding!
 - [Rollbar](https://rollbar.com/)
 - [Spring Retry](https://github.com/spring-projects/spring-retry)
 
-*Estimated Reading Time: 15 minutes*

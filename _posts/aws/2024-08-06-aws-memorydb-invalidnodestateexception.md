@@ -109,4 +109,3 @@ Remember to keep your Memory DB cluster's configuration, network connectivity, a
 
 Thank you for reading and happy coding!
 
-*Estimated reading time: 15 minutes*

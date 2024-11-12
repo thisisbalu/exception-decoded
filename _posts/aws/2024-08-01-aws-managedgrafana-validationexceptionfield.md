@@ -1,5 +1,5 @@
 ---
-title: "Title: Deep Dive into ValidationExceptionField in Amazon Managed Grafana"
+title: "Deep Dive into ValidationExceptionField in Amazon Managed Grafana"
 date: 2024-08-01 09:00:00 -0000
 categories: [AWS, Amazon Managed Grafana]
 tags: [aws, managedgrafana, com.amazonaws.services.managedgrafana.model]

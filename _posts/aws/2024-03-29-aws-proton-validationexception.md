@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding and Handling ValidationException in AWS Proton"
+title: "Understanding and Handling ValidationException in AWS Proton"
 date: 2024-03-29 09:00:00 -0000
 categories: [AWS, AWS Proton]
 tags: [aws, proton, com.amazonaws.services.proton.model]

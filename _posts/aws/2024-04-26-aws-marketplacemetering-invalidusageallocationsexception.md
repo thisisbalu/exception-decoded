@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding the InvalidUsageAllocationsException in AWS Marketplace Metering"
+title: "Understanding the InvalidUsageAllocationsException in AWS Marketplace Metering"
 date: 2024-04-26 09:00:00 -0000
 categories: [AWS, AWS Marketplace Metering]
 tags: [aws, marketplacemetering, com.amazonaws.services.marketplacemetering.model]

@@ -120,4 +120,3 @@ Remember to always validate character set names before using them, handle except
 
 *This article is a featured publication of [YourTechnicalBlog.com](https://yourtechnicalblog.com/). Read more insightful articles on Java programming and other technical topics at our website.*
 
-Estimated Reading Time: 15 minutes

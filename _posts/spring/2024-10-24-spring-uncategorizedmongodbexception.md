@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Dealing with the UncategorizedMongoDbException in Spring: A Comprehensive Guide"
+title: "Dealing with the UncategorizedMongoDbException in Spring: A Comprehensive Guide"
 date: 2024-10-24 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.mongodb]

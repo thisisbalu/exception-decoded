@@ -1,5 +1,5 @@
 ---
-title: "Title: Digging Into UncategorizedTransactionDataAccessException in Spring: Understanding the Causes and Solutions"
+title: "Digging Into UncategorizedTransactionDataAccessException in Spring: Understanding the Causes and Solutions"
 date: 2024-08-08 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.couchbase.transaction.error]
@@ -86,7 +86,6 @@ The `UncategorizedTransactionDataAccessException` can be a confusing exception t
 
 Remember, proper configuration and a good understanding of Spring's transaction management features play a crucial role in avoiding the `UncategorizedTransactionDataAccessException`. Stay informed, stay vigilant, and enjoy seamless transaction handling in your Spring applications!
 
-**Estimated reading time:** 15 minutes
 
 **References:**
 - Spring Framework Reference Documentation: [Transaction Management](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/data-access.html#transaction)

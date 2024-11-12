@@ -72,4 +72,3 @@ Don't let JMXServerErrorException hinder the performance of your Java applicatio
 - [VisualVM - All-in-One Java Troubleshooting Tool](https://visualvm.github.io/)
 - [Monitoring and Managing with JMX](https://www.oreilly.com/library/view/monitoring-and-managing/0596006512/)
 
-***Estimated Reading Time: 15 minutes***

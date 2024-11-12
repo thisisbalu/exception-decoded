@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting DBUpgradeDependencyFailureException in Amazon DocumentDB"
+title: "Troubleshooting DBUpgradeDependencyFailureException in Amazon DocumentDB"
 date: 2024-04-22 09:00:00 -0000
 categories: [AWS, Amazon DocumentDB]
 tags: [aws, docdb, com.amazonaws.services.docdb.model]

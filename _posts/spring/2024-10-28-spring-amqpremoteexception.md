@@ -1,5 +1,5 @@
 ---
-title: "Title: Unveiling the Power of AmqpRemoteException in Spring: A Must-Have for Robust Messaging Applications"
+title: "Unveiling the Power of AmqpRemoteException in Spring: A Must-Have for Robust Messaging Applications"
 date: 2024-10-28 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp]

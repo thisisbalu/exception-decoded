@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: "
+title: ""
 date: 2024-04-22 09:00:00 -0000
 categories: [AWS, AWS Cognito Identity Provider]
 tags: [aws, cognitoidp, com.amazonaws.services.cognitoidp.model]
@@ -102,4 +102,3 @@ Remember, robust error handling is just one aspect of building secure and user-f
 4. [AWS Cognito Identity Provider Documentation](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 
 ---
-*Estimated reading time: 15 minutes*

@@ -83,4 +83,3 @@ References:
 - [Hibernate Documentation - Associations](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html#associations)
 - [Stack Overflow - How to handle JPA's InvalidRelationIdException](https://stackoverflow.com/questions/24832738/how-to-handle-jpas-invalidrelationidexception)
 
-*Disclaimer: This article is provided for informational purposes only and does not constitute professional advice. Always consult the official documentation and seek professional assistance for specific implementation or debugging issues.*

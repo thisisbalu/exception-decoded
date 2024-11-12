@@ -84,5 +84,3 @@ Now that you have a comprehensive understanding of `AWSCloudTrailDataException`,
 - [AWS CloudTrail API Reference](https://docs.aws.amazon.com/cloudtrail/)
 - [AWS Service Health Dashboard](https://status.aws.amazon.com/)
 
-*Disclaimer:*
-The information provided in this article is intended for educational purposes only.

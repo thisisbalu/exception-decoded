@@ -107,4 +107,3 @@ In this article, we explored the `CassandraSchemaElementExistsException`, its ca
 - [Flyway Migration Tool](https://flywaydb.org/)
 - [Liquibase Migration Tool](https://www.liquibase.org/)
 
-*Estimated reading time: 15 minutes*

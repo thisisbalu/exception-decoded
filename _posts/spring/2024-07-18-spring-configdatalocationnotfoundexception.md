@@ -91,4 +91,3 @@ References:
 - [Apache Maven Documentation](https://maven.apache.org/guides/index.html)
 - [Gradle Official Documentation](https://docs.gradle.org/current/userguide/userguide.html)
 
-*Estimated reading time: 15 minutes*

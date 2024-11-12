@@ -8,8 +8,6 @@ toc: true
 ---
 
 
-<!--- Catchy and SEO-friendly title that incorporates the keywords "ObjenesisException" and "Spring" --->
-
 _This article is a detailed dive into the concept and usage of `ObjenesisException` in Spring framework. We will explore what `ObjenesisException` is, its significance in Spring applications, and how to handle it effectively. So, let's get started!_
 
 ## Introduction

@@ -1,5 +1,5 @@
 ---
-title: "Title: Exploring the LimitExceededException in AWS CloudWatch Events"
+title: "Exploring the LimitExceededException in AWS CloudWatch Events"
 date: 2024-07-10 09:00:00 -0000
 categories: [AWS, AWS CloudWatch Events]
 tags: [aws, cloudwatchevents, com.amazonaws.services.cloudwatchevents.model]

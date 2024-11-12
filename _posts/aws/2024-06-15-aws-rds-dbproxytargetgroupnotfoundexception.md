@@ -153,4 +153,3 @@ For more information, refer to the following official AWS documentation:
 
 Keep exploring the powerful features of AWS RDS and DMS, and happy coding!
 
-*Estimated reading time: 15 minutes*

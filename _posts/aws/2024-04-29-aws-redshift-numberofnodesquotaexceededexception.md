@@ -1,5 +1,5 @@
 ---
-title: "Title: How to handle NumberOfNodesQuotaExceededException in AWS Redshift"
+title: "How to handle NumberOfNodesQuotaExceededException in AWS Redshift"
 date: 2024-04-29 09:00:00 -0000
 categories: [AWS, AWS Redshift]
 tags: [aws, redshift, com.amazonaws.services.redshift.model]

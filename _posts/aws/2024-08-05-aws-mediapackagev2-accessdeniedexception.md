@@ -1,5 +1,5 @@
 ---
-title: "Title: AWS Media Package V2 AccessDeniedException: Understanding and Troubleshooting"
+title: "AWS Media Package V2 AccessDeniedException: Understanding and Troubleshooting"
 date: 2024-08-05 09:00:00 -0000
 categories: [AWS, AWS Media Package V2]
 tags: [aws, mediapackagev2, com.amazonaws.services.mediapackagev2.model]
@@ -99,4 +99,3 @@ The `AccessDeniedException` of `com.amazonaws.services.mediapackagev2.model` can
 - AWS Security Token Service API Reference: [https://docs.aws.amazon.com/STS/latest/APIReference/welcome.html](https://docs.aws.amazon.com/STS/latest/APIReference/welcome.html)
 - Troubleshooting AWS MediaPackage: [https://aws.amazon.com/premiumsupport/knowledge-center/troubleshoot-mediapackage/](https://aws.amazon.com/premiumsupport/knowledge-center/troubleshoot-mediapackage/)
 
-*Estimated Reading Time: 15 minutes*

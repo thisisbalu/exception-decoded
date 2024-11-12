@@ -121,4 +121,3 @@ Feel free to explore the additional resources provided below for more in-depth i
 
 Now armed with this knowledge, go forth and conquer any `ParameterResolverMissingException` you may encounter in your Spring projects with confidence and ease!
 
-*Estimated reading time: 15 minutes*

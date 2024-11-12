@@ -88,4 +88,3 @@ For more information on Spring exceptions, refer to the [official Spring documen
 
 Thank you for reading, and happy coding!
 
-*Estimated reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying InvalidResourceException in AWS Shield"
+title: "Demystifying InvalidResourceException in AWS Shield"
 date: 2024-03-31 09:00:00 -0000
 categories: [AWS, AWS Shield]
 tags: [aws, shield, com.amazonaws.services.shield.model]
@@ -108,4 +108,3 @@ For more information on AWS Shield and exception handling, please refer to the o
 
 Thank you for reading this article. Stay vigilant, stay secure!
 
-*Estimated reading time: 15 minutes*

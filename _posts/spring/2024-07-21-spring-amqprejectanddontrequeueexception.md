@@ -89,4 +89,3 @@ To learn more about AMQP in Spring, I recommend exploring the official Spring do
 
 Thanks for reading!
 
-###### Estimated reading time: 15 minutes.

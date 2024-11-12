@@ -1,5 +1,5 @@
 ---
-title: "Title: AWS Shield: Understanding the ValidationExceptionField"
+title: "AWS Shield: Understanding the ValidationExceptionField"
 date: 2024-05-14 09:00:00 -0000
 categories: [AWS, AWS Shield]
 tags: [aws, shield, com.amazonaws.services.shield.model]

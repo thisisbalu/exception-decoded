@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting EFSIOException in AWS Lambda - Resolving File System Errors "
+title: "Troubleshooting EFSIOException in AWS Lambda - Resolving File System Errors "
 date: 2024-06-16 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]

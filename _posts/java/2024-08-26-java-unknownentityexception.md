@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting the UnknownEntityException in Java: A Deep Dive into Handling Unknown Entities"
+title: "Troubleshooting the UnknownEntityException in Java: A Deep Dive into Handling Unknown Entities"
 date: 2024-08-26 09:00:00 -0000
 categories: [Java, java.compiler]
 tags: [java, java-unchecked, javax.lang.model, java-se]

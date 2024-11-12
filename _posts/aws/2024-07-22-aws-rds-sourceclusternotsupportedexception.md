@@ -8,8 +8,6 @@ toc: true
 ---
 
 
-<!-- catchy introduction paragraph to grab readers' attention -->
-
 Are you leveraging the power of Amazon Web Services (AWS) Relational Database Service (RDS) for managing your databases in the cloud? If so, you may have encountered the SourceClusterNotSupportedException when working with RDS clusters. In this article, we'll dive deep into this exception and explore its implications, limitations, and potential workarounds. Whether you're new to AWS RDS or an experienced user, understanding SourceClusterNotSupportedException will help you make better-informed decisions when designing your database infrastructure.
 
 ## What is SourceClusterNotSupportedException?

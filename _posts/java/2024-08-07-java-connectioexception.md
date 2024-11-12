@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting ConnectIOException in Java: Causes and Solutions"
+title: "Troubleshooting ConnectIOException in Java: Causes and Solutions"
 date: 2024-08-07 09:00:00 -0000
 categories: [Java, java.rmi]
 tags: [java, java-unchecked, java.rmi, java-se]

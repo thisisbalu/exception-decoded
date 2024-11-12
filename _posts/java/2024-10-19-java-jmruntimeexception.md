@@ -1,5 +1,5 @@
 ---
-title: "Title: Unraveling the Mysteries of JMRuntimeException in Java"
+title: "Unraveling the Mysteries of JMRuntimeException in Java"
 date: 2024-10-19 09:00:00 -0000
 categories: [Java, java.management]
 tags: [java, java-unchecked, javax.management, java-se]

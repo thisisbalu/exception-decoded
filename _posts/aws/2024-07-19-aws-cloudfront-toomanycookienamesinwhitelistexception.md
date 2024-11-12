@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting `TooManyCookieNamesInWhiteListException` in AWS CloudFront"
+title: "Troubleshooting `TooManyCookieNamesInWhiteListException` in AWS CloudFront"
 date: 2024-07-19 09:00:00 -0000
 categories: [AWS, AWS CloudFront]
 tags: [aws, cloudfront, com.amazonaws.services.cloudfront.model]

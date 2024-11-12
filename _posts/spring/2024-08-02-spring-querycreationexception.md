@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding QueryCreationException in Spring: Handling and Troubleshooting SQL Queries Efficiently"
+title: "Understanding QueryCreationException in Spring: Handling and Troubleshooting SQL Queries Efficiently"
 date: 2024-08-02 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.repository.query]

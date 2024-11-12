@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Demystifying the StandardScriptEvalException in Spring: An In-depth Analysis"
+title: "Demystifying the StandardScriptEvalException in Spring: An In-depth Analysis"
 date: 2024-10-22 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.scripting.support]

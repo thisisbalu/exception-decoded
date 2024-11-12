@@ -1,5 +1,5 @@
 ---
-title: "Title: SessionFactoryLookupFailureException in Spring: A Comprehensive Guide to Troubleshoot and Resolve"
+title: "SessionFactoryLookupFailureException in Spring: A Comprehensive Guide to Troubleshoot and Resolve"
 date: 2024-07-15 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.cassandra.core.cql.session.lookup]
@@ -115,4 +115,3 @@ For more information, please refer to the following resources:
 
 **Note**: This article is a part of a series on common exceptions in Spring. Make sure to explore our other articles in this series to enhance your understanding of troubleshooting and resolving Spring exceptions.
 
-*Estimated reading time: 15 minutes*

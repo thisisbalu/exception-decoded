@@ -78,4 +78,3 @@ By following these recommendations, you can effectively handle the InternalServi
 - Amazon SageMaker Edge Manager Java SDK: [https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
 - Amazon SageMaker Edge Manager Support: [https://aws.amazon.com/contact-us/](https://aws.amazon.com/contact-us/)
 
-*Total reading time: 15 minutes*

@@ -91,4 +91,3 @@ Thank you for reading this guide! We hope you found it informative and that it h
 - AWS Access Analyzer [Official Documentation](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/Welcome.html)
 - AWS Service Health Dashboard [Status Page](https://status.aws.amazon.com)
 
-*Estimated reading time: 15 minutes*

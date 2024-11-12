@@ -1,5 +1,5 @@
 ---
-title: "Title: The Comprehensive Guide to ExecutionException in Java - Understanding Its Causes and Finding Effective Solutions"
+title: "The Comprehensive Guide to ExecutionException in Java - Understanding Its Causes and Finding Effective Solutions"
 date: 2024-06-28 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.util.concurrent, java-se]
@@ -109,4 +109,3 @@ To delve deeper into exception handling and concurrent programming in Java, feel
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

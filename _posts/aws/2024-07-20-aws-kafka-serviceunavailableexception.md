@@ -1,5 +1,5 @@
 ---
-title: "Title: Unleashing the Power of com.amazonaws.services.kafka.model.ServiceUnavailableException in Amazon Managed Streaming for Apache Kafka"
+title: "Unleashing the Power of com.amazonaws.services.kafka.model.ServiceUnavailableException in Amazon Managed Streaming for Apache Kafka"
 date: 2024-07-20 09:00:00 -0000
 categories: [AWS, Amazon Managed Streaming for Apache Kafka]
 tags: [aws, kafka, com.amazonaws.services.kafka.model]

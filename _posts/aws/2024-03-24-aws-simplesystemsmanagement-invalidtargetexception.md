@@ -88,4 +88,3 @@ To learn more about AWS SSM and troubleshooting common issues, refer to the foll
 
 With the knowledge and insights gained from this article, you're now better equipped to handle the `InvalidTargetException` and improve the efficiency and reliability of your AWS SSM operations. Happy troubleshooting!
 
-Estimated Reading Time: 15 minutes.

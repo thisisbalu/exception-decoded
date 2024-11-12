@@ -134,4 +134,3 @@ Thank you for reading! If you have any questions or feedback, please feel free t
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [ImplicitlyAppearedSingletonException - Stack Overflow](https://stackoverflow.com/questions/58959006/implicitlyappearedsingletonexception-when-adding-@cacheloader-on-@repository-cla)
 
-*Estimated reading time: 15 minutes*

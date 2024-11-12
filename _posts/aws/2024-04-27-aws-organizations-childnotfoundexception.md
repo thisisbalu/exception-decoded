@@ -130,4 +130,3 @@ Now that you have this knowledge, you are well-equipped to tackle and overcome t
 - [Exponential Backoff and Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [Effective Exception Handling in Java](https://dzone.com/articles/exception-handling-in-java-best-practices)
 
-*Total reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding BindValidationException in Spring: A Guide to Handling Data Binding and Validation Errors"
+title: "Understanding BindValidationException in Spring: A Guide to Handling Data Binding and Validation Errors"
 date: 2024-09-28 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.context.properties.bind.validation]

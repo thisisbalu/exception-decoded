@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding InvalidLifecycleEventHookExecutionStatusException in AWS CodeDeploy"
+title: "Understanding InvalidLifecycleEventHookExecutionStatusException in AWS CodeDeploy"
 date: 2024-05-24 09:00:00 -0000
 categories: [AWS, AWS Code Deploy]
 tags: [aws, codedeploy, com.amazonaws.services.codedeploy.model]

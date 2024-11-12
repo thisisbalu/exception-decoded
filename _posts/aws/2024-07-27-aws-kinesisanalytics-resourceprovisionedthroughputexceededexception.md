@@ -1,5 +1,5 @@
 ---
-title: "Title: ResourceProvisionedThroughputExceededException in AWS Kinesis Analytics: A Deep Dive"
+title: "ResourceProvisionedThroughputExceededException in AWS Kinesis Analytics: A Deep Dive"
 date: 2024-07-27 09:00:00 -0000
 categories: [AWS, AWS Kinesis Analytics]
 tags: [aws, kinesisanalytics, com.amazonaws.services.kinesisanalytics.model]

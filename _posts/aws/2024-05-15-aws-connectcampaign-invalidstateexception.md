@@ -130,4 +130,3 @@ Happy coding with AWS Connect Campaign!
 
 ---
 
-*Disclaimer: The code examples provided in this article are for illustrative purposes only and may not be suitable for production environments. Always refer to the official AWS documentation for best practices and guidelines.*

@@ -1,5 +1,5 @@
 ---
-title: "Title: AWS Medical Imaging: Handling ValidationException in com.amazonaws.services.medicalimaging.model"
+title: "AWS Medical Imaging: Handling ValidationException in com.amazonaws.services.medicalimaging.model"
 date: 2024-05-13 09:00:00 -0000
 categories: [AWS, AWS Medical Imaging]
 tags: [aws, medicalimaging, com.amazonaws.services.medicalimaging.model]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding AttributeLimitExceededException in AWS Elastic Container Service (ECS)"
+title: "Understanding AttributeLimitExceededException in AWS Elastic Container Service (ECS)"
 date: 2024-04-30 09:00:00 -0000
 categories: [AWS, AWS Elastic Container Service]
 tags: [aws, ecs, com.amazonaws.services.ecs.model]

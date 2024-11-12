@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the ResourceNotFoundException in AWS Identity Store"
+title: "Demystifying the ResourceNotFoundException in AWS Identity Store"
 date: 2024-07-30 09:00:00 -0000
 categories: [AWS, AWS Identity Store]
 tags: [aws, identitystore, com.amazonaws.services.identitystore.model]
@@ -103,4 +103,3 @@ References:
 
 Author: Your Name
 Date: YYYY-MM-DD
-Reading Time: 15 minutes

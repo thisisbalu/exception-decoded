@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding OAuth2AuthenticationException in Spring: A Complete Guide"
+title: "Understanding OAuth2AuthenticationException in Spring: A Complete Guide"
 date: 2024-03-28 09:00:00 -0000
 categories: [Spring, spring-security]
 tags: [spring, spring-unchecked, org.springframework.security.oauth2.core]

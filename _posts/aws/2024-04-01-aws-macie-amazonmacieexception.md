@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: ""
 date: 2024-04-01 09:00:00 -0000
 categories: [AWS, AWS Macie]
 tags: [aws, macie, com.amazonaws.services.macie.model]

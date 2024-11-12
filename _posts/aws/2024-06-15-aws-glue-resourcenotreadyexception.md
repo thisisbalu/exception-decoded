@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ResourceNotReadyException in AWS Glue: Resolving Common Issues
+title: "Understanding ResourceNotReadyException in AWS Glue: Resolving Common Issues
             Perform your operation here
             ...
             Operation succeeded

@@ -119,4 +119,3 @@ Remember to employ strategies like implementing backoff mechanisms, leveraging a
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/)
 - [AWS Service Exceptions](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 
-*Estimated reading time: 15 minutes*

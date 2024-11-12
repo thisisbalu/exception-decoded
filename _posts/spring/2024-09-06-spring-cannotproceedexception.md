@@ -1,5 +1,5 @@
 ---
-title: "Catchy SEO Friendly Title: Understanding the CannotProceedException in Spring - A Deep Dive into Exception Handling"
+title: "Understanding the CannotProceedException in Spring - A Deep Dive into Exception Handling"
 date: 2024-09-06 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-unchecked, org.springframework.ldap]

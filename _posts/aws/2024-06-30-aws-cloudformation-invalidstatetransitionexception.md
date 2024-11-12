@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the InvalidStateTransitionException in AWS CloudFormation"
+title: "Understanding the InvalidStateTransitionException in AWS CloudFormation"
 date: 2024-06-30 09:00:00 -0000
 categories: [AWS, AWS Cloud Formation]
 tags: [aws, cloudformation, com.amazonaws.services.cloudformation.model]

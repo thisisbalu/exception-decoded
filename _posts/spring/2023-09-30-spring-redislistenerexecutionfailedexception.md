@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-In the multifaceted world of Spring Framework, especially while dealing with Redis, there's an exception that you might have encountered or will likely encounter: RedisListenerExecutionFailedException. Started seeing a lot of this in your logs? Don't be too alarmed. This article guides you into the world of RedisListenerExecutionFailedException, breaking down its implications, causes, and how to handle it. So, let's take a deep dive into this much too common exception. *(Estimated Reading Time: 15 minutes)*
+In the multifaceted world of Spring Framework, especially while dealing with Redis, there's an exception that you might have encountered or will likely encounter: RedisListenerExecutionFailedException. Started seeing a lot of this in your logs? Don't be too alarmed. This article guides you into the world of RedisListenerExecutionFailedException, breaking down its implications, causes, and how to handle it. So, let's take a deep dive into this much too common exception. 
 
 ## What is RedisListenerExecutionFailedException?
 

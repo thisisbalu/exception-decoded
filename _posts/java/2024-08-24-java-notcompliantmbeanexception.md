@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying NotCompliantMBeanException in Java: A Comprehensive Guide"
+title: "Demystifying NotCompliantMBeanException in Java: A Comprehensive Guide"
 date: 2024-08-24 09:00:00 -0000
 categories: [Java, java.management]
 tags: [java, java-unchecked, javax.management, java-se]

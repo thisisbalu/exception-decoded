@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Demystifying the ConflictException in AWS CodeGuru Security
+title: "Demystifying the ConflictException in AWS CodeGuru Security
         Proceed with user registration"
 date: 2024-07-09 09:00:00 -0000
 categories: [AWS, AWS CodeGuru Security]
@@ -121,8 +121,6 @@ Being well-versed in troubleshooting the `ConflictException` empowers developers
 To learn more about resolving conflicts and handling exceptions in AWS CodeGuru Security, refer to the official AWS CodeGuru Security [documentation](https://docs.aws.amazon.com/codeguru/latest/releasenotes/welcome.html). Happy coding!
 
 ---
-
-Estimated Reading Time: 15 minutes
 
 References:
 - [AWS CodeGuru Security - Official Documentation](https://docs.aws.amazon.com/codeguru/latest/releasenotes/welcome.html)

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the IllformedLocaleException in Java: A Comprehensive Guide"
+title: "Demystifying the IllformedLocaleException in Java: A Comprehensive Guide"
 date: 2024-07-02 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.util, java-se]
@@ -109,4 +109,3 @@ I hope you found this guide useful in demystifying the `IllformedLocaleException
 
 If you have any queries or suggestions, please feel free to leave a comment. Happy coding!
 
-*Estimated reading time: 15 minutes*

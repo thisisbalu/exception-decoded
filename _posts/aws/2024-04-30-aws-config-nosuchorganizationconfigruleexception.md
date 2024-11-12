@@ -77,4 +77,3 @@ Start leveraging AWS Config and take control of your AWS resources today!
 - [AWS Config Developer Guide](https://docs.aws.amazon.com/config/latest/developerguide/)
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/index.html)
 
-*Total reading time: 15 minutes*

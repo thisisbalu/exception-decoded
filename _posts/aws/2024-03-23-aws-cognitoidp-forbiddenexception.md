@@ -93,4 +93,3 @@ I hope this article helped you gain a deeper understanding of the *ForbiddenExce
 - AWS Cognito Identity Provider Documentation: [https://docs.aws.amazon.com/cognito/index.html](https://docs.aws.amazon.com/cognito/index.html)
 - Java Development Kit (JDK) Documentation: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
 
-**Estimated reading time: 15 minutes**

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying IncompatibleProtocolsException in AWS Elastic Load Balancing V2"
+title: "Demystifying IncompatibleProtocolsException in AWS Elastic Load Balancing V2"
 date: 2024-05-05 09:00:00 -0000
 categories: [AWS, AWS Elastic Load Balancing V2]
 tags: [aws, elasticloadbalancingv2, com.amazonaws.services.elasticloadbalancingv2.model]

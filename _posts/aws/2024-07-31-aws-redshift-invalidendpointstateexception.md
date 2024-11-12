@@ -97,4 +97,3 @@ For more information on AWS Redshift and troubleshooting, refer to the official 
 
 Remember, sometimes all it takes is a little patience and persistence to overcome technical hurdles. Happy querying with AWS Redshift!
 
-*Estimated Reading Time: 15 minutes*

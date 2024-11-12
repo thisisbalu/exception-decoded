@@ -88,7 +88,6 @@ In this article, we explored the TestFunctionFailedException of com.amazonaws.se
 
 With this knowledge in your arsenal, you are better equipped to troubleshoot and resolve the TestFunctionFailedException effectively. Remember, taking an organized and systematic approach is key to overcoming this challenge. Happy troubleshooting!
 
-*Estimated Reading Time: 15 minutes*
 
 *References:*
 - [AWS CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/aws-cloudfront-functions.html)

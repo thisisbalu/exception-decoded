@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ThrottlingException in AWS Voice ID: Best Practices for Resilient Voice Analysis"
+title: "Understanding ThrottlingException in AWS Voice ID: Best Practices for Resilient Voice Analysis"
 date: 2024-04-06 09:00:00 -0000
 categories: [AWS, AWS Voice ID]
 tags: [aws, voiceid, com.amazonaws.services.voiceid.model]

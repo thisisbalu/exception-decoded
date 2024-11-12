@@ -112,5 +112,3 @@ Remember, building resilient applications is key to delivering a seamless user e
 Happy coding!
 
 ---
-
-Estimated reading time: 15 minutes.

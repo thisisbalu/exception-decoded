@@ -75,5 +75,3 @@ For further information on this topic, please refer to the [AWS Media Connect Do
 Happy streaming!
 
 ---
-
-*Estimated reading time: 15 minutes*

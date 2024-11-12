@@ -132,4 +132,3 @@ If you want to explore further, the official [Spring Cloud Config documentation]
 
 Happy configuring!
 
-*Estimated Reading Time: 15 minutes*

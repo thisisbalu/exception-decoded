@@ -74,5 +74,3 @@ Remember to analyze the stack trace, debug and isolate the issue, review aspect 
 For more information on AOP in Spring, you can refer to the official Spring Framework documentation on [AOP](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#aop).
 
 Keep coding and stay AOP-savvy!
-
-*Estimated reading time: 15 minutes*

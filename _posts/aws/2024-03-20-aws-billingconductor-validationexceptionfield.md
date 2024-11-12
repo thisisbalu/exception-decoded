@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ValidationExceptionField in AWS Billing Conductor"
+title: "Understanding ValidationExceptionField in AWS Billing Conductor"
 date: 2024-03-20 09:00:00 -0000
 categories: [AWS, AWS Billing Conductor]
 tags: [aws, billingconductor, com.amazonaws.services.billingconductor.model]

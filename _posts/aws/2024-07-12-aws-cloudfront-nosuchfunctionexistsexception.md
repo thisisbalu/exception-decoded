@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying NoSuchFunctionExistsException in AWS CloudFront"
+title: "Demystifying NoSuchFunctionExistsException in AWS CloudFront"
 date: 2024-07-12 09:00:00 -0000
 categories: [AWS, AWS CloudFront]
 tags: [aws, cloudfront, com.amazonaws.services.cloudfront.model]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Unveiling the ClusterStateFailureException in Spring: A Troubleshooting Guide"
+title: "Unveiling the ClusterStateFailureException in Spring: A Troubleshooting Guide"
 date: 2024-05-28 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.redis]

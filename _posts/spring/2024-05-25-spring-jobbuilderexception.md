@@ -116,4 +116,3 @@ The JobBuilderException can be a common stumbling block when working with Spring
 
 For more information, refer to the official [Spring Batch documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html). Happy coding!
 
-*Estimated reading time: 15 minutes*

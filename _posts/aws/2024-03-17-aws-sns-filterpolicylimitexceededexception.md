@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding FilterPolicyLimitExceededException in Amazon SNS: Powerful Filtering for Effective Message Distribution"
+title: "Understanding FilterPolicyLimitExceededException in Amazon SNS: Powerful Filtering for Effective Message Distribution"
 date: 2024-03-17 09:00:00 -0000
 categories: [AWS, Amazon Simple Notification Service]
 tags: [aws, sns, com.amazonaws.services.sns.model]

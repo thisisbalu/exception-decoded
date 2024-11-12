@@ -121,4 +121,3 @@ Remember, security is a key aspect of any software system, and by mastering feat
 - [Java Documentation: PrivilegedActionException](https://docs.oracle.com/javase/8/docs/api/java/security/PrivilegedActionException.html)
 - [Oracle Java Security Tutorial](https://docs.oracle.com/javase/tutorial/essential/environment/security.html)
 
-*Estimated reading time: 15 minutes*

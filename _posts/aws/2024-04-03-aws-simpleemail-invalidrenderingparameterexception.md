@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Unleashing the Power of AWS Simple Email Service: Handling Invalid Rendering Parameter Exception"
+title: "Unleashing the Power of AWS Simple Email Service: Handling Invalid Rendering Parameter Exception"
 date: 2024-04-03 09:00:00 -0000
 categories: [AWS, AWS Simple Email Service]
 tags: [aws, simpleemail, com.amazonaws.services.simpleemail.model]

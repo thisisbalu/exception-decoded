@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the MirroredTypesException in Java: Exploring Java Reflection and its Challenges"
+title: "Understanding the MirroredTypesException in Java: Exploring Java Reflection and its Challenges"
 date: 2024-08-13 09:00:00 -0000
 categories: [Java, java.compiler]
 tags: [java, java-unchecked, javax.lang.model.type, java-se]
@@ -184,4 +184,3 @@ For further reading, please refer to the following resources:
 
 Happy Reflecting!
 
-*Estimated reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the HttpSessionRequiredException in Spring: Best Practices for Secure Session Management"
+title: "Understanding the HttpSessionRequiredException in Spring: Best Practices for Secure Session Management"
 date: 2024-06-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web]

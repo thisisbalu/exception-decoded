@@ -78,4 +78,3 @@ Remember to always review the AWS ElastiCache documentation and double-check you
 
 **Note**: This article is purely educational and should not be considered as professional support for AWS services. Always consult official AWS documentation and seek assistance from AWS support services for specific cases and production environments.
 
-*Estimated reading time: 15 minutes*

@@ -102,5 +102,3 @@ CodeGuru Security's `ValidationException` class plays a vital role in maintainin
 To learn more about CodeGuru Security and `ValidationException`, refer to the official [CodeGuru Security API documentation](https://docs.aws.amazon.com/codeguru/latest/criticl-overview-api-reference.html).
 
 Happy and secure coding!
-
-*Estimated reading time: 15 minutes*

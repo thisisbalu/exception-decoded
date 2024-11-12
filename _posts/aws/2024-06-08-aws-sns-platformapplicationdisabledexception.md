@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: ""
 date: 2024-06-08 09:00:00 -0000
 categories: [AWS, Amazon Simple Notification Service]
 tags: [aws, sns, com.amazonaws.services.sns.model]

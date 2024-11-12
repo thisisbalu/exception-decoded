@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying LoadBalancerResponseStatusCodeException in Spring: A Comprehensive Guide"
+title: "Demystifying LoadBalancerResponseStatusCodeException in Spring: A Comprehensive Guide"
 date: 2024-07-24 09:00:00 -0000
 categories: [Spring, spring-cloud]
 tags: [spring, spring-unchecked, org.springframework.cloud.openfeign.loadbalancer]

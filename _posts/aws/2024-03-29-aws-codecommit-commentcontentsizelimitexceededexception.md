@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling CommentContentSizeLimitExceededException in AWS CodeCommit"
+title: "Handling CommentContentSizeLimitExceededException in AWS CodeCommit"
 date: 2024-03-29 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
@@ -83,4 +83,3 @@ For more information on handling exceptions in AWS CodeCommit, refer to the offi
 
 [1]: https://docs.aws.amazon.com/codecommit/latest/userguide/error-reference-exceptions.html#comment_content_size_limit
 
-Disclaimer: The code examples provided in this article are written in Java using the AWS SDK for Java. However, similar principles and practices can be applied in other programming languages and SDKs.

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying MappingException in Spring: A Comprehensive Guide"
+title: "Demystifying MappingException in Spring: A Comprehensive Guide"
 date: 2024-06-16 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.mapping]

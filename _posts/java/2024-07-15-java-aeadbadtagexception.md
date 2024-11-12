@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying AEADBadTagException in Java: Understanding and Handling Encryption Authentication Failures"
+title: "Demystifying AEADBadTagException in Java: Understanding and Handling Encryption Authentication Failures"
 date: 2024-07-15 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.crypto, java-se]

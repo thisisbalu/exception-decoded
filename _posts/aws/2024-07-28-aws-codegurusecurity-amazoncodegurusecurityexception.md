@@ -104,4 +104,3 @@ Start leveraging the power of CodeGuru Security to identify and remediate critic
 - [AWS CodeGuru Security API Reference](https://docs.aws.amazon.com/codegurusecurity/latest/apireference/Welcome.html)
 - [IAM Policy Examples for CodeGuru Security](https://docs.aws.amazon.com/codegurusecurity/latest/userguide/auth-and-access-control-permissions-reference-policies-examples.html)
 
-**Disclaimer:** This article is for informational purposes only and does not constitute professional advice.

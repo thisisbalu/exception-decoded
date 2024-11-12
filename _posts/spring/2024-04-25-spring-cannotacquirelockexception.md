@@ -107,12 +107,9 @@ Remember, when dealing with multi-threaded environments and database transaction
 
 Now that you are armed with this knowledge, go forth and conquer the `CannotAcquireLockException` with confidence!
 
-**Disclaimer:** The code examples provided in this article are for illustrative purposes only. Please adapt them to your specific use case and ensure best practices are followed when working with Spring transactions.
 
 **References:**
 
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/data-access.html#transaction-declarative)
 - [Spring Retry Documentation](https://github.com/spring-projects/spring-retry)
 - [Hibernate Optimistic Locking](https://docs.jboss.org/hibernate/orm/5.6/userguide/html_single/Hibernate_User_Guide.html#locking-optimistic)
-
-*Estimated reading time: 15 minutes*

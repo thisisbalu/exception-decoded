@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the ReservedCacheNodeNotFoundException in AWS ElastiCache"
+title: "Demystifying the ReservedCacheNodeNotFoundException in AWS ElastiCache"
 date: 2024-06-12 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]

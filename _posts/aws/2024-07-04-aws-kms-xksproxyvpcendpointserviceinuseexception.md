@@ -1,5 +1,5 @@
 ---
-title: "Title: Exploring XksProxyVpcEndpointServiceInUseException in AWS KMS: Enhancing Security for Your VPC Endpoints"
+title: "Exploring XksProxyVpcEndpointServiceInUseException in AWS KMS: Enhancing Security for Your VPC Endpoints"
 date: 2024-07-04 09:00:00 -0000
 categories: [AWS, AWS KMS]
 tags: [aws, kms, com.amazonaws.services.kms.model]

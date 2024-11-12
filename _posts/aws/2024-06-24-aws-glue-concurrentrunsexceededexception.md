@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ConcurrentRunsExceededException in AWS Glue"
+title: "Demystifying ConcurrentRunsExceededException in AWS Glue"
 date: 2024-06-24 09:00:00 -0000
 categories: [AWS, AWS Glue]
 tags: [aws, glue, com.amazonaws.services.glue.model]
@@ -122,4 +122,3 @@ Now that you have a comprehensive understanding of this exception, it's time to 
 4. [Exponential Backoff and Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 5. [Semaphore in Java](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/Semaphore.html)
 
-*Total reading time: 15 minutes*

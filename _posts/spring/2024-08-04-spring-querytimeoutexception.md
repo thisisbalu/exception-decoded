@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding and Handling Query Timeout Exception in Spring: Best Practices and Solutions"
+title: "Understanding and Handling Query Timeout Exception in Spring: Best Practices and Solutions"
 date: 2024-08-04 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]

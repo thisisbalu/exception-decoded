@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the PermissionDeniedDataAccessException in Spring: Handling Access Control with Ease"
+title: "Demystifying the PermissionDeniedDataAccessException in Spring: Handling Access Control with Ease"
 date: 2024-10-26 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]

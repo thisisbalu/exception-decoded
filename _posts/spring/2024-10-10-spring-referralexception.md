@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding ReferralException in Spring: Dealing with Access Denied Errors with Ease"
+title: "Understanding ReferralException in Spring: Dealing with Access Denied Errors with Ease"
 date: 2024-10-10 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-unchecked, org.springframework.ldap]

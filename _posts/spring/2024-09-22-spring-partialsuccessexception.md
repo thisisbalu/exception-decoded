@@ -103,4 +103,3 @@ Keep in mind that `PartialSuccessException` is just one of the many tools availa
 
 I hope this article provided a useful insight into `PartialSuccessException` in Spring and how to handle partial failures effectively. Happy coding!
 
-> Estimated reading time: 15 minutes

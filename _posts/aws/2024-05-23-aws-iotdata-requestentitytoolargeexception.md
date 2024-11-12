@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the RequestEntityTooLargeException in AWS IoT Data"
+title: "Understanding the RequestEntityTooLargeException in AWS IoT Data"
 date: 2024-05-23 09:00:00 -0000
 categories: [AWS, AWS IoT Data]
 tags: [aws, iotdata, com.amazonaws.services.iotdata.model]

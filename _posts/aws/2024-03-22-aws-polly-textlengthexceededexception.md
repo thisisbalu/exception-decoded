@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling TextLengthExceededException in AWS Polly - A Comprehensive Guide
+title: "Handling TextLengthExceededException in AWS Polly - A Comprehensive Guide
 Example Usage
     Handle synthesized speech chunk as per application requirements"
 date: 2024-03-22 09:00:00 -0000
@@ -106,4 +106,3 @@ Python Boto3 Documentation: [https://boto3.amazonaws.com/v1/documentation/api/la
 Java SDK Documentation: [https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/polly/AmazonPolly.html](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/polly/AmazonPolly.html)
 
 ---
-Estimated Reading Time: 15 minutes
