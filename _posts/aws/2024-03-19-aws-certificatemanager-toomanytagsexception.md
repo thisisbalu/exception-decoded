@@ -117,5 +117,3 @@ Remember to regularly review your tags, remove any unnecessary ones, and utilize
 For more information on AWS Certificate Manager and various exceptions it can throw, refer to the official [AWS Certificate Manager documentation](https://docs.aws.amazon.com/acm/latest/APIReference/Welcome.html).
 
 Happy certificate managing!
-
-*Disclaimer: The code examples provided in this article are for illustrative purposes only. Modify them to fit your specific requirements and follow best practices for error handling and exception management in your codebase.*
