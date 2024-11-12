@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting ProvisionedThroughputExceededException in AWS DynamoDB"
+title: "Troubleshooting ProvisionedThroughputExceededException in AWS DynamoDB"
 date: 2024-08-02 09:00:00 -0000
 categories: [AWS, AWS DynamoDB]
 tags: [aws, dynamodbv2, com.amazonaws.services.dynamodbv2.model]

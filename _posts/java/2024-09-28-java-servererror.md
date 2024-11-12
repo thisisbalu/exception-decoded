@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: "
+title: ""
 date: 2024-09-28 09:00:00 -0000
 categories: [Java, java.rmi]
 tags: [java, java-error, java.rmi, java-se]

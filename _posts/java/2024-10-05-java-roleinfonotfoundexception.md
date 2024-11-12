@@ -1,5 +1,5 @@
 ---
-title: "Title: RoleInfoNotFoundException in Java: Understanding and Handling Role Information Not Found Exception"
+title: "RoleInfoNotFoundException in Java: Understanding and Handling Role Information Not Found Exception"
 date: 2024-10-05 09:00:00 -0000
 categories: [Java, java.management]
 tags: [java, java-unchecked, javax.management.relation, java-se]
@@ -83,5 +83,3 @@ If you want to learn more about Java exceptions and how to handle them, you can 
 - [Java Exceptions Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html)
 
 Thank you for taking the time to read this article. Happy coding!
-
-*Estimated reading time: 15 minutes*

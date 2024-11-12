@@ -104,5 +104,3 @@ To learn more about AWS Lex and the `PreconditionFailedException`, refer to the 
 - [Lex Model Building API documentation](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/lexmodelbuilding/model/PreconditionFailedException.html)
 
 Happy Lex building!
-
-**Estimated Reading Time: 15 minutes**

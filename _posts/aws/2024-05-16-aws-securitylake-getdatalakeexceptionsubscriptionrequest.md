@@ -1,5 +1,5 @@
 ---
-title: "Title: Exploring GetDataLakeExceptionSubscriptionRequest in AWS Security Lake"
+title: "Exploring GetDataLakeExceptionSubscriptionRequest in AWS Security Lake"
 date: 2024-05-16 09:00:00 -0000
 categories: [AWS, AWS Security Lake]
 tags: [aws, securitylake, com.amazonaws.services.securitylake.model]
@@ -74,4 +74,3 @@ To learn more about AWS Security Lake and its capabilities, consider referring t
 
 So, what are you waiting for? Start leveraging `GetDataLakeExceptionSubscriptionRequest` in your AWS Security Lake integration and take your security analytics to new heights!
 
-*Total reading time: 15 minutes*

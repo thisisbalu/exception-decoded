@@ -96,4 +96,3 @@ Continue learning:
 
 Hope you found this article helpful. Happy coding!
 
-*Estimated reading time: 15 minutes*

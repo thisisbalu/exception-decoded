@@ -98,4 +98,3 @@ For more details and in-depth information, refer to the official AWS CodeStar do
 
 Now that you are equipped with a deeper understanding of the `ProjectAlreadyExistsException`, you can confidently handle this exception while creating projects in AWS CodeStar. Happy coding!
 
-*Estimated Reading Time: 15 minutes*

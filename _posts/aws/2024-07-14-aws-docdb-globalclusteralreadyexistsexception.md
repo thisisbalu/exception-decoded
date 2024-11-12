@@ -118,4 +118,3 @@ For further information, check out the official AWS documentation on [Amazon Doc
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

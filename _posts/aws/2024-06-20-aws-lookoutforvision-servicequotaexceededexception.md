@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Dealing with ServiceQuotaExceededException in Amazon Lookout for Vision
+title: "Dealing with ServiceQuotaExceededException in Amazon Lookout for Vision
         Perform the operation that may throw ServiceQuotaExceededException
         Process the response as required"
 date: 2024-06-20 09:00:00 -0000

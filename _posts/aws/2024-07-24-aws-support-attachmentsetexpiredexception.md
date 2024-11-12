@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the AttachmentSetExpiredException in AWS Support"
+title: "Demystifying the AttachmentSetExpiredException in AWS Support"
 date: 2024-07-24 09:00:00 -0000
 categories: [AWS, AWS Support]
 tags: [aws, support, com.amazonaws.services.support.model]

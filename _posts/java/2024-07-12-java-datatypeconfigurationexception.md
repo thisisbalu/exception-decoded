@@ -132,4 +132,3 @@ For more information on `DatatypeConfigurationException`, refer to the [Java SE 
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the FailedResourceAccessException in AWS Application Auto Scaling"
+title: "Understanding the FailedResourceAccessException in AWS Application Auto Scaling"
 date: 2024-07-11 09:00:00 -0000
 categories: [AWS, AWS Application Auto Scaling]
 tags: [aws, applicationautoscaling, com.amazonaws.services.applicationautoscaling.model]

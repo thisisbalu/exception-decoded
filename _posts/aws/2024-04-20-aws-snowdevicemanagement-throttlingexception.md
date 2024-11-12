@@ -1,5 +1,5 @@
 ---
-title: "Title: ThrottlingException in AWS Snow Device Management: Efficiently Managing Device Operations"
+title: "ThrottlingException in AWS Snow Device Management: Efficiently Managing Device Operations"
 date: 2024-04-20 09:00:00 -0000
 categories: [AWS, AWS Snow Device Management]
 tags: [aws, snowdevicemanagement, com.amazonaws.services.snowdevicemanagement.model]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Fixing the MissingR2dbcPoolDependencyException in Spring: A Guide to Efficient Connection Pooling"
+title: "Fixing the MissingR2dbcPoolDependencyException in Spring: A Guide to Efficient Connection Pooling"
 date: 2024-10-18 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.autoconfigure.r2dbc]
@@ -105,4 +105,3 @@ Happy Spring development with optimized connection pooling!
 - [R2DBC website](https://r2dbc.io/)
 - [HikariCP GitHub repository](https://github.com/brettwooldridge/HikariCP)
 
-*Estimated reading time: 15 minutes*

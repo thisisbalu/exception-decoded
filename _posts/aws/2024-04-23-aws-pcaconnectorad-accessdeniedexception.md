@@ -77,4 +77,3 @@ To further enhance your knowledge, check out the official AWS documentation on t
 
 Stay tuned for more informative articles on AWS services and best practices. Until then, happy coding!
 
-*Total reading time: approximately 15 minutes*

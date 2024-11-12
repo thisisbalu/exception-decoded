@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ResourceNotFoundException in AWS Service Discovery"
+title: "Demystifying ResourceNotFoundException in AWS Service Discovery"
 date: 2024-04-07 09:00:00 -0000
 categories: [AWS, AWS Service Discovery]
 tags: [aws, servicediscovery, com.amazonaws.services.servicediscovery.model]

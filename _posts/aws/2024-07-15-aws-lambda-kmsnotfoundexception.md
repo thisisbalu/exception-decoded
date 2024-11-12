@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Simplifying AWS Lambda Error Handling: Understanding and Fixing KMSNotFoundException"
+title: "Simplifying AWS Lambda Error Handling: Understanding and Fixing KMSNotFoundException"
 date: 2024-07-15 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]

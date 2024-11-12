@@ -133,4 +133,3 @@ Keep your transactions robust and your codebase error-resilient, and you'll be w
 - [Couchbase Developer Portal](https://developer.couchbase.com/)
 - [Spring Retry Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/retry.html)
 
-*(Estimated reading time: 15 minutes)*

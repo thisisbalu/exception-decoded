@@ -97,4 +97,3 @@ Happy coding and secure programming!
 
 ---
 
-*Estimated reading time: 15 minutes*

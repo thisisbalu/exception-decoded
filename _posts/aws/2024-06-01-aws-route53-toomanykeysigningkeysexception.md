@@ -1,5 +1,5 @@
 ---
-title: "Title: TooManyKeySigningKeysException in AWS Route 53: Understanding and Handling the Issue"
+title: "TooManyKeySigningKeysException in AWS Route 53: Understanding and Handling the Issue"
 date: 2024-06-01 09:00:00 -0000
 categories: [AWS, AWS Route 53]
 tags: [aws, route53, com.amazonaws.services.route53.model]
@@ -70,4 +70,3 @@ For more details on DNSSEC and managing KSKs in AWS Route 53, be sure to refer t
 
 Keep your DNSSEC configuration secure and efficient, Happy coding!
 
-*Estimated reading time: 15 minutes*

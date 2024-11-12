@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling SubscriptionCategoryNotFoundException in AWS RDS: A Guide for Developers
+title: "Handling SubscriptionCategoryNotFoundException in AWS RDS: A Guide for Developers
     Code that may raise SubscriptionCategoryNotFoundException
     Handle the exception appropriately
     Code that may raise SubscriptionCategoryNotFoundException

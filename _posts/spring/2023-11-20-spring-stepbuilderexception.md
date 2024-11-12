@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying StepBuilderException in Spring: A Comprehensive Guide"
+title: "Demystifying StepBuilderException in Spring: A Comprehensive Guide"
 date: 2023-11-20 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.step.builder]

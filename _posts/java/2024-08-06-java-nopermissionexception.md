@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding NoPermissionException in Java: Handling Permissions Like a Pro"
+title: "Understanding NoPermissionException in Java: Handling Permissions Like a Pro"
 date: 2024-08-06 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming, java-se]

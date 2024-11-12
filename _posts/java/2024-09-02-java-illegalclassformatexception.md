@@ -91,5 +91,3 @@ Handling exceptions like the `IllegalClassFormatException` contributes to buildi
 - [Java Platform, Standard Edition Documentation](https://docs.oracle.com/javase/)
 - [Java Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se17/html/)
 - [Apache Commons Codec Library](https://commons.apache.org/proper/commons-codec/)
-
-**Estimated reading time: 15 minutes**

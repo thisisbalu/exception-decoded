@@ -118,5 +118,3 @@ For more information and detailed examples, please refer to the official AWS Nep
 Please leave a comment if you found this article helpful or would like to share your experiences dealing with `InvalidDBClusterSnapshotStateException` error in AWS Neptune.
 
 ---
-
-Estimated Reading Time: 15 minutes

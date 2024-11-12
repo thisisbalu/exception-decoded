@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the TagQuotaPerResourceExceededException in AWS ElastiCache"
+title: "Demystifying the TagQuotaPerResourceExceededException in AWS ElastiCache"
 date: 2024-05-28 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]

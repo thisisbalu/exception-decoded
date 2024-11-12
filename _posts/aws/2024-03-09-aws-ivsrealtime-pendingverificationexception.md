@@ -94,4 +94,3 @@ To learn more about exception handling in Amazon IVS Realtime, refer to the [off
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

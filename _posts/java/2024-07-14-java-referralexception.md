@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding ReferralException in Java: A Comprehensive Guide"
+title: "Understanding ReferralException in Java: A Comprehensive Guide"
 date: 2024-07-14 09:00:00 -0000
 categories: [Java, java.naming]
 tags: [java, java-unchecked, javax.naming, java-se]

@@ -76,4 +76,3 @@ Remember, collaboration and effective error handling are crucial in any software
 - [Managing Errors and Exceptions in Python - Real Python](https://realpython.com/python-exceptions/)
 - [Exception Handling Best Practices - Stackify](https://stackify.com/exception-handling-best-practices/)
 
-*Total reading time: 15 minutes*

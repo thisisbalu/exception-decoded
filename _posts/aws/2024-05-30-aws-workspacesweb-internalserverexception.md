@@ -84,4 +84,3 @@ Remember, when encountering the InternalServerException, check for ongoing servi
 - [AWS Service Health Dashboard](https://status.aws.amazon.com/)
 - [AWS WorkSpaces API Documentation](https://docs.aws.amazon.com/workspaces/latest/APIReference/welcome.html)
 
-*Estimated reading time: 15 minutes*

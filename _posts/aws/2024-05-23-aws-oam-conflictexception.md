@@ -135,4 +135,3 @@ To learn more about AWS OAM and its exception handling, refer to the official AW
 
 Happy observing and resource management!
 
-*Estimated reading time: 15 minutes*

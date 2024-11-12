@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the BadRequestException in AWS Pinpoint Email"
+title: "Understanding the BadRequestException in AWS Pinpoint Email"
 date: 2024-03-23 09:00:00 -0000
 categories: [AWS, AWS Pinpoint Email]
 tags: [aws, pinpointemail, com.amazonaws.services.pinpointemail.model]

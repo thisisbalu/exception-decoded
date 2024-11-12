@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the RequestFailedException in AWS Certificate Manager - Private Certificate Authority"
+title: "Understanding the RequestFailedException in AWS Certificate Manager - Private Certificate Authority"
 date: 2024-03-12 09:00:00 -0000
 categories: [AWS, AWS Certificate Manager - Private Certificate Authority]
 tags: [aws, acmpca, com.amazonaws.services.acmpca.model]
@@ -79,7 +79,6 @@ Remember to implement robust error handling strategies, validate parameters dili
 
 Investing time in understanding and addressing the RequestFailedException will help users build secure and scalable applications utilizing the ACM PCA service with confidence.
 
-*Estimated Reading Time: 15 minutes*
 
 References:
 - [AWS Certificate Manager - Private Certificate Authority Documentation](https://docs.aws.amazon.com/acm-pca/latest/userguide/PcaWelcome.html)

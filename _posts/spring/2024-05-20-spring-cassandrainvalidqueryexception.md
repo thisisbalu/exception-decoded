@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding CassandraInvalidQueryException in Spring: A Comprehensive Guide"
+title: "Understanding CassandraInvalidQueryException in Spring: A Comprehensive Guide"
 date: 2024-05-20 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.cassandra]

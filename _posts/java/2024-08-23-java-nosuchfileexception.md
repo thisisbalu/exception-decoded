@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying NoSuchFileException in Java: Handling File Not Found Errors Like a Pro"
+title: "Demystifying NoSuchFileException in Java: Handling File Not Found Errors Like a Pro"
 date: 2024-08-23 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.file, java-se]

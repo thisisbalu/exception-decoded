@@ -117,6 +117,3 @@ As modularity becomes increasingly vital in modern Java development, understandi
 - [Java Modules (JEP 261)](https://openjdk.java.net/jeps/261)
 - [JEP 261: Module System](https://openjdk.java.net/jeps/261)
 
-***15-minute read***
-
-*Note: The estimated reading time for this article is 15 minutes based on an average reading speed of 200 words per minute.*

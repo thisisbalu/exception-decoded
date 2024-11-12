@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding AccessDeniedException in AWS Kinesis: A Comprehensive Guide"
+title: "Understanding AccessDeniedException in AWS Kinesis: A Comprehensive Guide"
 date: 2024-03-22 09:00:00 -0000
 categories: [AWS, AWS Kinesis]
 tags: [aws, kinesis, com.amazonaws.services.kinesis.model]

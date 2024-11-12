@@ -135,4 +135,3 @@ Happy coding!
 - [JWT Introduction](https://jwt.io/introduction/)
 - [JJwt - JSON Web Token Support for Java](https://github.com/jwtk/jjwt)
 
-*Estimated reading time: 15 minutes*

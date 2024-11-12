@@ -109,4 +109,3 @@ Keep coding and happy clustering!
 
 **Note:** *This article is intended as a technical resource and does not cover any service-level agreement (SLA) or support-related information. Always refer to official AWS documentation and consult with AWS Support for accurate and up-to-date information.*
 
-*Estimated reading time: 15 minutes.*

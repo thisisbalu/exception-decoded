@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling Returned AMQP Messages in Spring: A Comprehensive Guide"
+title: "Handling Returned AMQP Messages in Spring: A Comprehensive Guide"
 date: 2024-09-10 09:00:00 -0000
 categories: [Spring, spring-integration]
 tags: [spring, spring-unchecked, org.springframework.integration.amqp.support]

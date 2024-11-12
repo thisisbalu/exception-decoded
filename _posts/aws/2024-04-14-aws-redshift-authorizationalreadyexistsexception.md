@@ -1,5 +1,5 @@
 ---
-title: "Title: "Demystifying AuthorizationAlreadyExistsException in AWS Redshift""
+title: ""Demystifying AuthorizationAlreadyExistsException in AWS Redshift""
 date: 2024-04-14 09:00:00 -0000
 categories: [AWS, AWS Redshift]
 tags: [aws, redshift, com.amazonaws.services.redshift.model]

@@ -144,4 +144,3 @@ Now that you're equipped with these insights, go out there and build robust, dat
 3. [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 4. [Tomcat Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html)
 
-*Estimated reading time: 15 minutes*

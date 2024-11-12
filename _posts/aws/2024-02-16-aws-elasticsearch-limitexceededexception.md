@@ -60,4 +60,3 @@ Remember, always stay informed about the latest updates and offerings from AWS E
 - [AWS CloudWatch Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 - [AWS EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
 
-*Estimated Reading Time: 15 minutes*

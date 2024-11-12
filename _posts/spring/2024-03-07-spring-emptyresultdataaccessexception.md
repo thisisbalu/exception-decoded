@@ -1,5 +1,5 @@
 ---
-title: "Title: EmptyResultDataAccessException in Spring: Handling Empty Results with Grace"
+title: "EmptyResultDataAccessException in Spring: Handling Empty Results with Grace"
 date: 2024-03-07 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]

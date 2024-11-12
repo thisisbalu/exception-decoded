@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the RefreshFailedException in Java: A Comprehensive Guide"
+title: "Demystifying the RefreshFailedException in Java: A Comprehensive Guide"
 date: 2024-10-02 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, javax.security.auth, java-se]

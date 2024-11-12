@@ -1,5 +1,5 @@
 ---
-title: "Title: Navigating the InvalidRequestStateException in Java: Causes, Solutions & Code Examples"
+title: "Navigating the InvalidRequestStateException in Java: Causes, Solutions & Code Examples"
 date: 2023-11-29 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi.request, jdk]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the InvalidNextTokenException in AWS Snowball: Unleashing the Power of Seamless Data Transfers"
+title: "Demystifying the InvalidNextTokenException in AWS Snowball: Unleashing the Power of Seamless Data Transfers"
 date: 2024-05-27 09:00:00 -0000
 categories: [AWS, AWS Snowball]
 tags: [aws, snowball, com.amazonaws.services.snowball.model]

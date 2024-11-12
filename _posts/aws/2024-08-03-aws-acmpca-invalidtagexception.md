@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying the InvalidTagException in AWS Certificate Manager - Private Certificate Authority"
+title: "Demystifying the InvalidTagException in AWS Certificate Manager - Private Certificate Authority"
 date: 2024-08-03 09:00:00 -0000
 categories: [AWS, AWS Certificate Manager - Private Certificate Authority]
 tags: [aws, acmpca, com.amazonaws.services.acmpca.model]

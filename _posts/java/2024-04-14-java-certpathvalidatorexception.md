@@ -111,8 +111,6 @@ Happy coding and secure connections!
 
 ---
 
-Estimated reading time: 15 minutes
-
 References:
 - [CertPathValidatorException - Java Documentation](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/security/cert/CertPathValidatorException.html)
 - [Java Certificate Validation Tutorial](https://docs.oracle.com/javase/tutorial/security/toolfilex/rstep2.html)

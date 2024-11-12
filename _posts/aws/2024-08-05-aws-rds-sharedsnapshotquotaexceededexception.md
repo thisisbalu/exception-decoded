@@ -79,4 +79,3 @@ Remember, efficient resource management is key to maintaining a well-structured 
 - [AWS Support Center: Service limit increase](https://aws.amazon.com/premiumsupport/knowledge-center/request-service-limit-increase/)
 - [AWS CLI Documentation: describe-db-cluster-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-cluster-snapshots.html)
 
-*Total reading time: 15 minutes*

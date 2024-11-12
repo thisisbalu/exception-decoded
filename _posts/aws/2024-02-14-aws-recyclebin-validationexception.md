@@ -110,4 +110,3 @@ For more information, refer to the official AWS documentation on the [AWS Recycl
 
 Thank you for reading, and happy resource management!
 
-*Estimated reading time: 15 minutes*

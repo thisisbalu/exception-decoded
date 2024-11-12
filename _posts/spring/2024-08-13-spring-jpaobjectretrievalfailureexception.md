@@ -99,4 +99,3 @@ For further reference, you can visit the official Spring documentation on [JpaOb
 
 Thank you for reading!
 
-*Estimated reading time: 15 minutes*

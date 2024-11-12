@@ -1,5 +1,5 @@
 ---
-title: "Catchy SEO friendly title: Understanding the CertificateExpiredException in Java: Handle Certificate Expiry Like a Pro!"
+title: "Understanding the CertificateExpiredException in Java: Handle Certificate Expiry Like a Pro!"
 date: 2024-07-05 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.security.cert, java-se]

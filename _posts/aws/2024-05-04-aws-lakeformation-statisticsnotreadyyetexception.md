@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying StatisticsNotReadyYetException in AWS Lake Formation
+title: "Demystifying StatisticsNotReadyYetException in AWS Lake Formation
     Proceed with the operation"
 date: 2024-05-04 09:00:00 -0000
 categories: [AWS, AWS Lake Formation]
@@ -142,4 +142,3 @@ To learn more about handling exceptions in AWS Lake Formation, refer to the offi
 
 Please share your thoughts and experiences on handling the `StatisticsNotReadyYetException` in the comments section below.
 
-*Estimated reading time: 15 minutes*

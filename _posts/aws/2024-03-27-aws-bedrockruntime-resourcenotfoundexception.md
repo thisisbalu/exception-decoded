@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the ResourceNotFoundException in AWS Bedrock Runtime: A Deep Dive into Error Handling"
+title: "Understanding the ResourceNotFoundException in AWS Bedrock Runtime: A Deep Dive into Error Handling"
 date: 2024-03-27 09:00:00 -0000
 categories: [AWS, AWS Bedrock Runtime]
 tags: [aws, bedrockruntime, com.amazonaws.services.bedrockruntime.model]
@@ -106,4 +106,3 @@ Now, armed with this knowledge, you can confidently navigate the ResourceNotFoun
 - [AWS Bedrock Runtime Documentation](https://docs.aws.amazon.com/bedrock/latest/)
 - [AWS Java SDK Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
 
-*Estimated reading time: 15 minutes*

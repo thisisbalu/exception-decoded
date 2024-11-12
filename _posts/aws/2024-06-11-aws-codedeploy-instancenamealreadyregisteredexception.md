@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding InstanceNameAlreadyRegisteredException in AWS CodeDeploy"
+title: "Understanding InstanceNameAlreadyRegisteredException in AWS CodeDeploy"
 date: 2024-06-11 09:00:00 -0000
 categories: [AWS, AWS Code Deploy]
 tags: [aws, codedeploy, com.amazonaws.services.codedeploy.model]
@@ -88,4 +88,3 @@ For more information and detailed documentation, please refer to the official AW
 - [AWS CLI Documentation](https://aws.amazon.com/cli/)
 - [AWS SDKs Documentation](https://aws.amazon.com/tools/)
 
-*Total reading time: approximately 15 minutes*

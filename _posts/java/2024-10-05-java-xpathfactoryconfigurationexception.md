@@ -119,4 +119,3 @@ No need to fear XPathFactoryConfigurationException anymore! Happy coding!
 - [Apache Xalan Library](https://xalan.apache.org/)
 - [Java Dom4J Library](https://www.dom4j.org/)
 
-Disclaimer: The code examples provided in this article are for illustration purposes only. Actual implementation may vary based on the specific XML and XPath libraries you are using.

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Deep Dive into TooManyRequestsException in AWS API Gateway V2: Overcoming Throttling Challenges"
+title: "Deep Dive into TooManyRequestsException in AWS API Gateway V2: Overcoming Throttling Challenges"
 date: 2024-04-16 09:00:00 -0000
 categories: [AWS, AWS API Gateway V2]
 tags: [aws, apigatewayv2, com.amazonaws.services.apigatewayv2.model]

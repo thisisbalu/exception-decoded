@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO friendly title: Handling DateTimeParseException in Java: A Comprehensive Guide"
+title: "Handling DateTimeParseException in Java: A Comprehensive Guide"
 date: 2024-11-03 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.time.format, java-se]

@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Ultimate Guide to Handling ConfigurationPropertiesBindException in Spring"
+title: "Ultimate Guide to Handling ConfigurationPropertiesBindException in Spring"
 date: 2024-10-12 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.context.properties]

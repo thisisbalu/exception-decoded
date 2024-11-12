@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying ResponseStatusException in Spring: A Comprehensive Guide"
+title: "Demystifying ResponseStatusException in Spring: A Comprehensive Guide"
 date: 2024-08-19 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.server]

@@ -1,5 +1,5 @@
 ---
-title: "Title: How to Handle Missing Request Headers in Spring: A Comprehensive Guide"
+title: "How to Handle Missing Request Headers in Spring: A Comprehensive Guide"
 date: 2024-10-30 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.bind]

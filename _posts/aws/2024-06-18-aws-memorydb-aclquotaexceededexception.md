@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ACLQuotaExceededException in AWS Memory DB"
+title: "Demystifying ACLQuotaExceededException in AWS Memory DB"
 date: 2024-06-18 09:00:00 -0000
 categories: [AWS, AWS Memory DB]
 tags: [aws, memorydb, com.amazonaws.services.memorydb.model]

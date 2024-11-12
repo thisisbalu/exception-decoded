@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the IdempotentParameterMismatchException in AWS Resource Access Manager"
+title: "Demystifying the IdempotentParameterMismatchException in AWS Resource Access Manager"
 date: 2024-06-24 09:00:00 -0000
 categories: [AWS, AWS Resource Access Manager]
 tags: [aws, ram, com.amazonaws.services.ram.model]

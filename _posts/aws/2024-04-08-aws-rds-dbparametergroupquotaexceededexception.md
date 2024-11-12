@@ -117,10 +117,8 @@ Remember to regularly review and delete unused parameter groups to free up quota
 
 Now that you are familiar with handling the `DBParameterGroupQuotaExceededException`, you can confidently work with Amazon RDS parameter groups in your AWS projects.
 
-**Disclaimer**: This article is intended for educational purposes only. Ensure you make appropriate adaptations based on your specific requirements and consult the official AWS documentation for complete information.
 
 *References*:
 - [AWS RDS Usage Limits](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Limits.html#limits.rds-parameter-groups)
 - [AWS RDS Java SDK Documentation](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-rds.html)
 
-*Estimated Reading Time: 15 minutes*

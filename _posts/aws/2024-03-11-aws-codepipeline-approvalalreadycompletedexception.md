@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the ApprovalAlreadyCompletedException in AWS CodePipeline"
+title: "Understanding the ApprovalAlreadyCompletedException in AWS CodePipeline"
 date: 2024-03-11 09:00:00 -0000
 categories: [AWS, AWS Code Pipeline]
 tags: [aws, codepipeline, com.amazonaws.services.codepipeline.model]

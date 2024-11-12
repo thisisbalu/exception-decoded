@@ -109,4 +109,3 @@ Remember, prevention is always the best cure. By carefully designing your code, 
 - [Oracle Java Tutorial - The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
 - [Baeldung - Exceptions in Java: A Guide to Types of Exceptions](https://www.baeldung.com/java-exceptions-guide)
 
-*Estimated reading time: 15 minutes*

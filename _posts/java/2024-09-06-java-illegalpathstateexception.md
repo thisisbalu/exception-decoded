@@ -12,7 +12,6 @@ Introduction: Understanding the IllegalPathStateException
 
 Have you ever encountered the IllegalPathStateException while working with Java? If you're a developer who creates complex graphical applications or works extensively with the Java 2D API, chances are you've come across this exception at least once. In this article, we'll delve into the IllegalPathStateException in Java, exploring its causes, consequences, and possible solutions along with code examples.
 
-## The Catchy Title: Unveiling the Secret Behind IllegalPathStateException in Java  
 
 Table of Contents:
 1. Background on IllegalPathStateException

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Discovering the WAFInternalErrorException: A Deep Dive into AWS WAF Errors"
+title: "Discovering the WAFInternalErrorException: A Deep Dive into AWS WAF Errors"
 date: 2024-05-29 09:00:00 -0000
 categories: [AWS, AWS WAF (Web Application Firewall)]
 tags: [aws, waf, com.amazonaws.services.waf.model]

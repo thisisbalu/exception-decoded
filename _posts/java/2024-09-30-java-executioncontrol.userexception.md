@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ExecutionControl.UserException in Java: Handling Exceptions like a Pro"
+title: "Understanding ExecutionControl.UserException in Java: Handling Exceptions like a Pro"
 date: 2024-09-30 09:00:00 -0000
 categories: [Java, jdk.jshell]
 tags: [java, java-unchecked, jdk.jshell.spi, jdk]
@@ -107,4 +107,3 @@ For further reading, you can refer to the following resources:
 
 Now that you have a comprehensive understanding of `ExecutionControl.UserException`, go ahead and dive into your Java code with confidence, knowing that you can handle exceptions like a pro!
 
-*Estimated reading time: 15 minutes*

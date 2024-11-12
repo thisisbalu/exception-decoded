@@ -1,5 +1,5 @@
 ---
-title: "Title: Troubleshooting MessageStoreException in Spring: A Comprehensive Guide"
+title: "Troubleshooting MessageStoreException in Spring: A Comprehensive Guide"
 date: 2024-10-06 09:00:00 -0000
 categories: [Spring, spring-integration]
 tags: [spring, spring-unchecked, org.springframework.integration.store]

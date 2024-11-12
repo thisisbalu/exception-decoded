@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: In-depth Analysis of CardException in Java: Handling Exceptions like a Pro"
+title: "In-depth Analysis of CardException in Java: Handling Exceptions like a Pro"
 date: 2024-10-26 09:00:00 -0000
 categories: [Java, java.smartcardio]
 tags: [java, java-unchecked, javax.smartcardio, java-se]

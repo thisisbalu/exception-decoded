@@ -106,4 +106,3 @@ If you want to learn more about ConflictException and AWS Network Manager, refer
 
 Remember, handling conflicts seamlessly is essential for maintaining a robust and efficient network management system. Utilize the ConflictException class in AWS Network Manager to tackle conflicts proactively and ensure smooth network operations!
 
-*Estimated Reading Time: 15 minutes*

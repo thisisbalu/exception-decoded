@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO-friendly Title: Demystifying the DryRunOperationException in AWS Migration Hub"
+title: "Demystifying the DryRunOperationException in AWS Migration Hub"
 date: 2024-03-06 09:00:00 -0000
 categories: [AWS, AWS Migration Hub]
 tags: [aws, migrationhub, com.amazonaws.services.migrationhub.model]

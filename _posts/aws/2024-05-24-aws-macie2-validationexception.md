@@ -1,5 +1,5 @@
 ---
-title: "Title: Deep Dive into ValidationException in Amazon Macie 2"
+title: "Deep Dive into ValidationException in Amazon Macie 2"
 date: 2024-05-24 09:00:00 -0000
 categories: [AWS, Amazon Macie 2]
 tags: [aws, macie2, com.amazonaws.services.macie2.model]

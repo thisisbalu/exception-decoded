@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the GoneException of com.amazonaws.services.schemas.model in AWS Schemas"
+title: "Demystifying the GoneException of com.amazonaws.services.schemas.model in AWS Schemas"
 date: 2024-07-11 09:00:00 -0000
 categories: [AWS, AWS Schemas]
 tags: [aws, schemas, com.amazonaws.services.schemas.model]
@@ -127,4 +127,3 @@ Stay tuned for more exciting technical blog posts that shed light on the intrica
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

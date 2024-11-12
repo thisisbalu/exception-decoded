@@ -120,4 +120,3 @@ Continue your learning journey with these additional resources:
 
 Now armed with a deeper understanding of DecodingExceptions, go forth and build robust Spring applications with confidence!
 
-*Estimated reading time: 15 minutes*

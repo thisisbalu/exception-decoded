@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: "Demystifying InvalidTagParameterException in AWS Elastic Container Registry""
+title: ""Demystifying InvalidTagParameterException in AWS Elastic Container Registry""
 date: 2024-07-26 09:00:00 -0000
 categories: [AWS, AWS Elastic Container Registry]
 tags: [aws, ecr, com.amazonaws.services.ecr.model]

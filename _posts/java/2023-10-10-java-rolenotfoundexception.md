@@ -70,4 +70,3 @@ Understanding exceptions and handling them effectively is a critical skill in Ja
 
 3. [JMX: The Basics and Beyond](https://www.oracle.com/java/technologies/javase/javamanagement.html)
 
-*Disclaimer: This article assumes that the readers have a basic understanding of Java programming language and Java Management Extensions (JMX).*

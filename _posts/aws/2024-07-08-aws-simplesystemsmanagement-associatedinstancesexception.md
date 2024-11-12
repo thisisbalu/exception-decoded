@@ -88,4 +88,3 @@ For more information, refer to the official AWS documentation:
 
 Keep refining your knowledge and skills in working with AWS SSM, and may your SSM operations be seamless and efficient!
 
-*Estimated reading time: 15 minutes*

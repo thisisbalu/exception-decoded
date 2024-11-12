@@ -1,5 +1,5 @@
 ---
-title: "Title: Handling DeadlockLoserDataAccessException in Spring: Avoiding Data Access Deadlocks for Improved Performance"
+title: "Handling DeadlockLoserDataAccessException in Spring: Avoiding Data Access Deadlocks for Improved Performance"
 date: 2024-10-29 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.dao]

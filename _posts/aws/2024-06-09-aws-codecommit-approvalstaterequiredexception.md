@@ -1,5 +1,5 @@
 ---
-title: "Title: Unlocking the Power of ApprovalStateRequiredException in AWS CodeCommit"
+title: "Unlocking the Power of ApprovalStateRequiredException in AWS CodeCommit"
 date: 2024-06-09 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]

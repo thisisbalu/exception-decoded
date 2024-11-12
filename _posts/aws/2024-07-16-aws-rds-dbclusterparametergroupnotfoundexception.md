@@ -100,4 +100,3 @@ To learn more about Amazon RDS and its error codes, refer to the official AWS do
 
 We hope this article helps you in understanding and resolving the `DBClusterParameterGroupNotFoundException`. Happy coding with AWS RDS!
 
-*Estimated reading time: 15 minutes*

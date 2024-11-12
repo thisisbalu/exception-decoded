@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the InvalidClusterSubnetStateException in AWS Redshift"
+title: "Understanding the InvalidClusterSubnetStateException in AWS Redshift"
 date: 2024-03-30 09:00:00 -0000
 categories: [AWS, AWS Redshift]
 tags: [aws, redshift, com.amazonaws.services.redshift.model]
@@ -97,4 +97,3 @@ Remember to always double-check your subnet group names and ensure they are corr
 
 Thank you for reading! If you have any questions or comments, feel free to reach out. Happy coding!
 
-*Estimated reading time: 15 minutes*

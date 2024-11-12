@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the InvalidCampaignStateException in AWS Connect Campaign"
+title: "Demystifying the InvalidCampaignStateException in AWS Connect Campaign"
 date: 2024-07-21 09:00:00 -0000
 categories: [AWS, AWS Connect Campaign]
 tags: [aws, connectcampaign, com.amazonaws.services.connectcampaign.model]

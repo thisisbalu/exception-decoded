@@ -1,5 +1,5 @@
 ---
-title: "Title: Exploring SkipException in Spring: Boosting Exception Handling Efficiency"
+title: "Exploring SkipException in Spring: Boosting Exception Handling Efficiency"
 date: 2024-09-12 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.step.skip]

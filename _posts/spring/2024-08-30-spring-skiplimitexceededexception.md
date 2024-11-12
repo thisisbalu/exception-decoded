@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying SkipLimitExceededException in Spring: How to Handle and Prevent Data Skips"
+title: "Demystifying SkipLimitExceededException in Spring: How to Handle and Prevent Data Skips"
 date: 2024-08-30 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.step.skip]
@@ -174,4 +174,3 @@ Remember, dealing with exceptional scenarios in batch processing is an essential
 - [Spring Batch Reference](https://docs.spring.io/spring-batch/docs/current/reference/html/index.html)
 - [Spring Retry Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/retry.html)
 
-*Disclaimer: The code samples provided in this article are for illustrative purposes only. They may not be production-ready and should be tested and adapted to suit your specific requirements.*

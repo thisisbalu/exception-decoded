@@ -90,4 +90,3 @@ If you'd like to dive deeper into exception handling in Java, the official Java 
 
 Happy coding!
 
-**Estimated reading time:** 15 minutes

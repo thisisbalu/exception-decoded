@@ -1,5 +1,5 @@
 ---
-title: "Title: InvalidCacheParameterGroupStateException in AWS ElastiCache: Resolving Conflicts with Cache Parameter Groups"
+title: "InvalidCacheParameterGroupStateException in AWS ElastiCache: Resolving Conflicts with Cache Parameter Groups"
 date: 2024-06-17 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the NotFoundException of com.amazonaws.services.pricing.model in AWS Pricing"
+title: "Understanding the NotFoundException of com.amazonaws.services.pricing.model in AWS Pricing"
 date: 2024-05-27 09:00:00 -0000
 categories: [AWS, AWS Pricing]
 tags: [aws, pricing, com.amazonaws.services.pricing.model]

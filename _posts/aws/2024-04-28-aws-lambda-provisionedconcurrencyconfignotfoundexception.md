@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the ProvisionedConcurrencyConfigNotFoundException in AWS Lambda"
+title: "Demystifying the ProvisionedConcurrencyConfigNotFoundException in AWS Lambda"
 date: 2024-04-28 09:00:00 -0000
 categories: [AWS, AWS Lambda]
 tags: [aws, lambda, com.amazonaws.services.lambda.model]

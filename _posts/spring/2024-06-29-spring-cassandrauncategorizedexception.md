@@ -115,5 +115,3 @@ Happy coding!
 [^2^]: [Cassandra Data Modeling Guide](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlRefTOC.html)
 
 ---
-
-Estimated reading time: 15 minutes

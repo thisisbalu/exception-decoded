@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding InvalidRestoreException in AWS Neptune"
+title: "Understanding InvalidRestoreException in AWS Neptune"
 date: 2024-02-13 09:00:00 -0000
 categories: [AWS, AWS Neptune]
 tags: [aws, neptune, com.amazonaws.services.neptune.model]

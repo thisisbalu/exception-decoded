@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding HttpConnectTimeoutException in Java: Troubleshooting and Best Practices"
+title: "Understanding HttpConnectTimeoutException in Java: Troubleshooting and Best Practices"
 date: 2024-03-28 09:00:00 -0000
 categories: [Java, java.net.http]
 tags: [java, java-unchecked, java.net.http, java-se]

@@ -77,4 +77,3 @@ Remember to always double-check your S3 bucket and region configurations to avoi
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding BulkBeanException in Spring: A Comprehensive Guide"
+title: "Understanding BulkBeanException in Spring: A Comprehensive Guide"
 date: 2024-08-19 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.cglib.beans]

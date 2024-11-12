@@ -1,5 +1,5 @@
 ---
-title: "Title: What is URIReferenceException in Java: A Comprehensive Guide for Developers"
+title: "What is URIReferenceException in Java: A Comprehensive Guide for Developers"
 date: 2024-08-16 09:00:00 -0000
 categories: [Java, javax.xml.crypto]
 tags: [java, java-unchecked, javax.xml.crypto, java-se]

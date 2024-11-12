@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the ValidationException in AWS Migration Hub Strategy Recommendations"
+title: "Demystifying the ValidationException in AWS Migration Hub Strategy Recommendations"
 date: 2024-06-06 09:00:00 -0000
 categories: [AWS, AWS Migration Hub Strategy Recommendations]
 tags: [aws, migrationhubstrategyrecommendations, com.amazonaws.services.migrationhubstrategyrecommendations.model]

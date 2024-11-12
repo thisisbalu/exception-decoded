@@ -125,4 +125,3 @@ For further reading in the Java documentation, refer to the official documentati
 
 That's all for now! Happy coding!
 
-*Estimated reading time: 15 minutes.*

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Mastering AccountExpiredException in Spring: A Comprehensive Guide"
+title: "Mastering AccountExpiredException in Spring: A Comprehensive Guide"
 date: 2024-07-19 09:00:00 -0000
 categories: [Spring, spring-security]
 tags: [spring, spring-unchecked, org.springframework.security.authentication]
@@ -104,4 +104,3 @@ To learn more about Spring Security and exception handling, refer to the officia
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

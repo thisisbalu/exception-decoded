@@ -196,4 +196,3 @@ So next time you encounter a `ConcurrentModificationException`, embrace it as an
 4. [Java Tutorials - "The CopyOnWriteArrayList Class"](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/CopyOnWriteArrayList.html)
 
 ---
-*Estimated reading time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Understanding the FailedLoginException in Java: A Comprehensive Guide"
+title: "Understanding the FailedLoginException in Java: A Comprehensive Guide"
 date: 2024-11-08 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, javax.security.auth.login, java-se]
@@ -93,4 +93,3 @@ Further Reading:
 - [Spring Security](https://spring.io/projects/spring-security)
 - [Apache Shiro](https://shiro.apache.org/)
 
-*Estimated reading time: 15 minutes*

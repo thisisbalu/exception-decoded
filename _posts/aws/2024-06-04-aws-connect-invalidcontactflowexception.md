@@ -86,4 +86,3 @@ For more details and API references, please refer to:
 
 Remember, understanding and managing exceptions such as the `InvalidContactFlowException` is vital for maintaining a robust and reliable contact center solution. Happy coding!
 
-**Total reading time: 15 minutes**

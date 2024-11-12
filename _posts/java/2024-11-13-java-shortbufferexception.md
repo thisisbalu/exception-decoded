@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Dealing with ShortBufferException in Java: The Ultimate Guide for Seamless Buffer Management"
+title: "Dealing with ShortBufferException in Java: The Ultimate Guide for Seamless Buffer Management"
 date: 2024-11-13 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, javax.crypto, java-se]

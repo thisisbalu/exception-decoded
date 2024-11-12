@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying UnexpectedRollbackException in Spring: Handling Transaction Rollback in Java Applications"
+title: "Demystifying UnexpectedRollbackException in Spring: Handling Transaction Rollback in Java Applications"
 date: 2024-08-31 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.transaction]
@@ -118,4 +118,3 @@ To learn more about transaction management in Spring, refer to the official docu
 
 Happy coding!
 
-*Estimated reading time: 15 minutes*

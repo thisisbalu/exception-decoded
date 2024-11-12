@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding LambdaFunctionFailedException in AWS Simple Workflow"
+title: "Understanding LambdaFunctionFailedException in AWS Simple Workflow"
 date: 2024-05-10 09:00:00 -0000
 categories: [AWS, AWS Simple Workflow]
 tags: [aws, simpleworkflow, com.amazonaws.services.simpleworkflow.flow]
@@ -107,4 +107,3 @@ Remember to configure your Lambda functions correctly, thoroughly test your code
 - [AWS Simple Workflow Developer Guide](https://docs.aws.amazon.com/amazonswf/latest/developerguide/)
 - [AWS SDK Java Documentation](https://docs.aws.amazon.com/sdk-for-java/index.html)
 
-> Estimated reading time: 15 minutes

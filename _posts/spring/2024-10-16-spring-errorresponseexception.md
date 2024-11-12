@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Handling Error Responses in Spring: Unmasking the Power of ErrorResponseException"
+title: "Handling Error Responses in Spring: Unmasking the Power of ErrorResponseException"
 date: 2024-10-16 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web]

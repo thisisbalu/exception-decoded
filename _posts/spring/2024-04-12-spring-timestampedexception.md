@@ -122,4 +122,3 @@ By taking advantage of TimestampedException and following the recommended practi
 - [ControllerAdvice in Spring Boot](https://www.baeldung.com/exception-handling-for-rest-with-spring)
 - [SLF4J Documentation](http://www.slf4j.org/manual.html)
 
-##### Estimated Reading Time: 15 minutes

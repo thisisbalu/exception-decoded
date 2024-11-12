@@ -114,4 +114,3 @@ I hope you found this article helpful in understanding and resolving the `AutoRe
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [HikariCP Configuration](https://github.com/brettwooldridge/HikariCP#configuration-knobs-baby)
 
-*Estimated reading time: 15 minutes*

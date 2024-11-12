@@ -99,4 +99,3 @@ References:
 
 Thank you for investing your time in reading this article. We hope it has provided you with valuable insights into AWS Clean Rooms' ValidationExceptionReason. Happy data processing!
 
-*Reading Time: 15 minutes*

@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying InvalidUserStateException in AWS ElastiCache"
+title: "Demystifying InvalidUserStateException in AWS ElastiCache"
 date: 2024-05-26 09:00:00 -0000
 categories: [AWS, AWS ElastiCache]
 tags: [aws, elasticache, com.amazonaws.services.elasticache.model]

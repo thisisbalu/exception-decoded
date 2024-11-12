@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding ThrottlingException in AWS VPC Lattice: A Comprehensive Guide"
+title: "Understanding ThrottlingException in AWS VPC Lattice: A Comprehensive Guide"
 date: 2024-07-02 09:00:00 -0000
 categories: [AWS, AWS VPC Lattice]
 tags: [aws, vpclattice, com.amazonaws.services.vpclattice.model]

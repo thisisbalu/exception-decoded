@@ -104,4 +104,3 @@ References:
 
 Feel free to leave any questions or share your experiences in the comments below. Happy coding!
 
-Estimated reading time: 15 minutes

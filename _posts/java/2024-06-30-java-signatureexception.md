@@ -1,5 +1,5 @@
 ---
-title: "Title: SignatureException in Java - Handling Digital Signatures with Confidence"
+title: "SignatureException in Java - Handling Digital Signatures with Confidence"
 date: 2024-06-30 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, java.security, java-se]

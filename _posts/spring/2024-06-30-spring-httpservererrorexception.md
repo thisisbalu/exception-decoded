@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Handling HttpServerErrorException in Spring: Best Practices for Developers"
+title: "Handling HttpServerErrorException in Spring: Best Practices for Developers"
 date: 2024-06-30 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.client]
@@ -100,5 +100,3 @@ Handling `HttpServerErrorException` is vital for developers working with Spring 
 - Spring Boot Actuator: [https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
 - New Relic: [https://newrelic.com/](https://newrelic.com/)
 - Datadog: [https://www.datadoghq.com/](https://www.datadoghq.com/)
-
-*Estimated Reading Time: 15 minutes*

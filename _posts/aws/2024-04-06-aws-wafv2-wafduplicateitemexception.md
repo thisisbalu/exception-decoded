@@ -93,4 +93,3 @@ For more information, refer to the official documentation on WAFDuplicateItemExc
 Keep coding efficiently with AWS WAF V2!
 
 ---
-*Estimated reading time: 15 minutes*

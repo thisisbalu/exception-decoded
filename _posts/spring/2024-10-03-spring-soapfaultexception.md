@@ -121,4 +121,3 @@ Now it's time to apply these learnings and make your Spring application's SOAP e
 - [SOAP Faults](https://www.w3.org/TR/xmlsoap11/)
 - [Spring Web Services on GitHub](https://github.com/spring-projects/spring-ws)
 
-*Estimated Reading Time: 15 minutes*

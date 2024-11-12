@@ -107,5 +107,3 @@ UncategorizedJmsException can occur unexpectedly and cause disruptions in Spring
 For more details on handling JMS exceptions in Spring, refer to the official Spring documentation on [Exception Handling in the JMS Support](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#jms-exception-handling).
 
 And that's it – you now have a comprehensive understanding of `UncategorizedJmsException` in Spring and how to effectively handle and resolve it. Happy messaging!
-
-*Estimated reading time: 15 minutes*

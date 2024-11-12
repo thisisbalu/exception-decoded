@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying the InvalidLayerException in AWS ECR Public
+title: "Demystifying the InvalidLayerException in AWS ECR Public
 Example usage
     Push the layer to ECR Public
     Handle invalid layer"

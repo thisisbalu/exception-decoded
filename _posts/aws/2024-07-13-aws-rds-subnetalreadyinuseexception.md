@@ -98,4 +98,3 @@ By following best practices when using AWS RDS, you can effectively tackle the `
 
 For more information about working with Amazon RDS, refer to the official [AWS RDS documentation](https://docs.aws.amazon.com/rds/).
 
-*Estimated reading time: 15 minutes*

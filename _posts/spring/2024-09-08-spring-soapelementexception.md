@@ -101,4 +101,3 @@ To learn more about handling SOAPExceptions in Spring Web Services, refer to the
 
 Make sure to stay updated with the latest developments in Spring Web Services to leverage the best practices for building robust SOAP-based web services.
 
-*Estimated reading time: 15 minutes*

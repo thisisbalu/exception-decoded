@@ -101,4 +101,3 @@ Now that you have a better understanding of TransactionSystemException in Spring
 - [Spring Transaction Management](https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#transaction)
 - [Isolation Levels in Database Transactions](https://www.baeldung.com/spring-transactional-isolation)
 
-*Estimated reading time: 15 minutes.*

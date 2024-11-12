@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Handling FlatFileParseException in Spring: A Comprehensive Guide"
+title: "Handling FlatFileParseException in Spring: A Comprehensive Guide"
 date: 2024-11-05 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.item.file]

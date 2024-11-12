@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: OperationCancellationException in Spring: Handling Long-Running Tasks with Grace"
+title: "OperationCancellationException in Spring: Handling Long-Running Tasks with Grace"
 date: 2024-03-22 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.couchbase.core]

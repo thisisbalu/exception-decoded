@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding and Handling LimitExceededException in AWS KMS"
+title: "Understanding and Handling LimitExceededException in AWS KMS"
 date: 2024-08-06 09:00:00 -0000
 categories: [AWS, AWS KMS]
 tags: [aws, kms, com.amazonaws.services.kms.model]

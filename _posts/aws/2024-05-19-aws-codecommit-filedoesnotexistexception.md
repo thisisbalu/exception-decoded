@@ -116,4 +116,3 @@ For more information about `FileDoesNotExistException` and AWS CodeCommit in gen
 
 Keep coding confidently and happy programming!
 
-*Estimated reading time: 15 minutes*

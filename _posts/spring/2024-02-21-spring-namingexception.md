@@ -1,5 +1,5 @@
 ---
-title: "The Catchy Guide to Handling NamingException in Spring"
+title: "The Guide to Handling NamingException in Spring"
 date: 2024-02-21 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-checked, org.springframework.ldap]

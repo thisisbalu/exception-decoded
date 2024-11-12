@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Demystifying NamingSecurityException in Spring: A Comprehensive Guide"
+title: "Demystifying NamingSecurityException in Spring: A Comprehensive Guide"
 date: 2024-10-20 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-unchecked, org.springframework.ldap]
@@ -86,4 +86,3 @@ Next time you encounter a `NamingSecurityException`, you will be well-prepared t
 
 Happy coding and stay secure!
 
-*Estimated Reading Time: 15 minutes*

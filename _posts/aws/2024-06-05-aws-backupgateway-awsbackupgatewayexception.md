@@ -108,5 +108,3 @@ To explore further, refer to the official AWS Backup Gateway documentation [here
 Now that you have a better understanding of AWSBackupGatewayException, you can confidently tackle any problems that might arise with AWS Backup Gateway. Happy backing up!
 
 ---
-
-*Estimated reading time: 15 minutes*

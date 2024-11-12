@@ -1,5 +1,5 @@
 ---
-title: "Title: Resolving ThrottlingException in AWS VPC Lattice: Boosting Performance and Efficiency"
+title: "Resolving ThrottlingException in AWS VPC Lattice: Boosting Performance and Efficiency"
 date: 2024-07-01 09:00:00 -0000
 categories: [AWS, AWS VPC Lattice]
 tags: [aws, vpclattice, com.amazonaws.services.vpclattice.model]
@@ -153,5 +153,3 @@ Remember, optimizing AWS VPC Lattice involves continuous evaluation, monitoring,
 3. [AWS Service Quotas Documentation](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
 4. [Backoff and Retry Mechanisms in AWS SDK](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 5. [Asynchronous Programming in the AWS SDK](https://aws.amazon.com/blogs/developer/asynchronous-programming-in-the-aws-sdk-for-java/)
-
-*Total reading time: 15 minutes*

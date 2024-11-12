@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding CommitIdsLimitExceededException in AWS CodeCommit"
+title: "Understanding CommitIdsLimitExceededException in AWS CodeCommit"
 date: 2024-07-13 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
@@ -96,4 +96,3 @@ In this article, we explored ways to handle the `CommitIdsLimitExceededException
 - [AWS CodeCommit Documentation](https://docs.aws.amazon.com/codecommit/)
 - [AWS SDKs for CodeCommit](https://aws.amazon.com/tools/)
 
-> Estimated reading time: 15 minutes

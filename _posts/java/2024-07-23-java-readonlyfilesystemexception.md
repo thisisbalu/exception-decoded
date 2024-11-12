@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the ReadOnlyFileSystemException in Java: A Guide for Java Developers"
+title: "Understanding the ReadOnlyFileSystemException in Java: A Guide for Java Developers"
 date: 2024-07-23 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.file, java-se]

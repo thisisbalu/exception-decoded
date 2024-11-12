@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding MaximumConflictResolutionEntriesExceededException in AWS CodeCommit"
+title: "Understanding MaximumConflictResolutionEntriesExceededException in AWS CodeCommit"
 date: 2024-04-12 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]

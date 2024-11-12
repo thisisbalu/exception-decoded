@@ -1,5 +1,5 @@
 ---
-title: "Catchy Title: Demystifying ValidationException of com.amazonaws.services.braket.model in AWS Braket"
+title: "Demystifying ValidationException of com.amazonaws.services.braket.model in AWS Braket"
 date: 2024-05-02 09:00:00 -0000
 categories: [AWS, AWS Braket]
 tags: [aws, braket, com.amazonaws.services.braket.model]
@@ -110,4 +110,3 @@ Remember, prevention is better than cure. So, next time you call a Braket API, v
 
 Happy Quantum Computing!
 
-*Estimated reading time: 15 minutes*

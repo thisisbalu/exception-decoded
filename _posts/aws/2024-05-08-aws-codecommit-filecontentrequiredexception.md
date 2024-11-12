@@ -203,4 +203,3 @@ For more information about AWS CodeCommit and its exceptions, please refer to th
 
 Thank you for reading, and happy coding!
 
-*Estimated reading time: 15 minutes*

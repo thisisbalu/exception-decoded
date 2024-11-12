@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO Friendly Title: Understanding AmqpIllegalStateException in Spring: A Comprehensive Guide"
+title: "Understanding AmqpIllegalStateException in Spring: A Comprehensive Guide"
 date: 2024-09-26 09:00:00 -0000
 categories: [Spring, spring-amqp]
 tags: [spring, spring-unchecked, org.springframework.amqp]

@@ -1,5 +1,5 @@
 ---
-title: "Title: ServerError in Java: Understanding Exceptions and Handling Errors with Java's ServerError Class"
+title: "ServerError in Java: Understanding Exceptions and Handling Errors with Java's ServerError Class"
 date: 2024-09-19 09:00:00 -0000
 categories: [Java, java.rmi]
 tags: [java, java-error, java.rmi, java-se]

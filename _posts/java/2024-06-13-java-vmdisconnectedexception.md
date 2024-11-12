@@ -1,5 +1,5 @@
 ---
-title: "Title: "VMDisconnectedException in Java: Understanding and Handling the Disconnection of a Java Virtual Machine""
+title: ""VMDisconnectedException in Java: Understanding and Handling the Disconnection of a Java Virtual Machine""
 date: 2024-06-13 09:00:00 -0000
 categories: [Java, jdk.jdi]
 tags: [java, java-unchecked, com.sun.jdi, jdk]

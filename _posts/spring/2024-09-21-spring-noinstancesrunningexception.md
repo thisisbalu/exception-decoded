@@ -105,4 +105,3 @@ Now that you are equipped with knowledge about NoInstancesRunningException, go a
 > - [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 > - [Stack Overflow: Spring tag](https://stackoverflow.com/questions/tagged/spring)
 
-*Estimated reading time: 15 minutes*

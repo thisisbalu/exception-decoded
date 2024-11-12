@@ -114,4 +114,3 @@ So, the next time you encounter the `FatalListenerExecutionException`, be prepar
 
 ---
 
-*Disclaimer: The code examples provided in this article are meant for illustration purposes only and may not reflect actual production code. Always exercise caution and adapt them to fit your specific requirements.*

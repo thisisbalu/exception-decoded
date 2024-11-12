@@ -139,5 +139,3 @@ Reference links:
 - [Spring Retry Documentation](https://docs.spring.io/spring-retry/docs/current/reference/html5/)
 - [Resilience4j Circuit Breaker Documentation](https://resilience4j.readme.io/docs/circuitbreaker)
 - [Spring RestTemplate Documentation](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/ResourceAccessException.html)
-
-Estimated reading time: 15 minutes.

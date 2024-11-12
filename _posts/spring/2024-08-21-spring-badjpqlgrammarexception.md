@@ -109,4 +109,3 @@ For more information on JPQL queries and Spring Data JPA, refer to the following
 
 With these insights and practices, developers can confidently handle BadJpqlGrammarException and optimize the efficiency of their Spring applications. Happy coding!
 
-*Estimated reading time: 15 minutes.*

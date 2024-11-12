@@ -1,5 +1,5 @@
 ---
-title: "Title: Understanding the ModelNotReadyException in AWS SageMaker Runtime"
+title: "Understanding the ModelNotReadyException in AWS SageMaker Runtime"
 date: 2024-06-26 09:00:00 -0000
 categories: [AWS, AWS SageMaker Runtime]
 tags: [aws, sagemakerruntime, com.amazonaws.services.sagemakerruntime.model]

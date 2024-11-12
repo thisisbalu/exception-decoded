@@ -90,4 +90,3 @@ Happy documenting!
 - [Mockito Documentation](https://site.mockito.org/)
 
 ---
-*Estimated reading time: 15 minutes*

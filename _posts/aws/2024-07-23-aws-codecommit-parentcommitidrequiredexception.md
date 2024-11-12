@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ParentCommitIdRequiredException in AWS CodeCommit: A Detailed Overview"
+title: "Demystifying ParentCommitIdRequiredException in AWS CodeCommit: A Detailed Overview"
 date: 2024-07-23 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]

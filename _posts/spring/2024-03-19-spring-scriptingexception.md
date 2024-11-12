@@ -1,5 +1,5 @@
 ---
-title: "Title: Demystifying ScriptingException in Spring: A Comprehensive Guide"
+title: "Demystifying ScriptingException in Spring: A Comprehensive Guide"
 date: 2024-03-19 09:00:00 -0000
 categories: [Spring, spring-data]
 tags: [spring, spring-unchecked, org.springframework.data.redis.core.script]
@@ -83,4 +83,3 @@ Hopefully, this comprehensive guide has shed light on the intricacies of Scripti
 - [ScriptEngine API Reference](https://docs.oracle.com/en/java/javase/14/docs/api/javax/script/ScriptEngine.html)
 - [Maven Repository](https://mvnrepository.com/) - Search for scripting language-specific dependencies, e.g., 'groovy-all' or 'javax.script'
 
-*Disclaimer: This article is for educational purposes only and does not endorse any specific scripting language or library.*

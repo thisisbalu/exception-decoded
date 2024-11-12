@@ -1,5 +1,5 @@
 ---
-title: "Catchy and SEO friendly title: Understanding RejectedExecutionException in Java: A Comprehensive Guide for Developers"
+title: "Understanding RejectedExecutionException in Java: A Comprehensive Guide for Developers"
 date: 2024-09-17 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.util.concurrent, java-se]

@@ -1,5 +1,5 @@
 ---
-title: "Title: Unveiling the Troubleshooting Mysteries: CertificateNotFoundException in AWS Neptune"
+title: "Unveiling the Troubleshooting Mysteries: CertificateNotFoundException in AWS Neptune"
 date: 2024-06-29 09:00:00 -0000
 categories: [AWS, AWS Neptune]
 tags: [aws, neptune, com.amazonaws.services.neptune.model]
@@ -71,4 +71,3 @@ For a comprehensive guide on working with Neptune, refer to the official [AWS Ne
 
 Wishing you smooth graph traversals and optimized queries with AWS Neptune! Happy coding!
 
-***Total reading time: 15 minutes***
