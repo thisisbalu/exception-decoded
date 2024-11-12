@@ -1,8 +1,5 @@
 ---
-title: "AWS Application Auto Scaling: Understanding and Handling ValidationException
-        Validate request against API model
-        Make the actual API call
-        Handle ValidationException gracefully"
+title: "AWS Application Auto Scaling: Understanding and Handling ValidationException"
 date: 2024-03-10 09:00:00 -0000
 categories: [AWS, AWS Application Auto Scaling]
 tags: [aws, applicationautoscaling, com.amazonaws.services.applicationautoscaling.model]
