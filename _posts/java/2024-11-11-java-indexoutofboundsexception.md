@@ -1,5 +1,5 @@
 ---
-title: "Title: "A Deep Dive into IndexOutOfBoundsException in Java: Causes, Prevention, and Best Practices""
+title: "Deep Dive into IndexOutOfBoundsException in Java: Causes, Prevention, and Best Practices"
 date: 2024-11-11 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.lang, java-se]
@@ -118,7 +118,3 @@ Remember, proactive validation, logical checks, and proper exception handling ar
 To further explore exception handling in Java, refer to the official Java documentation: [Java SE Exception Handling](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/Exception.html).
 
 Happy coding and exception-proof programming!
-
-_(Estimated reading time: 15 minutes)_
-
-***
