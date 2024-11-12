@@ -2,13 +2,11 @@
 title: "Catching Up with AmazonClientException in com.amazonaws SDK Common"
 date: 2024-04-01 09:00:00 -0000
 categories: [AWS, SDK Common]
-tags: [aws, , com.amazonaws]
+tags: [aws, com.amazonaws]
 mermaid: true
 toc: true
 ---
 
-
-![AmazonClientException](https://example.com/image.png)
 
 Are you using the com.amazonaws SDK Common? Do you want to learn more about the AmazonClientException class? Look no further! In this article, we will dive deep into the AmazonClientException class, why it is essential, and how to effectively use it in your applications.
 

@@ -10,20 +10,6 @@ toc: true
 
 _DynamoDB, one of the most popular NoSQL databases provided by Amazon Web Services (AWS), offers a highly scalable and performant solution for managing large amounts of data. However, when multiple clients access the same table simultaneously, conflicts can arise, resulting in an exception known as TableInUseException. In this article, we will explore this exception in detail, understand its causes, and learn how to handle it effectively._
 
-## Table of Contents:
-- [Introduction](#introduction) 
-- [Understanding TableInUseException](#understanding-tableinuseexception)
-    - [Causes of TableInUseException](#causes-of-tableinuseexception)
-    - [Code Example: Simulating a TableInUseException](#code-example-simulating-a-tableinuseexception)
-- [Handling TableInUseException](#handling-tableinuseexception)
-    - [1. Exponential Backoff and Jitter](#exponential-backoff-and-jitter)
-    - [2. Optimistic Locking](#optimistic-locking)
-    - [Code Example: Handling TableInUseException with Optimistic Locking](#code-example-handling-tableinuseexception-with-optimistic-locking)
-    - [3. Retrying with Conditional Writes](#retrying-with-conditional-writes)
-    - [Code Example: Retrying with Conditional Writes](#code-example-retrying-with-conditional-writes)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Introduction
 
 In highly concurrent environments, where multiple clients simultaneously access the same DynamoDB table, conflicts and contention can occur. AWS DynamoDB ensures data consistency and isolation by employing mechanisms such as optimistic locking and conditional writes. However, under certain conditions, when these mechanisms fail to prevent conflicts, the TableInUseException is thrown.

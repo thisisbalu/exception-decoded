@@ -14,17 +14,6 @@ Introduction:
  
 In the realm of Spring framework exceptions, one of the less commonly encountered yet important exceptions is the `AttributeInUseException`. This exception occurs when an attempt is made to modify an attribute of a Spring object that is already in use. In this article, we will explore the details of this exception, understand its causes, and learn how to handle it effectively in Spring applications.
 
-## Table of Contents:
-
-1. [Understanding AttributeInUseException](#Understanding-AttributeInUseException)
-2. [Common Causes of AttributeInUseException](#Common-Causes-of-AttributeInUseException)
-3. [How to handle AttributeInUseException](#How-to-handle-AttributeInUseException)
-4. [Code Examples](#Code-Examples)
-    - [Example 1: AttributeInUseException in Bean Configuration](#Example-1:-AttributeInUseException-in-Bean-Configuration)
-    - [Example 2: Handling AttributeInUseException in Controller](#Example-2:-Handling-AttributeInUseException-in-Controller)
-5. [Conclusion](#Conclusion)
-6. [References](#References)
-
 ---
 
 ## Understanding AttributeInUseException

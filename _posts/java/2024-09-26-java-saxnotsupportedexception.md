@@ -12,15 +12,6 @@ toc: true
 
 Welcome to this technical article aimed at shedding light on a common XML parsing issue in Java - SAXNotSupportedException. XML parsing is a crucial task for many Java applications, and understanding and resolving such issues are paramount in ensuring your application's stability and performance. In this article, we will explore what SAXNotSupportedException is, what causes it, and the best practices to handle and avoid it effectively.
 
-## Table of Contents
-
-1. [Overview: What is SAXNotSupportedException?](#overview-what-is-saxnotsupportedexception)
-2. [Causes of SAXNotSupportedException](#causes-of-saxnotsupportedexception)
-3. [Handling SAXNotSupportedException](#handling-saxnotsupportedexception)
-4. [Avoiding SAXNotSupportedException](#avoiding-saxnotsupportedexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## 1. Overview: What is SAXNotSupportedException?
 
 The Simple API for XML (SAX) is an event-driven XML parsing API in Java that allows developers to read, manipulate, and extract data from XML documents. SAXNotSupportedException is a specific exception that can occur during XML parsing when the SAX parser encounters an unsupported feature or property. This exception indicates that a requested feature or property is not supported by the underlying SAX parser implementation.

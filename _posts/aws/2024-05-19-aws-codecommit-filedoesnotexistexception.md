@@ -1,14 +1,10 @@
 ---
-title: ""
+title: "Solving FileDoesNotExistException in AWS CodeCommit: A Comprehensive Guide"
 date: 2024-05-19 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
 mermaid: true
 toc: true
----
-
-## Title: Solving FileDoesNotExistException in AWS CodeCommit: A Comprehensive Guide
-
 ---
 
 Are you encountering the dreaded `FileDoesNotExistException` while working with AWS CodeCommit? Don't worry, you're not alone. This exception occurs when you're attempting to perform an action on a file that doesn't exist in your repository, causing your code to hit a roadblock. In this article, we'll dive deep into understanding the `FileDoesNotExistException` and explore various techniques to overcome it. So, let's get started!

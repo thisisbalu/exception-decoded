@@ -1,13 +1,10 @@
 ---
-title: ""Understanding MaximumNumberOfApprovalsExceededException in AWS CodeCommit""
+title: "Understanding MaximumNumberOfApprovalsExceededException in AWS CodeCommit"
 date: 2024-06-14 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
 mermaid: true
 toc: true
----
-
-
 ---
 
 ## Introduction

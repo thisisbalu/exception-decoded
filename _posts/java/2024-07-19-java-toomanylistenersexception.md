@@ -13,19 +13,6 @@ As Java developers, we often rely on event listeners to handle user actions and 
 
 ---
 
-## Table of Contents
-1. [What is the `TooManyListenersException`?](#what-is-the-too-many-listeners-exception)
-2. [The Cautionary Tale of Event Listener Overflows](#the-cautionary-tale-of-event-listener-overflows)
-3. [Debugging the `TooManyListenersException`](#debugging-the-too-many-listeners-exception)
-4. [Mitigating the `TooManyListenersException`](#mitigating-the-too-many-listeners-exception)
-    1. [Consolidate and Optimize Event Listeners](#consolidate-and-optimize-event-listeners)
-    2. [Using Containers to Manage Listeners](#using-containers-to-manage-listeners)
-    3. [Removing Unused and Redundant Listeners](#removing-unused-and-redundant-listeners)
-5. [In Summary](#in-summary)
-6. [References](#references)
-
----
-
 ## What is the `TooManyListenersException`?
 The `TooManyListenersException` is a checked exception that can be thrown by classes implementing the `java.util.EventListener` interface. This exception is thrown to indicate that a component already has the maximum number of event listeners attached to it.
 

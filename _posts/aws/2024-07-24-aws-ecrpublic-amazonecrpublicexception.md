@@ -1,5 +1,5 @@
 ---
-title: ""Demystifying the AmazonECRPublicException in AWS ECR Public for Seamless Container Image Management""
+title: "Demystifying the AmazonECRPublicException in AWS ECR Public for Seamless Container Image Management"
 date: 2024-07-24 09:00:00 -0000
 categories: [AWS, AWS ECR Public]
 tags: [aws, ecrpublic, com.amazonaws.services.ecrpublic.model]

@@ -14,18 +14,6 @@ toc: true
 
 When working with Java programming, you may encounter various exceptions that can affect the execution of your code. One such exception is the `ReadOnlyBufferException`. This article will delve into what this exception is, its causes, and provide solutions for resolving it.
 
----
-
-## Table of Contents
-
-- [The Basics](#the-basics)
-- [Understanding the `ReadOnlyBufferException`](#understanding-the-ReadOnlyBufferException)
-- [Causes of `ReadOnlyBufferException`](#causes-of-ReadOnlyBufferException)
-- [How to Resolve `ReadOnlyBufferException`](#how-to-resolve-ReadOnlyBufferException) 
-    - [Solution 1: Creating a Writable Copy](#solution-1-creating-a-writable-copy)
-    - [Solution 2: Clearing the Buffer](#solution-2-clearing-the-buffer)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ---
 

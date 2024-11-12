@@ -2,15 +2,11 @@
 title: "Unveiling the Mysteries of AmazonServiceException in com.amazonaws SDK: A Comprehensive Guide"
 date: 2024-07-23 09:00:00 -0000
 categories: [AWS, SDK Common]
-tags: [aws, , com.amazonaws]
+tags: [aws, com.amazonaws]
 mermaid: true
 toc: true
 ---
 
-
-*Subtitle: Mastering AmazonServiceException for Error Handling in Your AWS Application Development*
-
----
 
 ## Introduction
 

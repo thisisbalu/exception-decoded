@@ -11,12 +11,6 @@ toc: true
 **Introduction**
 In Apache Cassandra, CassandraInvalidQueryException is a common exception that developers encounter when working with data persistence using the Spring framework. This exception occurs when the executed query is syntactically incorrect or contains invalid values. In this article, we will delve into the details of CassandraInvalidQueryException, its causes, and how to handle it effectively in your Spring applications.
 
-## Table of Contents
-- [Understanding CassandraInvalidQueryException](#understanding-cassandravalidqueryexception)
-- [Causes and Common Scenarios](#causes-and-common-scenarios)
-- [Handling CassandraInvalidQueryException](#handling-cassandravalidqueryexception)
-- [Best Practices](#best-practices)
-
 ## Understanding CassandraInvalidQueryException
 CassandraInvalidQueryException is a runtime exception in the Spring Data Cassandra library that extends InvalidQueryException from the DataStax Java Driver. This exception is thrown when a query is invalid and cannot be executed due to incorrect syntax or incompatible data types.
 

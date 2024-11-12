@@ -1,5 +1,5 @@
 ---
-title: ""Demystifying ClosedByInterruptException: Handling Interruptions Safely in Java""
+title: "Demystifying ClosedByInterruptException: Handling Interruptions Safely in Java"
 date: 2024-08-25 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-unchecked, java.nio.channels, java-se]
