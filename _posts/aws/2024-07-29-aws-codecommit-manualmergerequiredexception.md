@@ -7,11 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
-*TL;DR: Learn more about ManualMergeRequiredException in AWS CodeCommit, its causes, practical examples, and steps to resolve it efficiently. Find out how to ensure a smooth merge process, and optimize your team's productivity.*
-
 ---
 
 ## Introduction
@@ -107,8 +102,3 @@ Want to learn more about AWS CodeCommit and its features? Check out the official
 
 Happy coding!
 
----
-
-**Note**: The code examples in this article assume a basic understanding of Git commands and usage. Consult the official Git documentation for more details.
-
-*Estimated reading time: 15 minutes*
