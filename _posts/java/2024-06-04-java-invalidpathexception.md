@@ -118,4 +118,3 @@ With these strategies in your toolkit, you're now better equipped to handle `Inv
 - [Operating system-specific restrictions on file names](https://www.makeuseof.com/tag/forbidden-characters-file-names-operating-systems/)
 - [Common file path mistakes in Java](https://www.baeldung.com/java-common-path-mistakes)
 
-*Note: The code examples provided in this article assume Java 8 or higher.*
