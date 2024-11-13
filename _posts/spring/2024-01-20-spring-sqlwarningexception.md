@@ -109,4 +109,3 @@ For more information and detailed documentation on the `SQLWarningException` and
 
 Happy coding!
 
-_This article is a 15-minute read, providing detailed insights into handling `SQLWarningException` in Spring applications. It discusses best practices and provides code examples to guide developers in effectively managing SQL warnings in their applications._

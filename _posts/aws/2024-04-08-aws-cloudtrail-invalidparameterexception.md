@@ -133,4 +133,3 @@ Keep exploring, experimenting, and learning to unlock the full potential of AWS 
 - AWS CloudTrail Documentation: [https://docs.aws.amazon.com/cloudtrail/](https://docs.aws.amazon.com/cloudtrail/)
 - AWS SDK for Java Documentation: [https://docs.aws.amazon.com/sdk-for-java/](https://docs.aws.amazon.com/sdk-for-java/)
 
-*This article is a 15-minute read and covers in-depth information on troubleshooting the InvalidParameterException in the com.amazonaws.services.cloudtrail.model package, providing practical solutions to its causes and helpful code examples.

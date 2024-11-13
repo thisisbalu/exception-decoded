@@ -79,4 +79,3 @@ For further information, consult the official Spring documentation:
 
 Happy coding!
 
-> Note: This article is a 15-minute read designed to provide a comprehensive guide on the `CannotLoadBeanClassException` in Spring.

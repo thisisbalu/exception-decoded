@@ -12,8 +12,6 @@ toc: true
 
 In Java programming, exceptions play a crucial role in handling runtime errors. KeyException is one such exception that developers often encounter when working with maps or other key-value data structures. If not handled properly, a KeyException can lead to unexpected program behavior or even application crashes.
 
-This comprehensive guide aims to demystify KeyException in Java, providing detailed insights into its cause, prevention, and best practices for error handling. By the end of this 15-minute read, you'll be confident in dealing with KeyException occurrences effectively.
-
 ## Understanding KeyException
 
 KeyException is a subclass of the RuntimeException class in Java. It occurs when an invalid key is encountered while performing operations in a map-based data structure, such as HashMap, TreeMap, or Hashtable. A key represents a unique identifier that helps access or retrieve associated values from the map.

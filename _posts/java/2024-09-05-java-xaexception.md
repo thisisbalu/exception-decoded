@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-Are you facing difficulties while dealing with XA transactions in your Java application? Have you ever encountered an XAException and struggled to understand and resolve it? Look no further, as this 15-minute read will provide you with an in-depth understanding of XAException in Java and guide you towards effective resolutions.
+Are you facing difficulties while dealing with XA transactions in your Java application? Have you ever encountered an XAException and struggled to understand and resolve it? Look no further.
 
 ## **Table of Contents**
 

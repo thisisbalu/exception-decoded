@@ -105,4 +105,3 @@ We hope this article provided valuable insights into the `PlatformUnknownExcepti
 - [AWS Elastic Container Service Documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
 - [AWS SDK for Java API Reference](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
 
-*Note: This article has been written with SEO best practices in mind, aiming for a 15-minute read time to provide extensive information about the topic.*

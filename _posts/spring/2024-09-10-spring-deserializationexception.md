@@ -95,5 +95,3 @@ Stay tuned for more informative articles on Spring and Java!
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Serialization and Deserialization in Java](https://www.baeldung.com/java-serialization-deserialization)
 - [Handling Serialization and Deserialization Exceptions](https://blog.goyello.com/2019/05/24/handling-serialization-and-deserialization-with-spark/)
-
-**Note**: This article is a 15-minute read.

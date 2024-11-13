@@ -12,7 +12,6 @@ toc: true
 
 Have you ever encountered a `MarshallingFailureException` while developing a Spring application, and wondered what it really means and how to tackle it? Fear not, as this article aims to demystify the `MarshallingFailureException` in Spring and offer a comprehensive guide to resolving it effectively.
 
-In this 15-minute read, you'll gain a deep understanding of what causes this exception, its implications, and how to handle it gracefully in your Spring applications. Let's dig in!
 
 ## What is a MarshallingFailureException?
 

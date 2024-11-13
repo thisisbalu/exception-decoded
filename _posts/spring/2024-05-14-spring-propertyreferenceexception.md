@@ -123,4 +123,3 @@ References:
 - [Spring Environment Class](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)
 - [Spring PropertyPlaceholderConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.html)
 
-*Note: This article is intended to be a 15-minute read, providing a comprehensive guide to understanding and handling the `PropertyReferenceException` in Spring.*

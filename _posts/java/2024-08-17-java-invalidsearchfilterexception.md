@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-Are you working on a Java project and encountered the `InvalidSearchFilterException`? This exception often puzzles developers, as it can occur unexpectedly and impact the functionality of the application. In this detailed article, we will explore the root causes, common scenarios, and best practices to handle `InvalidSearchFilterException` in Java. By the end of this 15-minute read, you will have a solid understanding of this exception and how to deal with it effectively.
+Are you working on a Java project and encountered the `InvalidSearchFilterException`? This exception often puzzles developers, as it can occur unexpectedly and impact the functionality of the application. In this detailed article, we will explore the root causes, common scenarios, and best practices to handle `InvalidSearchFilterException` in Java. 
 
 ## Understanding InvalidSearchFilterException
 

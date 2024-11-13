@@ -9,7 +9,7 @@ toc: true
 
 
 ## Introduction
-Are you experiencing a ConnectIOException while working with Java? Don't worry; you're not alone. In this article, we will explore the reasons behind the ConnectIOException, understand its implications, and walk through effective solutions to resolve it. Whether you're a beginner or an experienced Java developer, this 15-minute read will equip you with the necessary knowledge to tackle this issue effectively.
+Are you experiencing a ConnectIOException while working with Java? Don't worry; you're not alone. In this article, we will explore the reasons behind the ConnectIOException, understand its implications, and walk through effective solutions to resolve it. Whether you're a beginner or an experienced Java developer.
 
 ## Table of Contents
 1. What is ConnectIOException?

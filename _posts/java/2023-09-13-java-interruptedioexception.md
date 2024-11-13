@@ -85,4 +85,3 @@ That's all for this blog. Stay tuned for more insights into Java's wonderland. H
 
 ---------
 
-Keywords: InterruptedIOException, Java, Exception Handling, Input/Output, I/O, Thread.

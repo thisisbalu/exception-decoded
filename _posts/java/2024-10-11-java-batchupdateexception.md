@@ -9,7 +9,7 @@ toc: true
 
 
 ### Introduction
-In the world of Java programming, making interactions with a database has become a common task. However, it's not always a smooth ride—especially when dealing with batch updates. In this 15-minute read, we'll delve into the BatchUpdateException class provided by Java, exploring its key features, common scenarios, and best practices.
+In the world of Java programming, making interactions with a database has become a common task. However, it's not always a smooth ride—especially when dealing with batch updates. 
 
 ### Table of Contents
 1. What is BatchUpdateException?

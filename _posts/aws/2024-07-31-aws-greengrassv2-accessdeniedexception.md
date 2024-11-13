@@ -105,4 +105,3 @@ Remember to regularly review and update your IAM policies to stay compliant with
 [1]: https://docs.aws.amazon.com/greengrass/latest/apireference/welcome.html
 [2]: https://aws.amazon.com/iam/
 
-*This article is a 15-minute read and provides in-depth insights into AccessDeniedException in AWS Greengrass V2.*

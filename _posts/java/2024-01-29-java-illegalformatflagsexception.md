@@ -10,7 +10,6 @@ toc: true
 
 As a programmer, encountering exceptions is an inevitable part of the development process. One such exception that deserves attention is the `IllegalFormatFlagsException` in Java. This exception is thrown when an illegal combination of flags is used in a format specifier, resulting in unexpected behavior.
 
-In this 15-minute read, we will dive deep into the details of the `IllegalFormatFlagsException`, understand its causes, and explore practical solutions. So, grab a cup of coffee and let's get started!
 
 ## Understanding the `IllegalFormatFlagsException`
 

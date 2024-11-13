@@ -129,7 +129,3 @@ Enhancing your understanding of provisioned concurrency and its exception handli
 - [AWS Lambda Provisioned Concurrency](https://aws.amazon.com/lambda/features/provisioned-concurrency/)
 - [AWS SDK for Java](https://aws.amazon.com/sdk-for-java/)
 - [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-
----
-
-*This article is a 15-minute read and is intended to provide a detailed solution for the ProvisionedConcurrencyConfigNotFoundException in AWS Lambda.

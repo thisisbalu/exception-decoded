@@ -74,5 +74,3 @@ By following these best practices, you can ensure smooth and error-free operatio
 - Redis documentation: [https://redis.io/](https://redis.io/)
 - Spring Data Redis documentation: [https://docs.spring.io/spring-data/redis/docs/current/reference/html/](https://docs.spring.io/spring-data/redis/docs/current/reference/html/)
 - Lettuce (Redis client for Java) documentation: [https://lettuce.io/](https://lettuce.io/)
-
-*Note: This article is intended to be a 15-minute read to provide a comprehensive understanding of the `RedisSubscribedConnectionException` in Spring applications.

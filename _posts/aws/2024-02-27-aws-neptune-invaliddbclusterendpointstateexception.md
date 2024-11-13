@@ -124,7 +124,7 @@ To effectively handle the `InvalidDBClusterEndpointStateException` and other exc
 
 ## Conclusion
 
-In this 15-minute read, we discussed the `InvalidDBClusterEndpointStateException` exception in AWS Neptune and explored its possible causes and solutions. Handling this exception effectively is crucial for ensuring the smooth operation of your Neptune database clusters. By following the best practices and utilizing the code examples provided, you can confidently deal with this exception and maintain the stability and availability of your applications.
+We discussed the `InvalidDBClusterEndpointStateException` exception in AWS Neptune and explored its possible causes and solutions. Handling this exception effectively is crucial for ensuring the smooth operation of your Neptune database clusters. By following the best practices and utilizing the code examples provided, you can confidently deal with this exception and maintain the stability and availability of your applications.
 
 For more information on AWS Neptune and error handling in the service, refer to the official [AWS Neptune Documentation](https://docs.aws.amazon.com/neptune/latest/userguide/).
 

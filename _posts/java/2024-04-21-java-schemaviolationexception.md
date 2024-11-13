@@ -122,5 +122,3 @@ In this article, we explored the concept of schema violations, detected them usi
 - [Oracle Java SE Documentation: SchemaViolationException](https://docs.oracle.com/en/java/javase/16/docs/api/javax/naming/directory/SchemaViolationException.html)
 - [IBM Developer: Handling Schema Violations](https://www.ibm.com/support/knowledgecenter/en/SSMR8T_1.0.0/com.ibm.swg.ba.cognos.op_capmod_ig.zos.doc/t_dispatch_errors_handling_schema_violations.html)
 - [ODMR Java API Documentation](https://docs.oracle.com/database/121/JJDEV/apxa4_op.htm#JJDEV10804)
-
-*This article is a 15-minute read, giving you in-depth knowledge about SchemaViolationException and its handling in Java.*

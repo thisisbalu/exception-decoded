@@ -112,4 +112,3 @@ Remember, exception handling is just one aspect of building exceptional applicat
 
 ---
 
-*This article is a 15-minute read aiming to cover the topic comprehensively. Thank you for your time and attention. If you have any questions or suggestions, please feel free to leave a comment.*

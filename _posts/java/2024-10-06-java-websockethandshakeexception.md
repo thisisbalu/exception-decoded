@@ -118,4 +118,3 @@ For further details on WebSocket and troubleshooting more complex scenarios, ref
 
 Happy WebSocket programming!
 
-*Note: This article is a 15-minute read designed to help developers understand and troubleshoot WebSocketHandshakeException in the Java programming language. If you have any further questions or comments, feel free to reach out.*

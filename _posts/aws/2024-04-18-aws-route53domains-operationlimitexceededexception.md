@@ -107,4 +107,3 @@ Remember, understanding the limits set by AWS, preemptively monitoring your usag
 - [AWS Route 53 Domains Developer Guide](https://docs.aws.amazon.com/Route53/latest/APIReference/API_GetDomainDetail.html)
 - [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/APIReference/Welcome.html)
 
-*A 15-minute read by YOUR-NAME-HERE*

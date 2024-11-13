@@ -112,9 +112,3 @@ Now that you're equipped with knowledge about the IncompatibleParameterErrorExce
 
 ## References
 1. AWS FSx Documentation - [https://docs.aws.amazon.com/fsx/latest/APIReference/Welcome.html](https://docs.aws.amazon.com/fsx/latest/APIReference/Welcome.html)
-
-***15-minute read***
-
-*Note: This article is written in Markdown format and adheres to the best SEO practices. It provides detailed insights into IncompatibleParameterErrorException in AWS FSx and includes code examples to clarify the concept for the readers. With the right balance of technical jargon and readability, it aims to provide a comprehensive understanding of the topic.*
-
-[Image source](https://www.freepik.com)
