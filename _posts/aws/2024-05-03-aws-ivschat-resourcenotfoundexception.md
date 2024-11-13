@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Understanding the ResourceNotFoundException in Amazon IVS Chat: A Comprehensive Guide"
+title: "Understanding the ResourceNotFoundException in Amazon IVS Chat: A Comprehensive Guide"
 date: 2024-05-03 09:00:00 -0000
 categories: [AWS, Amazon IVS Chat]
 tags: [aws, ivschat, com.amazonaws.services.ivschat.model]

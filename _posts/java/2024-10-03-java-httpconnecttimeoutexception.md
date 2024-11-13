@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Handling HttpConnectTimeoutException in Java: Best Practices and Code Examples"
+title: "Handling HttpConnectTimeoutException in Java: Best Practices and Code Examples"
 date: 2024-10-03 09:00:00 -0000
 categories: [Java, java.net.http]
 tags: [java, java-unchecked, java.net.http, java-se]

@@ -1,5 +1,5 @@
 ---
-title: "Article Title: A deep dive into AssociatedInstancesException in AWS SSM"
+title: "A deep dive into AssociatedInstancesException in AWS SSM"
 date: 2024-07-08 09:00:00 -0000
 categories: [AWS, AWS Simple Systems Management (SSM)]
 tags: [aws, simplesystemsmanagement, com.amazonaws.services.simplesystemsmanagement.model]
