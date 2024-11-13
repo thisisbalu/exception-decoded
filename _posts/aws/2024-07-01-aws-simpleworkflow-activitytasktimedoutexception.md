@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Understanding the ActivityTaskTimedOutException in AWS Simple Workflow"
+title: "Understanding the ActivityTaskTimedOutException in AWS Simple Workflow"
 date: 2024-07-01 09:00:00 -0000
 categories: [AWS, AWS Simple Workflow]
 tags: [aws, simpleworkflow, com.amazonaws.services.simpleworkflow.flow]

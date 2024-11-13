@@ -7,13 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
----
-
-**Keywords**: NotWritablePropertyException, Spring Framework, Java, Error Handling, Troubleshooting, Configuration, Best Practices
-
----
-
 ## Introduction
 
 As a developer working with the Spring Framework, you may encounter various exceptions and errors during the development lifecycle. One such common exception is the `NotWritablePropertyException`. This exception occurs when Spring fails to set a value to a particular property of a bean due to different reasons.

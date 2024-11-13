@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Demystifying XPathFactoryConfigurationException in Java: A Comprehensive Guide"
+title: "Demystifying XPathFactoryConfigurationException in Java: A Comprehensive Guide"
 date: 2024-10-05 09:00:00 -0000
 categories: [Java, java.xml]
 tags: [java, java-unchecked, javax.xml.xpath, java-se]

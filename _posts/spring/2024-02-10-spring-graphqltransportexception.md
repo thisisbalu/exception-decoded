@@ -14,7 +14,6 @@ In modern web development, GraphQL has gained significant popularity due to its 
 
 However, like any technology, GraphQL in Spring is not immune to occasional errors. One common error that developers often encounter is the `GraphQLTransportException`. In this article, we will explore this exception in detail, understand its causes, and learn how to handle it effectively in Spring applications. We will also discuss performance optimization techniques to enhance the overall GraphQL experience.
 
-By the end of this 15-minute read, you will be equipped with the knowledge to troubleshoot and mitigate GraphQLTransportException, ensuring smooth user experiences with improved speed and efficiency.
 
 ## Understanding GraphQLTransportException
 

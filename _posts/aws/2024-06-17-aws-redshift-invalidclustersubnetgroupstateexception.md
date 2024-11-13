@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Troubleshooting InvalidClusterSubnetGroupStateException in AWS Redshift"
+title: "Troubleshooting InvalidClusterSubnetGroupStateException in AWS Redshift"
 date: 2024-06-17 09:00:00 -0000
 categories: [AWS, AWS Redshift]
 tags: [aws, redshift, com.amazonaws.services.redshift.model]

@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-Are you a Spring developer grappling with the InvalidMimeTypeException? Fret not! In this extensive guide, we will delve into the nitty-gritty of the InvalidMimeTypeException and demonstrate how to effectively handle this exception in Spring applications. Whether you're a seasoned pro or a beginner, this 15-minute read will equip you with the knowledge to overcome this hurdle. So sit tight and let's dive in!
+Are you a Spring developer grappling with the InvalidMimeTypeException? Fret not! In this extensive guide, we will delve into the nitty-gritty of the InvalidMimeTypeException and demonstrate how to effectively handle this exception in Spring applications. Whether you're a seasoned pro or a beginner.
 
 ## Understanding the InvalidMimeTypeException
 

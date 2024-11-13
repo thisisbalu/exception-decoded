@@ -130,4 +130,3 @@ Now that you have a deeper understanding of HibernateSystemException, go forth a
 - [Hibernate Documentation](https://docs.jboss.org/hibernate/orm/5.5/userguide/html_single/Hibernate_User_Guide.html)
 - [Effective Java Exception Handling](https://www.baeldung.com/java-exception-handling-best-practices)
 
-*Note: This article is designed to be a comprehensive guide and may exceed the intended 15-minute read. Feel free to bookmark it for reference or break it into multiple sittings for easier consumption.*

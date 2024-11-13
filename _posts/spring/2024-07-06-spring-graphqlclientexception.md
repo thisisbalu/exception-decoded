@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
----
-Keywords: GraphQlClientException, Spring, GraphQL Errors, Exception Handling
-
 Introduction
 ---
 GraphQL is a powerful query language for APIs that allows clients to specify exactly the data they need, eliminating over-fetching and under-fetching problems commonly seen in REST APIs. With the rise in popularity of GraphQL, developers have embraced it as an efficient way to retrieve and manipulate data from the server. However, like any technology, GraphQL is not immune to errors. In this article, we will explore how to handle GraphQlClientException in Spring, gracefully dealing with GraphQL errors and ensuring a smooth user experience.

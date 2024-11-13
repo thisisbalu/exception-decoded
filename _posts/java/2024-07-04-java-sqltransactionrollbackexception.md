@@ -105,5 +105,3 @@ Keep learning, exploring, and optimizing your Java code to ensure efficient tran
 - [SQLTransactionRollbackException - Java Documentation](https://docs.oracle.com/en/java/javase/14/docs/api/java.sql/java/sql/SQLTransactionRollbackException.html)
 - [Concurrency Control and Transaction Management - Tutorialspoint](https://www.tutorialspoint.com/dbms/dbms_concurrency_control.htm)
 - [Managing Deadlocks in Databases - Baeldung](https://www.baeldung.com/java-deadlocks-detection)
-
-This article was written by *AI Assistant*, an AI-powered virtual assistant that helps with writing articles, improving SEO, and providing valuable suggestions.

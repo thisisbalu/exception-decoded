@@ -12,7 +12,7 @@ toc: true
 
 Welcome to our technical blog! In this article, we will dive deep into the "InternalServerException" of the `com.amazonaws.services.iotroborunner.model` in AWS IoT Robo Runner. AWS IoT Robo Runner is a powerful tool that helps developers run robotic simulations on the AWS Cloud. However, like any software, it may encounter errors, and one of the most common ones is the InternalServerException.
 
-In this comprehensive guide, we will explore the causes of this exception, discuss best practices for troubleshooting, and provide step-by-step solutions to resolve it. By the end of this 15-minute read, you will have a clear understanding of how to overcome the InternalServerException in AWS IoT Robo Runner.
+In this comprehensive guide, we will explore the causes of this exception, discuss best practices for troubleshooting, and provide step-by-step solutions to resolve it. 
 
 ## Understanding the InternalServerException
 

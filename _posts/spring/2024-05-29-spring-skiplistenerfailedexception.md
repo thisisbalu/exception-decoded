@@ -1,5 +1,5 @@
 ---
-title: "Article Title: "Demystifying SkipListenerFailedException in Spring: Best Practices and Solutions""
+title: "Demystifying SkipListenerFailedException in Spring - Best Practices and Solutions"
 date: 2024-05-29 09:00:00 -0000
 categories: [Spring, spring-batch]
 tags: [spring, spring-unchecked, org.springframework.batch.core.step.skip]

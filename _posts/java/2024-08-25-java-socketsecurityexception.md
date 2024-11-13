@@ -93,4 +93,3 @@ For further information, you can refer to the official Java documentation on `So
 
 Happy coding and stay secure!
 
-*This article is a 15-minute read, providing in-depth insights into the `SocketSecurityException` in Java, its causes, and recommended solutions for handling it effectively.*

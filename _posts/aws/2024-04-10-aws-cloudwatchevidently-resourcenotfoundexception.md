@@ -101,4 +101,3 @@ So, continue exploring the powerful features of AWS CloudWatch Evidently and tak
 - [AWS CloudWatch Evidently Documentation](https://docs.aws.amazon.com/cloudwatch/)
 - [AWS CloudWatch Evidently API Reference](https://docs.aws.amazon.com/cloudwatch/api/)
 
-*Note: This article is purely for educational purposes and all code examples are meant to illustrate concepts. Always refer to official AWS documentation for accurate and up-to-date information.*

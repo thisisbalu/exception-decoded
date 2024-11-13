@@ -7,9 +7,6 @@ mermaid: true
 toc: true
 ---
 
-
-Welcome to another edition of Exception Spotlight, where we dive deep into the world of Java exceptions. Today, we will unravel the mysteries behind the InvalidModuleDescriptorException in Java. Join us on this 15-minute read to discover everything you need to know about this exceptional situation.
-
 ## Introduction
 
 In Java, an exception can occur when developing modular applications using the Java Platform Module System (JPMS). One such exception is the `InvalidModuleDescriptorException`. This article aims to elucidate what this exception signifies, explore possible causes, and provide practical examples to help you understand how to handle it effectively.

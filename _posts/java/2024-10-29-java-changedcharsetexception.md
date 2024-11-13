@@ -104,4 +104,3 @@ By adopting these best practices and avoiding common mistakes, you can ensure yo
 
 [Java Documentation - ChangedCharSetException](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/charset/ChangedCharSetException.html)
 
-[Naming your Article in the right SEO way](https://www.seopressor.com/blog/how-to-choose-the-perfect-seo-friendly-title/)

@@ -99,4 +99,3 @@ In this article, we explored the `ParsingException` in Amazon Neptune Data Servi
 
 To learn more about Amazon Neptune and its capabilities, refer to the official documentation [here](https://docs.aws.amazon.com/neptune/latest/userguide/what-is.html). Happy coding!
 
-_This article was a 15-minute read. Thank you for staying with us till the end!_

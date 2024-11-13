@@ -154,4 +154,3 @@ Now armed with this knowledge, go forth and handle InputMismatchException like a
 - [java.util.Scanner class documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html)
 - [Java Exception Handling - try, catch, finally](https://www.oracle.com/java/technologies/exceptions.html)
 
-*Note: This article is a 15-minute read based on an average reading speed of 200 words per minute.*

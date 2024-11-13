@@ -108,4 +108,3 @@ For more information on CassandraInvalidQueryException and Spring Data Cassandra
 
 Happy coding!
 
-(*15-minute read*)

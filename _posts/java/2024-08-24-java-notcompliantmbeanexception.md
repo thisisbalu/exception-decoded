@@ -9,7 +9,7 @@ toc: true
 
 
 ## Introduction
-If you are a Java developer working with Java Management Extensions (JMX), you might have encountered the NotCompliantMBeanException at some point. This exception is often puzzling, leaving developers scratching their heads. But fear not! In this article, we will dive deep into the world of NotCompliantMBeanException, demystifying its causes, common scenarios, and how to handle it gracefully. So grab a cup of coffee and get ready for an enlightening 15-minute read!
+If you are a Java developer working with Java Management Extensions (JMX), you might have encountered the NotCompliantMBeanException at some point. This exception is often puzzling, leaving developers scratching their heads. But fear not! In this article, we will dive deep into the world of NotCompliantMBeanException, demystifying its causes, common scenarios, and how to handle it gracefully. 
 
 ## Table of Contents
 1. What is NotCompliantMBeanException?

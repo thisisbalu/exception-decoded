@@ -1,5 +1,5 @@
 ---
-title: "Article Title: Understanding NoSuchRemediationExceptionException in AWS Config"
+title: "Understanding NoSuchRemediationExceptionException in AWS Config"
 date: 2024-05-11 09:00:00 -0000
 categories: [AWS, AWS Config]
 tags: [aws, config, com.amazonaws.services.config.model]

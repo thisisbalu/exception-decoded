@@ -12,7 +12,6 @@ toc: true
 
 Welcome to our technical blog, where we dive deep into Java exceptions and error handling. In this article, we'll discuss a rather intriguing exception called `DestroyFailedException` and explore how to effectively handle it in Java. 
 
-The primary goal here is to equip you with a clear understanding of this exception, its causes, and potential solutions. By the end of this comprehensive 15-minute read, you'll be well-prepared to tackle `DestroyFailedException` and ensure smooth object destruction in your Java applications. So let's get started!
 
 ## What is DestroyFailedException?
 

@@ -149,4 +149,3 @@ Now it's your turn to experiment and integrate these concepts into your own code
 - [AWS SDK for Java - AWS Rekognition](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/examples-photos.html)
 - [Java synchronized keyword](https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html)
 
-*This article is a 15-minute read.*

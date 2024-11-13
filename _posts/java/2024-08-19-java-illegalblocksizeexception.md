@@ -1,5 +1,5 @@
 ---
-title: "Article Title: "Java Exception Handling: Demystifying IllegalBlockSizeException""
+title: "Java Exception Handling - Demystifying IllegalBlockSizeException"
 date: 2024-08-19 09:00:00 -0000
 categories: [Java, java.base]
 tags: [java, java-checked, javax.crypto, java-se]

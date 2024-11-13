@@ -8,7 +8,6 @@ toc: true
 ---
 
 
-> *Note: This article is a 15-minute read and focuses on explaining the XMLStreamException in Java. If you are a Java developer dealing with XML parsing and handling exceptions, this article is for you.*
 
 As a Java developer, you might have come across XML files or streams at some point in your programming journey. XML (eXtensible Markup Language) is widely used for data exchange between systems and applications. To parse and manipulate XML content, Java provides the XMLStreamReader API, an essential part of the Java API for XML Processing (JAXP). 
 

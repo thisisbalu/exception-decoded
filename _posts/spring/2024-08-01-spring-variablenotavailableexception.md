@@ -8,11 +8,6 @@ toc: true
 ---
 
 
----
-**Keywords:** VariableNotAvailableException, Spring Exception, Exception Handling, Spring Framework
-
----
-
 ## Introduction
 
 As developers, we often encounter various exceptions in our code. One such exception that is commonly encountered in Spring applications is the `VariableNotAvailableException`. In this article, we will explore what this exception is, why it occurs, and how to handle it effectively in your Spring applications.

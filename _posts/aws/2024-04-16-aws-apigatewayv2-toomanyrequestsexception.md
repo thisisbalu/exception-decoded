@@ -81,7 +81,6 @@ AWS Auto Scaling enables you to automatically adjust the capacity of your applic
 
 Navigating the challenges posed by `TooManyRequestsException` in AWS API Gateway V2 is vital for maintaining robust, high-performance applications. By understanding the causes, impact, and implementing appropriate strategies like increasing rate limits, implementing exponential backoff, leveraging caching mechanisms, and proactively monitoring and scaling, you can overcome this exception effectively.
 
-Remember, optimizing your application's performance boosts user satisfaction, improves SEO ranking, and increases conversions. So, take charge of throttling challenges today and provide an impeccable experience to your users!
 
 ## References
 
