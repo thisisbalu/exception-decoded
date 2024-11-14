@@ -1,7 +1,5 @@
 ---
-title: "Understanding ValidationException in AWS IoT: A Comprehensive Guide
-Configure logging
-    Same code"
+title: "Understanding ValidationException in AWS IoT: A Comprehensive Guide"
 date: 2024-08-22 09:00:00 -0000
 categories: [AWS, AWS IoT]
 tags: [aws, iot, com.amazonaws.services.iot.model]
