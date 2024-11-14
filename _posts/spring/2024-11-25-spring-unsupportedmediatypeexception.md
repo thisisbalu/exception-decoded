@@ -1,5 +1,5 @@
 ---
-title: "Understanding `UnsupportedMediaTypeException` in Spring: A Deep Dive"
+title: "Understanding UnsupportedMediaTypeException in Spring: A Deep Dive"
 date: 2024-11-25 09:00:00 -0000
 categories: [Spring, spring-framework]
 tags: [spring, spring-unchecked, org.springframework.web.reactive.function]
