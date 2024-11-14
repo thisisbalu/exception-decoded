@@ -12,19 +12,6 @@ In modern web development, working with APIs is an essential part of building ap
 
 ---
 
-## Table of Contents
-
-1. [What is `UnsupportedMediaTypeException`](#what-is-unsupportedmediatypeexception)
-2. [Why Does `UnsupportedMediaTypeException` Occur?](#why-does-unsupportedmediatypeexception-occur)
-3. [Common Causes](#common-causes)
-4. [How to Handle `UnsupportedMediaTypeException`](#how-to-handle-unsupportedmediatypeexception)
-5. [Example Implementation](#example-implementation)
-6. [Best Practices](#best-practices)
-7. [Conclusion](#conclusion)
-8. [References](#references)
-
----
-
 ## What is `UnsupportedMediaTypeException`
 
 The `UnsupportedMediaTypeException` is a specific kind of exception in Spring Framework, specifically found in the Spring MVC module, which is triggered when the server does not support the media type of the request payload. It primarily affects HTTP methods like POST, PUT, or PATCH, where a request body is expected.
