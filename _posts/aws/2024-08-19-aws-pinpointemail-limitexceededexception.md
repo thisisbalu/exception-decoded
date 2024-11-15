@@ -10,16 +10,6 @@ toc: true
 
 In the realm of modern application development, email communication remains a cornerstone. AWS Pinpoint Email offers robust tools for engaging with your users at scale. However, as with any powerful tool, you may encounter some limitations. One common error you'll encounter while using AWS Pinpoint Email is the `LimitExceededException`. In this article, we’ll dive deep into this exception, explore its causes, see how to handle it effectively, and provide practical code examples.
 
-## Table of Contents
-
-1. [What is `LimitExceededException`](#what-is-limiteceededexception)
-2. [Common Causes](#common-causes)
-3. [How to Handle `LimitExceededException`](#how-to-handle-limiteceededexception)
-4. [Code Examples](#code-examples)
-5. [Best Practices for Managing Limits](#best-practices-for-managing-limits)
-6. [Conclusion](#conclusion)
-7. [Further Reading](#further-reading)
-
 ## What is `LimitExceededException`
 
 The `LimitExceededException` is an error that signifies that you have exceeded a predefined limit while using AWS Pinpoint Email services. AWS imposes various limits on the resources you can utilize to ensure fair usage and system stability. Encountering this exception means that your application is trying to perform an action that surpasses these limits, such as sending too many emails in a single day or creating too many campaigns.
