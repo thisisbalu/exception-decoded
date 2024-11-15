@@ -10,15 +10,6 @@ toc: true
 
 In the world of Spring Framework, developers often encounter various exceptions that can disrupt the application workflow. One such exception is the **BeanNotOfRequiredTypeException**. In this article, we will explore the nature of this exception, what causes it, practical solutions to address it, and best practices to prevent it. By the end, you’ll have a comprehensive understanding that enhances your Spring skills. 
 
-## Table of Contents
-1. [What is BeanNotOfRequiredTypeException?](#what-is-beannotofrequiredtypeexception)
-2. [Common Causes](#common-causes)
-3. [Handling BeanNotOfRequiredTypeException](#handling-beannotofrequiredtypeexception)
-4. [Code Examples](#code-examples)
-5. [Best Practices to Avoid BeanNotOfRequiredTypeException](#best-practices-to-avoid-beannotofrequiredtypeexception)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is BeanNotOfRequiredTypeException?
 
 `BeanNotOfRequiredTypeException` is a runtime exception in the Spring Framework, specifically in the context of the Spring Application Context. It occurs when a Spring bean is being retrieved, and the type of the bean does not match the expected type as defined in your application’s configuration.
