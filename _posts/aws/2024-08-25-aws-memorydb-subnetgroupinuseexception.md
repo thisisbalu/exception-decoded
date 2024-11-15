@@ -10,15 +10,6 @@ toc: true
 
 AWS MemoryDB for Redis is a fully managed, Redis-compatible database service designed to handle a variety of use cases including caching and real-time analytics. As developers and system administrators work with this service, they might encounter various exceptions. One such exception is the `SubnetGroupInUseException` from the `com.amazonaws.services.memorydb.model` package. In this article, we will unravel what this exception means, when it occurs, and how to handle it effectively.
 
-## Table of Contents
-1. [What is SubnetGroupInUseException?](#what-is-subnetgroupinusexception)
-2. [When Does SubnetGroupInUseException Occur?](#when-does-subnetgroupinusexception-occur)
-3. [How to Handle SubnetGroupInUseException?](#how-to-handle-subnetgroupinusexception)
-4. [Code Examples](#code-examples)
-5. [Best Practices for Working with AWS MemoryDB](#best-practices-for-working-with-aws-memorydb)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is SubnetGroupInUseException?
 
 The `SubnetGroupInUseException` is an exception that is thrown when an attempt is made to modify or delete a subnet group that is currently in use by one or more resources. This is crucial for maintaining the integrity and availability of your services. It acts as a safeguard to ensure that changes to the network configuration do not disrupt the services relying on those resources.
