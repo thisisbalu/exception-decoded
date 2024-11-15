@@ -10,16 +10,6 @@ toc: true
 
 In the landscape of Spring Security, the `CredentialException` plays a pivotal role. It's important to comprehend how this exception operates within the framework, especially when dealing with authentication. In this article, we’ll delve into what a `CredentialException` is, how it can impact your application, and how to handle it effectively. We will also provide multiple code examples to illustrate practical implementations and best practices.
 
-## Table of Contents
-
-1. [What is CredentialException?](#what-is-credentialexception)
-2. [When is CredentialException Thrown?](#when-is-credentialexception-thrown)
-3. [Handling CredentialException](#handling-credentialexception)
-4. [Building a Custom Authentication Provider](#building-a-custom-authentication-provider)
-5. [Logging Exceptions](#logging-exceptions)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is CredentialException?
 
 The `CredentialException` is part of the Spring Security framework, particularly under the `org.springframework.security.core.userdetails` package. It deals with issues arising from invalid credentials during the authentication process. 
