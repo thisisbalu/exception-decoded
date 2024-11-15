@@ -10,15 +10,6 @@ toc: true
 
 In the world of cloud computing, the interaction between services can often lead to unexpected errors. One such exception you might encounter when working with AWS IoT Data is the `ServiceUnavailableException`. In this article, we will delve into what this exception signifies, its common causes, and how to handle it effectively in your applications. Whether you're a developer, a DevOps engineer, or just an enthusiast, understanding this exception is crucial for robust IoT solutions.
 
-## Table of Contents
-
-1. [What is ServiceUnavailableException?](#what-is-serviceunavailableexception)
-2. [Common Causes of ServiceUnavailableException](#common-causes-of-serviceunavailableexception)
-3. [How to Handle ServiceUnavailableException](#how-to-handle-serviceunavailableexception)
-4. [Best Practices to Avoid ServiceUnavailableException](#best-practices-to-avoid-serviceunavailableexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## What is ServiceUnavailableException?
 
 The `ServiceUnavailableException` in the AWS SDK for Java (specifically in the `com.amazonaws.services.iotdata.model` package) indicates that the service is temporarily unable to fulfill the request. This could be due to service throttling, resource constraints, or other transient failures in the AWS infrastructure. It's essential to understand this exception, as it can impact the reliability of your IoT applications.
