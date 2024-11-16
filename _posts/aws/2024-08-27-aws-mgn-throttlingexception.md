@@ -164,7 +164,3 @@ A `ThrottlingException` in AWS Application Migration Service (MGN) can disrupt y
 For more information, refer to the official [AWS Application Migration Service Documentation](https://docs.aws.amazon.com/mgn/latest/userguide/what-is-mgn.html) and [AWS Throttling Documentation](https://docs.aws.amazon.com/general/latest/gr/api-retries.html#api-retries.
 
 By employing these techniques, you'll ensure efficient usage of AWS MGN while minimizing the likelihood of encountering a `ThrottlingException`. Keep learning and happy migrating!
-
---- 
-
-Feel free to share your experiences or ask questions in the comments below!
