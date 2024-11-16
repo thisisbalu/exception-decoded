@@ -10,17 +10,6 @@ toc: true
 
 In this guide, we'll explore the `ResourceNotFoundException` from the AWS Database Migration Service (DMS). This exception plays a vital role in error handling when working with DMS, and understanding it can significantly improve your experience when migrating databases to AWS. Whether you are a developer, database administrator, or Cloud Architect, knowing how to handle this exception can help you debug issues more effectively.
 
-## Table of Contents
-
-- [What is AWS Database Migration Service?](#what-is-aws-database-migration-service)
-- [What is ResourceNotFoundException?](#what-is-resourcenotfoundexception)
-- [When Does ResourceNotFoundException Occur?](#when-does-resourcenotfoundexception-occur)
-- [How to Handle ResourceNotFoundException?](#how-to-handle-resourcenotfoundexception)
-- [Code Examples](#code-examples)
-- [Best Practices for AWS DMS](#best-practices-for-aws-dms)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is AWS Database Migration Service?
 
 AWS Database Migration Service (DMS) is a managed service that helps you migrate databases to and from AWS. It allows you to migrate your databases without downtime, meaning you can continue to operate your on-premises database while replicating data to AWS.
