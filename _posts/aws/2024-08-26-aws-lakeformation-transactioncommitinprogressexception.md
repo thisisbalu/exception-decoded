@@ -1,5 +1,5 @@
 ---
-title: "Understanding `TransactionCommitInProgressException` in AWS Lake Formation: A Comprehensive Guide"
+title: "Understanding TransactionCommitInProgressException in AWS Lake Formation: A Comprehensive Guide"
 date: 2024-08-26 09:00:00 -0000
 categories: [AWS, AWS Lake Formation]
 tags: [aws, lakeformation, com.amazonaws.services.lakeformation.model]
@@ -9,17 +9,6 @@ toc: true
 
 
 In the world of modern data management, AWS Lake Formation emerges as a powerful ally, simplifying data lake setup and operations. However, like any complex system, it can occasionally throw exceptions that can perplex developers and data engineers. One such exception is the `TransactionCommitInProgressException`. In this article, we will dissect this exception, understand its causes, and explore ways to handle it effectively.
-
-## Table of Contents
-
-1. [What is AWS Lake Formation?](#what-is-aws-lake-formation)
-2. [Understanding Transactions in Lake Formation](#understanding-transactions-in-lake-formation)
-3. [What is TransactionCommitInProgressException?](#what-is-transactioncommitinprogressexception)
-4. [Common Causes of TransactionCommitInProgressException](#common-causes-of-transactioncommitinprogressexception)
-5. [How to Handle TransactionCommitInProgressException](#how-to-handle-transactioncommitinprogressexception)
-6. [Best Practices](#best-practices)
-7. [Conclusion](#conclusion)
-8. [Further Reading](#further-reading)
 
 ## What is AWS Lake Formation?
 
