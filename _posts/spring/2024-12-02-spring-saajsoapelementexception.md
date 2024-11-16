@@ -10,17 +10,6 @@ toc: true
 
 In the realm of web services, dealing with SOAP can often lead to a myriad of exceptions. One such exception that developers may encounter when working with Spring web services is the `SaajSoapElementException`. This article dives deep into what this exception is, its causes, and how to effectively handle it within your Spring application.
 
-## Table of Contents
-
-1. [What is SaajSoapElementException?](#what-is-saajsoapelementexception)
-2. [Common Causes of SaajSoapElementException](#common-causes-of-saajsoapelementexception)
-3. [How to Handle SaajSoapElementException in Spring](#how-to-handle-saajsoapelementexception-in-spring)
-4. [Best Practices for Avoiding SaajSoapElementException](#best-practices-for-avoiding-saajsoapelementexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
----
-
 ## What is SaajSoapElementException?
 
 `SaajSoapElementException` is an exception that arises when there is a problem related to the SOAP elements in a web service. It is part of the Spring Framework's integration with the SOAP message construction and processing capabilities provided by the Java API for XML Web Services (JAX-WS). This exception specifically deals with issues surrounding the handling of SAAJ (SOAP with Attachments API for Java) elements, such as when trying to manipulate or process SOAP messages.
