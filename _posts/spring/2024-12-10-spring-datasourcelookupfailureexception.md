@@ -10,18 +10,6 @@ toc: true
 
 When working with Spring applications, one commonly encountered issue is the `DataSourceLookupFailureException`. This runtime exception typically arises when there’s a failure in connecting to the desired database datasource. In this article, we will explore what this exception is, the common causes behind it, how to resolve it, and the best practices to prevent it in the future. 
 
-## Table of Contents
-
-- [What is DataSourceLookupFailureException?](#what-is-datasourcelookupfailureexception)
-- [Common Causes of DataSourceLookupFailureException](#common-causes-of-datasourcelookupfailureexception)
-- [How to Troubleshoot DataSourceLookupFailureException](#how-to-troubleshoot-datasourcelookupfailureexception)
-- [Sample Code to Demonstrate](#sample-code-to-demonstrate)
-- [Preventive Measures and Best Practices](#preventive-measures-and-best-practices)
-- [Conclusion](#conclusion)
-- [References](#references)
-
----
-
 ## What is DataSourceLookupFailureException?
 
 `DataSourceLookupFailureException` is a subclass of `org.springframework.dao.DataAccessException`. It indicates that a Spring DataSource could not be located by its name. This exception typically arises during the initialization phase of your application when Spring attempts to retrieve a datasource defined in your configuration.
