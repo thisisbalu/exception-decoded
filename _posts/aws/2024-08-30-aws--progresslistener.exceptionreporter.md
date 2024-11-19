@@ -10,17 +10,6 @@ toc: true
 
 When working with AWS SDK for Java, handling exceptions during asynchronous operations can be tricky. One solution provided by the SDK is the `ProgressListener.ExceptionReporter`. This component is handy for monitoring and reporting exceptions that occur during the progress of file uploads or downloads. In this comprehensive guide, we will explore how `ProgressListener.ExceptionReporter` works, its use cases, and provide you with plenty of code examples to implement it confidently in your projects.
 
-## Table of Contents
-1. [What is ProgressListener.ExceptionReporter?](#what-is-progresslistenerexceptionreporter)
-2. [Why Use ProgressListener.ExceptionReporter?](#why-use-progresslistenerexceptionreporter)
-3. [How to Implement ProgressListener.ExceptionReporter](#how-to-implement-progresslistenerexceptionreporter)
-   - [Step 1: Add Dependency](#step-1-add-dependency)
-   - [Step 2: Create Exception Reporter](#step-2-create-exception-reporter)
-   - [Step 3: Use the Exception Reporter in Your Code](#step-3-use-the-exception-reporter-in-your-code)
-4. [Benefits of Using ProgressListener.ExceptionReporter](#benefits-of-using-progresslistenerexceptionreporter)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## What is ProgressListener.ExceptionReporter?
 
 `ProgressListener.ExceptionReporter` is a part of the AWS SDK for Java (`com.amazonaws.event`) that provides a way to catch and handle exceptions that may arise during the execution of progress tracking events, particularly during file transfers.
