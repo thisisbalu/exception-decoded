@@ -2,7 +2,7 @@
 title: "Unlocking the Power of ProgressListener.ExceptionReporter in AWS SDK for Java: A Detailed Guide"
 date: 2024-08-30 09:00:00 -0000
 categories: [AWS, SDK Common]
-tags: [aws, , com.amazonaws.event]
+tags: [aws, com.amazonaws.event]
 mermaid: true
 toc: true
 ---
