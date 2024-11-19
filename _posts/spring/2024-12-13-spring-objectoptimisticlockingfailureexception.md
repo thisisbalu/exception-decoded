@@ -10,17 +10,6 @@ toc: true
 
 In the world of modern applications, data integrity and concurrency control are crucial. One of the common exceptions that can arise when dealing with optimistic locking in Spring applications is `ObjectOptimisticLockingFailureException`. In this article, we’ll dive deep into understanding this exception, its causes, real-world applications, and how to handle it effectively.
 
-## Table of Contents
-- [What is Object Optimistic Locking?](#what-is-object-optimistic-locking)
-- [Understanding ObjectOptimisticLockingFailureException](#understanding-objectoptimisticlockingfailureexception)
-- [When Does It Occur?](#when-does-it-occur)
-- [Handling ObjectOptimisticLockingFailureException](#handling-objectoptimisticlockingfailureexception)
-- [Best Practices for Optimistic Locking](#best-practices-for-optimistic-locking)
-- [Real-World Code Example](#real-world-code-example)
-- [Common Questions](#common-questions)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is Object Optimistic Locking?
 
 Optimistic locking is a concurrency control mechanism that allows multiple transactions to access the same data without locking it. The idea is to allow transactions to proceed without locking the data initially but to verify that no other transactions have modified the data when the changes are saved.
