@@ -111,7 +111,3 @@ For further reading and to learn more about memory management in AWS, check out 
 - [AWS SDK for Java Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html)
 
 By understanding the workings of `ClusterAlreadyExistsException`, you can enhance your application’s resilience and ensure a smoother interaction with AWS MemoryDB.
-
---- 
-
-By adhering to these SEO practices, such as using relevant keywords like “AWS MemoryDB,” “ClusterAlreadyExistsException,” and providing informative content, this guide aims to rank well on search engines while delivering value to developers and architects.
