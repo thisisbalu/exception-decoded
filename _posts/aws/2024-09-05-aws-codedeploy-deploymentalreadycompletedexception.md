@@ -10,17 +10,6 @@ toc: true
 
 In the dynamic ecosystem of DevOps, AWS CodeDeploy plays a critical role in automating application deployments to various services. However, users often encounter specific exceptions that can impede their workflow. One such exception is the `DeploymentAlreadyCompletedException`. In this article, we will discuss the causes, implications, and solutions for this exception, alongside best practices to avoid encountering it in the first place.
 
-## Table of Contents
-
-1. [What is AWS CodeDeploy?](#what-is-aws-codedeploy)
-2. [What is DeploymentAlreadyCompletedException?](#what-is-deploymentalreadycompletedexception)
-3. [Common Causes of DeploymentAlreadyCompletedException](#common-causes-of-deploymentalreadycompletedexception)
-4. [Code Examples Demonstrating the Exception](#code-examples-demonstrating-the-exception)
-5. [How to Handle DeploymentAlreadyCompletedException](#how-to-handle-deploymentalreadycompletedexception)
-6. [Best Practices to Avoid the Exception](#best-practices-to-avoid-the-exception)
-7. [Conclusion](#conclusion)
-8. [Reference Links](#reference-links)
-
 ## What is AWS CodeDeploy?
 
 AWS CodeDeploy is a fully managed deployment service that automates application deployments to various environments such as Amazon EC2 instances, AWS Fargate, and on-premises servers. This service allows developers to deploy applications quickly and reliably while minimizing downtime during updates.
