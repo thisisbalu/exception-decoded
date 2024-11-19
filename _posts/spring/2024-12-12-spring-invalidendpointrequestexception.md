@@ -175,7 +175,3 @@ Remember, proactive validation and clear error handling strategies go a long way
 - [Spring Boot - Exception Handling](https://spring.io/guides/tutorials/rest-with-spring-boot/)
 
 By adopting these best practices, you’ll be better equipped to deal with various exceptions and ensure that your Spring applications run seamlessly.
-
----
-
-Feel free to modify and adapt the code and strategies discussed here to fit your specific project requirements. Happy coding!
