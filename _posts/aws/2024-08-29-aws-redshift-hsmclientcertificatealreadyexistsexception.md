@@ -10,16 +10,6 @@ toc: true
 
 AWS Redshift is a robust data warehousing service that allows users to efficiently analyze vast amounts of data. However, when working with Redshift's enhanced security features such as HSM (Hardware Security Module), you might encounter exceptions that could stall your progress. One such exception is the `HsmClientCertificateAlreadyExistsException`. In this article, we will delve into the intricacies of this exception, what causes it, and how to effectively handle it.
 
-## Table of Contents
-
-1. [What is HsmClientCertificateAlreadyExistsException?](#what-is-hsmclientcertificatealreadyexistsexception)
-2. [Understanding HSM in AWS Redshift](#understanding-hsm-in-aws-redshift)
-3. [Common Causes of HsmClientCertificateAlreadyExistsException](#common-causes-of-hsmclientcertificatealreadyexistsexception)
-4. [How to Handle the Exception](#how-to-handle-the-exception)
-5. [Code Examples](#code-examples)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is HsmClientCertificateAlreadyExistsException?
 
 The `HsmClientCertificateAlreadyExistsException` is an exception that occurs in AWS Redshift when you attempt to create an HSM client certificate that already exists. This specific exception is part of the `com.amazonaws.services.redshift.model` package and can disrupt your workflow if not dealt with properly.
