@@ -1,6 +1,5 @@
 ---
-title: "Understanding IncompatibleConfigurationException in Spring: Causes, Solutions, and Best Practices
-        Missing driver class name may lead to exceptions"
+title: "Understanding IncompatibleConfigurationException in Spring: Causes, Solutions, and Best Practices"
 date: 2024-12-14 09:00:00 -0000
 categories: [Spring, spring-boot]
 tags: [spring, spring-unchecked, org.springframework.boot.context.properties]
