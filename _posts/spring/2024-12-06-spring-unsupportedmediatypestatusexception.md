@@ -10,17 +10,6 @@ toc: true
 
 In the world of Spring development, handling HTTP requests is a frequent task that comes with its own set of challenges. One particular exception that developers often encounter is the `UnsupportedMediaTypeStatusException`. In this article, we will unwrap this exception, explore its causes, and provide code examples to guide you through resolving it effectively.
 
-## Table of Contents
-
-- [What is UnsupportedMediaTypeStatusException?](#what-is-unsupportedmediatypestatusexception)
-- [When Does It Occur?](#when-does-it-occur)
-- [Causes of UnsupportedMediaTypeStatusException](#causes-of-unsupportedmediatypestatusexception)
-- [How to Handle UnsupportedMediaTypeStatusException](#how-to-handle-unsupportedmediatypestatusexception)
-- [Code Examples](#code-examples)
-- [Best Practices](#best-practices)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is UnsupportedMediaTypeStatusException?
 
 The `UnsupportedMediaTypeStatusException` is a specific runtime exception in Spring that occurs when a client sends a request containing a media type that the server does not support. This is commonly seen in RESTful web services where content negotiation plays a crucial role in handling incoming requests.
