@@ -1,5 +1,5 @@
 ---
-title: "Understanding `CommitRequiredException` in AWS CodeCommit: A Comprehensive Guide"
+title: "Understanding CommitRequiredException in AWS CodeCommit: A Comprehensive Guide"
 date: 2024-09-06 09:00:00 -0000
 categories: [AWS, AWS CodeCommit]
 tags: [aws, codecommit, com.amazonaws.services.codecommit.model]
@@ -9,16 +9,6 @@ toc: true
 
 
 AWS CodeCommit is a fully managed source control service that makes it easy for teams to host secure and scalable Git repositories. While working with CodeCommit, developers might occasionally run into exceptions that can stop their workflow in its tracks. One such exception is the `CommitRequiredException`. In this article, we will dive deep into what `CommitRequiredException` is, its causes, how to handle it, and offer code examples to demonstrate its usage.
-
-## Table of Contents
-
-1. What is `CommitRequiredException`?
-2. Causes of `CommitRequiredException`
-3. How to Handle `CommitRequiredException`
-4. Code Examples
-5. Best Practices
-6. Conclusion
-7. References
 
 ## What is `CommitRequiredException`?
 
