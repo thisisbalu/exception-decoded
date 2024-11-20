@@ -1,5 +1,5 @@
 ---
-title: "Handling `InvalidArgumentException` in AWS Kinesis Analytics: A Comprehensive Guide"
+title: "Handling InvalidArgumentException in AWS Kinesis Analytics: A Comprehensive Guide"
 date: 2024-09-15 09:00:00 -0000
 categories: [AWS, AWS Kinesis Analytics]
 tags: [aws, kinesisanalytics, com.amazonaws.services.kinesisanalytics.model]
