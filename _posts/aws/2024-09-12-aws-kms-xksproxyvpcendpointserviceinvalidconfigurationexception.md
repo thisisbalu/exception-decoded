@@ -10,16 +10,6 @@ toc: true
 
 In today’s cloud-oriented world, managing security and compliance in data processing is paramount. AWS Key Management Service (KMS) plays a critical role in safeguarding sensitive information through encryption. However, as with any service, configurations can go awry, leading to exceptions like `XksProxyVpcEndpointServiceInvalidConfigurationException`. In this article, we will delve into this exception, understanding its context, causes, and practical solutions. 
 
-## Table of Contents
-1. What is AWS KMS?
-2. What is the XksProxyVpcEndpointServiceInvalidConfigurationException?
-3. Common Causes
-4. Troubleshooting Steps
-5. Code Examples
-6. Best Practices
-7. Conclusion
-8. References
-
 ## What is AWS KMS?
 
 Amazon Web Services Key Management Service (AWS KMS) is a fully managed encryption key management service designed to enable customers to create and control the keys used to encrypt their data. It simplifies the management of encryption keys across various AWS services and provides a secure way to handle sensitive information.
