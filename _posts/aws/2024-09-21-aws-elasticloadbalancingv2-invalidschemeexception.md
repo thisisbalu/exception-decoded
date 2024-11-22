@@ -10,15 +10,6 @@ toc: true
 
 When working with AWS services, particularly in Elastic Load Balancing (ELB) v2, developers occasionally encounter exceptions that can disrupt application performance. One such exception is `InvalidSchemeException`, part of the `com.amazonaws.services.elasticloadbalancingv2.model` package. In this detailed guide, we’ll explore what `InvalidSchemeException` is, its causes, how to handle it, and best practices for avoiding it in the first place. 
 
-## Table of Contents
-- [What is InvalidSchemeException?](#what-is-invalidschemeexception)
-- [Common Causes of InvalidSchemeException](#common-causes-of-invalidschemeexception)
-- [Code Examples](#code-examples)
-- [Handling InvalidSchemeException](#handling-invalidschemeexception)
-- [Best Practices for Avoiding InvalidSchemeException](#best-practices-for-avoiding-invalidschemeexception)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is InvalidSchemeException?
 
 `InvalidSchemeException` is thrown in AWS Elastic Load Balancing V2 when a user attempts to create or modify a load balancer with an invalid scheme. The scheme of a load balancer determines the type of traffic it will handle. There are two primary scheme types:
