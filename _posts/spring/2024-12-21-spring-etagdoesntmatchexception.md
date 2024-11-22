@@ -10,16 +10,6 @@ toc: true
 
 In the age of RESTful APIs and modern web applications, ensuring efficient cache management is crucial for performance and user experience. One of the headers that help manage cache effectively is the ETag (Entity Tag). However, in Spring, developers may encounter a perplexing issue called `ETagDoesntMatchException`. In this article, we’ll delve deep into what this exception is, why it occurs, and how to handle it efficiently. 
 
-## Table of Contents
-
-1. [What is ETag?](#what-is-etag)
-2. [What is ETagDoesntMatchException?](#what-is-etagdoesntmatchexception)
-3. [Causes of ETagDoesntMatchException](#causes-of-etagdoesntmatchexception)
-4. [Handling ETagDoesntMatchException in Spring](#handling-etagdoesntmatchexception-in-spring)
-5. [Best Practices for Using ETags](#best-practices-for-using-etags)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is ETag?
 
 An ETag (Entity Tag) is an HTTP header used for web cache validation. It allows clients (like browsers) to make conditional requests to servers. Essentially, an ETag is a version identifier assigned to a specific version of a resource. 
