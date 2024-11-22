@@ -10,15 +10,6 @@ toc: true
 
 When working within the Spring framework, you may occasionally encounter the `FactoryBeanNotInitializedException`. This exception can be puzzling, particularly for those who are new to Spring's dependency injection and bean lifecycle management. In this article, we will delve deep into what triggers this exception, how to troubleshoot it, and best practices to avoid it in the future. 
 
-## Table of Contents
-1. What is FactoryBean?
-2. What is FactoryBeanNotInitializedException?
-3. Common Causes of FactoryBeanNotInitializedException
-4. How to Handle FactoryBeanNotInitializedException
-5. Best Practices for Preventing FactoryBeanNotInitializedException
-6. Conclusion
-7. References
-
 ## What is FactoryBean?
 
 In Spring, a `FactoryBean` is a specialized bean that produces one or more objects that can be managed by the Spring container. The `FactoryBean` interface provides a way for you to encapsulate the instantiation logic of a bean and control its lifecycle.
