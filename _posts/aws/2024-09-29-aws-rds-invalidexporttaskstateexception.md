@@ -1,5 +1,5 @@
 ---
-title: "Understanding InvalidExportTaskStateException in AWS RDS: What You Need to Know "
+title: "Understanding InvalidExportTaskStateException in AWS RDS: What You Need to Know"
 date: 2024-09-29 09:00:00 -0000
 categories: [AWS, AWS RDS]
 tags: [aws, rds, com.amazonaws.services.rds.model]
@@ -9,15 +9,6 @@ toc: true
 
 
 When working with AWS RDS, particularly with data export tasks, developers occasionally encounter exceptions that disrupt the flow of their applications. One such exception is the `InvalidExportTaskStateException`. In this article, we will explore what this exception is, the scenarios in which it arises, and how you can effectively handle it in your applications.
-
-## Table of Contents
-1. [What is `InvalidExportTaskStateException`](#what-is-invalidexporttaskstateexception)
-2. [Common Causes of InvalidExportTaskStateException](#common-causes-of-invalidexporttaskstateexception)
-3. [How to Handle the Exception](#how-to-handle-the-exception)
-4. [Best Practices for Using RDS Export Tasks](#best-practices-for-using-rds-export-tasks)
-5. [Use Cases and Code Examples](#use-cases-and-code-examples)
-6. [Conclusion](#conclusion)
-7. [References](#references)
 
 ## What is `InvalidExportTaskStateException`
 
