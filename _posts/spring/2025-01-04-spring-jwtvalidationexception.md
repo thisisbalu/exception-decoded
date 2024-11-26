@@ -10,17 +10,6 @@ toc: true
 
 In the modern web landscape, token-based authentication has gained immense popularity for securing APIs. One of the most widely adopted methods is JSON Web Tokens (JWT). However, developers often encounter issues related to token validation leading to the `JwtValidationException`. This article will guide you through understanding, handling, and resolving `JwtValidationException` in Spring applications. 
 
-## Table of Contents
-
-1. [What is JWT?](#what-is-jwt)
-2. [Common Uses of JWT](#common-uses-of-jwt)
-3. [What is JwtValidationException?](#what-is-jwtvalidationexception)
-4. [Causes of JwtValidationException](#causes-of-jwtvalidationexception)
-5. [Handling JwtValidationException in Spring](#handling-jwtvalidationexception-in-spring)
-6. [Best Practices for JWT Implementation](#best-practices-for-jwt-implementation)
-7. [Conclusion](#conclusion)
-8. [References](#references)
-
 ## What is JWT?
 
 JWT, or JSON Web Token, is a compact, URL-safe means of representing claims to be transferred between two parties. This token is digitally signed, ensuring that the information contained within it cannot be altered without invalidating the signature.
