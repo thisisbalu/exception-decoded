@@ -10,18 +10,6 @@ toc: true
 
 As cloud computing continues to evolve, effective resource management becomes crucial for developers and businesses alike. The AWS Resource Groups Tagging API offers a powerful solution for managing tags across AWS resources, but it comes with specific challenges. One such challenge is the `PaginationTokenExpiredException`. This article will delve into what `PaginationTokenExpiredException` means, when it occurs, and how to handle it effectively.
 
-## Table of Contents
-
-1. [What is the AWS Resource Groups Tagging API?](#what-is-the-aws-resource-groups-tagging-api)
-2. [Understanding Pagination in AWS APIs](#understanding-pagination-in-aws-apis)
-3. [What is PaginationTokenExpiredException?](#what-is-paginationtokenexpiredexception)
-4. [When Does PaginationTokenExpiredException Occur?](#when-does-paginationtokenexpiredexception-occur)
-5. [How to Handle PaginationTokenExpiredException](#how-to-handle-paginationtokenexpiredexception)
-6. [Example Code Implementation Using Java SDK](#example-code-implementation-using-java-sdk)
-7. [Best Practices for Avoiding Pagination Issues](#best-practices-for-avoiding-pagination-issues)
-8. [Conclusion](#conclusion)
-9. [References](#references)
-
 ## What is the AWS Resource Groups Tagging API?
 
 The AWS Resource Groups Tagging API enables users to manage and organize resources across AWS using tags. Tags are metadata that can be attached to AWS resources, allowing users to categorize and manage resources based on their defined tagging strategy. This API also allows users to query for resources and their tags, helping streamline resource management.
