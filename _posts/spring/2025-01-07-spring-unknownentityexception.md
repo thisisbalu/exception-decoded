@@ -10,15 +10,6 @@ toc: true
 
 Spring is a powerful framework that simplifies Java development, but it’s not without its complexities. One such complexity arises with exceptions, particularly the `UnknownEntityException`. In this article, we will explore what the `UnknownEntityException` is, why it is thrown, how to handle it, and best practices to avoid it.
 
-## Table of Contents
-
-- [What is UnknownEntityException?](#what-is-unknownentityexception)
-- [When is UnknownEntityException Thrown?](#when-is-unknownentityexception-thrown)
-- [How to Handle UnknownEntityException?](#how-to-handle-unknownentityexception)
-- [Common Scenarios Leading to UnknownEntityException](#common-scenarios-leading-to-unknownentityexception)
-- [Best Practices to Avoid UnknownEntityException](#best-practices-to-avoid-unknownentityexception)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## What is UnknownEntityException?
 
