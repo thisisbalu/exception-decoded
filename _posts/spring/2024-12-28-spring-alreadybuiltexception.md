@@ -10,15 +10,6 @@ toc: true
 
 In the realm of Spring Framework, robust exception handling plays a significant role in maintaining the stability of your applications. One such exception that developers might encounter is the `AlreadyBuiltException`. In this article, we will delve deep into this exception, discuss its causes, and provide practical solutions to handle it effectively.
 
-## Table of Contents
-1. [What is AlreadyBuiltException?](#what-is-alreadybuiltexception)
-2. [When Does AlreadyBuiltException Occur?](#when-does-alreadybuiltexception-occur)
-3. [Understanding the Concept of Building in Spring](#understanding-the-concept-of-building-in-spring)
-4. [Handling AlreadyBuiltException](#handling-alreadybuiltexception)
-5. [Code Examples](#code-examples)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is AlreadyBuiltException?
 
 `AlreadyBuiltException` is a specific exception that occurs in Spring when there is an attempt made to build a resource or component that has already been constructed. This can often happen during the initialization phase of application context or when a certain builder object is reused after it has been finalized or built. 
