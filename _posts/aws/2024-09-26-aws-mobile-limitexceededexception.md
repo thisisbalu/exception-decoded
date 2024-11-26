@@ -10,15 +10,6 @@ toc: true
 
 AWS Mobile services provide robust tools for developing mobile applications. As with any cloud service, developers must navigate issues such as limits and quotas. One notable exception you may encounter is the `LimitExceededException`. In this article, we will delve into what this exception means, its causes, and how to effectively handle it in your mobile applications using AWS SDK.
 
-## Table of Contents
-
-- [What is LimitExceededException?](#what-is-limitexceededexception)
-- [Common Causes of LimitExceededException](#common-causes-of-limitexceededexception)
-- [How to Handle LimitExceededException](#how-to-handle-limitexceededexception)
-- [Code Examples](#code-examples)
-- [Best Practices to Avoid LimitExceededException](#best-practices-to-avoid-limitexceededexception)
-- [Reference Links](#reference-links)
-
 ## What is LimitExceededException?
 
 The `LimitExceededException` is an error generated in AWS Mobile services (like AWS Cognito, Mobile Analytics, etc.) when a specific resource limit has been reached. This exception indicates that the request made by your application has exceeded the allowed quota defined by AWS for the respective service.
