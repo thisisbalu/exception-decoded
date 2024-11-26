@@ -10,16 +10,6 @@ toc: true
 
 When working with AWS Connect—a cloud-based contact center service by Amazon Web Services (AWS)—you may encounter various exceptions that indicate issues with your configuration or API requests. One such exception is `PropertyValidationExceptionReason`. This article will explore what `PropertyValidationExceptionReason` is, potential causes, and how to effectively handle it in your applications.
 
-## Table of Contents
-
-1. [What is AWS Connect?](#what-is-aws-connect)
-2. [What is PropertyValidationExceptionReason?](#what-is-propertyvalidationexceptionreason)
-3. [Common Reasons for Property Validation Exceptions](#common-reasons-for-property-validation-exceptions)
-4. [Handling PropertyValidationException](#handling-propertyvalidationexception)
-5. [Example Code Snippets](#example-code-snippets)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is AWS Connect?
 
 AWS Connect is a fully managed cloud contact center solution that simplifies the setup of customer engagement platforms. It offers various features such as IVR (Interactive Voice Response), call routing, and agent management. Its API provides a means to programmatically manage your AWS Connect resources, including creating and configuring contact flows, queues, and routing profiles.
