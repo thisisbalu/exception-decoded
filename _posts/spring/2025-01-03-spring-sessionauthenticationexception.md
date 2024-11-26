@@ -10,16 +10,6 @@ toc: true
 
 When building secure web applications in Spring, developers often encounter various exceptions that represent authentication and security issues. One such exception is `SessionAuthenticationException`. In this article, we will delve deep into what `SessionAuthenticationException` is, why it occurs, and how to effectively handle it in your Spring application.
 
-## Table of Contents
-
-1. [What is SessionAuthenticationException?](#what-is-sessionauthenticationexception)
-2. [When Does SessionAuthenticationException Occur?](#when-does-sessionauthenticationexception-occur)
-3. [Common Causes of SessionAuthenticationException](#common-causes-of-sessionauthenticationexception)
-4. [Handling SessionAuthenticationException](#handling-sessionauthenticationexception)
-5. [Best Practices for Managing Authentication](#best-practices-for-managing-authentication)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
 ## What is SessionAuthenticationException?
 
 `SessionAuthenticationException` is a runtime exception that indicates an issue with an authentication session in a Spring security context. This exception extends `AuthenticationException`, and is typically thrown when a user's authentication session becomes invalid or when a user attempts to authenticate but encounters a session-specific issue.
