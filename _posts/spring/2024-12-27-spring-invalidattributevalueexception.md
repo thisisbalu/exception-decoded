@@ -10,15 +10,6 @@ toc: true
 
 When working with Spring, developers often encounter various exceptions that can lead to confusing debugging sessions. One such exception is the `InvalidAttributeValueException`. This article delves deep into this exception, providing a clear understanding of its context, causes, mitigating strategies, and code examples to illustrate its handling. Understanding such exceptions can significantly improve your development workflow and application robustness.
 
-## Table of Contents
-
-- [What is InvalidAttributeValueException?](#what-is-invalidattributevalueexception)
-- [Common Scenarios for InvalidAttributeValueException](#common-scenarios-for-invalidattributevalueexception)
-- [How to Handle InvalidAttributeValueException](#how-to-handle-invalidattributevalueexception)
-- [Best Practices to Avoid InvalidAttributeValueException](#best-practices-to-avoid-invalidattributevalueexception)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## What is InvalidAttributeValueException?
 
 The `InvalidAttributeValueException` is part of the Java Persistence API (JPA) and is usually thrown when there is an attempt to assign an invalid value to an entity attribute. It can arise in various situations, such as when an incoming request violates defined constraints on the attributes of your entities.
