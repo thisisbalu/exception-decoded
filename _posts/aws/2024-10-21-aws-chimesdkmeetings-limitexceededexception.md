@@ -1,7 +1,5 @@
 ---
-title: "Understanding LimitExceededException in AWS Chime SDK Meetings: A Comprehensive Guide
-            Consider handling the situation accordingly
-Example usage"
+title: "Understanding LimitExceededException in AWS Chime SDK Meetings: A Comprehensive Guide"
 date: 2024-10-21 09:00:00 -0000
 categories: [AWS, AWS Chime SDK Meetings]
 tags: [aws, chimesdkmeetings, com.amazonaws.services.chimesdkmeetings.model]
