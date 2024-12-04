@@ -10,15 +10,6 @@ toc: true
 
 In the world of Spring development, handling XML data comes with its share of challenges. One such hurdle is the `XmlValidationException`. Understanding this exception can empower developers to build robust applications. In this article, we'll explore what `XmlValidationException` is, when it occurs, how to handle it, and best practices for validation in Spring applications.
 
-## Table of Contents
-
-1. [What is XmlValidationException?](#what-is-xmlvalidationexception)
-2. [When Does XmlValidationException Occur?](#when-does-xmlvalidationexception-occur)
-3. [How to Handle XmlValidationException](#how-to-handle-xmlvalidationexception)
-4. [Best Practices for XML Validation in Spring](#best-practices-for-xml-validation-in-spring)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## What is XmlValidationException?
 
 `XmlValidationException` is a runtime exception that occurs in Spring Framework when XML input fails to validate against a specified schema. This exception is part of the Spring Framework's validation process when dealing with XML marshalling and unmarshalling.
