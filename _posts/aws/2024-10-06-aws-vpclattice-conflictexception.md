@@ -1,5 +1,5 @@
 ---
-title: "Understanding `ConflictException` in AWS VPC Lattice: A Comprehensive Guide"
+title: "Understanding ConflictException in AWS VPC Lattice: A Comprehensive Guide"
 date: 2024-10-06 09:00:00 -0000
 categories: [AWS, AWS VPC Lattice]
 tags: [aws, vpclattice, com.amazonaws.services.vpclattice.model]
