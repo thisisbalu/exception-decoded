@@ -1,5 +1,5 @@
 ---
-title: "Understanding ObjectRetrievalException in Spring Framework "
+title: "Understanding ObjectRetrievalException in Spring Framework"
 date: 2025-02-17 09:00:00 -0000
 categories: [Spring, spring-ldap]
 tags: [spring, spring-unchecked, org.springframework.ldap.core]
