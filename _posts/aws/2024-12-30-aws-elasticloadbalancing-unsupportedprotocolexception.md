@@ -1,5 +1,5 @@
 ---
-title: "Understanding UnsupportedProtocolException in AWS Elastic Load Balancing "
+title: "Understanding UnsupportedProtocolException in AWS Elastic Load Balancing"
 date: 2024-12-30 09:00:00 -0000
 categories: [AWS, AWS Elastic Load Balancing]
 tags: [aws, elasticloadbalancing, com.amazonaws.services.elasticloadbalancing.model]
