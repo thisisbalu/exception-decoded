@@ -1,5 +1,5 @@
 ---
-title: "Understanding InvalidRequestException in AWS App Runner "
+title: "Understanding InvalidRequestException in AWS App Runner"
 date: 2025-01-02 09:00:00 -0000
 categories: [AWS, AWS App Runner]
 tags: [aws, apprunner, com.amazonaws.services.apprunner.model]
