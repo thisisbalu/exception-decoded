@@ -11,15 +11,6 @@ toc: true
 
 When working with Spring Data JPA, you're likely to encounter various exceptions. One such notable exception is the `JpaOperationFailedException`. In this article, we will delve into the details of `JpaOperationFailedException`, explore its causes, provide examples, and discuss effective solutions to mitigate its impact on your Spring applications.
 
-## Table of Contents
-
-1. [What is JpaOperationFailedException?](#what-is-jpaoperationfaileddexception)
-2. [Common Causes of JpaOperationFailedException](#common-causes-of-jpaoperationfaileddexception)
-3. [How to Handle JpaOperationFailedException](#how-to-handle-jpaoperationfaileddexception)
-4. [Best Practices to Avoid JpaOperationFailedException](#best-practices-to-avoid-jpaoperationfaileddexception)
-5. [Conclusion](#conclusion)
-6. [References](#references)
-
 ## What is JpaOperationFailedException?
 
 `JpaOperationFailedException` is a runtime exception that occurs during JPA operations in a Spring application. It is typically indicative of issues related to data persistence or query execution. This exception extends `RuntimeException`, making it unchecked, which means it's not mandatory to handle it in the application code.
