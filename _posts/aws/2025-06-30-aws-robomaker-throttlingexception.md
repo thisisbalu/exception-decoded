@@ -1,5 +1,5 @@
 ---
-title: "Understanding ThrottlingException in AWS RoboMaker
+title: "Understanding ThrottlingException in AWS RoboMaker"
 Initialize the RoboMaker client
 Method to create a robot application
 Call the method
