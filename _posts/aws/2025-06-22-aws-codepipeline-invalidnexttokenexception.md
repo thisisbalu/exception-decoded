@@ -1,5 +1,5 @@
 ---
-title: "Understanding InvalidNextTokenException in AWS CodePipeline "
+title: "Understanding InvalidNextTokenException in AWS CodePipeline"
 date: 2025-06-22 09:00:00 -0000
 categories: [AWS, AWS Code Pipeline]
 tags: [aws, codepipeline, com.amazonaws.services.codepipeline.model]
